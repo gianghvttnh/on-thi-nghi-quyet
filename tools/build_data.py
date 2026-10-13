@@ -78,7 +78,7 @@ def to_int(s):
 def build_bank(path):
     name = unicodedata.normalize("NFC", path.stem)
     bank_id = slug(name)
-    questions, warnings = [], []
+    questions, warnings, seen = [], [], {}
     for i, r in enumerate(read_rows(path)[1:], start=2):
         text = r.get("F", "")
         options = [r.get(c, "") for c in "HIJK"]
@@ -91,6 +91,12 @@ def build_bank(path):
             continue
         opts = [o for o in options if o]
         answer = opts.index(options[ans - 1])
+        # Bỏ câu lặp y hệt (cùng nội dung, cùng tập phương án, cùng đáp án)
+        key = (text, tuple(sorted(opts)), opts[answer])
+        if key in seen:
+            warnings.append(f"  - câu {no} trùng câu {seen[key]} — bỏ qua")
+            continue
+        seen[key] = no
         questions.append({"id": f"{bank_id}-{no}", "no": no, "text": text,
                           "options": opts, "answer": answer})
     return {"id": bank_id, "name": name, "questions": questions}, warnings
