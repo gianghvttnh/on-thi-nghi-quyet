@@ -1,0 +1,74 @@
+<!doctype html>
+<html lang="vi">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Ôn thi Nghị Quyết</title>
+<meta name="description" content="Ôn tập, luyện tập và thi thử trắc nghiệm Nghị Quyết">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='14' fill='%231d4ed8'/%3E%3Cpath d='M18 33l9 9 19-20' stroke='white' stroke-width='7' fill='none' stroke-linecap='round' stroke-linejoin='round'/%3E%3C/svg%3E">
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<header class="topbar">
+  <div class="wrap topbar-inner">
+    <div class="brand">
+      <span class="brand-mark" aria-hidden="true">✓</span>
+      <span class="brand-text">Ôn thi Nghị Quyết</span>
+    </div>
+  </div>
+  <nav class="tabs wrap" role="tablist">
+    <button class="tab" role="tab" data-tab="study">Ôn tập</button>
+    <button class="tab" role="tab" data-tab="practice">Vừa thi vừa ôn</button>
+    <button class="tab" role="tab" data-tab="exam">Thi thử</button>
+    <button class="tab" role="tab" data-tab="history">Lịch sử</button>
+  </nav>
+</header>
+
+<main class="wrap">
+  <section class="banks card" id="banks">
+    <div class="banks-head">
+      <h2>Chọn bộ đề</h2>
+      <span class="muted" id="banks-summary"></span>
+    </div>
+    <div class="banks-list" id="banks-list"></div>
+  </section>
+
+  <!-- ÔN TẬP -->
+  <section class="panel" data-panel="study">
+    <div class="toolbar card">
+      <input type="search" id="study-search" placeholder="Tìm câu hỏi hoặc đáp án…" autocomplete="off">
+      <div class="seg" id="study-filter">
+        <button data-v="all" class="on">Tất cả</button>
+        <button data-v="star">★ Đánh dấu</button>
+        <button data-v="wrong">Câu sai</button>
+      </div>
+      <div class="toolbar-btns">
+        <button class="btn" id="study-shuffle-q">Xáo trộn câu hỏi</button>
+        <button class="btn" id="study-shuffle-a">Xáo trộn đáp án</button>
+        <button class="btn ghost" id="study-reset">Thứ tự gốc</button>
+      </div>
+    </div>
+    <p class="muted count-line" id="study-count"></p>
+    <div id="study-list" class="qlist"></div>
+  </section>
+
+  <!-- VỪA THI VỪA ÔN -->
+  <section class="panel" data-panel="practice">
+    <div id="practice-root"></div>
+  </section>
+
+  <!-- THI THỬ -->
+  <section class="panel" data-panel="exam">
+    <div id="exam-root"></div>
+  </section>
+
+  <!-- LỊCH SỬ -->
+  <section class="panel" data-panel="history">
+    <div id="history-root"></div>
+  </section>
+</main>
+
+<script src="data/questions.js"></script>
+<script src="app.js"></script>
+</body>
+</html>
