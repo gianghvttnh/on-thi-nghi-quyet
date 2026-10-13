@@ -63,7 +63,7 @@ def read_rows(path):
                 val = text_of(c)
             else:
                 val = v.text if v is not None else ""
-            cells[col_of(c.get("r"))] = (val or "").strip()
+            cells[col_of(c.get("r"))] = unicodedata.normalize("NFC", (val or "").strip())
         rows.append(cells)
     return rows
 
@@ -76,7 +76,7 @@ def to_int(s):
 
 
 def build_bank(path):
-    name = path.stem
+    name = unicodedata.normalize("NFC", path.stem)
     bank_id = slug(name)
     questions, warnings = [], []
     for i, r in enumerate(read_rows(path)[1:], start=2):

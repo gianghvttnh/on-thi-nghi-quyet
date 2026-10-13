@@ -1,7 +1,7 @@
 window.QUESTION_BANKS = [
  {
   "id": "cau-hoi-chuyen-mon-soat-ve",
-  "name": "Câu hỏi chuyên môn Soát vé",
+  "name": "Câu hỏi chuyên môn Soát vé",
   "questions": [
    {
     "id": "cau-hoi-chuyen-mon-soat-ve-1",
@@ -1152,6 +1152,294 @@ window.QUESTION_BANKS = [
      "Hỗ trợ hướng dẫn viên không cung cấp được thẻ hướng dẫn viên qua cổng soát vé bằng vé hướng dẫn viên.",
      "Đoàn khách bị thiếu vé, quầy vé lại ở xa nên nhân viên Soát vé tự thu tiền vé trước để cho khách qua cổng kịp nhau, sau đó mang tiền đi đến quầy vé mua vé bổ sung sau.",
      "Nhận giữ hộ vé do hướng dẫn viên cần qua cổng trước, lát nữa khách của hướng dẫn viên sẽ đến lấy sau."
+    ],
+    "answer": 0
+   },
+   {
+    "id": "cau-hoi-chuyen-mon-soat-ve-97",
+    "no": 97,
+    "text": "Theo Anh/Chị đâu KHÔNG phải là rủi ro thường gặp khi vận hành trò vui chơi giải trí?",
+    "options": [
+     "Trượt, vấp hoặc té ngã",
+     "Thiết bị gặp trục trặc",
+     "Ngã từ tên cao",
+     "Công viên có nhiều rác"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "cau-hoi-chuyen-mon-soat-ve-98",
+    "no": 98,
+    "text": "Khi Trò chơi đang trong quá trình hoạt động, Cổng cửa ra vào Trò chơi phải đảm bảo quy định nào?",
+    "options": [
+     "Phải đảm bảo đã được sơn màu",
+     "Phải đảm bảo đã được bán cho khách hàng",
+     "Phải mở để đón Khách",
+     "Phải đảm bảo đã được đóng và không bao giờ được mở ra"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "cau-hoi-chuyen-mon-soat-ve-99",
+    "no": 99,
+    "text": "Khi sấm sét bắt đầu hoạt động quanh khu vui chơi trong phạm vi 10 km, trò chơi nào được mở cửa?",
+    "options": [
+     "Tất cả các trò chơi không được phép vận hành",
+     "Đường trượt nước, trò chơi trên nước và hồ bơi, Cáp treo",
+     "Trò chơi ngoài trời có độ cao dưới 5 mét và các hoạt động kinh doanh ngoài trời",
+     "Trò giải trí ngoài trời cao trên 5 mét"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "cau-hoi-chuyen-mon-soat-ve-100",
+    "no": 100,
+    "text": "Ai là người đóng vai trò quan trọng trong việc giảm thiểu nguy cơ hỏa hoạn xảy ra tại các khu vui chơi?",
+    "options": [
+     "Tất cả nhân viên",
+     "Cán bộ an toàn",
+     "Nhân viên kỹ thuật",
+     "Nhân viên vận hành trò chơi"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "cau-hoi-chuyen-mon-soat-ve-101",
+    "no": 101,
+    "text": "Khi có hoả hoạn xảy ra tại các Khu Vui chơi điều gì KHÔNG được phép làm?",
+    "options": [
+     "Gọi cứu trợ",
+     "Sử dụng thang máy để có thể nhanh chóng thoát khỏi đám cháy",
+     "Cửa Thoát hiểm phải đóng kín để khói không lan ra nơi khác",
+     "Tập kết Khách hàng tại nơi an toàn, xa nơi nguy hiểm"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "cau-hoi-chuyen-mon-soat-ve-102",
+    "no": 102,
+    "text": "Khi có người bị thương, ai là người đóng vai trò quan trọng trong việc đảm bảo cho Khách hàng và đồng nghiệp luôn được chăm sóc chu đáo?",
+    "options": [
+     "Nhân viên vận hành",
+     "Nhân viên y tế",
+     "Tất cả nhân viên",
+     "Nhân viên chăm sóc Khách hàng"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "cau-hoi-chuyen-mon-soat-ve-103",
+    "no": 103,
+    "text": "Công tác phòng cháy chữa cháy cần được đào tạo tối thiểu theo định kỳ bao lâu?",
+    "options": [
+     "Sáu tháng một lần",
+     "Một năm một lần",
+     "Hai năm một lần",
+     "Ba tháng một lần"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "cau-hoi-chuyen-mon-soat-ve-104",
+    "no": 104,
+    "text": "Khi thực hiện báo cáo về sự cố, Nhân viên đã trực tiếp chứng kiến sự cố cần phải làm gì?",
+    "options": [
+     "Nói chuyện với người khác và ghi thêm các thông tin, càng nhiều càng tốt, ngay cả khi không trực tiếp chứng kiến.",
+     "Yêu cầu người bị thương đi cùng mình trong khi làm báo cáo.",
+     "Chỉ ghi lại các thông tin do chính bản thân chứng kiến và biết chính xác là đúng sự thật.",
+     "Không viết bất kỳ điều gì để tránh gây rắc rối cho người khác."
+    ],
+    "answer": 2
+   },
+   {
+    "id": "cau-hoi-chuyen-mon-soat-ve-105",
+    "no": 105,
+    "text": "Điều gì là mối quan tâm hàng đầu ngay sau khi sự cố xảy ra?",
+    "options": [
+     "Điều tra để tìm ra nguyên nhân sự cố",
+     "Thực hiện báo cáo sự cố",
+     "Sự an toàn và sức khỏe của nhân viên, khách và nhà thầu ngay lúc xảy ra sự cố.",
+     "Ngăn chặn các bài viết với thông tin về sự cố có ảnh hưởng tiêu cực đến công ty."
+    ],
+    "answer": 2
+   },
+   {
+    "id": "cau-hoi-chuyen-mon-soat-ve-106",
+    "no": 106,
+    "text": "Theo Sổ tay định hướng về An toàn cho nhân viên mới, đối với khách hàng thì SẠCH có nghĩa là gì?",
+    "options": [
+     "Sạch là không có nhiều bụi",
+     "Sạch là không cần thiết",
+     "Sạch là các trò chơi đều mới",
+     "Sạch là an toàn"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "cau-hoi-chuyen-mon-soat-ve-107",
+    "no": 107,
+    "text": "Khi Trò Giải trí hay máy móc thiết bị đang hoạt động, nếu phát hiện có một người không có thẩm quyền đang ở trong Khu vực Cấm, Anh/Chị cần phải làm gì?",
+    "options": [
+     "Tiếp tục thực hiện công việc của mình. Tự giả định rằng người đó là người có thẩm quyền.",
+     "Tiếp tục công việc của mình nhưng luôn coi chừng, đảm bảo người đó không vào những nơi không an toàn.",
+     "Để máy móc thiết bị tiếp tục vận hành, lại gần và yêu cầu người đó đi ra ngoài ngay lập tức.",
+     "Dừng ngay công việc của mình, dừng ngay máy móc thiết bị mình đang vận hành và báo cáo cho Giám sát về sự việc này ngay lập tức."
+    ],
+    "answer": 3
+   },
+   {
+    "id": "cau-hoi-chuyen-mon-soat-ve-108",
+    "no": 108,
+    "text": "Quy định vào chơi trò giải trí của Sun World KHÔNG hạn chế đối tượng khách hàng sau đây?",
+    "options": [
+     "Có biểu hiện về tim mạch hoặc huyết áp bất thường",
+     "Gãy xương hoặc bó bột",
+     "Khách hàng là người Việt Nam",
+     "Mới phẫu thuật hoặc có biểu hiện đau yếu"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "cau-hoi-chuyen-mon-soat-ve-109",
+    "no": 109,
+    "text": "Khi thấy gió lớn, Nhân viên phải làm gì?",
+    "options": [
+     "Ngay lập tức nhấn nút Dừng Khẩn cấp",
+     "Chờ đến khi nhìn thấy có bất kỳ thứ gì bị gió làm đổ mới báo cáo cho Cán bộ Quản lý",
+     "Tiếp tục vận hành và chờ Cán bộ Quản lý liên hệ với mình",
+     "Ngay lập tức báo cáo cho Cán bộ Quản lý về tình hình gió. Thường xuyên quan sát khu vực xung quanh như bảng biển, ô dù và các đồ vật có thể di rời, tránh gây nguy hiểm. Những đồ vật này phải được cất giữ cẩn thận để không bị gió cuốn đi"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "cau-hoi-chuyen-mon-soat-ve-110",
+    "no": 110,
+    "text": "Khi sấm sét trong bán kính 20km quanh Khu Vui chơi, những Trò Giải trí nào sau đây phải đóng cửa?",
+    "options": [
+     "Cáp treo",
+     "Trò Giải trí ngoài trời cao trên 5 mét",
+     "Đường trượt nước, Trò chơi trên nước và Hồ bơi",
+     "- Cáp treo.\n- Trò Giải trí ngoài trời cao trên 5 mét.\n- Đường trượt nước, Trò chơi trên nước và Hồ bơi"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "cau-hoi-chuyen-mon-soat-ve-111",
+    "no": 111,
+    "text": "Khi xảy ra sự cố, loại sự cố nào sau đây phải được báo cáo?",
+    "options": [
+     "Sự cố gây thương tích cho Khách hàng hoặc Nhân viên.",
+     "Sự cố gây hư hỏng thiết bị.",
+     "Sự cố “suýt gây ra” tai nạn.",
+     "- Sự cố “suýt gây ra” tai nạn.\n- Sự cố gây hư hỏng thiết bị\n- Sự cố gây thương tích cho Khách hàng hoặc Nhân viên."
+    ],
+    "answer": 3
+   },
+   {
+    "id": "cau-hoi-chuyen-mon-soat-ve-112",
+    "no": 112,
+    "text": "Theo Sổ tay định hướng về An toàn cho nhân viên mới, ưu tiên hàng đầu tại Sun World là gì?",
+    "options": [
+     "Phát triển nhanh",
+     "Sự đổi mới của cảnh quan",
+     "Sự cố “suýt gây ra” tai nạn",
+     "Sự an toàn của Khách hàng và Nhân viên"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "cau-hoi-chuyen-mon-soat-ve-113",
+    "no": 113,
+    "text": "Theo Sổ tay định hướng về an toàn cho nhân viên mới thì Sổ tay hướng dẫn vận hành là gì?",
+    "options": [
+     "Sổ tay hướng dẫn vận hành mô tả chi tiết cách vận hành an toàn nhất, hiệu quả nhất và là duy nhất",
+     "Sổ tay hướng dẫn vận hành là sổ tay ghi chép nhật ký vận hành",
+     "Sổ tay hướng dẫn vận hành là sổ tay đào tạo quy tắc ứng xử với khách hàng khi vận hành",
+     "Sổ tay hướng dẫn vận hành là sổ tay ghi chép lịch sử sửa chữa của thiết bị"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "cau-hoi-chuyen-mon-soat-ve-114",
+    "no": 114,
+    "text": "Để ngăn chặn đám cháy có nguyên nhân từ khí gas cần phải sử dụng bình chữa cháy dạng gì?",
+    "options": [
+     "Dạng nước",
+     "Dạng bọt",
+     "Dạng bột",
+     "Hóa chất ướt"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "cau-hoi-chuyen-mon-soat-ve-115",
+    "no": 115,
+    "text": "Khách hàng A 4 tuổi rất thích tham gia trò chơi X, tuy nhiên theo quy định khách hàng không đủ chiều cao để tham gia trò chơi. Là nhân viên Anh/Chị có đề xuất gì với khách hàng này?",
+    "options": [
+     "Khuyến khích khách hàng vào chơi ngay lập tức",
+     "Đề xuất các trò giải trí khác phù hợp, thay thế mà Khách hàng có thể trải nghiệm",
+     "Đề xuất Khách hàng vào chơi và rủ thêm những người bạn cùng chiều cao đến chơi cùng",
+     "Đề xuất Khách hàng cùng gia đình di chuyển sang một công viên khác có nhiều trò chơi hơn"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "cau-hoi-chuyen-mon-soat-ve-116",
+    "no": 116,
+    "text": "Nếu Khách không đáp ứng quy định về chiều cao, cân nặng hoặc sức khỏe để tham gia Trò Giải trí, trong trường hợp nào Khách vẫn được phép tham gia Trò Giải trí?",
+    "options": [
+     "Khi Khách nói rằng Khách sẽ đồng ý chịu mọi trách nhiệm thương tổn, thậm chí cả tính mạng, nếu có",
+     "Khi Khách ký xác nhận rằng Khu Vui chơi sẽ không phải chịu trách nhiệm về bất kỳ thương tích hoặc thiệt hại nào, thậm chí cả tính mạng, nếu có",
+     "Nếu Trò Giải trí được vận hành với tốc độ thấp",
+     "Không bao giờ"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "cau-hoi-chuyen-mon-soat-ve-117",
+    "no": 117,
+    "text": "Một khách hàng nữ 30 tuổi trong quá trình tham gia chơi trò chơi Tàu lượn siêu tốc (cảm giác mạnh), khi tàu di chuyển được một nửa quãng đường thì khách hàng bất cẩn làm rơi điện thoại xuống khu vực cấm của trò chơi. Theo Anh/Chị ai là người được phép vào khu vực cấm của trò chơi để thu hồi đồ vật cho Khách hàng?",
+    "options": [
+     "Nhân viên vận hành trò chơi",
+     "Nhân viên kỹ thuật",
+     "Khách hàng",
+     "Cán bộ quản lý vận hành"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "cau-hoi-chuyen-mon-soat-ve-118",
+    "no": 118,
+    "text": "Nếu đồ vật bị rơi trong khu vực cấm, nhân viên cần phải làm gì?",
+    "options": [
+     "Vào thu hồi đồ vật ra ngoài",
+     "Liên hệ với cán bộ quản lý để được hỗ trợ bố trí lịch với nhân viên kĩ thuật để thu hồi lại đồ vật",
+     "Mở cửa cho khách vào thu hồi đồ vật ra ngoài",
+     "Thông báo cho quản lý vào thu hồi đồ vật ra ngoài"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "cau-hoi-chuyen-mon-soat-ve-119",
+    "no": 119,
+    "text": "Tại bản cam kết an toàn tại Sổ tay định hướng về An toàn cho nhân viên mới, điều gì cần cam kết?",
+    "options": [
+     "Không bao giờ đi làm muộn",
+     "Không bao giờ nghiêm túc thực hiện",
+     "Không bao giờ an toàn",
+     "Không bao giờ thỏa hiệp"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "cau-hoi-chuyen-mon-soat-ve-120",
+    "no": 120,
+    "text": "Khi xảy ra sự cố, trong trường hợp khách hàng bị chảy máu, nhân viên vận hành cần làm gì để đảm bảo an toàn khi sơ cứu?",
+    "options": [
+     "Luôn đeo găng tay để tránh ô nhiễm",
+     "Tránh tiếp xúc với vết thương để đảm bảo an toàn",
+     "Không thực hiện sơ cứu do đây là công việc của nhân viên Y tế",
+     "Vẫn tiếp xúc với vết máu được do rửa xà phòng sẽ sạch"
     ],
     "answer": 0
    }
