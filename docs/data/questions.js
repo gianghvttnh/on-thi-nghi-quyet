@@ -1530,516 +1530,264 @@ window.QUESTION_BANKS = [
   ]
  },
  {
-  "id": "on-tap-kien-thuc-chung-2026",
-  "name": "Ôn tập kiến thức chung 2026",
+  "id": "kien-thuc-chung",
+  "name": "Kiến thức chung",
   "questions": [
    {
-    "id": "on-tap-kien-thuc-chung-2026-1",
+    "id": "kien-thuc-chung-1",
     "no": 1,
-    "text": "Tại lễ trao giải Envision 2026 diễn ra ở Thượng Hải, Sun Hospitality & Entertainment Group (S.H.E) đã được nền tảng du lịch hàng đầu thế giới Trip.com vinh danh trong hạng mục Giải thưởng nào?",
+    "text": "Tập đoàn Sun Group được thành lập ở đâu và vào thời gian nào?",
     "options": [
-     "Giải thưởng Nhà đầu tư chiến lược",
-     "Giải thưởng Quan hệ Nhà đầu tư tốt nhất toàn cầu",
-     "Giải thưởng Đối tác chiến lược",
-     "Giải thưởng Tập đoàn du lịch hàng đầu thế giới"
+     "Năm 1998 Sun Group được thành lập tại Ukraine",
+     "Năm 1997 Sun Group được thành lập tại Ukraine",
+     "Năm 1999 Sun Group được thành lập tại Kharkov",
+     "Năm 1996 Sun Group được thành lập tại Kharkov"
     ],
-    "answer": 2
+    "answer": 0
    },
    {
-    "id": "on-tap-kien-thuc-chung-2026-2",
+    "id": "kien-thuc-chung-2",
     "no": 2,
-    "text": "Xưởng bia thủ công BaNa Brew House (và dòng bia Sun KraftBeer) trên đỉnh Sun World Ba Na Hills đã chính thức khai trương năm nào?",
+    "text": "Năm 2017 đánh dấu sự kiện gì của Tập đoàn Sun Group?",
     "options": [
-     "2023",
-     "2022",
-     "2024",
-     "2021"
+     "Khai trương Novotel Danang Premier Han River Hotel (Đà Nẵng)",
+     "Chính thức khánh thành InterContinental Danang Sun Peninsula Resort",
+     "Ra mắt thương hiệu Sun World, quy tụ các công viên, tổ hợp vui chơi giải trí của Sun Group",
+     "Thành lập Công ty CP Dịch vụ Cáp treo Bà Nà"
     ],
     "answer": 2
    },
    {
-    "id": "on-tap-kien-thuc-chung-2026-3",
+    "id": "kien-thuc-chung-3",
     "no": 3,
+    "text": "Năm 2018 đánh dấu sự kiện gì của Tập đoàn Sun Group?",
+    "options": [
+     "Khánh thành tòa nhà văn phòng Sun City",
+     "Khánh thành tuyến cáp treo đầu tiên Suối Mơ – Bà Nà",
+     "Khai trương khu du lịch Sun World Ba Na Hills",
+     "Ra mắt thương hiệu Sun Hospitality Group quy tụ các khách sạn, khu nghỉ dưỡng của Sun Group."
+    ],
+    "answer": 3
+   },
+   {
+    "id": "kien-thuc-chung-4",
+    "no": 4,
+    "text": "Cầu Vàng - biểu tượng du lịch Việt Nam, Kỳ quan mới của Thế giới được khánh thành vào năm nào?",
+    "options": [
+     "Năm 2015",
+     "Năm 2016",
+     "Năm 2017",
+     "Năm 2018"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "kien-thuc-chung-5",
+    "no": 5,
+    "text": "Sun Group khai trương 03 công trình giao thông Không - Thủy - Bộ (Cảng Hàng không Quốc tế Vân Đồn - Cảng tàu khách Quốc tế Hạ Long - Đường cao tốc Hạ Long - Vân Đồn tại Quảng Ninh vào năm nào?",
+    "options": [
+     "Năm 2018",
+     "Năm 2017",
+     "Năm 2016",
+     "Năm 2015"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "kien-thuc-chung-6",
+    "no": 6,
+    "text": "Sun Group khánh thành tuyến cáp treo đầu tiên - Sun World Ba Na Hills vào năm nào?",
+    "options": [
+     "Năm 2010",
+     "Năm 2009",
+     "Năm 2008",
+     "Năm 2007"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "kien-thuc-chung-7",
+    "no": 7,
+    "text": "Năm 2025, Sun Group lần thứ mấy được vinh danh là “Thương hiệu truyền cảm hứng châu Á”?",
+    "options": [
+     "Lần thứ hai",
+     "Lần thứ ba",
+     "Lần thứ tư",
+     "Lần thứ năm"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "kien-thuc-chung-8",
+    "no": 8,
+    "text": "Tính đến năm 2025, Sun Group đã bao nhiêu năm liên tiếp được vinh danh trong Top 100 Nơi làm việc tốt nhất Việt Nam?",
+    "options": [
+     "3 năm",
+     "4 năm",
+     "5 năm",
+     "6 năm"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "kien-thuc-chung-9",
+    "no": 9,
+    "text": "Tại Lễ trao giải World Travel Awards (WTA) châu Á – Thái Bình Dương 2025 diễn ra tại Hong Kong, Sun Group đã đạt được thành tích đặc biệt nào?",
+    "options": [
+     "Doanh nghiệp phát triển điểm đến văn hóa hàng đầu châu Á 2025.",
+     "Tập đoàn du lịch hàng đầu châu Á lần thứ 4 liên tiếp",
+     "Doanh nghiệp sáng tạo nhất khu vực",
+     "Nhà phát triển đô thị hàng đầu thế giới"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "kien-thuc-chung-10",
+    "no": 10,
+    "text": "Thương hiệu thành viên Sun Hospitality Group (SHG) của Sun Group được trao danh hiệu nào tại WTA 2025?",
+    "options": [
+     "Nhà điều hành khu vui chơi hàng đầu châu Á",
+     "Tập đoàn khách sạn phát triển nhanh nhất khu vực",
+     "Nhà phát triển du lịch nghỉ dưỡng hàng đầu châu Á lần thứ 4 liên tiếp",
+     "Tập đoàn quản lý khách sạn toàn cầu xuất sắc nhất"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "kien-thuc-chung-11",
+    "no": 11,
+    "text": "Tại Đà Nẵng, khu du lịch nào của Sun Group tiếp tục được xướng tên là “Khu du lịch chủ đề hàng đầu châu Á” lần thứ 6 liên tiếp kể từ năm 2020?",
+    "options": [
+     "Sun World Hon Thom Nature Park",
+     "Sun World Ba Na Hills",
+     "Sun World Ha Long Complex",
+     "Sun World Fansipan Legend"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "kien-thuc-chung-12",
+    "no": 12,
+    "text": "Khu nghỉ dưỡng nào của Sun Group tại Phú Quốc giành hai giải thưởng châu lục gồm “Khu nghỉ dưỡng & spa sang trọng hàng đầu châu Á 2025” và “Khu nghỉ dưỡng tiệc cưới sang trọng hàng đầu châu Á 2025”?",
+    "options": [
+     "Premier Village Phu Quoc Resort",
+     "Premier Residences Phu Quoc Emerald Bay",
+     "JW Marriott Phu Quoc Emerald Bay Resort",
+     "La Festa Phu Quoc – Curio Collection by Hilton"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "kien-thuc-chung-13",
+    "no": 13,
+    "text": "Hai danh hiệu mà Premier Residences Phu Quoc Emerald Bay đạt được tại World Travel Awards 2025 là gì?",
+    "options": [
+     "Khu nghỉ dưỡng & spa sang trọng hàng đầu châu Á 2025 và Khu nghỉ dưỡng tiệc cưới sang trọng hàng đầu châu Á 2025",
+     "Khu nghỉ dưỡng phong cách hàng đầu Việt Nam 2025 và Khách sạn thiết kế hàng đầu Việt Nam 2025",
+     "Khu nghỉ dưỡng biển dành cho gia đình hàng đầu châu Á 2025 và Khu nghỉ dưỡng biệt thự hàng đầu châu Á 2025",
+     "Khu nghỉ dưỡng sinh thái hàng đầu châu Á 2025 và Khu nghỉ dưỡng sáng tạo nhất năm 2025"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "kien-thuc-chung-14",
+    "no": 14,
     "text": "Cảng hàng không nào thuộc hệ sinh thái Sun Group lần thứ hai được World Travel Awards 2025 vinh danh là “Sân bay khu vực hàng đầu châu Á”?",
     "options": [
      "Sân bay quốc tế Phú Quốc",
-     "Sân bay Cát Bi (Hải Phòng)",
      "Sân bay Đà Nẵng",
+     "Sân bay Cát Bi (Hải Phòng)",
      "Cảng hàng không quốc tế Vân Đồn (Quảng Ninh)"
     ],
     "answer": 3
    },
    {
-    "id": "on-tap-kien-thuc-chung-2026-4",
-    "no": 4,
-    "text": "Tính đến năm 2025, Sun Group đã bao nhiêu năm liên tiếp được vinh danh trong Top 100 Nơi làm việc tốt nhất Việt Nam?",
+    "id": "kien-thuc-chung-15",
+    "no": 15,
+    "text": "Theo Readers’ Choice Awards 2025 của Condé Nast Traveler, Phú Quốc đã có bước tiến vượt bậ Thành tích nào dưới đây phản ánh đúng nhất vị trí và ý nghĩa xếp hạng của đảo Ngọc năm 2025?",
     "options": [
-     "6 năm",
-     "3 năm",
-     "4 năm",
-     "5 năm"
-    ],
-    "answer": 0
-   },
-   {
-    "id": "on-tap-kien-thuc-chung-2026-5",
-    "no": 5,
-    "text": "Trong hệ sinh thái Sun Group, lĩnh vực nghệ thuật được phát triển với mục tiêu chính là gì?",
-    "options": [
-     "Thúc đẩy kinh doanh và quảng bá thương hiệu",
-     "Kiến tạo chuẩn mực cảm xúc mới, lan tỏa tinh hoa văn hóa Việt",
-     "Tạo ra sản phẩm giải trí thuần túy phục vụ khách du lịch",
-     "Nâng cao doanh thu từ dịch vụ biểu diễn nghệ thuật"
+     "Phú Quốc lần đầu tiên lọt top 10 thế giới và xếp thứ 5 châu Á",
+     "Phú Quốc đứng đầu châu Á và thứ 3 thế giới, vượt qua Maldives và Hawaii",
+     "Phú Quốc đứng thứ nhì châu Á, chỉ sau Bali",
+     "Phú Quốc là hòn đảo duy nhất của Đông Nam Á có mặt trong bảng xếp hạng"
     ],
     "answer": 1
    },
    {
-    "id": "on-tap-kien-thuc-chung-2026-6",
-    "no": 6,
-    "text": "Sun PhuQuoc Airways được ra mắt nhằm hoàn thiện mô hình nào trong hệ sinh thái của Sun Group?",
-    "options": [
-     "“Vui chơi – ẩm thực – thương mại”",
-     "“Bất động sản xanh – năng lượng sạch”",
-     "“Hàng không nghỉ dưỡng” – kết nối trải nghiệm từ bầu trời đến mặt đất",
-     "“Du lịch thông minh – chuyển đổi số toàn diện”"
-    ],
-    "answer": 2
-   },
-   {
-    "id": "on-tap-kien-thuc-chung-2026-7",
-    "no": 7,
+    "id": "kien-thuc-chung-16",
+    "no": 16,
     "text": "Khu nghỉ dưỡng nào tại Bãi Khem góp phần giúp Phú Quốc ghi dấu ấn trên bản đồ nghỉ dưỡng thế giới trong cùng bảng xếp hạng CN Traveler 2025?",
     "options": [
-     "Rixos Phu Quoc – mô hình all-inclusive đầu tiên Đông Nam Á",
      "New World Phu Quoc Resort – phong cách “Làng chài Việt”",
+     "InterContinental Phu Quoc Long Beach – nghỉ dưỡng quốc tế",
      "JW Marriott Phu Quoc Emerald Bay – chủ đề “Đại học giả tưởng” độc đáo",
-     "InterContinental Phu Quoc Long Beach – nghỉ dưỡng quốc tế"
+     "Rixos Phu Quoc – mô hình all-inclusive đầu tiên Đông Nam Á"
     ],
     "answer": 2
    },
    {
-    "id": "on-tap-kien-thuc-chung-2026-8",
-    "no": 8,
-    "text": "Theo Readers’ Choice Awards 2025 của Condé Nast Traveler, Phú Quốc đã có bước tiến vượt bậc. Thành tích nào dưới đây phản ánh đúng nhất vị trí và ý nghĩa xếp hạng của đảo Ngọc năm 2025?",
-    "options": [
-     "Phú Quốc là hòn đảo duy nhất của Đông Nam Á có mặt trong bảng xếp hạng",
-     "Phú Quốc đứng đầu châu Á và thứ 3 thế giới, vượt qua Maldives và Hawaii",
-     "Phú Quốc lần đầu tiên lọt top 10 thế giới và xếp thứ 5 châu Á",
-     "Phú Quốc đứng thứ nhì châu Á, chỉ sau Bali"
-    ],
-    "answer": 1
-   },
-   {
-    "id": "on-tap-kien-thuc-chung-2026-9",
-    "no": 9,
-    "text": "Dàn nhạc nào được Sun Group thành lập từ năm 2017, đóng vai trò quan trọng trong việc đưa âm nhạc hàn lâm đến gần hơn với công chúng Việt Nam?",
-    "options": [
-     "Sun Art Ensemble",
-     "Sun Philharmonic Orchestra",
-     "Sun Symphony Orchestra (SSO)",
-     "Vietnam Chamber Ensemble"
-    ],
-    "answer": 2
-   },
-   {
-    "id": "on-tap-kien-thuc-chung-2026-10",
-    "no": 10,
-    "text": "Tính đến năm 2026, Sun Group đã đồng hành cùng Michelin được bao nhiêu mùa?",
-    "options": [
-     "4 mùa",
-     "5 năm",
-     "2 mùa",
-     "3 mùa"
-    ],
-    "answer": 0
-   },
-   {
-    "id": "on-tap-kien-thuc-chung-2026-11",
-    "no": 11,
-    "text": "Năm 2026, Sun World Fansipan Legend kỷ niệm bao nhiêu năm tuyến cáp treo Fansipan chính thức vận hành?",
-    "options": [
-     "9 năm",
-     "8 năm",
-     "11 năm",
-     "10 năm"
-    ],
-    "answer": 3
-   },
-   {
-    "id": "on-tap-kien-thuc-chung-2026-12",
-    "no": 12,
-    "text": "Cầu Vàng - biểu tượng du lịch Việt Nam, Kỳ quan mới của Thế giới được khánh thành vào năm nào?",
-    "options": [
-     "Năm 2016",
-     "Năm 2018",
-     "Năm 2015",
-     "Năm 2017"
-    ],
-    "answer": 1
-   },
-   {
-    "id": "on-tap-kien-thuc-chung-2026-13",
-    "no": 13,
-    "text": "Cùng với Cảng HKQT Phú Quốc, Sun Group đang vận hành thêm Cảng HKQT nào khác?",
-    "options": [
-     "Cảng HKQT Cam Ranh",
-     "Cảng HKQT Vân Đồn",
-     "Cảng HKQT Cát Bi",
-     "Cảng HKQT Đà Nẵng"
-    ],
-    "answer": 1
-   },
-   {
-    "id": "on-tap-kien-thuc-chung-2026-14",
-    "no": 14,
-    "text": "Trên đỉnh núi Bà Đen, tôn tượng của vị Phật nào tượng trưng cho hiện tại?",
-    "options": [
-     "Phật Bà Tây Bổ Đà Sơn",
-     "Đức Phật Câu Na Hàm Mâu Ni",
-     "Bồ Tát Di Lặc",
-     "Quan Thế Âm Bồ Tát"
-    ],
-    "answer": 0
-   },
-   {
-    "id": "on-tap-kien-thuc-chung-2026-15",
-    "no": 15,
-    "text": "Thương hiệu thành viên Sun Hospitality Group (SHG) của Sun Group được trao danh hiệu nào tại WTA 2025?",
-    "options": [
-     "Nhà phát triển du lịch nghỉ dưỡng hàng đầu châu Á lần thứ 4 liên tiếp",
-     "Nhà điều hành khu vui chơi hàng đầu châu Á",
-     "Tập đoàn quản lý khách sạn toàn cầu xuất sắc nhất",
-     "Tập đoàn khách sạn phát triển nhanh nhất khu vực"
-    ],
-    "answer": 0
-   },
-   {
-    "id": "on-tap-kien-thuc-chung-2026-16",
-    "no": 16,
-    "text": "Năm 2025, Sun Group lần thứ mấy được vinh danh là “Thương hiệu truyền cảm hứng châu Á”?",
-    "options": [
-     "Lần thứ tư",
-     "Lần thứ hai",
-     "Lần thứ ba",
-     "Lần thứ năm"
-    ],
-    "answer": 2
-   },
-   {
-    "id": "on-tap-kien-thuc-chung-2026-17",
+    "id": "kien-thuc-chung-17",
     "no": 17,
-    "text": "Khu nghỉ dưỡng nào của Sun Group được Bill Bensley thiết kế độc đáo với 4 tầng \"Thiên đường - Bầu trời - Mặt đất - Biển cả\"?",
-    "options": [
-     "InterContinental Danang Sun Peninsula Resort",
-     "JW Marriott Phu Quoc Emerald Bay",
-     "New World Phu Quoc Resort",
-     "Hotel de la Coupole - MGallery Sa Pa"
-    ],
-    "answer": 0
-   },
-   {
-    "id": "on-tap-kien-thuc-chung-2026-18",
-    "no": 18,
-    "text": "Dự án mở rộng Cảng Hàng không Quốc tế Phú Quốc do những đơn vị tư vấn thiết kế hàng đầu thế giới nào đảm nhiệm?",
-    "options": [
-     "Foster + Partners (Anh) và Aedas (Hong Kong)",
-     "Atkins (Mỹ) và Nikken Sekkei (Nhật Bản)",
-     "Gensler (Mỹ) và KPF (Anh)",
-     "CPG Consultants (Singapore) và Artelia Airport (Pháp)"
-    ],
-    "answer": 3
-   },
-   {
-    "id": "on-tap-kien-thuc-chung-2026-19",
-    "no": 19,
-    "text": "Năm 2017 đánh dấu sự kiện gì của Tập đoàn Sun Group?",
-    "options": [
-     "Thành lập Công ty CP Dịch vụ Cáp treo Bà Nà",
-     "Ra mắt thương hiệu Sun World, quy tụ các công viên, tổ hợp vui chơi giải trí của Sun Group",
-     "Chính thức khánh thành InterContinental Danang Sun Peninsula Resort",
-     "Khai trương Novotel Danang Premier Han River Hotel (Đà Nẵng)"
-    ],
-    "answer": 1
-   },
-   {
-    "id": "on-tap-kien-thuc-chung-2026-20",
-    "no": 20,
-    "text": "Dự án Sun Premier Village Primavera còn có tên gọi khác là gì?",
-    "options": [
-     "Show diễn đa phương tiện trên mặt nước lớn nhất Châu Á",
-     "Thị trấn Địa Trung Hải",
-     "Tổ hợp nghỉ dưỡng khoáng nóng",
-     "Công viên nước hiện đại bậc nhất Đông Nam Á"
-    ],
-    "answer": 1
-   },
-   {
-    "id": "on-tap-kien-thuc-chung-2026-21",
-    "no": 21,
-    "text": "Ai là kiến trúc sư đảm nhiệm thiết kế nhà ga VIP của sân bay Phú Quốc, đồng thời là “cha đẻ” của biểu tượng Cầu Hôn nổi tiếng?",
-    "options": [
-     "Renzo Piano",
-     "Tadao Ando",
-     "Marco Casamonti",
-     "Norman Foster"
-    ],
-    "answer": 2
-   },
-   {
-    "id": "on-tap-kien-thuc-chung-2026-22",
-    "no": 22,
-    "text": "Nơi nào trong hệ thống kinh doanh của Sun Group được mệnh danh là thị trấn Tình yêu và Nghệ thuật?",
-    "options": [
-     "Show diễn đa phương tiện trên mặt nước lớn nhất Châu Á",
-     "Tổ hợp nghỉ dưỡng khoáng nóng",
-     "Công viên nước hiện đại bậc nhất Đông Nam Á",
-     "Thị trấn Hoàng hôn - Sunset Town tại Phú Quốc"
-    ],
-    "answer": 3
-   },
-   {
-    "id": "on-tap-kien-thuc-chung-2026-23",
-    "no": 23,
-    "text": "Bệnh viện Mặt Trời là thương hiệu đầu tiên thuộc hệ thống nào trong hệ sinh thái của Sun Group?",
-    "options": [
-     "Sun Property",
-     "Sun Hospitality Group",
-     "Sun World",
-     "SunGroup Healthcare"
-    ],
-    "answer": 3
-   },
-   {
-    "id": "on-tap-kien-thuc-chung-2026-24",
-    "no": 24,
-    "text": "Nhà hát Ngọc Trai (còn gọi là Nhà hát Opera Hà Nội) do KTS nổi tiếng nào thiết kế?",
-    "options": [
-     "Norman Foster",
-     "Bill Bensley",
-     "Santiago Calatrava",
-     "Renzo Piano"
-    ],
-    "answer": 3
-   },
-   {
-    "id": "on-tap-kien-thuc-chung-2026-25",
-    "no": 25,
-    "text": "Cáp treo Fansipan tại khu du lịch Sun World Fansipan Legend (Sa Pa) đã được Tổ chức Kỷ lục Thế giới Guinness trao tặng bao nhiêu kỷ lục thế giới trong ngày khánh thành?",
-    "options": [
-     "4 kỷ lục",
-     "3 kỷ lục",
-     "1 kỷ lục",
-     "2 kỷ lục"
-    ],
-    "answer": 3
-   },
-   {
-    "id": "on-tap-kien-thuc-chung-2026-26",
-    "no": 26,
-    "text": "Ý tưởng thiết kế của dự án Khách sạn JW Marriott Emerald Bay Resort bắt nguồn từ đâu?",
-    "options": [
-     "Tuyệt phẩm kiến trúc Pháp",
-     "Một quán trọ nhỏ, chào đón các ca sĩ opera, nghệ sĩ, nhà soạn nhạc, nhà thiết kế… đến thăm và nghỉ lại trước hoặc sau đêm diễn",
-     "Từ một ngôi trường đại học cổ",
-     "Là tuyệt tác kiến trúc hai mặt biển duy nhất"
-    ],
-    "answer": 2
-   },
-   {
-    "id": "on-tap-kien-thuc-chung-2026-27",
-    "no": 27,
-    "text": "“Sự hoà quyện của sắc màu dân tộc thiểu số cùng sự quyến rũ của thời trang những năm 1920-1930 với phong cách Pháp Thượng Lưu” là mô tả cho khách sạn nào?",
-    "options": [
-     "Hotel de la Coupole – Mgallery",
-     "New World Phu Quoc Resort (Phú Quốc)",
-     "Khách sạn Mercure French Village Bana Hills",
-     "Khách sạn Novotel Danang Premier Han River Hotel (Đà Nẵng)"
-    ],
-    "answer": 0
-   },
-   {
-    "id": "on-tap-kien-thuc-chung-2026-28",
-    "no": 28,
-    "text": "Ông Ngâu - Bà Ngâu là thiết kế lấy cảm hứng từ truyện cổ tích/truyền thuyết Việt Nam cho cây cầu nào?",
-    "options": [
-     "Cầu Thuận Phước",
-     "Cầu Vàng",
-     "Cầu Sông Hàn",
-     "Cầu Hôn"
-    ],
-    "answer": 3
-   },
-   {
-    "id": "on-tap-kien-thuc-chung-2026-29",
-    "no": 29,
-    "text": "Bộ đồng phục của phi hành đoàn Sun PhuQuoc Airways được thiết kế lấy cảm hứng từ đâu?",
-    "options": [
-     "Áo dài truyền thống Việt Nam kết hợp phong cách châu Âu hiện đại",
-     "Đồng phục hoàng gia Anh thế kỷ XX",
-     "Trang phục phi công của hãng Airbus châu Âu",
-     "Tà áo ngũ thân xứ Bắc và phong thái của Nam Phương Hoàng hậu"
-    ],
-    "answer": 3
-   },
-   {
-    "id": "on-tap-kien-thuc-chung-2026-30",
-    "no": 30,
-    "text": "Tay trái của tôn tượng Đức Phật Câu Na Hàm trên đỉnh Núi Bà Đen có nâng quả gì?",
-    "options": [
-     "Quả na (mãng cầu)",
-     "Quả xoài",
-     "Quả dừa",
-     "Quả sung"
-    ],
-    "answer": 3
-   },
-   {
-    "id": "on-tap-kien-thuc-chung-2026-31",
-    "no": 31,
-    "text": "Ý tưởng quy hoạch 9 công viên ven biển tại Blanca City của Sun Group thể hiện triết lý phát triển nào của Tập đoàn?",
-    "options": [
-     "Kiến tạo không gian sống “như nghỉ dưỡng” – nơi cư dân hòa mình với thiên nhiên và cảm xúc",
-     "Mô hình “thành phố không ngủ” hướng đến giải trí ban đêm",
-     "Phát triển đô thị hướng tâm – mở rộng khu dân cư về phía nội địa",
-     "Ưu tiên tối đa hóa diện tích xây dựng để tăng mật độ thương mại"
-    ],
-    "answer": 0
-   },
-   {
-    "id": "on-tap-kien-thuc-chung-2026-32",
-    "no": 32,
-    "text": "Tôn tượng Phật Đại Nhật Như Lai và Quần thể Du lịch Am Tiên của Sun Group đang được xây dựng đặt tại tỉnh nào?",
-    "options": [
-     "Tây Ninh",
-     "Thanh Hóa",
-     "Đồng Nai",
-     "Lào Cai"
-    ],
-    "answer": 1
-   },
-   {
-    "id": "on-tap-kien-thuc-chung-2026-33",
-    "no": 33,
-    "text": "Cùng với Sunset Town, tiệm bánh Pháp Eric Kayser còn có mặt ở công viên nào của Sun Group?",
-    "options": [
-     "Sun World Hon Thom",
-     "Sun World Fansipan Legend",
-     "Sun World Ha Long",
-     "Sun World Ba Na Hills"
-    ],
-    "answer": 3
-   },
-   {
-    "id": "on-tap-kien-thuc-chung-2026-34",
-    "no": 34,
-    "text": "Nhà hàng nào tại Phú Quốc vinh dự nhận Kỷ lục Guinness với danh hiệu \"Nhà hàng bia ven biển lớn nhất thế giới\"?",
-    "options": [
-     "Corallo (Premier Village Phu Quoc Resort)",
-     "Santo Beach Club (Hòn Thơm)",
-     "Nhà hàng Mare Seta (La Festa Phu Quoc)",
-     "Sun Bavaria GastroPub"
-    ],
-    "answer": 3
-   },
-   {
-    "id": "on-tap-kien-thuc-chung-2026-35",
-    "no": 35,
-    "text": "Tập đoàn Sun Group được thành lập ở đâu và vào thời gian nào?",
-    "options": [
-     "Năm 1998 Sun Group được thành lập tại Ukraine",
-     "Năm 1996 Sun Group được thành lập tại Kharkov",
-     "Năm 1997 Sun Group được thành lập tại Ukraine",
-     "Năm 1999 Sun Group được thành lập tại Kharkov"
-    ],
-    "answer": 0
-   },
-   {
-    "id": "on-tap-kien-thuc-chung-2026-36",
-    "no": 36,
-    "text": "Cáp treo được Kỷ lục Guiness ghi nhận “Cáp treo ba dây vượt biển dài nhất thế giới” nằm ở đâu?",
-    "options": [
-     "Phú Quốc",
-     "Đà Nẵng",
-     "Hạ Long",
-     "Lào Cai"
-    ],
-    "answer": 0
-   },
-   {
-    "id": "on-tap-kien-thuc-chung-2026-37",
-    "no": 37,
-    "text": "Cây cầu khánh thành năm 2018 và nổi tiếng toàn cầu nhờ hình ảnh đôi bàn tay khổng lồ rêu phong vươn ra từ núi rừng để nâng niu dải lụa vàng óng ả, có tên là gì?",
-    "options": [
-     "Cầu Rồng",
-     "Cầu Thuận Phước",
-     "Cầu Tình Yêu",
-     "Cầu Vàng"
-    ],
-    "answer": 3
-   },
-   {
-    "id": "on-tap-kien-thuc-chung-2026-38",
-    "no": 38,
     "text": "Tuyến Cáp treo 3 dây vượt biển dài nhất thế giới của Sun Group được Guinness thế giới ghi nhận kỷ lục cho tuyến cáp nào?",
     "options": [
-     "Cáp treo Nữ hoàng",
-     "Cáp treo Hòn Thơm",
+     "Cáp treo Suối Mơ – Bà Nà",
      "Cáp treo 3 dây của Sun World Fansipan Legend",
-     "Cáp treo Suối Mơ – Bà Nà"
+     "Cáp treo Hòn Thơm",
+     "Cáp treo Nữ hoàng"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "kien-thuc-chung-18",
+    "no": 18,
+    "text": "Hệ thống cáp treo nào đạt kỷ lục thế giới với cabin có sức chứa lớn nhất thế giới với 230 người?",
+    "options": [
+     "Cáp treo Suối Mơ – Bà Nà",
+     "Cáp treo 3 dây của Sun World Fansipan Legend",
+     "Hệ thống cáp treo tại Sun World Ha Long",
+     "Cáp treo Hòn Thơm"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "kien-thuc-chung-19",
+    "no": 19,
+    "text": "Tuyến cáp treo Sun World Fansipan Legend được so sánh với điều gì bởi độ khó trong thi công và đạt 02 kỷ lục thế giới khi ra mắt?",
+    "options": [
+     "\"Kỳ tích trí tuệ Việt Nam\"",
+     "\"Kỷ lục Guinness Việt Nam\"",
+     "\"Sự độc đáo hiếm có\"",
+     "\"Chuẩn mực quốc tế\""
+    ],
+    "answer": 0
+   },
+   {
+    "id": "kien-thuc-chung-20",
+    "no": 20,
+    "text": "Cáp treo được Kỷ lục Guiness ghi nhận “Cáp treo ba dây vượt biển dài nhất thế giới” nằm ở đâu?",
+    "options": [
+     "Lào Cai",
+     "Đà Nẵng",
+     "Phú Quốc",
+     "Hạ Long"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "kien-thuc-chung-21",
+    "no": 21,
+    "text": "Tôn tượng Bồ Tát Di Lặc trên đỉnh Núi Bà Đen được xem là bức tượng Di Lặc bằng đá sa thạch lớn bậc nhất thế giới. Bức tượng này có chiều cao và trọng lượng lần lượt là bao nhiêu?",
+    "options": [
+     "Cao 30m, nặng 3.000 tấn",
+     "Cao 36m, nặng 5.112 tấn",
+     "Cao 45m, nặng 4.651 tấn",
+     "Cao 54m, nặng 5.000 tấn"
     ],
     "answer": 1
    },
    {
-    "id": "on-tap-kien-thuc-chung-2026-39",
-    "no": 39,
-    "text": "Premier Village Phú Quốc được đánh giá như thế nào trong hệ thống khách sạn của Sun Group?",
-    "options": [
-     "Là khu nghỉ dưỡng gia đình quy mô lớn nhất của Sun Group tại miền Bắc",
-     "Là một quán trọ nhỏ, chào đón các ca sĩ opera, nghệ sĩ, nhà soạn nhạc, nhà thiết kế… đến thăm và nghỉ lại trước hoặc sau đêm diễn",
-     "Là khách sạn sân bay đầu tiên do Sun Group đầu tư và vận hành",
-     "Là tuyệt tác kiến trúc hai mặt biển duy nhất"
-    ],
-    "answer": 3
-   },
-   {
-    "id": "on-tap-kien-thuc-chung-2026-40",
-    "no": 40,
-    "text": "Tôn tượng Bồ Tát Di Lặc trên đỉnh Núi Bà Đen được tạc ở tư thế nào và hướng nhìn về đâu?",
-    "options": [
-     "Nằm, hướng về phía Bắc – biểu trưng cho sự bình an",
-     "Ngồi, hướng về phía Nam – biểu trưng cho sự thịnh vượng",
-     "Đứng, hướng về phía Tây – biểu trưng cho sự an yên",
-     "Ngồi, hướng về phía Đông – nơi mặt trời mọc, biểu trưng cho tương lai và hạnh phúc"
-    ],
-    "answer": 3
-   },
-   {
-    "id": "on-tap-kien-thuc-chung-2026-41",
-    "no": 41,
-    "text": "Sự kiện ra mắt Sun PhuQuoc Airways – hãng hàng không đầu tiên mang tên một hòn đảo – được tổ chức vào thời gian và địa điểm nào?",
-    "options": [
-     "Ngày 1/11/2025 tại JW Marriott Phu Quoc",
-     "Ngày 25/9/2025 tại Sun Grand City Hạ Long",
-     "Ngày 20/10/2025 tại Sun World Ba Na Hills",
-     "Ngày 15/10/2025 tại Ballroom Ascott Tây Hồ – Hà Nội"
-    ],
-    "answer": 3
-   },
-   {
-    "id": "on-tap-kien-thuc-chung-2026-42",
-    "no": 42,
-    "text": "Chuyến bay thương mại đầu tiên của Sun PhuQuoc Airways cất cánh vào ngày tháng năm nào?",
-    "options": [
-     "30/04/2026",
-     "01/11/2025",
-     "02/09/2026",
-     "01/01/2026"
-    ],
-    "answer": 1
-   },
-   {
-    "id": "on-tap-kien-thuc-chung-2026-43",
-    "no": 43,
+    "id": "kien-thuc-chung-22",
+    "no": 22,
     "text": "Công trình Tượng Phật Bà Tây Bổ Đà Sơn trên đỉnh Núi Bà Đen được xác lập kỷ lục Guinness châu Á vào thời điểm đặc biệt nào?",
     "options": [
      "02:02:02 ngày 22/02/2022",
@@ -2050,260 +1798,284 @@ window.QUESTION_BANKS = [
     "answer": 0
    },
    {
-    "id": "on-tap-kien-thuc-chung-2026-44",
-    "no": 44,
-    "text": "Đội tuyển vô địch Lễ hội Pháo hoa quốc tế Đà Nẵng DIFF 2026 đến từ nước nào?",
+    "id": "kien-thuc-chung-23",
+    "no": 23,
+    "text": "Tôn tượng Bồ Tát Di Lặc trên đỉnh Núi Bà Đen được tạc ở tư thế nào và hướng nhìn về đâu?",
     "options": [
-     "Pháp",
-     "Trung Quốc",
-     "Việt Nam",
-     "Bồ Đào Nha"
+     "Đứng, hướng về phía Tây – biểu trưng cho sự an yên",
+     "Ngồi, hướng về phía Đông – nơi mặt trời mọc, biểu trưng cho tương lai và hạnh phúc",
+     "Nằm, hướng về phía Bắc – biểu trưng cho sự bình an",
+     "Ngồi, hướng về phía Nam – biểu trưng cho sự thịnh vượng"
     ],
-    "answer": 3
+    "answer": 1
    },
    {
-    "id": "on-tap-kien-thuc-chung-2026-45",
-    "no": 45,
-    "text": "Mô hình mà Bệnh viện Mặt Trời được đầu tư và vận hành hướng đến là gì?",
+    "id": "kien-thuc-chung-24",
+    "no": 24,
+    "text": "Nơi nào trong hệ thống kinh doanh của Sun Group được mệnh danh là thị trấn Tình yêu và Nghệ thuật?",
     "options": [
-     "Bệnh viện truyền thống",
-     "Trung tâm y tế cộng đồng",
-     "Bệnh viện – khách sạn quốc tế, kết hợp y tế hiện đại và dịch vụ cao cấp",
-     "Mô hình điều dưỡng – phục hồi chức năng"
-    ],
-    "answer": 2
-   },
-   {
-    "id": "on-tap-kien-thuc-chung-2026-46",
-    "no": 46,
-    "text": "Khi thiết kế khách sạn Capella Hanoi, kiến trúc sư Bill Bensley đã hình dung khách sạn như thế nào?",
-    "options": [
-     "Tuyệt phẩm kiến trúc Pháp",
      "Công viên nước hiện đại bậc nhất Đông Nam Á",
-     "Một quán trọ nhỏ, chào đón các ca sĩ opera, nghệ sĩ, nhà soạn nhạc, nhà thiết kế… đến thăm và nghỉ lại trước hoặc sau đêm diễn",
-     "Tổ hợp nghỉ dưỡng khoáng nóng"
-    ],
-    "answer": 2
-   },
-   {
-    "id": "on-tap-kien-thuc-chung-2026-47",
-    "no": 47,
-    "text": "Sun Group chính thức vận hành Cảng hàng không Quốc tế Phú Quốc kể từ thời điểm nào?",
-    "options": [
-     "00:00 ngày 01/01/2026",
-     "00:00 ngày 01/01/2025",
-     "00:00 ngày 01/02/2026",
-     "12:00 ngày 01/01/2026"
-    ],
-    "answer": 0
-   },
-   {
-    "id": "on-tap-kien-thuc-chung-2026-48",
-    "no": 48,
-    "text": "Kiến trúc nhà ga hành khách chính của sân bay Phú Quốc được lấy cảm hứng từ hình tượng nào?",
-    "options": [
-     "Chim hải âu – biểu tượng của tự do",
-     "Phượng Hoàng – biểu tượng của hoàng gia, quyền lực và cao quý",
-     "Cánh buồm – biểu tượng của hành trình",
-     "Cá voi – biểu tượng của đại dương"
+     "Thị trấn Hoàng hôn - Sunset Town tại Phú Quốc",
+     "Tổ hợp nghỉ dưỡng khoáng nóng",
+     "Show diễn đa phương tiện trên mặt nước lớn nhất Châu Á"
     ],
     "answer": 1
    },
    {
-    "id": "on-tap-kien-thuc-chung-2026-49",
-    "no": 49,
-    "text": "Tại Đà Nẵng, khu du lịch nào của Sun Group tiếp tục được xướng tên là “Khu du lịch chủ đề hàng đầu châu Á” lần thứ 6 liên tiếp kể từ năm 2020?",
+    "id": "kien-thuc-chung-25",
+    "no": 25,
+    "text": "Dự án Sun Premier Village Primavera còn có tên gọi khác là gì?",
     "options": [
-     "Sun World Fansipan Legend",
-     "Sun World Hon Thom Nature Park",
-     "Sun World Ba Na Hills",
-     "Sun World Ha Long Complex"
+     "Công viên nước hiện đại bậc nhất Đông Nam Á",
+     "Tổ hợp nghỉ dưỡng khoáng nóng",
+     "Thị trấn Địa Trung Hải",
+     "Show diễn đa phương tiện trên mặt nước lớn nhất Châu Á"
     ],
     "answer": 2
    },
    {
-    "id": "on-tap-kien-thuc-chung-2026-50",
-    "no": 50,
-    "text": "Hệ thống cáp treo nào đạt kỷ lục thế giới với cabin có sức chứa lớn nhất thế giới với 230 người?",
-    "options": [
-     "Cáp treo Suối Mơ – Bà Nà",
-     "Hệ thống cáp treo tại Sun World Ha Long",
-     "Cáp treo 3 dây của Sun World Fansipan Legend",
-     "Cáp treo Hòn Thơm"
-    ],
-    "answer": 1
-   },
-   {
-    "id": "on-tap-kien-thuc-chung-2026-51",
-    "no": 51,
-    "text": "Hai danh hiệu mà Premier Residences Phu Quoc Emerald Bay đạt được tại World Travel Awards 2025 là gì?",
-    "options": [
-     "Khu nghỉ dưỡng & spa sang trọng hàng đầu châu Á 2025 và Khu nghỉ dưỡng tiệc cưới sang trọng hàng đầu châu Á 2025",
-     "Khu nghỉ dưỡng phong cách hàng đầu Việt Nam 2025 và Khách sạn thiết kế hàng đầu Việt Nam 2025",
-     "Khu nghỉ dưỡng sinh thái hàng đầu châu Á 2025 và Khu nghỉ dưỡng sáng tạo nhất năm 2025",
-     "Khu nghỉ dưỡng biển dành cho gia đình hàng đầu châu Á 2025 và Khu nghỉ dưỡng biệt thự hàng đầu châu Á 2025"
-    ],
-    "answer": 3
-   },
-   {
-    "id": "on-tap-kien-thuc-chung-2026-52",
-    "no": 52,
-    "text": "Tôn tượng Bồ Tát Di Lặc trên đỉnh Núi Bà Đen được xem là bức tượng Di Lặc bằng đá sa thạch lớn bậc nhất thế giới. Bức tượng này có chiều cao và trọng lượng lần lượt là bao nhiêu?",
-    "options": [
-     "Cao 54m, nặng 5.000 tấn",
-     "Cao 36m, nặng 5.112 tấn",
-     "Cao 45m, nặng 4.651 tấn",
-     "Cao 30m, nặng 3.000 tấn"
-    ],
-    "answer": 1
-   },
-   {
-    "id": "on-tap-kien-thuc-chung-2026-53",
-    "no": 53,
-    "text": "Khách sạn có đến 47 phòng, được đặt tên theo các huyền thoại lừng danh thế giới là khách sạn nào?",
-    "options": [
-     "Khách sạn Capella Hanoi",
-     "New World Phu Quoc Resort (Phú Quốc)",
-     "Khách sạn Mercure French Village Bana Hills",
-     "Khách sạn Novotel Danang Premier Han River Hotel (Đà Nẵng)"
-    ],
-    "answer": 0
-   },
-   {
-    "id": "on-tap-kien-thuc-chung-2026-54",
-    "no": 54,
-    "text": "Tại Lễ trao giải World Travel Awards (WTA) châu Á – Thái Bình Dương 2025 diễn ra tại Hong Kong, Sun Group đã đạt được thành tích đặc biệt nào?",
-    "options": [
-     "Doanh nghiệp sáng tạo nhất khu vực",
-     "Doanh nghiệp phát triển điểm đến văn hóa hàng đầu châu Á 2025.",
-     "Tập đoàn du lịch hàng đầu châu Á lần thứ 4 liên tiếp",
-     "Nhà phát triển đô thị hàng đầu thế giới"
-    ],
-    "answer": 2
-   },
-   {
-    "id": "on-tap-kien-thuc-chung-2026-55",
-    "no": 55,
+    "id": "kien-thuc-chung-26",
+    "no": 26,
     "text": "Hotel de la Coupole – Mgallery được ví von với điều gì?",
     "options": [
      "\"Kỳ tích trí tuệ Việt Nam\"",
-     "\"Kỷ lục Guinness Việt Nam\"",
      "\"Tuyệt phẩm kiến trúc Pháp giữa lòng Sapa\"",
+     "\"Kỷ lục Guinness Việt Nam\"",
      "\"Sự độc đáo hiếm có\""
     ],
-    "answer": 2
+    "answer": 1
    },
    {
-    "id": "on-tap-kien-thuc-chung-2026-56",
-    "no": 56,
-    "text": "Tòa tháp 69 tầng nằm trong đại dự án Da Nang Downtown có phần thân tháp gợi hình ảnh gì?",
+    "id": "kien-thuc-chung-27",
+    "no": 27,
+    "text": "Khi thiết kế khách sạn Capella Hanoi, kiến trúc sư Bill Bensley đã hình dung khách sạn như thế nào?",
     "options": [
-     "Cánh buồm vươn khơi",
-     "Ngọn hải đăng bên biển",
-     "Cánh chim hải âu",
-     "Tà áo dài"
+     "Công viên nước hiện đại bậc nhất Đông Nam Á",
+     "Tổ hợp nghỉ dưỡng khoáng nóng",
+     "Tuyệt phẩm kiến trúc Pháp",
+     "Một quán trọ nhỏ, chào đón các ca sĩ opera, nghệ sĩ, nhà soạn nhạc, nhà thiết kế… đến thăm và nghỉ lại trước hoặc sau đêm diễn"
     ],
     "answer": 3
    },
    {
-    "id": "on-tap-kien-thuc-chung-2026-57",
-    "no": 57,
-    "text": "Các trò chơi, tiện ích độc đáo nào dưới đây đã xuất hiện tại Công viên nước Sun World Vũng Tàu?",
+    "id": "kien-thuc-chung-28",
+    "no": 28,
+    "text": "Khách sạn có đến 47 phòng, được đặt tên theo các huyền thoại lừng danh thế giới là khách sạn nào?",
     "options": [
-     "Tàu lượn nước siêu tốc dài nhất thế giới (348m), đường trượt nước 15 làn đầu tiên trên thế giới",
-     "Tàu lượn nước siêu tốc dài nhất châu Á – Thái Bình Dương (348m), dòng sông lười dài nhất thế giới",
-     "Tàu lượn nước siêu tốc dài nhất châu Á – Thái Bình Dương (348m), đường trượt nước 10 làn đầu tiên trên thế giới",
-     "Tàu lượn nước siêu tốc dài nhất thế giới (348m), đường trượt nước 10 làn đầu tiên trên thế giới"
-    ],
-    "answer": 2
-   },
-   {
-    "id": "on-tap-kien-thuc-chung-2026-58",
-    "no": 58,
-    "text": "Năm 2018 đánh dấu sự kiện gì của Tập đoàn Sun Group?",
-    "options": [
-     "Ra mắt thương hiệu Sun Hospitality Group quy tụ các khách sạn, khu nghỉ dưỡng của Sun Group.",
-     "Khánh thành tòa nhà văn phòng Sun City",
-     "Khánh thành tuyến cáp treo đầu tiên Suối Mơ – Bà Nà",
-     "Khai trương khu du lịch Sun World Ba Na Hills"
+     "Khách sạn Capella Hanoi",
+     "Khách sạn Novotel Danang Premier Han River Hotel (Đà Nẵng)",
+     "New World Phu Quoc Resort (Phú Quốc)",
+     "Khách sạn Mercure French Village Bana Hills"
     ],
     "answer": 0
    },
    {
-    "id": "on-tap-kien-thuc-chung-2026-59",
-    "no": 59,
-    "text": "Sun Group khánh thành tuyến cáp treo đầu tiên - Sun World Ba Na Hills vào năm nào?",
+    "id": "kien-thuc-chung-29",
+    "no": 29,
+    "text": "Được thiết kế bởi Luke Donald và quản lý bởi Tập đoàn IMG, sân golf đang vận hành nào có 18 lỗ?",
     "options": [
-     "Năm 2010",
-     "Năm 2008",
-     "Năm 2007",
-     "Năm 2009"
+     "Eschuri Hon Thom Golf",
+     "Bana Hills Golf Club",
+     "Eschuri Vung Bau Golf",
+     "Novotel Golf Club"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "kien-thuc-chung-30",
+    "no": 30,
+    "text": "Ý tưởng thiết kế của dự án Khách sạn JW Marriott Emerald Bay Resort bắt nguồn từ đâu?",
+    "options": [
+     "Tuyệt phẩm kiến trúc Pháp",
+     "Một quán trọ nhỏ, chào đón các ca sĩ opera, nghệ sĩ, nhà soạn nhạc, nhà thiết kế… đến thăm và nghỉ lại trước hoặc sau đêm diễn",
+     "Là tuyệt tác kiến trúc hai mặt biển duy nhất",
+     "Từ một ngôi trường đại học cổ"
     ],
     "answer": 3
    },
    {
-    "id": "on-tap-kien-thuc-chung-2026-60",
-    "no": 60,
-    "text": "Ngôi trường nội trú tại Điện Biên do Sun Group triển khai và được coi là công trình của lòng dân với kỳ tích 5 tháng thi công có tên là gì?",
-    "options": [
-     "Trường PTDTNT Điện Biên Đông",
-     "Trường PTDTNT Mường Nhé",
-     "Trường PTDTNT Tủa Chùa",
-     "Trường PTDTBT Si Pa Phìn"
-    ],
-    "answer": 3
-   },
-   {
-    "id": "on-tap-kien-thuc-chung-2026-61",
-    "no": 61,
+    "id": "kien-thuc-chung-31",
+    "no": 31,
     "text": "Sun Signature Gallery là công trình do kiến trúc sư Bill Bensley thiết kế nhằm tái hiện, lưu giữ điều gì?",
     "options": [
+     "Tuyệt phẩm kiến trúc Pháp",
      "Một quán trọ nhỏ, chào đón các ca sĩ opera, nghệ sĩ, nhà soạn nhạc, nhà thiết kế… đến thăm và nghỉ lại trước hoặc sau đêm diễn",
-     "Những nét độc đáo nhất của phong cách nghệ thuật Mid Century Modern giữa thế kỷ 20",
      "Là tuyệt tác kiến trúc hai mặt biển duy nhất",
-     "Tuyệt phẩm kiến trúc Pháp"
-    ],
-    "answer": 1
-   },
-   {
-    "id": "on-tap-kien-thuc-chung-2026-62",
-    "no": 62,
-    "text": "Sun Group khai trương 03 công trình giao thông Không - Thủy - Bộ (Cảng Hàng không Quốc tế Vân Đồn - Cảng tàu khách Quốc tế Hạ Long - Đường cao tốc Hạ Long - Vân Đồn tại Quảng Ninh vào năm nào?",
-    "options": [
-     "Năm 2017",
-     "Năm 2015",
-     "Năm 2016",
-     "Năm 2018"
+     "Những nét độc đáo nhất của phong cách nghệ thuật Mid Century Modern giữa thế kỷ 20"
     ],
     "answer": 3
    },
    {
-    "id": "on-tap-kien-thuc-chung-2026-63",
-    "no": 63,
+    "id": "kien-thuc-chung-32",
+    "no": 32,
+    "text": "“Sự hoà quyện của sắc màu dân tộc thiểu số cùng sự quyến rũ của thời trang những năm 1920-1930 với phong cách Pháp Thượng Lưu” là mô tả cho khách sạn nào?",
+    "options": [
+     "Hotel de la Coupole – Mgallery",
+     "Khách sạn Novotel Danang Premier Han River Hotel (Đà Nẵng)",
+     "New World Phu Quoc Resort (Phú Quốc)",
+     "Khách sạn Mercure French Village Bana Hills"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "kien-thuc-chung-33",
+    "no": 33,
+    "text": "Ông Ngâu - Bà Ngâu là thiết kế lấy cảm hứng từ truyện cổ tích/truyền thuyết Việt Nam cho cây cầu nào?",
+    "options": [
+     "Cầu Vàng",
+     "Cầu Hôn",
+     "Cầu Sông Hàn",
+     "Cầu Thuận Phước"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "kien-thuc-chung-34",
+    "no": 34,
     "text": "Asia Park là công trình nào sở hữu các nét kiến trúc, hình ảnh tượng trưng cho điều gì?",
     "options": [
+     "08 quốc gia châu Á",
      "09 quốc gia châu Á",
      "10 quốc gia châu Á",
-     "11 quốc gia châu Á",
-     "08 quốc gia châu Á"
+     "11 quốc gia châu Á"
     ],
-    "answer": 1
+    "answer": 2
    },
    {
-    "id": "on-tap-kien-thuc-chung-2026-64",
-    "no": 64,
-    "text": "Khu nghỉ dưỡng nào của Sun Group tại Phú Quốc giành hai giải thưởng châu lục gồm “Khu nghỉ dưỡng & spa sang trọng hàng đầu châu Á 2025” và “Khu nghỉ dưỡng tiệc cưới sang trọng hàng đầu châu Á 2025”?",
+    "id": "kien-thuc-chung-35",
+    "no": 35,
+    "text": "Sự kiện ra mắt Sun PhuQuoc Airways – hãng hàng không đầu tiên mang tên một hòn đảo – được tổ chức vào thời gian và địa điểm nào?",
     "options": [
-     "Premier Village Phu Quoc Resort",
-     "JW Marriott Phu Quoc Emerald Bay Resort",
-     "Premier Residences Phu Quoc Emerald Bay",
-     "La Festa Phu Quoc – Curio Collection by Hilton"
+     "Ngày 15/10/2025 tại Ballroom Ascott Tây Hồ – Hà Nội",
+     "Ngày 1/11/2025 tại JW Marriott Phu Quoc",
+     "Ngày 25/9/2025 tại Sun Grand City Hạ Long",
+     "Ngày 20/10/2025 tại Sun World Ba Na Hills"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "kien-thuc-chung-36",
+    "no": 36,
+    "text": "Sun PhuQuoc Airways được ra mắt nhằm hoàn thiện mô hình nào trong hệ sinh thái của Sun Group?",
+    "options": [
+     "“Du lịch thông minh – chuyển đổi số toàn diện”",
+     "“Hàng không nghỉ dưỡng” – kết nối trải nghiệm từ bầu trời đến mặt đất",
+     "“Bất động sản xanh – năng lượng sạch”",
+     "“Vui chơi – ẩm thực – thương mại”"
     ],
     "answer": 1
    },
    {
-    "id": "on-tap-kien-thuc-chung-2026-65",
-    "no": 65,
+    "id": "kien-thuc-chung-37",
+    "no": 37,
+    "text": "Bộ đồng phục của phi hành đoàn Sun PhuQuoc Airways được thiết kế lấy cảm hứng từ đâu?",
+    "options": [
+     "Áo dài truyền thống Việt Nam kết hợp phong cách châu Âu hiện đại",
+     "Tà áo ngũ thân xứ Bắc và phong thái của Nam Phương Hoàng hậu",
+     "Trang phục phi công của hãng Airbus châu Âu",
+     "Đồng phục hoàng gia Anh thế kỷ XX"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "kien-thuc-chung-38",
+    "no": 38,
+    "text": "Dự án mở rộng Cảng Hàng không Quốc tế Phú Quốc do những đơn vị tư vấn thiết kế hàng đầu thế giới nào đảm nhiệm?",
+    "options": [
+     "CPG Consultants (Singapore) và Artelia Airport (Pháp)",
+     "Foster + Partners (Anh) và Aedas (Hong Kong)",
+     "Atkins (Mỹ) và Nikken Sekkei (Nhật Bản)",
+     "Gensler (Mỹ) và KPF (Anh)"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "kien-thuc-chung-39",
+    "no": 39,
+    "text": "Kiến trúc nhà ga hành khách chính của sân bay Phú Quốc được lấy cảm hứng từ hình tượng nào?",
+    "options": [
+     "Cá voi – biểu tượng của đại dương",
+     "Chim hải âu – biểu tượng của tự do",
+     "Phượng Hoàng – biểu tượng của hoàng gia, quyền lực và cao quý",
+     "Cánh buồm – biểu tượng của hành trình"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "kien-thuc-chung-40",
+    "no": 40,
+    "text": "Ai là kiến trúc sư đảm nhiệm thiết kế nhà ga VIP của sân bay Phú Quốc, đồng thời là “cha đẻ” của biểu tượng Cầu Hôn nổi tiếng?",
+    "options": [
+     "Renzo Piano",
+     "Marco Casamonti",
+     "Tadao Ando",
+     "Norman Foster"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "kien-thuc-chung-41",
+    "no": 41,
+    "text": "Bệnh viện Mặt Trời là thương hiệu đầu tiên thuộc hệ thống nào trong hệ sinh thái của Sun Group?",
+    "options": [
+     "Sun Hospitality Group",
+     "Sun Property",
+     "SunGroup Healthcare",
+     "Sun World"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "kien-thuc-chung-42",
+    "no": 42,
+    "text": "Mô hình mà Bệnh viện Mặt Trời được đầu tư và vận hành hướng đến là gì?",
+    "options": [
+     "Bệnh viện truyền thống",
+     "Bệnh viện – khách sạn quốc tế, kết hợp y tế hiện đại và dịch vụ cao cấp",
+     "Trung tâm y tế cộng đồng",
+     "Mô hình điều dưỡng – phục hồi chức năng"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "kien-thuc-chung-43",
+    "no": 43,
+    "text": "Trong hệ sinh thái Sun Group, lĩnh vực nghệ thuật được phát triển với mục tiêu chính là gì?",
+    "options": [
+     "Thúc đẩy kinh doanh và quảng bá thương hiệu",
+     "Tạo ra sản phẩm giải trí thuần túy phục vụ khách du lịch",
+     "Kiến tạo chuẩn mực cảm xúc mới, lan tỏa tinh hoa văn hóa Việt",
+     "Nâng cao doanh thu từ dịch vụ biểu diễn nghệ thuật"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "kien-thuc-chung-44",
+    "no": 44,
+    "text": "Dàn nhạc nào được Sun Group thành lập từ năm 2017, đóng vai trò quan trọng trong việc đưa âm nhạc hàn lâm đến gần hơn với công chúng Việt Nam?",
+    "options": [
+     "Sun Philharmonic Orchestra",
+     "Sun Symphony Orchestra (SSO)",
+     "Vietnam Chamber Ensemble",
+     "Sun Art Ensemble"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "kien-thuc-chung-45",
+    "no": 45,
+    "text": "Ý tưởng quy hoạch 9 công viên ven biển tại Blanca City của Sun Group thể hiện triết lý phát triển nào của Tập đoàn?",
+    "options": [
+     "Mô hình “thành phố không ngủ” hướng đến giải trí ban đêm",
+     "Ưu tiên tối đa hóa diện tích xây dựng để tăng mật độ thương mại",
+     "Kiến tạo không gian sống “như nghỉ dưỡng” – nơi cư dân hòa mình với thiên nhiên và cảm xúc",
+     "Phát triển đô thị hướng tâm – mở rộng khu dân cư về phía nội địa"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "kien-thuc-chung-46",
+    "no": 46,
     "text": "Công viên Whale Park trong hệ thống 9 công viên mang biểu tượng loài cá voi – hình ảnh này được lựa chọn để thể hiện điều gì trong triết lý thiết kế của Sun Group?",
     "options": [
      "Tượng trưng cho sự bao dung, may mắn và tinh thần gắn kết của cộng đồng ven biển",
@@ -2314,44 +2086,308 @@ window.QUESTION_BANKS = [
     "answer": 0
    },
    {
-    "id": "on-tap-kien-thuc-chung-2026-66",
-    "no": 66,
-    "text": "Chương trình khách hàng thân thiết của Sun Group được kích hoạt ngày 13/6 có tên là gì?",
+    "id": "kien-thuc-chung-47",
+    "no": 47,
+    "text": "Premier Village Phú Quốc được đánh giá như thế nào trong hệ thống khách sạn của Sun Group?",
     "options": [
-     "Sun Elite Club",
-     "Sun Rewards",
-     "Sun Member Plus",
-     "Sun Signature"
-    ],
-    "answer": 3
-   },
-   {
-    "id": "on-tap-kien-thuc-chung-2026-67",
-    "no": 67,
-    "text": "Được thiết kế bởi Luke Donald và quản lý bởi Tập đoàn IMG, sân golf đang vận hành nào có 18 lỗ?",
-    "options": [
-     "Novotel Golf Club",
-     "Eschuri Vung Bau Golf",
-     "Bana Hills Golf Club",
-     "Eschuri Hon Thom Golf"
-    ],
-    "answer": 2
-   },
-   {
-    "id": "on-tap-kien-thuc-chung-2026-68",
-    "no": 68,
-    "text": "Tuyến cáp treo Sun World Fansipan Legend được so sánh với điều gì bởi độ khó trong thi công và đạt 02 kỷ lục thế giới khi ra mắt?",
-    "options": [
-     "\"Kỳ tích trí tuệ Việt Nam\"",
-     "\"Chuẩn mực quốc tế\"",
-     "\"Sự độc đáo hiếm có\"",
-     "\"Kỷ lục Guinness Việt Nam\""
+     "Là tuyệt tác kiến trúc hai mặt biển duy nhất",
+     "Là khách sạn sân bay đầu tiên do Sun Group đầu tư và vận hành",
+     "Là một quán trọ nhỏ, chào đón các ca sĩ opera, nghệ sĩ, nhà soạn nhạc, nhà thiết kế… đến thăm và nghỉ lại trước hoặc sau đêm diễn",
+     "Là khu nghỉ dưỡng gia đình quy mô lớn nhất của Sun Group tại miền Bắc"
     ],
     "answer": 0
    },
    {
-    "id": "on-tap-kien-thuc-chung-2026-69",
+    "id": "kien-thuc-chung-48",
+    "no": 48,
+    "text": "Tại lễ trao giải Envision 2026 diễn ra ở Thượng Hải, Sun Hospitality & Entertainment Group (S.H.E) đã được nền tảng du lịch hàng đầu thế giới Trip.com vinh danh trong hạng mục Giải thưởng nào?",
+    "options": [
+     "Giải thưởng Đối tác chiến lược",
+     "Giải thưởng Quan hệ Nhà đầu tư tốt nhất toàn cầu",
+     "Giải thưởng Tập đoàn du lịch hàng đầu thế giới",
+     "Giải thưởng Nhà đầu tư chiến lược"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "kien-thuc-chung-49",
+    "no": 49,
+    "text": "Nhà hàng nào tại Phú Quốc vinh dự nhận Kỷ lục Guinness với danh hiệu \"Nhà hàng bia ven biển lớn nhất thế giới\"?",
+    "options": [
+     "Sun Bavaria GastroPub",
+     "Santo Beach Club (Hòn Thơm)",
+     "Nhà hàng Mare Seta (La Festa Phu Quoc)",
+     "Corallo (Premier Village Phu Quoc Resort)"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "kien-thuc-chung-50",
+    "no": 50,
+    "text": "Công viên nước Sun World Vũng Tàu với quy mô 19 ha lấy cảm hứng từ hình ảnh nào?",
+    "options": [
+     "Khu đô thị trẻ",
+     "Chợ nổi Nam Bộ",
+     "Đại Tây Dương",
+     "Rừng dừa Nam Bộ"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "kien-thuc-chung-51",
+    "no": 51,
+    "text": "Các trò chơi, tiện ích độc đáo nào dưới đây đã xuất hiện tại Công viên nước Sun World Vũng Tàu?",
+    "options": [
+     "Tàu lượn nước siêu tốc dài nhất châu Á – Thái Bình Dương (348m), đường trượt nước 10 làn đầu tiên trên thế giới",
+     "Tàu lượn nước siêu tốc dài nhất thế giới (348m), đường trượt nước 10 làn đầu tiên trên thế giới",
+     "Tàu lượn nước siêu tốc dài nhất thế giới (348m), đường trượt nước 15 làn đầu tiên trên thế giới",
+     "Tàu lượn nước siêu tốc dài nhất châu Á – Thái Bình Dương (348m), dòng sông lười dài nhất thế giới"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "kien-thuc-chung-52",
+    "no": 52,
+    "text": "Sun Group chính thức vận hành Cảng hàng không Quốc tế Phú Quốc kể từ thời điểm nào",
+    "options": [
+     "00:00 ngày 01/01/2026",
+     "00:00 ngày 01/02/2026",
+     "00:00 ngày 01/01/2025",
+     "12:00 ngày 01/01/2026"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "kien-thuc-chung-53",
+    "no": 53,
+    "text": "Tay trái của tôn tượng Đức Phật Câu Na Hàm trên đỉnh Núi Bà Đen có nâng quả gì?",
+    "options": [
+     "Quả sung",
+     "Quả na (mãng cầu)",
+     "Quả dừa",
+     "Quả xoài"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "kien-thuc-chung-54",
+    "no": 54,
+    "text": "Trên đỉnh núi Bà Đen, tôn tượng của vị Phật nào tượng trưng cho hiện tại?",
+    "options": [
+     "Phật Bà Tây Bổ Đà Sơn",
+     "Đức Phật Câu Na Hàm Mâu Ni",
+     "Bồ Tát Di Lặc",
+     "Quan Thế Âm Bồ Tát"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "kien-thuc-chung-55",
+    "no": 55,
+    "text": "Chương trình khách hàng thân thiết của Sun Group được kích hoạt ngày 13/6 có tên là gì?",
+    "options": [
+     "Sun Rewards",
+     "Sun Elite Club",
+     "Sun Signature",
+     "Sun Member Plus"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "kien-thuc-chung-56",
+    "no": 56,
+    "text": "Năm 2026, Sun World Fansipan Legend kỷ niệm bao nhiêu năm tuyến cáp treo Fansipan chính thức vận hành?",
+    "options": [
+     "8 năm",
+     "9 năm",
+     "10 năm",
+     "11 năm"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "kien-thuc-chung-57",
+    "no": 57,
+    "text": "Tính đến năm 2026, Sun Group đã đồng hành cùng Michelin được bao nhiêu mùa?",
+    "options": [
+     "2 mùa",
+     "3 mùa",
+     "4 mùa",
+     "5 năm"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "kien-thuc-chung-58",
+    "no": 58,
+    "text": "Cùng với Sunset Town, tiệm bánh Pháp Eric Kayser còn có mặt ở công viên nào của Sun Group?",
+    "options": [
+     "Sun World Ba Na Hills",
+     "Sun World Fansipan Legend",
+     "Sun World Ha Long",
+     "Sun World Hon Thom"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "kien-thuc-chung-59",
+    "no": 59,
+    "text": "Tôn tượng Phật Đại Nhật Như Lai và Quần thể Du lịch Am Tiên của Sun Group đang được xây dựng đặt tại tỉnh nào?",
+    "options": [
+     "Đồng Nai",
+     "Lào Cai",
+     "Thanh Hóa",
+     "Tây Ninh"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "kien-thuc-chung-60",
+    "no": 60,
+    "text": "Cáp treo Fansipan tại khu du lịch Sun World Fansipan Legend (Sa Pa) đã được Tổ chức Kỷ lục Thế giới Guinness trao tặng bao nhiêu kỷ lục thế giới trong ngày khánh thành?",
+    "options": [
+     "1 kỷ lục",
+     "2 kỷ lục",
+     "3 kỷ lục",
+     "4 kỷ lục"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "kien-thuc-chung-61",
+    "no": 61,
+    "text": "Ngôi trường nội trú tại Điện Biên do Sun Group triển khai và được coi là công trình của lòng dân với kỳ tích 5 tháng thi công có tên là gì?",
+    "options": [
+     "Trường PTDTNT Tủa Chùa",
+     "Trường PTDTNT Mường Nhé",
+     "Trường PTDTBT Si Pa Phìn",
+     "Trường PTDTNT Điện Biên Đông"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "kien-thuc-chung-62",
+    "no": 62,
+    "text": "Cùng với Cảng HKQT Phú Quốc, Sun Group đang vận hành thêm Cảng HKQT nào khác?",
+    "options": [
+     "Cảng HKQT Cam Ranh",
+     "Cảng HKQT Đà Nẵng",
+     "Cảng HKQT Vân Đồn",
+     "Cảng HKQT Cát Bi"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "kien-thuc-chung-63",
+    "no": 63,
+    "text": "Cây cầu khánh thành năm 2018 và nổi tiếng toàn cầu nhờ hình ảnh đôi bàn tay khổng lồ rêu phong vươn ra từ núi rừng để nâng niu dải lụa vàng óng ả, có tên là gì?",
+    "options": [
+     "Cầu Tình Yêu",
+     "Cầu Thuận Phước",
+     "Cầu Vàng",
+     "Cầu Rồng"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "kien-thuc-chung-64",
+    "no": 64,
+    "text": "Tòa tháp 69 tầng nằm trong đại dự án Da Nang Downtown có phần thân tháp gợi hình ảnh gì?",
+    "options": [
+     "Cánh buồm vươn khơi",
+     "Ngọn hải đăng bên biển",
+     "Tà áo dài",
+     "Cánh chim hải âu"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "kien-thuc-chung-65",
+    "no": 65,
+    "text": "Khu nghỉ dưỡng nào của Sun Group được Bill Bensley thiết kế độc đáo với 4 tầng \"Thiên đường - Bầu trời - Mặt đất - Biển cả\"?",
+    "options": [
+     "Hotel de la Coupole - MGallery Sa Pa",
+     "InterContinental Danang Sun Peninsula Resort",
+     "JW Marriott Phu Quoc Emerald Bay",
+     "New World Phu Quoc Resort"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "kien-thuc-chung-66",
+    "no": 66,
+    "text": "Chuyến bay thương mại đầu tiên của Sun PhuQuoc Airways cất cánh vào ngày tháng năm nào?",
+    "options": [
+     "01/01/2026 00:00:00",
+     "30/04/2026",
+     "02/09/2026 00:00:00",
+     "11/01/2025 00:00:00"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "kien-thuc-chung-67",
+    "no": 67,
+    "text": "Khối Y tế đang vận hành bao nhiêu bệnh viện Mặt trời trên khắp cả nước?",
+    "options": [
+     "2 bệnh viện",
+     "3 bệnh viện",
+     "4 bệnh viện",
+     "5 bệnh viện"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "kien-thuc-chung-68",
+    "no": 68,
+    "text": "Xưởng bia thủ công BaNa Brew House (và dòng bia Sun KraftBeer) trên đỉnh Sun World Ba Na Hills đã chính thức khai trương năm nào?",
+    "options": [
+     "2021",
+     "2022",
+     "2023",
+     "2024"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "kien-thuc-chung-69",
     "no": 69,
+    "text": "Nhà hát Ngọc Trai (còn gọi là Nhà hát Opera Hà Nội) do KTS nổi tiếng nào thiết kế",
+    "options": [
+     "Norman Foster",
+     "Santiago Calatrava",
+     "Renzo Piano",
+     "Bill Bensley"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "kien-thuc-chung-70",
+    "no": 70,
+    "text": "Đội tuyển vô địch. Lễ hội Pháo hoa quốc tế Đà Nẵng DIFF 2026 đến từ nước nào?",
+    "options": [
+     "Việt Nam",
+     "Pháp",
+     "Trung Quốc",
+     "Bồ Đào Nha"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "kien-thuc-chung-71",
+    "no": 71,
+    "text": "Sun Group được thành lập năm 1998 tại quốc gia nào?",
+    "options": [
+     "Ukraine",
+     "Pháp",
+     "Việt Nam",
+     "Singapore"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "kien-thuc-chung-72",
+    "no": 72,
     "text": "SHE là tên viết tắt của Khối Giải trí Nghỉ dưỡng Sun Group với tên tiếng Anh nào?",
     "options": [
      "Sun Housing and Engineering",
@@ -2362,8 +2398,8 @@ window.QUESTION_BANKS = [
     "answer": 3
    },
    {
-    "id": "on-tap-kien-thuc-chung-2026-70",
-    "no": 70,
+    "id": "kien-thuc-chung-73",
+    "no": 73,
     "text": "Năm 2007 đánh dấu bước ngoặt nào trong hành trình Sun Group?",
     "options": [
      "Thành lập tại Ukraine",
@@ -2374,8 +2410,8 @@ window.QUESTION_BANKS = [
     "answer": 1
    },
    {
-    "id": "on-tap-kien-thuc-chung-2026-71",
-    "no": 71,
+    "id": "kien-thuc-chung-74",
+    "no": 74,
     "text": "Dự án Rixos Phu Quoc Vietnam tại Hòn Thơm được phát triển theo mô hình nghỉ dưỡng nào?",
     "options": [
      "Boutique resort, khu nghỉ dưỡng quy mô nhỏ có bản sắc riêng",
@@ -2386,8 +2422,8 @@ window.QUESTION_BANKS = [
     "answer": 3
    },
    {
-    "id": "on-tap-kien-thuc-chung-2026-72",
-    "no": 72,
+    "id": "kien-thuc-chung-75",
+    "no": 75,
     "text": "Ba công trình khai trương, thông tuyến cuối năm 2018 tạo dấu ấn kết nối Không – Thủy – Bộ tại Quảng Ninh là nhóm nào?",
     "options": [
      "Sân bay Vân Đồn – Cảng Hải Phòng – Cao tốc Nội Bài–Lào Cai",
@@ -2398,8 +2434,8 @@ window.QUESTION_BANKS = [
     "answer": 1
    },
    {
-    "id": "on-tap-kien-thuc-chung-2026-73",
-    "no": 73,
+    "id": "kien-thuc-chung-76",
+    "no": 76,
     "text": "Công trình nào đánh dấu việc Sun Group khai trương khu du lịch Bà Nà năm 2009?",
     "options": [
      "Làng Pháp",
@@ -2410,8 +2446,8 @@ window.QUESTION_BANKS = [
     "answer": 3
    },
    {
-    "id": "on-tap-kien-thuc-chung-2026-74",
-    "no": 74,
+    "id": "kien-thuc-chung-77",
+    "no": 77,
     "text": "Tại Quảng trường Thời Đại trong đại đô thị Sun Urban City ở Ninh Bình, biểu tượng nào gợi nhắc nghề truyền thống và bản sắc của vùng đất Hà Nam?",
     "options": [
      "Tượng Thánh Gióng",
@@ -2422,8 +2458,8 @@ window.QUESTION_BANKS = [
     "answer": 2
    },
    {
-    "id": "on-tap-kien-thuc-chung-2026-75",
-    "no": 75,
+    "id": "kien-thuc-chung-78",
+    "no": 78,
     "text": "Một đồng nghiệp hỏi: hợp tác Sun Group – Marriott International công bố tháng 9/2026 mở rộng nhóm sản phẩm nào?",
     "options": [
      "Hãng hàng không, đội bay thân rộng và dịch vụ mặt đất",
@@ -2434,9 +2470,21 @@ window.QUESTION_BANKS = [
     "answer": 3
    },
    {
-    "id": "on-tap-kien-thuc-chung-2026-76",
-    "no": 76,
-    "text": "Một du khách muốn chiêm bái Tượng Phật Bà Tây Bổ Đà Sơn và Tôn tượng Bồ Tát Di Lặc trong hệ sinh thái Sun Group. Chị/anh giới thiệu điểm đến nào?",
+    "id": "kien-thuc-chung-79",
+    "no": 79,
+    "text": "Tại World Travel Awards 2026, Sun Group được vinh danh với danh hiệu nào?",
+    "options": [
+     "Tập đoàn du lịch hàng đầu châu Á",
+     "Thương hiệu bán lẻ hàng đầu châu Á",
+     "Nhà điều hành sân bay hàng đầu châu Á",
+     "Hãng hàng không hàng đầu châu Á"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "kien-thuc-chung-80",
+    "no": 80,
+    "text": "Một du khách muốn chiêm bái Tượng Phật Bà Tây Bổ Đà Sơn và Tôn tượng Bồ Tát Di Lặc trong hệ sinh thái Sun Group",
     "options": [
      "Hòn Thơm, Phú Quốc",
      "Fansipan, Sa Pa",
@@ -2446,8 +2494,8 @@ window.QUESTION_BANKS = [
     "answer": 3
    },
    {
-    "id": "on-tap-kien-thuc-chung-2026-77",
-    "no": 77,
+    "id": "kien-thuc-chung-81",
+    "no": 81,
     "text": "Khu du lịch nào của Sun Group được WTA 2026 vinh danh ở cả hai hạng mục Công viên chủ đề hàng đầu châu Á và Cáp treo hàng đầu châu Á?",
     "options": [
      "Khu du lịch Núi Bà Đen",
@@ -2458,8 +2506,20 @@ window.QUESTION_BANKS = [
     "answer": 1
    },
    {
-    "id": "on-tap-kien-thuc-chung-2026-78",
-    "no": 78,
+    "id": "kien-thuc-chung-82",
+    "no": 82,
+    "text": "Cảng hàng không nào trong hệ sinh thái Sun Group được WTA 2026 vinh danh là sân bay khu vực hàng đầu châu Á?",
+    "options": [
+     "Cảng hàng không quốc tế Đà Nẵng",
+     "Cảng hàng không quốc tế Phú Quốc",
+     "Cảng hàng không quốc tế Cát Bi",
+     "Cảng hàng không quốc tế Vân Đồn"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "kien-thuc-chung-83",
+    "no": 83,
     "text": "Điểm đến nào được Sun Group đưa tin đã vượt Bali trong bảng xếp hạng các đảo tuyệt vời nhất châu Á của Travel + Leisure năm 2026?",
     "options": [
      "Lý Sơn",
@@ -2470,8 +2530,8 @@ window.QUESTION_BANKS = [
     "answer": 2
    },
    {
-    "id": "on-tap-kien-thuc-chung-2026-79",
-    "no": 79,
+    "id": "kien-thuc-chung-84",
+    "no": 84,
     "text": "Michelin Key, danh hiệu vinh danh các cơ sở do Sun Group đầu tư năm 2026, đánh giá loại hình nào?",
     "options": [
      "Khách sạn và cơ sở lưu trú",
@@ -2482,8 +2542,20 @@ window.QUESTION_BANKS = [
     "answer": 0
    },
    {
-    "id": "on-tap-kien-thuc-chung-2026-80",
-    "no": 80,
+    "id": "kien-thuc-chung-85",
+    "no": 85,
+    "text": "Kỷ lục Guinness được công bố cho cáp treo Hòn Thơm gắn với đặc điểm nào?",
+    "options": [
+     "Trụ cáp treo cao nhất thế giới",
+     "Tuyến cáp treo ba dây dài nhất thế giới",
+     "Cabin có sức chứa lớn nhất thế giới",
+     "Tuyến cáp treo có nhiều ga nhất thế giới"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "kien-thuc-chung-86",
+    "no": 86,
     "text": "Hệ thống cáp treo được Sun Group đưa vào hoạt động năm 2016, giúp du khách tiếp cận “Nóc nhà Đông Dương”, gắn với điểm đến nào?",
     "options": [
      "Bà Nà, Đà Nẵng",
@@ -2494,8 +2566,8 @@ window.QUESTION_BANKS = [
     "answer": 1
    },
    {
-    "id": "on-tap-kien-thuc-chung-2026-81",
-    "no": 81,
+    "id": "kien-thuc-chung-87",
+    "no": 87,
     "text": "Trong hợp tác với Changi Airports International, mô hình “sân bay điểm đến” tại Phú Quốc được hiểu như thế nào?",
     "options": [
      "Sân bay kết hợp vận chuyển với mua sắm, ẩm thực và các trải nghiệm hấp dẫn",
@@ -2506,8 +2578,8 @@ window.QUESTION_BANKS = [
     "answer": 0
    },
    {
-    "id": "on-tap-kien-thuc-chung-2026-82",
-    "no": 82,
+    "id": "kien-thuc-chung-88",
+    "no": 88,
     "text": "Tại Skytrax World Airline Awards 2026, Sun PhuQuoc Airways được vinh danh ở hạng mục nào?",
     "options": [
      "Hãng hàng không giá rẻ tốt nhất châu Á",
@@ -2518,8 +2590,8 @@ window.QUESTION_BANKS = [
     "answer": 1
    },
    {
-    "id": "on-tap-kien-thuc-chung-2026-83",
-    "no": 83,
+    "id": "kien-thuc-chung-89",
+    "no": 89,
     "text": "Nhóm nào thể hiện đầy đủ sáu lĩnh vực hoạt động được Sun Group giới thiệu trên website chính thức?",
     "options": [
      "Bất động sản; giải trí nghỉ dưỡng; hạ tầng; hàng hải; y tế; nông nghiệp",
@@ -2530,9 +2602,21 @@ window.QUESTION_BANKS = [
     "answer": 3
    },
    {
-    "id": "on-tap-kien-thuc-chung-2026-84",
-    "no": 84,
-    "text": "Một du khách muốn tham quan Cầu Hôn và xem các chương trình biểu diễn tại Thị trấn Hoàng Hôn. Bạn giới thiệu điểm đến nào?",
+    "id": "kien-thuc-chung-90",
+    "no": 90,
+    "text": "Công trình nào ra mắt tại Bà Nà năm 2018, trở thành hình ảnh nhận diện nổi bật của du lịch Đà Nẵng?",
+    "options": [
+     "Cầu Hôn",
+     "Cáp treo Nữ Hoàng",
+     "Cầu Vàng",
+     "Nhà hát Opera Hà Nội"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "kien-thuc-chung-91",
+    "no": 91,
+    "text": "Một du khách muốn tham quan Cầu Hôn và xem các chương trình biểu diễn tại Thị trấn Hoàng Hôn",
     "options": [
      "Phú Quốc",
      "Hạ Long",
@@ -2542,8 +2626,8 @@ window.QUESTION_BANKS = [
     "answer": 0
    },
    {
-    "id": "on-tap-kien-thuc-chung-2026-85",
-    "no": 85,
+    "id": "kien-thuc-chung-92",
+    "no": 92,
     "text": "Trong hành trình đưa Michelin Guide đến Việt Nam và tiếp tục đồng hành năm 2026, Sun Group đảm nhận vai trò nào?",
     "options": [
      "Đơn vị trực tiếp chấm và trao sao Michelin",
@@ -2554,8 +2638,8 @@ window.QUESTION_BANKS = [
     "answer": 1
    },
    {
-    "id": "on-tap-kien-thuc-chung-2026-86",
-    "no": 86,
+    "id": "kien-thuc-chung-93",
+    "no": 93,
     "text": "Khách sạn nào đánh dấu bước phát triển nghỉ dưỡng cao cấp của Sun Group khi khánh thành năm 2012?",
     "options": [
      "JW Marriott Phu Quoc Emerald Bay Resort",
@@ -2566,8 +2650,8 @@ window.QUESTION_BANKS = [
     "answer": 3
    },
    {
-    "id": "on-tap-kien-thuc-chung-2026-87",
-    "no": 87,
+    "id": "kien-thuc-chung-94",
+    "no": 94,
     "text": "Ba khách sạn do Sun Group đầu tư được Michelin Key vinh danh năm 2026 tại Hà Nội, Sa Pa và Đà Nẵng có điểm chung nổi bật nào trong cách tạo trải nghiệm?",
     "options": [
      "Cùng lấy văn hóa và thiên nhiên của từng địa phương làm chất liệu trải nghiệm",
@@ -2578,8 +2662,8 @@ window.QUESTION_BANKS = [
     "answer": 0
    },
    {
-    "id": "on-tap-kien-thuc-chung-2026-88",
-    "no": 88,
+    "id": "kien-thuc-chung-95",
+    "no": 95,
     "text": "Khách sạn nào do Sun Group đầu tư là đại diện duy nhất của Việt Nam trong danh sách 100 khách sạn tốt nhất thế giới do The World’s 50 Best công bố năm 2026?",
     "options": [
      "Hotel de la Coupole",
@@ -2590,9 +2674,9 @@ window.QUESTION_BANKS = [
     "answer": 3
    },
    {
-    "id": "on-tap-kien-thuc-chung-2026-89",
-    "no": 89,
-    "text": "Một du khách muốn nghỉ dưỡng kết hợp tắm khoáng nóng và trải nghiệm onsen trong hệ sinh thái Sun Group. Chị/anh giới thiệu điểm đến nào?",
+    "id": "kien-thuc-chung-96",
+    "no": 96,
+    "text": "Một du khách muốn nghỉ dưỡng kết hợp tắm khoáng nóng và trải nghiệm onsen trong hệ sinh thái Sun Group",
     "options": [
      "Quang Hanh, Quảng Ninh",
      "Hòn Thơm, Phú Quốc",
@@ -2602,8 +2686,8 @@ window.QUESTION_BANKS = [
     "answer": 0
    },
    {
-    "id": "on-tap-kien-thuc-chung-2026-90",
-    "no": 90,
+    "id": "kien-thuc-chung-97",
+    "no": 97,
     "text": "Thành tựu nào được Anphabe ghi nhận cho Sun Group năm 2025, gắn trực tiếp với niềm tự hào của CBNV về môi trường làm việc?",
     "options": [
      "Top 100 Nơi làm việc tốt nhất Việt Nam",
@@ -2614,8 +2698,8 @@ window.QUESTION_BANKS = [
     "answer": 0
    },
    {
-    "id": "on-tap-kien-thuc-chung-2026-91",
-    "no": 91,
+    "id": "kien-thuc-chung-98",
+    "no": 98,
     "text": "Festival Island trong dự án Charmora City tại Nha Trang được định hướng trở thành điểm đến như thế nào?",
     "options": [
      "Đảo lễ hội với các hoạt động giải trí và trải nghiệm cả ngày lẫn đêm",
@@ -2626,9 +2710,9 @@ window.QUESTION_BANKS = [
     "answer": 0
    },
    {
-    "id": "on-tap-kien-thuc-chung-2026-92",
-    "no": 92,
-    "text": "Một khách hàng muốn tích điểm và hưởng đặc quyền khi sử dụng nhiều dịch vụ trong hệ sinh thái Sun Group. Chị/anh giới thiệu chương trình nào?",
+    "id": "kien-thuc-chung-99",
+    "no": 99,
+    "text": "Một khách hàng muốn tích điểm và hưởng đặc quyền khi sử dụng nhiều dịch vụ trong hệ sinh thái Sun Group",
     "options": [
      "Sun Air",
      "Sun Signature",
@@ -2638,8 +2722,8 @@ window.QUESTION_BANKS = [
     "answer": 1
    },
    {
-    "id": "on-tap-kien-thuc-chung-2026-93",
-    "no": 93,
+    "id": "kien-thuc-chung-100",
+    "no": 100,
     "text": "Khi giới thiệu Sun Property cho một đồng nghiệp mới, mô tả nào đúng với định vị công bố của thương hiệu?",
     "options": [
      "Phát triển mạng lưới bệnh viện theo tiêu chuẩn quốc tế",
@@ -2650,8 +2734,8 @@ window.QUESTION_BANKS = [
     "answer": 3
    },
    {
-    "id": "on-tap-kien-thuc-chung-2026-94",
-    "no": 94,
+    "id": "kien-thuc-chung-101",
+    "no": 101,
     "text": "Công trình nào trong chuỗi dự án phục vụ APEC 2027 tại Phú Quốc được khánh thành đầu tiên, vào tháng 4/2026?",
     "options": [
      "Trung tâm Hội nghị và Triển lãm APEC Phú Quốc",
@@ -2659,11 +2743,23 @@ window.QUESTION_BANKS = [
      "Bệnh viện Mặt Trời Phú Quốc",
      "Bệnh viện Mặt Trời Hà Nội"
     ],
-    "answer": 0
+    "answer": 2
    },
    {
-    "id": "on-tap-kien-thuc-chung-2026-95",
-    "no": 95,
+    "id": "kien-thuc-chung-102",
+    "no": 102,
+    "text": "Huyền tích Am Tiên – quần thể du lịch tâm linh và di tích lịch sử do Sun Group triển khai – nằm tại tỉnh nào?",
+    "options": [
+     "Quảng Ninh",
+     "Thanh Hóa",
+     "Lào Cai",
+     "Tây Ninh"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "kien-thuc-chung-103",
+    "no": 103,
     "text": "Cặp thương hiệu nào phản ánh hai hướng phát triển hàng không chung hạng sang và hàng không nghỉ dưỡng của Sun Group?",
     "options": [
      "Sun PhuQuoc Airways và Sun Signature",
@@ -2674,8 +2770,20 @@ window.QUESTION_BANKS = [
     "answer": 2
    },
    {
-    "id": "on-tap-kien-thuc-chung-2026-96",
-    "no": 96,
+    "id": "kien-thuc-chung-104",
+    "no": 104,
+    "text": "Từ ngày 01/01/2026, Sun Group chính thức tiếp nhận vận hành cảng hàng không nào?",
+    "options": [
+     "Cảng hàng không quốc tế Phú Quốc",
+     "Cảng hàng không quốc tế Đà Nẵng",
+     "Cảng hàng không quốc tế Cát Bi",
+     "Cảng hàng không quốc tế Nội Bài"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "kien-thuc-chung-105",
+    "no": 105,
     "text": "Thỏa thuận mua tàu bay Boeing 787-9 Dreamliner năm 2026 của Sun PhuQuoc Airways hướng tới mục tiêu nào?",
     "options": [
      "Tăng năng lực chuyên chở hàng hóa trên các tuyến nội địa",
@@ -2686,8 +2794,20 @@ window.QUESTION_BANKS = [
     "answer": 1
    },
    {
-    "id": "on-tap-kien-thuc-chung-2026-97",
-    "no": 97,
+    "id": "kien-thuc-chung-106",
+    "no": 106,
+    "text": "Sun PhuQuoc Airways bắt đầu khai thác thương mại vào thời điểm nào?",
+    "options": [
+     "Tháng 11/2024",
+     "Tháng 11/2026",
+     "Tháng 11/2025",
+     "Tháng 6/2026"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "kien-thuc-chung-107",
+    "no": 107,
     "text": "Điểm khác biệt của mô hình hàng không nghỉ dưỡng Sun PhuQuoc Airways được thể hiện rõ nhất ở hành trình nào?",
     "options": [
      "Chuyến bay thuê riêng kết nối với trải nghiệm ngắm cảnh cá nhân",
@@ -2698,8 +2818,20 @@ window.QUESTION_BANKS = [
     "answer": 2
    },
    {
-    "id": "on-tap-kien-thuc-chung-2026-98",
-    "no": 98,
+    "id": "kien-thuc-chung-108",
+    "no": 108,
+    "text": "Bệnh viện Mặt Trời Hà Nội và Bệnh viện Quốc tế Mặt Trời Phú Quốc thuộc hệ thống nào của Sun Group?",
+    "options": [
+     "Sun Airport",
+     "Sun Healthcare",
+     "SHE",
+     "Sun Property"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "kien-thuc-chung-109",
+    "no": 109,
     "text": "Bệnh viện nào đánh dấu bước khởi đầu của hệ thống y tế Sun Group khi khánh thành năm 2024?",
     "options": [
      "Một cơ sở Mặt Trời mới tại Đà Nẵng",
@@ -2710,8 +2842,20 @@ window.QUESTION_BANKS = [
     "answer": 2
    },
    {
-    "id": "on-tap-kien-thuc-chung-2026-99",
-    "no": 99,
+    "id": "kien-thuc-chung-110",
+    "no": 110,
+    "text": "Sáng kiến nào được Sun Group bảo trợ từ năm 2017 để phát triển âm nhạc giao hưởng và làm phong phú đời sống tinh thần của công chúng?",
+    "options": [
+     "Dàn nhạc Giao hưởng Mặt Trời (SSO)",
+     "Lễ hội Pháo hoa Quốc tế Đà Nẵng (DIFF)",
+     "Nhà hát Opera Hà Nội",
+     "Show diễn Nụ Hôn Của Biển Cả"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "kien-thuc-chung-111",
+    "no": 111,
     "text": "Bên cạnh phục vụ APEC 2027, việc Sun Group phát triển hạ tầng và dịch vụ tại Phú Quốc hướng tới lợi ích dài hạn nào?",
     "options": [
      "Nâng năng lực kết nối, đón khách quốc tế và phát triển điểm đến sau sự kiện",
@@ -2722,8 +2866,8 @@ window.QUESTION_BANKS = [
     "answer": 0
    },
    {
-    "id": "on-tap-kien-thuc-chung-2026-100",
-    "no": 100,
+    "id": "kien-thuc-chung-112",
+    "no": 112,
     "text": "Dự án sân bay nào được Sun Group khởi công hạng mục dân dụng năm 2026, với nhà ga lấy cảm hứng từ văn hóa Champa?",
     "options": [
      "Cảng hàng không quốc tế Vân Đồn",
@@ -2734,8 +2878,8 @@ window.QUESTION_BANKS = [
     "answer": 3
    },
    {
-    "id": "on-tap-kien-thuc-chung-2026-101",
-    "no": 101,
+    "id": "kien-thuc-chung-113",
+    "no": 113,
     "text": "Tại Fansipan, không gian nào giúp du khách trải nghiệm văn hóa vùng cao qua nghề thủ công, nghệ thuật dân gian và đời sống cộng đồng?",
     "options": [
      "Bản Mây",
@@ -2746,8 +2890,8 @@ window.QUESTION_BANKS = [
     "answer": 0
    },
    {
-    "id": "on-tap-kien-thuc-chung-2026-102",
-    "no": 102,
+    "id": "kien-thuc-chung-114",
+    "no": 114,
     "text": "Mô hình nào giúp Bệnh viện Mặt Trời kết hợp chăm sóc y tế với không gian tiện nghi và trải nghiệm dịch vụ theo tiêu chuẩn quốc tế?",
     "options": [
      "Trung tâm chăm sóc sức khỏe cộng đồng",
@@ -2758,8 +2902,8 @@ window.QUESTION_BANKS = [
     "answer": 2
    },
    {
-    "id": "on-tap-kien-thuc-chung-2026-103",
-    "no": 103,
+    "id": "kien-thuc-chung-115",
+    "no": 115,
     "text": "Theo thông tin về DIFF 2026, việc Sun Group đồng hành tổ chức lễ hội pháo hoa góp phần phát triển Đà Nẵng theo hướng nào?",
     "options": [
      "Điểm đến nghỉ dưỡng chăm sóc sức khỏe, lấy khoáng nóng làm thế mạnh",
@@ -2770,8 +2914,8 @@ window.QUESTION_BANKS = [
     "answer": 3
    },
    {
-    "id": "on-tap-kien-thuc-chung-2026-104",
-    "no": 104,
+    "id": "kien-thuc-chung-116",
+    "no": 116,
     "text": "Công trình nào do Sun Group khởi công năm 2025 được định hướng trở thành nhà hát biểu diễn nghệ thuật mang tầm quốc tế?",
     "options": [
      "Da Nang Downtown",
@@ -2779,11 +2923,11 @@ window.QUESTION_BANKS = [
      "Sun Galaxy Complex",
      "Trung tâm Hội nghị và Triển lãm APEC Phú Quốc"
     ],
-    "answer": 2
+    "answer": 1
    },
    {
-    "id": "on-tap-kien-thuc-chung-2026-105",
-    "no": 105,
+    "id": "kien-thuc-chung-117",
+    "no": 117,
     "text": "Trong hợp tác Sun Group – Petrolimex năm 2026, SAF được nghiên cứu để thúc đẩy chuyển đổi xanh trong lĩnh vực nào?",
     "options": [
      "Vận tải biển, thông qua nhiên liệu cho tàu du lịch",
@@ -2794,8 +2938,8 @@ window.QUESTION_BANKS = [
     "answer": 2
    },
    {
-    "id": "on-tap-kien-thuc-chung-2026-106",
-    "no": 106,
+    "id": "kien-thuc-chung-118",
+    "no": 118,
     "text": "Nhóm hoạt động nào phù hợp với định hướng khai thác quanh năm của Sun Galaxy Complex tại Đà Nẵng?",
     "options": [
      "Nghỉ dưỡng, tắm khoáng nóng và chăm sóc sức khỏe",
@@ -2806,8 +2950,8 @@ window.QUESTION_BANKS = [
     "answer": 2
    },
    {
-    "id": "on-tap-kien-thuc-chung-2026-107",
-    "no": 107,
+    "id": "kien-thuc-chung-119",
+    "no": 119,
     "text": "Hợp tác chiến lược giữa Sun Group và Keppel EaaS Việt Nam năm 2026 tập trung vào hướng nào để phát triển các điểm đến xanh?",
     "options": [
      "Phát triển dữ liệu du lịch và thanh toán xuyên biên giới",
@@ -2818,8 +2962,8 @@ window.QUESTION_BANKS = [
     "answer": 1
    },
    {
-    "id": "on-tap-kien-thuc-chung-2026-108",
-    "no": 108,
+    "id": "kien-thuc-chung-120",
+    "no": 120,
     "text": "Nền tảng nào thuộc hệ sinh thái du lịch số do Sun Group phát triển và vận hành, hướng tới kết nối dữ liệu, điểm đến và trải nghiệm du khách?",
     "options": [
      "Sun PhuQuoc Airways",
@@ -2828,6 +2972,3468 @@ window.QUESTION_BANKS = [
      "Sun Signature"
     ],
     "answer": 2
+   }
+  ]
+ },
+ {
+  "id": "nghi-quyet-2026",
+  "name": "Nghị quyết 2026",
+  "questions": [
+   {
+    "id": "nghi-quyet-2026-1",
+    "no": 1,
+    "text": "Sun Group mang trên mình sứ mệnh gì để luôn kiên định với mục tiêu tìm đến những vùng đất giàu tiềm năng nhưng chưa được khai thác đúng tầm, làm thay đổi vùng đất ấy, kiến tạo và đóng góp cho xã hội những công trình, sản phẩm/dịch vụ có đẳng cấp chất lượng vượt trội, trường tồn với thời gian?",
+    "options": [
+     "Người yêu nước",
+     "Hạt giống tốt",
+     "Hiền tài",
+     "Người Khai Mở"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "nghi-quyet-2026-2",
+    "no": 2,
+    "text": "\"Chất lượng - Đẳng cấp - Khác biệt\" thể hiện nội dung gì trong Tư tưởng - Văn hóa Sun Group?",
+    "options": [
+     "Lý tưởng Sun Group.",
+     "Sứ mệnh Sun Group.",
+     "Tầm nhìn Sun Group.",
+     "Giá trị cốt lõi đối với Tập đoàn Sun Group."
+    ],
+    "answer": 3
+   },
+   {
+    "id": "nghi-quyet-2026-3",
+    "no": 3,
+    "text": "\"Người Sun Group không tự mãn với những thành công đã đạt được mà luôn khao khát phá vỡ những kỷ lục của chính mình, luôn đảm bảo chất lượng, đẳng cấp, khác biệt và tính nhân văn trong mọi việc, công trình sau tốt hơn công trình trước\"; Đây là nội dung thể hiện yếu tố nào trong Triết lý xây dựng và phát triển văn hóa của Sun Group?",
+    "options": [
+     "Lan tỏa",
+     "Bản sắc",
+     "Hội nhập",
+     "Kế thừa"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "nghi-quyet-2026-7",
+    "no": 7,
+    "text": "\"Người Sun Group trung thành với lý tưởng, tầm nhìn, sứ mệnh của Tập đoàn, đặt tiêu chí kỷ luật lên hàng đầu, luôn sẵn sàng làm việc trong môi trường áp lực và tự tạo áp lực để tôi luyện tinh thần đương đầu với khó khăn thử thách\" -đây là một trong các nội dung của yếu tố văn hóa nào của Sun Group?",
+    "options": [
+     "Kế thừa",
+     "Hội nhập",
+     "Lan tỏa",
+     "Bản sắc"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "nghi-quyet-2026-8",
+    "no": 8,
+    "text": "\"Quyết liệt tự phê và phê một cách trực diện đối với những điểm yếu của bản thân và đồng nghiệp để cùng trưởng thành\"; đây là một trong các nội dung của yếu tố văn hóa nào của Sun Group?",
+    "options": [
+     "Bản sắc",
+     "Lan tỏa",
+     "Hội nhập",
+     "Kế thừa"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "nghi-quyet-2026-9",
+    "no": 9,
+    "text": "“Người Sun Group không tự mãn với những thành công đã đạt được mà luôn khao khát phá vỡ những kỷ lục của chính mình, luôn đảm bảo chất lượng, đẳng cấp, khác biệt và tính nhân văn trong mọi việc, công trình sau tốt hơn công trình trước.” Đây là một trong những nội dung của yếu tố văn hóa nào của Sun Group?",
+    "options": [
+     "Kế thừa",
+     "Hội nhập",
+     "Bản sắc",
+     "Lan tỏa"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "nghi-quyet-2026-10",
+    "no": 10,
+    "text": "Bên cạnh các yếu tố: Kế thừa - Hội nhập - Bản sắc, Văn hóa Sun Group còn kiên định với yếu tố nào?",
+    "options": [
+     "Nhiệt tâm",
+     "Nhân văn",
+     "Trung thực",
+     "Lan tỏa"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "nghi-quyet-2026-11",
+    "no": 11,
+    "text": "CBLĐ/CBQL Sun Group bên cạnh việc là tấm gương về tinh thần kỷ luật, thể hiện rõ nét vai trò/trách nhiệm của người đứng đầu; biết lắng nghe, khích lệ, truyền cảm hứng để đội ngũ cùng chung vai góp sức đạt mục tiêu chung thì còn cần thể hiện điều gì?",
+    "options": [
+     "Là tấm gương về năng lực chuyên môn vượt trội để có thể hướng dẫn cho nhân viên những kỹ thuật sâu trong chuyên môn mà nhân viên chưa giỏi",
+     "Là niềm tin - chỗ dựa cho nhân viên, luôn thể hiện sự nhân văn, yêu thương với CBNV trong mọi hoàn cảnh",
+     "Là niềm tin - chỗ dựa cho nhân viên, bao bọc cho nhân viên nếu mắc lỗi sai; động viên đội ngũ khi nỗ lực hết sức mà kết quả chưa tốt",
+     "Là chỗ dựa cho nhân viên - lực đẩy cho sự phát triển của tổ chức"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "nghi-quyet-2026-12",
+    "no": 12,
+    "text": "Để thể hiện Giá trị cốt lõi Chất lượng, các sản phẩm và dịch vụ của Sun Group cần đảm bảo điều gì?",
+    "options": [
+     "Chất lượng hướng đến chuẩn mực quốc tế và bền vững với thời gian",
+     "Sang trọng, có tính thẩm mỹ, ý nghĩa sâu sắc, giá trị kinh tế, giá trị sử dụng vượt trội",
+     "Hướng đến sự độc đáo riêng có hoặc hiếm có, khó có thể sao chép được",
+     "Kiến tạo những chuẩn mực về sản phẩm/dịch vụ mới mẻ, cao cấp và vượt trội hơn những chuẩn mực mà thị trường đang có"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "nghi-quyet-2026-13",
+    "no": 13,
+    "text": "Đối với triết lý Xây dựng và phát triển văn hóa, Sun Group kiên định với các yếu tố nào?",
+    "options": [
+     "Kế thừa; Hội nhập; Bản sắc; Lan tỏa",
+     "Đẳng cấp; Chất lượng; Khác biệt",
+     "Trung thành và Trung thực; Nhiệt tâm; Trình độ chuyên môn cao",
+     "Yêu nước; Hài hòa; Đứng trên vai người khổng lồ"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "nghi-quyet-2026-14",
+    "no": 14,
+    "text": "Giá trị cốt lõi đối với Tập đoàn Sun Group là gì?",
+    "options": [
+     "Đẳng cấp - Chất lượng - Khác biệt - Yêu nước.",
+     "Chất lượng - Đẳng cấp - Khác biệt.",
+     "Trung thành & trung thực - Nhiệt tâm - Trình độ chuyên môn cao.",
+     "Đẳng cấp; Khác biệt; Nhân văn."
+    ],
+    "answer": 1
+   },
+   {
+    "id": "nghi-quyet-2026-15",
+    "no": 15,
+    "text": "Hoạt động đầu tư và kinh doanh của Sun Group phải luôn đảm bảo được các triết lý nào?",
+    "options": [
+     "Triết lý về sự đẳng cấp; Triết lý về chất lượng; Triết lý về sự khác biệt.",
+     "Triết lý về sự nhân văn; Triết lý về sự hài hòa; Triết lý \"Đứng trên vai người khổng lồ\".",
+     "Triết lý về lòng yêu nước; Triết lý về sự nhân văn; Triết lý \"Đứng trên vai người khổng lồ\".",
+     "Triết lý về lòng yêu nước; Triết lý về sự hài hòa; Triết lý \"Đứng trên vai người khổng lồ\"."
+    ],
+    "answer": 3
+   },
+   {
+    "id": "nghi-quyet-2026-16",
+    "no": 16,
+    "text": "Mang trên mình sứ mệnh Người Khai Mở, một trong những mục tiêu Sun Group kiên định là \"Góp phần nâng cao …., nâng cao chất lượng cuộc sống của người dân, làm đẹp, làm giàu cho Tổ Quốc, đưa Việt Nam trở thành điểm đến hấp dẫn của thế giới.\". Từ còn thiếu trong dấu ba chấm là gì?",
+    "options": [
+     "Sức khỏe",
+     "Vị thế đất nước",
+     "Tài sản đất nước",
+     "Vị thế của người Việt Nam"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "nghi-quyet-2026-17",
+    "no": 17,
+    "text": "Mang trên mình sứ mệnh Người Khai Mở, một trong những mục tiêu Sun Group kiên định là \"Góp phần xây dựng … với phẩm chất, năng lực và sức khỏe bắt kịp thời cuộc.\". Từ còn thiếu trong dấu ba chấm là gì?",
+    "options": [
+     "Người Việt Nam mới.",
+     "Người Sun Group mới.",
+     "Người Hiền Tài.",
+     "Người Tài."
+    ],
+    "answer": 0
+   },
+   {
+    "id": "nghi-quyet-2026-18",
+    "no": 18,
+    "text": "Mang trên mình sứ mệnh Người Khai Mở, một trong những mục tiêu Sun Group kiên định là \"Góp phần xây dựng … với phẩm chất, năng lực, kỹ năng, tri thức bắt kịp với thời cuộc.\". Từ còn thiếu trong dấu ba chấm là gì?",
+    "options": [
+     "Con người Việt Nam mới.",
+     "Người Hiền Tài.",
+     "Người Tài.",
+     "Người Sun Group mới"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "nghi-quyet-2026-19",
+    "no": 19,
+    "text": "Mang trên mình sứ mệnh Người Khai Mở, một trong những mục tiêu Sun Group kiên định là gì?",
+    "options": [
+     "Sun Group sẽ tập hợp về mình những \"Hiền Tài\" thay vì \"Người Tài\".",
+     "Kiên quyết đấu tranh chống lại sự vô cảm, vô tâm và thiếu trách nhiệm với những nghĩa vụ phải hoàn thành.",
+     "Tìm đến những vùng đất giàu tiềm năng nhưng chưa được khai thác đúng tầm, làm thay đổi những vùng đất ấy, kiến tạo và đóng góp cho xã hội những công trình, sản phẩm/dịch vụ có đẳng cấp chất lượng vượt trội, trường tồn theo thời gian.",
+     "Triệt để thực hiện tinh thần tiết kiệm, chống lãng phí, nêu cao khẩu hiệu \"Lãng phí là tội ác\"."
+    ],
+    "answer": 2
+   },
+   {
+    "id": "nghi-quyet-2026-20",
+    "no": 20,
+    "text": "Mang trên mình sứ mệnh Người Khai Mở, một trong những mục tiêu Sun Group kiên định là gì?.",
+    "options": [
+     "Sun Group sẽ tập hợp về mình những \"Hiền Tài\" thay vì \"Người Tài\".",
+     "Trở thành một trong những Tập đoàn kinh tế tư nhân Việt Nam có quy mô và đẳng cấp quốc tế, lấy lĩnh vực Du lịch nghỉ dưỡng, Vui chơi giải trí, Bất động sản và Đầu tư hạ tầng làm lĩnh vực đầu tư chiến lược.",
+     "Đảm bảo sự hài hòa giữa lợi ích doanh nghiệp và lợi ích cộng đồng.",
+     "Góp phần nâng cao vị thế đất nước, nâng cao chất lượng cuộc sống của người dân, làm đẹp, làm giàu cho Tổ Quốc, đưa Việt Nam trở thành điểm đến hấp dẫn của thế giới."
+    ],
+    "answer": 3
+   },
+   {
+    "id": "nghi-quyet-2026-21",
+    "no": 21,
+    "text": "Mang trên mình sứ mệnh Người Khai Mở, một trong những mục tiêu Sun Group kiên định là gì?..",
+    "options": [
+     "Xây dựng văn hóa du lịch: văn minh, chuyên nghiệp, nhân văn.",
+     "Xác định \"Con Người\" là yếu tố căn bản và then chốt tạo ra sự phát triển bền vững của mình.",
+     "Luôn nhằm nâng cao vị thế đất nước, nâng cao chất lượng cuộc sống của người dân, làm đẹp, làm giàu cho Tổ Quốc.",
+     "Góp phần xây dựng Người Việt Nam mới với phẩm chất, năng lực và sức khỏe bắt kịp thời cuộc."
+    ],
+    "answer": 3
+   },
+   {
+    "id": "nghi-quyet-2026-22",
+    "no": 22,
+    "text": "Mang trên mình sứ mệnh Người Khai Mở, một trong những mục tiêu Sun Group kiên định là Góp phần nâng cao vị thế đất nước, nâng cao chất lượng cuộc sống của người dân, làm đẹp, làm giàu cho Tổ Quốc, đưa Việt Nam trở thành điểm đến như thế nào?",
+    "options": [
+     "Hấp dẫn của thế giới.",
+     "Hấp dẫn nhất thế giới",
+     "Có nhiều công trình ghi dấu ấn vượt thời gian.",
+     "Có nhiều công trình kỷ lục thế giới."
+    ],
+    "answer": 0
+   },
+   {
+    "id": "nghi-quyet-2026-23",
+    "no": 23,
+    "text": "Mang trên mình sứ mệnh Người Khai Mở, một trong những mục tiêu Sun Group kiên định là góp phần xây dựng con người Việt Nam mới với những đặc điểm gì?",
+    "options": [
+     "Văn minh, chuyên nghiệp, nhân văn",
+     "Yêu nước, kỷ luật, giỏi chuyên môn",
+     "Phẩm chất, năng lực, kỹ năng, tri thức bắt kịp với thời cuộc",
+     "Trung thành, trung thực, nhiệt tâm"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "nghi-quyet-2026-24",
+    "no": 24,
+    "text": "Mang trên mình sứ mệnh Người Khai Mở, một trong những mục tiêu Sun Group kiên định là tìm đến những vùng đất giàu tiềm năng nhưng chưa được khai thác đúng tầm, làm thay đổi những vùng đất ấy, kiến tạo và đóng góp cho xã hội những công trình, sản phẩm/dịch vụ thế nào?",
+    "options": [
+     "Chất lượng vượt trội.",
+     "Đẳng cấp chất lượng vượt trội và trường tồn theo thời gian.",
+     "Ghi dấu ấn vượt thời gian.",
+     "Đẳng cấp, chất lượng, khác biệt."
+    ],
+    "answer": 1
+   },
+   {
+    "id": "nghi-quyet-2026-26",
+    "no": 26,
+    "text": "Mang trên mình sứ mệnh Người Khai Mở, một trong những mục tiêu Sun Group kiên định là tìm đến những vùng đất như thế nào để làm thay đổi những vùng đất ấy?",
+    "options": [
+     "Giàu tiềm năng và đã được nhiều doanh nghiệp khai thác, phát triển mạnh mẽ",
+     "Các thành phố lớn, điều kiện hạ tầng tốt để thuận tiện phát triển các hoạt động kinh doanh",
+     "Đang còn nghèo khó, chưa được quan tâm phát triển",
+     "Giàu tiềm năng nhưng chưa được khai thác đúng tầm"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "nghi-quyet-2026-27",
+    "no": 27,
+    "text": "Mỗi Cán bộ Lãnh đạo và Quản lý Sun Group luôn chủ động rèn luyện phát triển bản thân, không ngừng trau dồi kỹ năng lãnh đạo, nâng cao năng lực thực thi để hướng tới điều gì?",
+    "options": [
+     "Là tấm gương về tinh thần kỷ luật và năng lực lãnh đạo cho CBNV",
+     "Đáp ứng yêu cầu của Tập đoàn về năng lực lãnh đạo",
+     "Góp phần xây dựng Người Việt Nam mới với phẩm chất, năng lực và sức khỏe bắt kịp thời cuộc.",
+     "Theo đuổi và đạt kết quả cao nhất trong công việc"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "nghi-quyet-2026-28",
+    "no": 28,
+    "text": "Môi trường làm việc Sun Group bên cạnh việc xác định lấy Văn hóa Sun Group là nền tảng, Giá trị nhân văn là sợi dây kết nối thì thước đo cho sự đóng góp của mỗi Người Sun Group là gì?",
+    "options": [
+     "Đáp ứng các tiêu chuẩn về năng lực chuyên môn, năng lực cốt lõi",
+     "Thâm niên làm việc của CBNV",
+     "Tính kỷ luật và khả năng lan tỏa, truyền cảm hứng",
+     "Tính kỷ luật, ý thức trách nhiệm, kết quả cuối cùng"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "nghi-quyet-2026-29",
+    "no": 29,
+    "text": "Người Sun Group hiểu rằng, mỗi bước đi của Người Sun Group là những bước đi hạnh phúc nhằm thực hiện những mục tiêu và lý tưởng cao đẹp, nhân văn của bản thân và của Tập đoàn vì vậy Người Sun Group luôn xác định một tư tưởng gì?",
+    "options": [
+     "Sun Group là tập thể của những người con yêu nước",
+     "Không có công việc tầm thường, chỉ có con người tầm thường",
+     "Thành công của đồng nghiệp cũng là thành công của bản thân mình và là thành công chung của cả Tập đoàn",
+     "Sun Group không giữ người bằng tiền và không đón nhận những người đến với Tập đoàn chỉ vì tiền"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "nghi-quyet-2026-30",
+    "no": 30,
+    "text": "Người Sun Group không tự mãn với những thành công đã đạt được mà luôn khao khát phá vỡ những kỷ lục của chính mình, luôn đảm bảo chất lượng, đẳng cấp, khác biệt và tính nhân văn trong mọi việc, công trình sau tốt hơn công trình trước; Đây là nội dung thể hiện yếu tố nào trong Triết lý xây dựng và phát triển văn hóa của Sun Group?",
+    "options": [
+     "Bản sắc",
+     "Kế thừa",
+     "Hội nhập",
+     "Lan tỏa"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "nghi-quyet-2026-31",
+    "no": 31,
+    "text": "Người Sun Group luôn chủ động lan tỏa các giá trị tốt đẹp tới đồng nghiệp để cùng nhau xây dựng tập thể Người Sun Group là đại diện của Người Việt Nam mới các đặc điểm gì?",
+    "options": [
+     "Khỏe mạnh về thể chất, có sức bền, sự dẻo dai, chịu được áp lực công việc cao, có thói quen rèn luyện thể dục thể thao đều đặn",
+     "Vượt trội trong năng lực chuyên môn, hướng đến đa năng, có thể làm nhiều việc với hiệu quả cao",
+     "Phẩm chất cao đẹp, có năng lực và trình độ chuyên môn cao, khỏe cả về thể chất và tinh thần",
+     "Có lý tưởng, khát vọng, kỷ luật, trách nhiệm, quyết tâm thay đổi những gì mình đang có, hướng tới những thay đổi vượt bậc và những giá trị tốt đẹp hơn"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "nghi-quyet-2026-32",
+    "no": 32,
+    "text": "Người Sun Group luôn có thái độ chia sẻ, hỗ trợ và thẳng thắn góp ý trên tinh thần xây dựng; tự hào, hạnh phúc với thành công của đồng nghiệp và cấp dưới bởi Người Sun Group hiểu rõ điều gì?",
+    "options": [
+     "Ngước lên cao để thấy mình còn thấp, nhìn xuống thấp để biết mình chưa cao",
+     "Không có công việc tầm thường, chỉ có con người tầm thường",
+     "Thành công của đồng nghiệp cũng là thành công của bản thân mình và là thành công chung của cả Tập đoàn",
+     "Hạt giống tốt chỉ nảy mầm và phát triển khi có môi trường thuận lợi"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "nghi-quyet-2026-33",
+    "no": 33,
+    "text": "Người Sun Group luôn sống khiêm nhường, thực chất, giản dị với triết lý nào?",
+    "options": [
+     "Thành công của đồng nghiệp cũng là thành công của bản thân mình và là thành công chung của cả Tập đoàn.",
+     "Hạt giống tốt chỉ nảy mầm và phát triển khi có môi trường thuận lợi.",
+     "Hạnh phúc của Người Sun Group là trên những chặng đường cống hiến chứ không chỉ là đích đến.",
+     "Ngước lên cao để thấy mình còn thấp, nhìn xuống thấp để biết mình chưa cao."
+    ],
+    "answer": 3
+   },
+   {
+    "id": "nghi-quyet-2026-34",
+    "no": 34,
+    "text": "Người Sun Group phấn đấu trở thành “Hiền Tài” thay vì “Người tài”; đảm bảo hội tụ đủ các giá trị cốt lõi “Trung thành và trung thực – Nhiệt tâm – Trình độ chuyên môn cao” và cần thể hiện điều gì?",
+    "options": [
+     "Thể hiện tinh thần sẻ chia, thông cảm với các hạn chế và yếu điểm của đồng nghiệp",
+     "Thể hiện khả năng lan tỏa, truyền cảm hứng mọi lúc, mọi nơi",
+     "Thể hiện các giá trị cốt lõi bằng hành vi cụ thể",
+     "Thể hiện khả năng cảm thụ về các loại hình nghệ thuật"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "nghi-quyet-2026-35",
+    "no": 35,
+    "text": "Nội dung nào sau đây KHÔNG PHẢI là triết lý hoạt động của Sun Group?",
+    "options": [
+     "Triết lý về lòng yêu nước",
+     "Triết lý \"Đứng trên vai người khổng lồ\"",
+     "Triết lý về sự hài hòa",
+     "Triết lý về sự nhân văn"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "nghi-quyet-2026-36",
+    "no": 36,
+    "text": "Nội dung nào sau đây KHÔNG thể hiện giá trị cốt lõi \"Đẳng cấp\" của Tập đoàn Sun Group?",
+    "options": [
+     "Sản phẩm/dịch vụ sang trọng, có tính thẩm mỹ, ý nghĩa sâu sắc, giá trị kinh tế, giá trị sử dụng vượt trội so với thị trường chung trong lĩnh vực hoạt động, được công nhận bởi các tổ chức quốc tế có uy tín và được sự ghi nhận, trân trọng của cộng đồng trong nước và quốc tế.",
+     "Táo bạo tìm kiếm những cơ hội để làm vượt trội những gì người khác không làm, không dám làm hoặc không thể làm.",
+     "Tôn trọng và vì con người, mang lại giá trị phục vụ lợi ích, sự phát triển của cộng đồng và Người Sun Group.",
+     "Tiên phong kiến tạo những chuẩn mực về sản phẩm/dịch vụ mới mẻ, cao cấp và vượt trội hơn những chuẩn mực mà thị trường đang có."
+    ],
+    "answer": 1
+   },
+   {
+    "id": "nghi-quyet-2026-37",
+    "no": 37,
+    "text": "Nội dung nào sau đây KHÔNG thể hiện sứ mệnh Sun Group?",
+    "options": [
+     "Tiên phong trong việc xây dựng văn hóa du lịch: văn minh, chuyên nghiệp và nhân văn ở Việt Nam.",
+     "Góp phần nâng cao vị thế đất nước, nâng cao chất lượng sống của người dân, làm đẹp, làm giàu cho Tổ quốc và đưa Việt Nam trở thành điểm đến hấp dẫn của thế giới.",
+     "Tìm đến những vùng đất giàu tiềm năng nhưng chưa được khai thác đúng tầm, làm thay đổi những vùng đất ấy, kiến tạo và đóng góp cho xã hội những công trình, sản phẩm/dịch vụ có đẳng cấp chất lượng vượt trội, trường tồn theo thời gian.",
+     "Góp phần xây dựng Người Việt Nam mới với phẩm chất, năng lực và sức khỏe bắt kịp thời cuộc."
+    ],
+    "answer": 0
+   },
+   {
+    "id": "nghi-quyet-2026-38",
+    "no": 38,
+    "text": "Nội dung nào sau đây KHÔNG thể hiện sứ mệnh Sun Group?.",
+    "options": [
+     "Tìm đến những vùng đất giàu tiềm năng nhưng chưa được khai thác đúng tầm, làm thay đổi những vùng đất ấy, kiến tạo và đóng góp cho xã hội những công trình, sản phẩm/dịch vụ có đẳng cấp chất lượng vượt trội, trường tồn theo thời gian.",
+     "Sun Group sẽ tập hợp về mình những \"Hiền Tài\" thay vì \"Người Tài\".",
+     "Góp phần nâng cao vị thế đất nước, nâng cao chất lượng cuộc sống của người dân, làm đẹp, làm giàu cho Tổ Quốc, đưa Việt Nam trở thành điểm đến hấp dẫn của thế giới.",
+     "Góp phần xây dựng con người Việt Nam mới với phẩm chất, năng lực, kỹ năng, tri thức bắt kịp với thời cuộc."
+    ],
+    "answer": 1
+   },
+   {
+    "id": "nghi-quyet-2026-39",
+    "no": 39,
+    "text": "Nội dung nào sau đây KHÔNG thể hiện Triết lý về Người Sun Group?",
+    "options": [
+     "Hiền tài của Sun Group hiểu được công việc tại Sun Group cũng chính là cuộc sống mà họ vừa cống hiến hết mình vừa sống chân thành, yêu thương, quan tâm tới đồng nghiệp.",
+     "Hiền tài của Sun Group là những\nngười hiểu được trách nhiệm và sự đóng góp của bản thân đối với sự thành công và lớn mạnh của Sun Group.",
+     "Sun Group luôn xác định một tư tưởng “Sun Group không giữ người bằng tiền và không đón nhận những người đến với Tập đoàn chỉ vì tiền”.",
+     "Hiền tài của Sun Group hiểu được tầm quan trọng của văn hóa mang đậm bản sắc Sun Group đối với sự phát triển bền vững của Sun Group trong tương lai lâu dài."
+    ],
+    "answer": 2
+   },
+   {
+    "id": "nghi-quyet-2026-40",
+    "no": 40,
+    "text": "Nội dung nào sau đây là một trong những yêu cầu đối với Lãnh đạo và Quản lý Sun Group?",
+    "options": [
+     "Luôn khẳng định vai trò Người đứng đầu với tầm nhìn chiến lược, tư duy làm chủ, thể hiện rõ nét tinh thần dám dấn thân, dám nghĩ, dám làm, biết làm và dám chịu trách nhiệm.",
+     "Người Sun Group luôn cho rằng “Không có công việc tầm thường, chỉ có con người tầm thường”; thành công chung của Tập đoàn được đóng góp từ tất cả các cá nhân ở mọi vị trí.",
+     "Sun Group hướng tới xây dựng môi trường là nơi đến để sống, nơi luôn mang lại nguồn cảm hứng, sự yêu đời, yêu người cho mỗi Người Sun Group.",
+     "Thành công của đồng nghiệp cũng là thành công của bản thân mình và là thành công chung của cả Tập đoàn."
+    ],
+    "answer": 0
+   },
+   {
+    "id": "nghi-quyet-2026-41",
+    "no": 41,
+    "text": "Nội dung nào sau đây là yêu cầu đối với Nhiệm vụ trọng tâm về công tác Tư tưởng Văn hóa được đề cập trong Nghị quyết 126 của Tập đoàn?",
+    "options": [
+     "Thúc đẩy thực thi giá trị cốt lõi trong phát triển nguồn nhân lực bền vững, phát huy tinh thần kỷ luật, đa năng đa nhiệm, học tập chủ động.",
+     "Gắn trách nhiệm vào ngân sách và hiệu quả hoạt động, đảm bảo thích ứng nhanh với tốc độ phát triển của hệ sinh thái.",
+     "Tiếp tục củng cố và phát triển nguồn nội bộ, nguồn kế cận SGEN đa phân lớp theo tiêu chí mới.",
+     "Nâng cao vai trò Người đứng đầu trong việc chủ trì và chịu trách nhiệm cao nhất về công tác TTVH."
+    ],
+    "answer": 3
+   },
+   {
+    "id": "nghi-quyet-2026-42",
+    "no": 42,
+    "text": "Nội dung nào sau đây phản ánh KHÔNG ĐÚNG \"Tầm nhìn\" của Sun Group?",
+    "options": [
+     "Trở thành một trong những Tập đoàn kinh tế tư nhân Việt Nam có quy mô và đẳng cấp quốc tế, lấy lĩnh vực Du lịch nghỉ dưỡng, Vui chơi giải trí, Bất động sản và Đầu tư hạ tầng làm lĩnh vực đầu tư chiến lược.",
+     "Luôn thuộc nhóm các công ty dẫn đầu trong các thị trường và các lĩnh vực đầu tư mà Sun Group tham gia.",
+     "Tiên phong trong việc xây dựng văn hóa du lịch: văn minh, chuyên nghiệp, nhân văn ở Việt Nam",
+     "Sun Group không giữ người bằng tiền và không đón nhận những người đến với Tập đoàn chỉ vì tiền."
+    ],
+    "answer": 3
+   },
+   {
+    "id": "nghi-quyet-2026-43",
+    "no": 43,
+    "text": "Nội dung nào sau đây thể hiện giá trị cốt lõi \"Chất lượng\" của Tập đoàn Sun Group?",
+    "options": [
+     "Phát triển hướng tới những thế hệ mai sau, nuôi dưỡng và gìn giữ môi trường sống ổn định, xanh, sạch và văn minh.",
+     "Tiên phong kiến tạo những chuẩn mực về sản phẩm/dịch vụ mới mẻ, cao cấp và vượt trội hơn những chuẩn mực mà thị trường đang có.",
+     "Hướng đến sự độc đáo riêng có hoặc hiếm có, khó có thể sao chép được trong sản phẩm/dịch vụ.",
+     "Đảm bảo sự phát triển của mình luôn có sự đồng hành của những tập đoàn lớn, những cá nhân có tên tuổi và uy tín, các công trình luôn gắn với các thương hiệu lớn trên thế giới."
+    ],
+    "answer": 0
+   },
+   {
+    "id": "nghi-quyet-2026-44",
+    "no": 44,
+    "text": "Nội dung nào sau đây thể hiện giá trị cốt lõi \"Chất lượng\" của Tập đoàn Sun Group?.",
+    "options": [
+     "Đảm bảo sự hài hòa giữa lợi ích doanh nghiệp và lợi ích cộng đồng, cân bằng giữa phát triển với bảo tồn.",
+     "Đảm bảo chất lượng sản phẩm và dịch vụ hướng đến chuẩn mực quốc tế và bền vững với thời gian.",
+     "Tôn trọng và vì con người, mang lại giá trị phục vụ lợi ích và sự phát triển của cộng đồng và Người Sun Group.",
+     "Sản phẩm/dịch vụ sang trọng, có tính thẩm mỹ, ý nghĩa sâu sắc, giá trị kinh tế và giá trị sử dụng vượt trội so với thị trường chung trong lĩnh vực hoạt động và được công nhận bởi các tổ chức quốc tế có uy tín."
+    ],
+    "answer": 1
+   },
+   {
+    "id": "nghi-quyet-2026-45",
+    "no": 45,
+    "text": "Nội dung nào sau đây thể hiện giá trị cốt lõi \"Đẳng cấp\" của Tập đoàn Sun Group?",
+    "options": [
+     "Tiên phong đi đầu, dám nhận và chịu trách nhiệm đến cùng nhiệm vụ được giao",
+     "Hướng đến sự độc đáo riêng có hoặc hiếm có, khó có thể sao chép được trong sản phẩm/dịch vụ",
+     "Phát triển hướng tới những thế hệ mai sau, nuôi dưỡng và gìn giữ môi trường sống ổn định, xanh, sạch và văn minh",
+     "Tiên phong kiến tạo những chuẩn mực về sản phẩm/dịch vụ mới mẻ, cao cấp và vượt trội hơn những chuẩn mực mà thị trường đang có"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "nghi-quyet-2026-46",
+    "no": 46,
+    "text": "Nội dung nào sau đây thể hiện giá trị cốt lõi \"Khác biệt\" của Tập đoàn Sun Group?",
+    "options": [
+     "Táo bạo tìm kiếm những cơ hội để làm vượt trội những gì người khác không làm, không dám làm hoặc không thể làm để tạo ra những công trình có giá trị văn hóa vật thể và phi vật thể trường tồn theo thời gian.",
+     "Đảm bảo sự hài hòa giữa lợi ích doanh nghiệp và lợi ích cộng đồng, cân bằng giữa phát triển với bảo tồn.",
+     "Tôn trọng và vì con người, mang lại giá trị phục vụ lợi ích, sự phát triển của cộng đồng và Người Sun Group.",
+     "Góp phần nâng cao vị thế đất nước, nâng cao chất lượng sống của người dân, làm đẹp, làm giàu cho Tổ quốc."
+    ],
+    "answer": 0
+   },
+   {
+    "id": "nghi-quyet-2026-47",
+    "no": 47,
+    "text": "Nội dung nào sau đây thể hiện giá trị cốt lõi \"Khác biệt\" của Tập đoàn Sun Group?.",
+    "options": [
+     "Đảm bảo chất lượng sản phẩm và dịch vụ hướng dến chuẩn mực quốc tế và bền vững với thời gian.",
+     "Góp phần nâng cao vị thế đất nước, nâng cao chất lượng sống của người dân, làm đẹp, làm giàu cho Tổ quốc.",
+     "Hướng đến sự độc đáo riêng có hoặc hiếm có, khó có thể sao chép được trong sản phẩm/dịch vụ.",
+     "Sản phẩm/dịch vụ nhận được sự ghi nhận và trân trọng của cộng đồng trong nước và quốc tế."
+    ],
+    "answer": 2
+   },
+   {
+    "id": "nghi-quyet-2026-48",
+    "no": 48,
+    "text": "Nội dung nào sau đây thể hiện giá trị cốt lõi \"Nhiệt tâm\" đối với Người Sun Group?",
+    "options": [
+     "Trung thực, chính trực, kiên định trong công việc và cuộc sống",
+     "Tin tưởng vào những việc mình làm/tiên phong đi đầu/công bằng nhân văn trong mọi việc",
+     "Hết lòng hỗ trợ, động viên đồng nghiệp với tinh thần trách nhiệm vì tập thể và vì cộng đồng",
+     "Quyết liệt tự phê và phê một cách trực diện những điểm yếu của bản thân và đồng nghiệp để cùng trưởng thành"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "nghi-quyet-2026-49",
+    "no": 49,
+    "text": "Nội dung nào sau đây thể hiện giá trị cốt lõi \"Nhiệt tâm\" đối với Người Sun Group?",
+    "options": [
+     "Quyết liệt tự phê và phê một cách trực diện những điểm yếu của bản thân và đồng nghiệp để cùng trưởng thành",
+     "Hết lòng hỗ trợ, động viên đồng nghiệp với tinh thần trách nhiệm vì tập thể và vì cộng đồng",
+     "Công bằng, nhân văn trong mọi việc; lắng nghe, đồng cảm, giúp đỡ, bảo vệ đồng nghiệp chân thành và không ngần ngại",
+     "Trung thực, chính trực, kiên định trong công việc và cuộc sống"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "nghi-quyet-2026-50",
+    "no": 50,
+    "text": "Nội dung nào sau đây thể hiện giá trị cốt lõi \"Nhiệt tâm\" đối với Người Sun Group?.",
+    "options": [
+     "Trung thực, chính trực, kiên định trong công việc và cuộc sống.",
+     "Tiên phong đi đầu, dám nhận và chịu trách nhiệm đến cùng nhiệm vụ được giao.",
+     "Tuân thủ mọi chuẩn mực của Tập đoàn và hoàn thành mọi nhiệm vụ được giao đúng chất lượng và tiến độ cam kết.",
+     "Lạc quan, tích cực, luôn tràn đầy hi vọng, niềm vui và hạnh phúc."
+    ],
+    "answer": 1
+   },
+   {
+    "id": "nghi-quyet-2026-51",
+    "no": 51,
+    "text": "Nội dung nào sau đây thể hiện giá trị cốt lõi \"Trình độ chuyên môn cao\" đối với Người Sun Group?",
+    "options": [
+     "Tuân thủ mọi chuẩn mực của Tập đoàn và hoàn thành mọi nhiệm vụ được giao đúng chất lượng và tiến độ cam kết.",
+     "Có tinh thần yêu nước, tự hào chia sẻ và hành động để gìn giữ những truyền thống của dân tộc Việt Nam",
+     "Tin tưởng vào những việc mình làm, truyền cảm hứng và thúc đẩy người khác làm việc và sống tốt hơn.",
+     "Sáng tạo, đổi mới, đảm bảo kết quả công việc đạt hiệu quả cao hơn."
+    ],
+    "answer": 3
+   },
+   {
+    "id": "nghi-quyet-2026-52",
+    "no": 52,
+    "text": "Nội dung nào sau đây thể hiện giá trị cốt lõi \"Trung thành và trung thực\" đối với Người Sun Group?",
+    "options": [
+     "Tin tưởng tuyệt đối, sẵn sàng đấu tranh và hy sinh lợi ích cá nhân để theo đuổi lý tưởng và khát vọng của Tập đoàn.",
+     "Sun Group hướng tới xây dựng môi trường lý tưởng để làm việc và vui sống, là nơi mang lại nguồn cảm hứng, sự yêu đời, yêu người cho mỗi Người Sun Group .",
+     "Khiêm nhường, thực chất, không ngừng học hỏi hoàn thiện bản thân.",
+     "Sáng tạo, đổi mới, đảm bảo kết quả công việc đạt hiệu quả cao hơn."
+    ],
+    "answer": 0
+   },
+   {
+    "id": "nghi-quyet-2026-53",
+    "no": 53,
+    "text": "Nội dung nào sau đây thể hiện Lý tưởng Sun Group?",
+    "options": [
+     "Lý tưởng của Sun Group là góp phần nâng cao vị thế đất nước, nâng cao chất lượng sống của người dân, làm đẹp, làm giàu cho Tổ Quốc, đưa Việt Nam trở thành điểm đến hấp dẫn của thế giới.",
+     "Lý tưởng của Sun Group là cùng chung một con thuyền, cùng người cầm lái đưa Sun Group tới những bến bờ vinh quang bằng những công trình ghi dấu ấn vượt thời gian.",
+     "Lý tưởng của Sun Group là tìm đến những vùng đất giàu tiềm năng nhưng chưa được khai thác đúng tầm, làm thay đổi những vùng đất ấy, kiến tạo và đóng góp cho xã hội những công trình, sản phẩm/dịch vụ có đẳng cấp chất lượng vượt trội, trường tồn theo thời gian.",
+     "Lý tưởng của Sun Group là trở thành một trong những Tập đoàn kinh tế tư nhân Việt Nam có quy mô và đẳng cấp quốc tế."
+    ],
+    "answer": 1
+   },
+   {
+    "id": "nghi-quyet-2026-54",
+    "no": 54,
+    "text": "Nội dung nào sau đây thể hiện một trong các yêu cầu về Năng lực cạnh tranh của Người Sun Group trong thời kì mới?",
+    "options": [
+     "Tìm hiểu, lựa chọn thưởng thức nhằm nâng cao khả năng cảm thụ về các loại hình nghệ thuật.",
+     "Tiên phong sáng tạo, đổi mới, tạo ra những lợi thế cạnh tranh độc đáo, khác biệt cho Việt Nam trên cộng đồng quốc tế.",
+     "Thông hiểu và thuần thục ít nhất một ngoại ngữ thông dụng để nâng cao khả năng hội nhập.",
+     "Sống văn minh, cởi mở học hỏi, hoàn thiện bản thân để theo kịp với thời cuộc và sự phát triển của tổ chức, của xã hội."
+    ],
+    "answer": 1
+   },
+   {
+    "id": "nghi-quyet-2026-55",
+    "no": 55,
+    "text": "Nội dung nào sau đây thể hiện triết lý \"Đứng trên vai người khổng lồ\" của Sun Group?",
+    "options": [
+     "Đảm bảo sự phát triển của mình luôn có sự đồng hành của những Tập đoàn lớn, những cá nhân có tên tuổi và uy tín, các công trình luôn gắn với các thương hiệu lớn trên thế giới.",
+     "Đảm bảo sự phát triển của mình luôn có sự đồng hành của những người nổi tiếng, có uy tín trong mọi lĩnh vực trên thế giới.",
+     "Đảm bảo sự phát triển của mình luôn có sự đồng hành của các cơ quan nhà nước và các Công ty/Tập đoàn lớn ở Việt Nam.",
+     "Đảm bảo sự phát triển của mình luôn có sự đồng hành của những nhân sự tốt nhất thế giới trong các lĩnh vực mình tham gia."
+    ],
+    "answer": 0
+   },
+   {
+    "id": "nghi-quyet-2026-56",
+    "no": 56,
+    "text": "Nội dung nào sau đây thể hiện Tư duy hội nhập của Người Sun Group trong thời kì mới?",
+    "options": [
+     "Có năng suất lao động cao, ngang bằng nước tiên tiến nhất trong khu vực Đông Nam Á.",
+     "Thích nghi, nắm bắt rõ văn hóa quốc gia, vùng miền, tổ chức để gia tăng cơ hội hội nhập.",
+     "Có lối sống lành mạnh, không hút thuốc, hạn chế rượu bia, biết thụ hưởng và cân bằng công việc và cuộc sống.",
+     "Có khả năng lan tỏa, truyền cảm hứng và gắn kết sức mạnh của đội ngũ."
+    ],
+    "answer": 1
+   },
+   {
+    "id": "nghi-quyet-2026-57",
+    "no": 57,
+    "text": "Nội dung nào sau đây thể hiện Ý thức vì cộng đồng của Người Sun Group trong thời kì mới?",
+    "options": [
+     "Tư duy phát triển bền vững, hội nhập quốc tế, gìn giữ tài nguyên, môi trường sống.",
+     "Có tinh thần yêu nước, tự hào chia sẻ và hành động để gìn giữ những truyền thống của dân tộc Việt Nam",
+     "Có khả năng lan tỏa, truyền cảm hứng và gắn kết sức mạnh của đội ngũ.",
+     "Tìm hiểu, lựa chọn thưởng thức nhằm nâng cao khả năng cảm thụ về các loại hình nghệ thuật."
+    ],
+    "answer": 0
+   },
+   {
+    "id": "nghi-quyet-2026-58",
+    "no": 58,
+    "text": "Nội dung nào sau đây thể hiện yêu cầu về Năng lực cảm thụ nghệ thuật của Người Sun Group trong thời kì mới?",
+    "options": [
+     "Hiểu, cập nhật và tận dụng những thay đổi về công nghệ của thế giới vào các hoạt động sống và làm việc.",
+     "Có năng suất lao động cao, ngang bằng nước tiên tiến nhất trong khu vực Đông Nam Á.",
+     "Thích nghi, nắm bắt rõ văn hóa quốc gia, vùng miền, tổ chức để gia tăng cơ hội hội nhập.",
+     "Tìm hiểu, lựa chọn thưởng thức nhằm nâng cao khả năng cảm thụ về các loại hình nghệ thuật."
+    ],
+    "answer": 3
+   },
+   {
+    "id": "nghi-quyet-2026-59",
+    "no": 59,
+    "text": "Nội dung nào sau đây thể hiện yêu cầu về Năng suất lao động của Người Sun Group trong thời kì mới?",
+    "options": [
+     "Hiểu, cập nhật và tận dụng những thay đổi về công nghệ của thế giới vào các hoạt động sống và làm việc.",
+     "Thông hiểu và thuần thục ít nhất một ngoại ngữ thông dụng để nâng cao khả năng hội nhập.",
+     "Vượt trội trong năng lực chuyên môn, hướng đến đa năng, có thể làm nhiều việc với hiệu quả cao.",
+     "Tìm hiểu, lựa chọn thưởng thức nhằm nâng cao khả năng cảm thụ về các loại hình nghệ thuật."
+    ],
+    "answer": 2
+   },
+   {
+    "id": "nghi-quyet-2026-60",
+    "no": 60,
+    "text": "Nội dung nào sau đây thể hiện yếu tố Lan tỏa trong Triết lý xây dựng văn hóa của Sun Group?",
+    "options": [
+     "Người Sun Group luôn chủ động lan tỏa các giá trị tốt đẹp đó tới đồng nghiệp để cùng nhau xây dựng tập thể Người Sun Group là đại diện của Người Việt Nam mới",
+     "Không chỉ lan tỏa các giá trị tốt đẹp trong nội bộ Tập đoàn mà bằng những hành động cụ thể, góp phần lan tỏa những giá trị văn hóa tới đối tác, cộng đồng, hướng tới mục tiêu xây dựng xã hội ngày một tốt đẹp và nhân văn hơn",
+     "Góp phần nâng cao vị thế đất nước, nâng cao chất lượng sống của người dân, làm đẹp, làm giàu cho Tổ quốc",
+     "Tiên phong trong việc xây dựng văn hóa du lịch: văn minh, chuyên nghiệp và nhân văn ở Việt Nam"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "nghi-quyet-2026-61",
+    "no": 61,
+    "text": "Nội dung sau đây thể hiện giá trị cốt lõi nào đối với Người Sun Group: \"Công bằng, nhân văn trong mọi việc; lắng nghe, đồng cảm, giúp đỡ, bảo vệ đồng nghiệp chân thành và không ngần ngại.\"?",
+    "options": [
+     "Trung thành và trung thực.",
+     "Nhiệt tâm.",
+     "Trình độ chuyên môn cao.",
+     "Không thể hiện giá trị cốt lõi nào đối với Người Sun Group."
+    ],
+    "answer": 1
+   },
+   {
+    "id": "nghi-quyet-2026-62",
+    "no": 62,
+    "text": "Nội dung sau đây thể hiện giá trị cốt lõi nào đối với Người Sun Group: \"Khiêm nhường, thực chất, không ngừng học hỏi hoàn thiện bản thân\"?",
+    "options": [
+     "Trình độ chuyên môn cao.",
+     "Không thể hiện giá trị cốt lõi nào đối với Người Sun Group.",
+     "Trung thành và trung thực.",
+     "Nhiệt tâm."
+    ],
+    "answer": 0
+   },
+   {
+    "id": "nghi-quyet-2026-63",
+    "no": 63,
+    "text": "Nội dung sau đây thể hiện giá trị cốt lõi nào đối với Người Sun Group: \"Khiêm nhường, thực chất, không ngừng học hỏi hoàn thiện bản thân.\"?",
+    "options": [
+     "Trung thành và trung thực.",
+     "Nhiệt tâm.",
+     "Trình độ chuyên môn cao.",
+     "Không thể hiện giá trị cốt lõi nào đối với Người Sun Group."
+    ],
+    "answer": 2
+   },
+   {
+    "id": "nghi-quyet-2026-64",
+    "no": 64,
+    "text": "Nội dung sau đây thể hiện giá trị cốt lõi nào đối với Người Sun Group: \"Sẵn sàng tự phê và phê những khuyết điểm của bản thân và người khác một cách trực diện để cùng trưởng thành\"?",
+    "options": [
+     "Trình độ chuyên môn cao.",
+     "Không thể hiện giá trị cốt lõi nào đối với Người Sun Group.",
+     "Trung thành và trung thực.",
+     "Nhiệt tâm."
+    ],
+    "answer": 0
+   },
+   {
+    "id": "nghi-quyet-2026-65",
+    "no": 65,
+    "text": "Nội dung sau đây thể hiện giá trị cốt lõi nào đối với Người Sun Group: \"Tin tưởng vào những việc mình làm, truyền cảm hứng và thúc đẩy người khác làm việc và sống tốt hơn\"?",
+    "options": [
+     "Trình độ chuyên môn cao.",
+     "Trung thành và trung thực.",
+     "Nhiệt tâm.",
+     "Không thể hiện giá trị cốt lõi nào đối với Người Sun Group."
+    ],
+    "answer": 2
+   },
+   {
+    "id": "nghi-quyet-2026-66",
+    "no": 66,
+    "text": "Nội dung sau đây thể hiện giá trị cốt lõi nào đối với Người Sun Group: \"Trung thực, chính trực, kiên định trong công việc và cuộc sống\"?",
+    "options": [
+     "Nhiệt tâm.",
+     "Không thể hiện giá trị cốt lõi nào đối với Người Sun Group.",
+     "Trình độ chuyên môn cao.",
+     "Trung thành và trung thực."
+    ],
+    "answer": 3
+   },
+   {
+    "id": "nghi-quyet-2026-67",
+    "no": 67,
+    "text": "Nội dung sau đây thể hiện giá trị cốt lõi nào đối với Người Sun Group: \"Tuân thủ mọi chuẩn mực của Tập đoàn và hoàn thành mọi nhiệm vụ được giao đúng chất lượng và tiến độ cam kết.\"?",
+    "options": [
+     "Trung thành và trung thực.",
+     "Nhiệt tâm.",
+     "Trình độ chuyên môn cao.",
+     "Không thể hiện giá trị cốt lõi nào đối với Người Sun Group."
+    ],
+    "answer": 0
+   },
+   {
+    "id": "nghi-quyet-2026-68",
+    "no": 68,
+    "text": "Nội dung sau đây thể hiện giá trị cốt lõi nào đối với Tập đoàn Sun Group: \"Đảm bảo chất lượng sản phẩm và dịch vụ hướng dến chuẩn mực quốc tế và bền vững với thời gian.\"?",
+    "options": [
+     "Chất lượng",
+     "Đẳng cấp",
+     "Khác biệt",
+     "Không thể hiện giá trị cốt lõi nào đối với Tập đoàn."
+    ],
+    "answer": 0
+   },
+   {
+    "id": "nghi-quyet-2026-69",
+    "no": 69,
+    "text": "Nội dung sau đây thể hiện giá trị cốt lõi nào đối với Tập đoàn Sun Group: \"Hướng đến sự độc đáo riêng có hoặc hiếm có, khó có thể sao chép được trong sản phẩm/dịch vụ\"?",
+    "options": [
+     "Chất lượng",
+     "Đẳng cấp",
+     "Khác biệt",
+     "Không thể hiện giá trị cốt lõi nào đối với Tập đoàn."
+    ],
+    "answer": 2
+   },
+   {
+    "id": "nghi-quyet-2026-70",
+    "no": 70,
+    "text": "Nội dung sau đây thể hiện giá trị cốt lõi nào đối với Tập đoàn Sun Group: \"Phát triển hướng tới những thế hệ mai sau, nuôi dưỡng và gìn giữ môi trường sống ổn định, xanh, sạch và văn minh\"?",
+    "options": [
+     "Chất lượng",
+     "Khác biệt",
+     "Không thể hiện giá trị cốt lõi nào đối với Tập đoàn",
+     "Đẳng cấp"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "nghi-quyet-2026-71",
+    "no": 71,
+    "text": "Nội dung sau đây thể hiện giá trị cốt lõi nào đối với Tập đoàn Sun Group: \"Tôn trọng và vì con người, mang lại giá trị phục vụ lợi ích, sự phát triển của cộng đồng và Người Sun Group\"?",
+    "options": [
+     "Không thể hiện giá trị cốt lõi nào đối với Tập đoàn",
+     "Chất lượng",
+     "Khác biệt",
+     "Đẳng cấp"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "nghi-quyet-2026-72",
+    "no": 72,
+    "text": "Nội dung sau đây thể hiện triết lý hoạt động nào của Sun Group? \"Góp phần nâng cao vị thế đất nước, nâng cao chất lượng sống của người dân, làm đẹp, làm giàu cho Tổ quốc để mỗi con người – không chỉ Người Sun Group, mà là người Việt Nam luôn có thể tự hào khi bước ra thế giới.\"",
+    "options": [
+     "Triết lý về tinh thần tự hào Sun Group",
+     "Triết lý về sự hài hòa",
+     "Triết lý về lòng yêu nước",
+     "Triết lý đứng trên vai người khổng lồ"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "nghi-quyet-2026-73",
+    "no": 73,
+    "text": "Nội dung sau đây thể hiện yếu tố nào trong Năng lực của Người Sun Group trong thời kì mới? \"Thích nghi, nắm bắt rõ văn hóa quốc gia, vùng miền, tổ chức để gia tăng cơ hội hội nhập; Thông hiểu và thuần thục ít nhất một ngoại ngữ thông dụng để nâng cao khả năng hội nhập.\"",
+    "options": [
+     "Năng lực cạnh tranh.",
+     "Năng suất lao động.",
+     "Tư duy hội nhập.",
+     "Cảm thụ nghệ thuật."
+    ],
+    "answer": 2
+   },
+   {
+    "id": "nghi-quyet-2026-74",
+    "no": 74,
+    "text": "Nội dung sau đây thể hiện yếu tố nào trong Năng lực của Người Sun Group trong thời kì mới? \"Tìm hiểu, lựa chọn thưởng thức nhằm nâng cao khả năng cảm thụ về các loại hình nghệ thuật.\"?",
+    "options": [
+     "Năng lực cạnh tranh.",
+     "Năng suất lao động.",
+     "Tư duy hội nhập.",
+     "Cảm thụ nghệ thuật."
+    ],
+    "answer": 3
+   },
+   {
+    "id": "nghi-quyet-2026-75",
+    "no": 75,
+    "text": "Nội dung sau đây thể hiện yếu tố nào trong Phẩm chất của Người Sun Group trong thời kì mới? \"Sống giản dị, thực chất; không khoa trương, kiêu ngạo, tự mãn; kiên quyết đấu tranh với hiện tượng tự diễn biến, tự chuyển hóa, bệnh ngôi sao, bệnh sống ảo để hướng tới kết quả thực chất.\"",
+    "options": [
+     "Đạo đức tốt",
+     "Nhân cách tốt",
+     "Thực chất",
+     "Khiêm nhường"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "nghi-quyet-2026-76",
+    "no": 76,
+    "text": "Phê và tự phê là hoạt động mang bản sắc riêng của Người Sun Group và luôn được triển khai thực chất, chân thành; hoạt động này nhằm đẩy mạnh Giá trị cốt lõi nào?",
+    "options": [
+     "Đẳng cấp",
+     "Trung thành và trung thực",
+     "Khác biệt",
+     "Trình độ chuyên môn cao"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "nghi-quyet-2026-77",
+    "no": 77,
+    "text": "Thấm nhuần triết lý “Hạt giống tốt chỉ nảy mầm và phát triển khi có môi trường thuận lợi”, Sun Group hướng tới xây dựng Môi trường làm việc như thế nào?",
+    "options": [
+     "Môi trường làm việc đề cao sáng tạo và linh hoạt",
+     "Môi trường làm việc Văn hóa – Nhân văn song hành với Trách nhiệm – Kỷ luật",
+     "Môi trường làm việc văn hóa - nhân văn song hành cùng trung thành, gắn bó",
+     "Môi trường làm việc áp lực và hiệu quả cao"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "nghi-quyet-2026-78",
+    "no": 78,
+    "text": "Thể hiện Giá trị cốt lõi Đẳng cấp, Sun Group tiên phong kiến tạo những chuẩn mực như thế nào về sản phẩm/dịch vụ?",
+    "options": [
+     "Mới mẻ, cao cấp và vượt trội hơn những chuẩn mực mà thị trường đang có",
+     "Hướng đến chuẩn mực chung của thị trường",
+     "Độc đáo riêng có hoặc hiếm có, khó có thể sao chép được trong sản phẩm/dịch vụ",
+     "Gắn với sự phát triển bền vững, gìn giữ môi trường sống ổn định, xanh, sạch và văn minh"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "nghi-quyet-2026-79",
+    "no": 79,
+    "text": "Thể hiện Giá trị cốt lõi Khác biệt, Sun Group hướng đến yếu tố gì trong trong sản phẩm/dịch vụ?",
+    "options": [
+     "Hướng đến chuẩn mực quốc tế và bền vững với thời gian",
+     "Sự độc đáo riêng có hoặc hiếm có, khó có thể sao chép được",
+     "Gắn với sự phát triển bền vững, gìn giữ môi trường sống ổn định, xanh, sạch và văn minh",
+     "Mới mẻ, cao cấp và vượt trội hơn những chuẩn mực mà thị trường đang có"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "nghi-quyet-2026-80",
+    "no": 80,
+    "text": "Theo giá trị cốt lõi Trung thành và trung thực của Người Sun Group, khi được giao thực hiện một nhiệm vụ với yêu cầu cụ thể về deadline hoàn thành; sự tuân thủ và trách nhiệm của người nhận nhiệm vụ thể hiện qua điều gì?",
+    "options": [
+     "Hoàn thành đúng deadline và đạt chất lượng yêu cầu",
+     "Hoàn thành trước deadline và đảm bảo có đầy đủ ý kiến của Đơn vị các cấp",
+     "Hoàn thành đạt chất lượng yêu cầu và đảm bảo có đầy đủ ý kiến của Đơn vị các cấp",
+     "Triển khai một cách sáng tạo, linh hoạt, đổi mới và hoàn thành đúng deadline"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "nghi-quyet-2026-81",
+    "no": 81,
+    "text": "Theo Nghị quyết 126 của Tập đoàn, nội dung: “Lấy khách hàng làm trung tâm, kết nối trải nghiệm toàn hệ sinh thái thông qua triển khai các sáng kiến Chuyển đổi số, tập trung cá nhân hóa trải nghiệm, gia tăng mức độ hài lòng, gắn kết và giá trị vòng đời khách hàng, qua đó thúc đẩy hiệu quả kinh doanh tổng thể” là yêu cầu đối với Nhiệm vụ trọng tâm nào?",
+    "options": [
+     "Phát triển và đầu tư các Dự án trọng tâm, trọng điểm theo định hướng phát triển bền vững",
+     "Đẩy mạnh ứng dụng Chuyển đổi số - Công nghệ, chú trọng kết nối hệ sinh thái",
+     "Tăng cường thâm canh, tối ưu hiệu quả kinh doanh hệ sinh thái",
+     "Đảm bảo nguồn nhân lực đáp ứng yêu cầu và nâng tầm công tác Quản trị nhân sự"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "nghi-quyet-2026-82",
+    "no": 82,
+    "text": "Theo Triết lý về Người Sun Group, Hiền Tài của Sun Group thể hiện tinh thần làm gương và lan tỏa thông qua điều gì?",
+    "options": [
+     "Luôn sống lạc quan, tích cực, tràn đầy hi vọng, niềm vui và hạnh phúc",
+     "Vượt trội trong năng lực chuyên môn, hướng đến đa năng, có thể làm nhiều việc với hiệu quả cao",
+     "Luôn hành động theo những giá trị cốt lõi của Người Sun Group, tự hào làm gương, chia sẻ niềm tin, lan tỏa giá trị của Sun Group tới đồng nghiệp và là nguồn cảm hứng cho đồng nghiệp",
+     "Luôn sống lạc quan, tích cực, tràn đầy hi vọng, niềm vui và hạnh phúc"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "nghi-quyet-2026-83",
+    "no": 83,
+    "text": "Tiêu chí nào sau đây nằm trong Triết lý về Người Sun Group?",
+    "options": [
+     "Sun Group sẽ tập hợp về mình những \"Hiền tài\" thay vì \"Người tài\".",
+     "Sun Group sẵn sàng đón nhận những người đến với Tập đoàn chỉ vì tiền và giữ người bằng tiền.",
+     "Sun Group sẽ chỉ chú trọng tập hợp về mình những \"Người tài\".",
+     "Sun Group xây dựng môi trường làm việc áp lực, đòi hỏi cao để giúp CBNV nâng cao năng lực của mình."
+    ],
+    "answer": 0
+   },
+   {
+    "id": "nghi-quyet-2026-84",
+    "no": 84,
+    "text": "Tôn chỉ về sự phát triển của Sun Group là gì?",
+    "options": [
+     "Phát triển bền vững",
+     "Phát triển hài hòa",
+     "Phát triển nhanh, mạnh và hài hòa",
+     "Phát triển nhanh mạnh và dẫn đầu mọi lĩnh vực đầu tư mà Sun Group tham gia"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "nghi-quyet-2026-85",
+    "no": 85,
+    "text": "Triết lý về Người Sun Group đã định nghĩa rõ về tiêu chí HIỀN và TÀI; theo đó tiêu chí HIỀN được mô tả như thế nào?",
+    "options": [
+     "Luôn hành động theo những giá trị cốt lõi của Người Sun Group, tự hào làm gương, chia sẻ niềm tin, lan tỏa giá trị của Sun Group tới đồng nghiệp",
+     "Vừa sống khiêm nhường, trung thực, tự trọng vừa hết lòng hỗ trợ, động viên đồng nghiệp với tinh thần trách nhiệm vì tập thể và vì cộng đồng",
+     "Vượt trội trong năng lực chuyên môn, hướng đến đa năng, có thể làm nhiều việc với hiệu quả cao",
+     "Sống văn minh, cởi mở học hỏi, hoàn thiện bản thân để theo kịp với thời cuộc và sự phát triển của tổ chức, của xã hội"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "nghi-quyet-2026-86",
+    "no": 86,
+    "text": "Triết lý về Người Sun Group đã định nghĩa rõ về tiêu chí HIỀN và TÀI; theo đó tiêu chí TÀI được mô tả như thế nào?",
+    "options": [
+     "Luôn là tấm gương với đồng nghiệp và cấp dưới về năng lực, tinh thần nhiệt huyết, tiên phong, dám dấn thân, dám nghĩ, dám làm, biết làm và dám chịu trách nhiệm",
+     "Chủ động học hỏi, nỗ lực hoàn thiện bản thân và luôn xem sự trưởng thành liên tục của bản thân là yếu tố nền tảng và thước đo cho sự bền vững của tập thể, của Sun Group, của cộng đồng và của đất nước Việt Nam",
+     "Luôn hành động theo những giá trị cốt lõi của Người Sun Group, tự hào làm gương, chia sẻ niềm tin, lan tỏa giá trị của Sun Group tới đồng nghiệp và là nguồn cảm hứng cho đồng nghiệp",
+     "Sống khiêm nhường, trung thực, tự trọng vừa hết lòng hỗ trợ, động viên đồng nghiệp với tinh thần trách nhiệm vì tập thể và vì cộng đồng"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "nghi-quyet-2026-87",
+    "no": 87,
+    "text": "Trong Nghị quyết 126 của Tập đoàn Sun Group, Chủ đề trọng tâm được xác định là gì?",
+    "options": [
+     "Tăng cường thâm canh, tối ưu hiệu quả kinh doanh hệ sinh thái",
+     "Thâm canh, tối ưu hiệu quả kinh doanh và phát triển bền vững",
+     "Đẩy mạnh hiệu quả hoạt động kinh doanh cốt lõi và nâng cao vai trò người đứng đầu",
+     "Tăng cường thâm canh, tối ưu hiệu quả kinh doanh hệ sinh thái"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "nghi-quyet-2026-88",
+    "no": 88,
+    "text": "Trong Nghị quyết 126, triết lý Sun Group  bao gồm những nội dung gì?",
+    "options": [
+     "Triết lý kinh doanh; Triết lý hoạt động; Triết lý con người",
+     "Triết lý con người; Triết lý hoạt động; Triết lý xây dựng",
+     "Triết lý về Người Sun Group; Triết lý hoạt động; Triết lý xây dựng và phát triển văn hóa",
+     "Triết lý về Người Sun Group; Triết lý văn hóa; Triết lý xây dựng"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "nghi-quyet-2026-89",
+    "no": 89,
+    "text": "Trong nội dung Đối với cá nhân Người Sun Group dưới đây, từ còn thiếu trong dấu ba chấm là gì? \"Người Sun Group luôn chủ động lan tỏa các giá trị tốt đẹp đó tới đồng nghiệp để cùng nhau xây dựng Tập thể Người Sun Group là đại diện của ...... với phẩm chất cao đẹp, có năng lực và trình độ chuyên môn cao, có sức khỏe tốt cả về thể chất và tinh thần. \"",
+    "options": [
+     "Người Việt Nam mới.",
+     "Con người mới.",
+     "Người tài.",
+     "Hiền tài."
+    ],
+    "answer": 0
+   },
+   {
+    "id": "nghi-quyet-2026-90",
+    "no": 90,
+    "text": "Trong nội dung Đối với cá nhân Người Sun Group, Người Sun Group phấn đấu trở thành “….....” thay vì “Người tài”.  Từ còn thiếu trong dấu ba chấm là gì?",
+    "options": [
+     "Người Việt Nam mới.",
+     "Con người mới.",
+     "Người tốt.",
+     "Hiền tài."
+    ],
+    "answer": 3
+   },
+   {
+    "id": "nghi-quyet-2026-91",
+    "no": 91,
+    "text": "Trong nội dung Đối với tập thể Người Sun Group có nêu rõ Người Sun Group dù đang ở bất cứ vị trí nào, thực hiện bất cứ công việc nào cũng sẽ luôn nỗ lực hết mình để hoàn thành xuất sắc vai trò, nhiệm vụ của mình. Bởi lẽ, Người Sun Group luôn cho rằng “…..........”; thành công chung của Tập đoàn được đóng góp từ tất cả các cá nhân ở mọi vị trí.\" Câu còn thiếu trong dấu ba chấm là gì?",
+    "options": [
+     "Sun Group là tập thể của những người con yêu nước.",
+     "Không có công việc tầm thường, chỉ có con người tầm thường.",
+     "Thành công của đồng nghiệp cũng là thành công của bản thân mình và là thành công chung của cả Tập đoàn.",
+     "Hạnh phúc của Người Sun Group là trên những chặng đường cống hiến chứ không chỉ là đích đến."
+    ],
+    "answer": 1
+   },
+   {
+    "id": "nghi-quyet-2026-92",
+    "no": 92,
+    "text": "Trong nội dung Đối với tập thể Người Sun Group dưới đây, câu còn thiếu trong dấu ba chấm là gì? \"Người Sun Group xác định, “............”, theo đó, mỗi cá nhân phấn đấu học hỏi và nâng cấp bản thân, phấn đấu trở thành Đại sứ Văn hóa Sun Group, khẳng định tình yêu với Tập đoàn và niềm tự hào khi là thành viên của Tập thể Sun Group, tập thể với lý tưởng cao đẹp đang góp phần xây dựng hình ảnh Người Việt Nam mới trong lao động, đóng góp cho sự phát triển của đất nước.\"",
+    "options": [
+     "Sun Group là tập thể của những người con yêu nước.",
+     "Không có công việc tầm thường, chỉ có con người tầm thường.",
+     "Sun Group không giữ người bằng tiền và không đón nhận những người đến với Tập đoàn chỉ vì tiền.",
+     "Phấn đấu trở thành “Hiền tài” thay vì “Người tài”."
+    ],
+    "answer": 0
+   },
+   {
+    "id": "nghi-quyet-2026-93",
+    "no": 93,
+    "text": "Trong nội dung Đối với tập thể Người Sun Group, Người Sun Group xác định điều gì để theo đó, mỗi cá nhân phấn đấu học hỏi và nâng cấp bản thân, phấn đấu trở thành Đại sứ Văn hóa Sun Group, khẳng định tình yêu với Tập đoàn và niềm tự hào khi là thành viên của tập thể Sun Group, tập thể với lý tưởng cao đẹp đang góp phần xây dựng hình ảnh Người Việt Nam mới trong lao động, đóng góp cho sự phát triển của đất nước?",
+    "options": [
+     "Sun Group là tập thể của những người con yêu nước.",
+     "Sun Group không giữ người bằng tiền và không đón nhận những người đến với Tập đoàn chỉ vì tiền.",
+     "Không có công việc tầm thường, chỉ có con người tầm thường.",
+     "Phấn đấu trở thành “Hiền tài” thay vì “Người tài”."
+    ],
+    "answer": 0
+   },
+   {
+    "id": "nghi-quyet-2026-94",
+    "no": 94,
+    "text": "Trong nội dung Tầm nhìn Sun Group, các lĩnh vực đầu tư chiến lược của Sun Group là gì?",
+    "options": [
+     "Du lịch nghỉ dưỡng, Vui chơi giải trí, Bất động sản, Biểu diễn Nghệ thuật",
+     "Du lịch nghỉ dưỡng, Vui chơi giải trí, Bất động sản, Dịch vụ y tế",
+     "Du lịch nghỉ dưỡng, Vui chơi giải trí, Bất động sản, Tài chính Ngân hàng",
+     "Du lịch nghỉ dưỡng, Vui chơi giải trí, Bất động sản, Đầu tư hạ tầng"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "nghi-quyet-2026-95",
+    "no": 95,
+    "text": "Trong nội dung Tinh thần của Người Sun Group sau đây, từ còn thiếu trong dấu ba chấm là gì? \"Hạnh phúc của Người Sun Group là trên những chặng đường cống hiến chứ ... là đích đến.\"",
+    "options": [
+     "Không cần",
+     "Không chỉ",
+     "Không nhất định",
+     "Không phải"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "nghi-quyet-2026-96",
+    "no": 96,
+    "text": "Trong nội dung về Lý tưởng Sun Group dưới đây, từ còn thiếu trong dấu ba chấm là gì?\n\"Lý tưởng của Sun Group là cùng chung …, cùng … đưa Sun Group tới những bến bờ vinh quang bằng những công trình ghi dấu ấn vượt thời gian\".",
+    "options": [
+     "Một chuyến xe; một con đường.",
+     "Một chiến lược; một Lãnh đạo.",
+     "Một con thuyền; người cầm lái.",
+     "Một con thuyền; một đội ngũ."
+    ],
+    "answer": 2
+   },
+   {
+    "id": "nghi-quyet-2026-97",
+    "no": 97,
+    "text": "Trong nội dung về Lý tưởng Sun Group dưới đây, từ còn thiếu trong dấu ba chấm là gì?\n\"Lý tưởng của Sun Group là cùng chung một con thuyền, cùng người cầm lái đưa Sun Group tới …. bằng những công trình ghi dấu ấn vượt thời gian\".",
+    "options": [
+     "Những bến bờ vinh quang.",
+     "Đích.",
+     "Những bến bờ hạnh phúc.",
+     "Sự trường tồn."
+    ],
+    "answer": 0
+   },
+   {
+    "id": "nghi-quyet-2026-98",
+    "no": 98,
+    "text": "Trong nội dung về Lý tưởng Sun Group dưới đây, từ còn thiếu trong dấu ba chấm là gì?\n\"Lý tưởng của Sun Group là cùng chung một con thuyền, cùng người cầm lái đưa Sun Group tới những bến bờ vinh quang bằng những công trình….\".",
+    "options": [
+     "Đẳng cấp, chất lượng, khác biệt.",
+     "Ghi dấu ấn vượt thời gian.",
+     "Có đẳng cấp quốc tế.",
+     "Hàng đầu Việt Nam."
+    ],
+    "answer": 1
+   },
+   {
+    "id": "nghi-quyet-2026-99",
+    "no": 99,
+    "text": "Trong nội dung về Tinh thần của Người Sun Group dưới đây, câu còn thiếu trong dấu ba chấm là gì? Với tinh thần “......”, Sun Group luôn xác định một tư tưởng “......” vì người Sun Group hiểu rằng, mỗi bước đi của Người Sun Group là những bước đi hạnh phúc nhằm thực hiện những mục tiêu và lý tưởng cao đẹp, nhân văn của bản thân và của Tập đoàn.",
+    "options": [
+     "Hạnh phúc của Người Sun Group là trên những chặng đường cống hiến chứ không chỉ là đích đến; Sun Group không giữ người bằng tiền và không đón nhận những người đến với Tập đoàn chỉ vì tiền.",
+     "Hạt giống tốt chỉ nảy mầm và phát triển khi có môi trường thuận lợi; Sun Group không giữ người bằng tiền và không đón nhận những người đến với Tập đoàn chỉ vì tiền.",
+     "Hạnh phúc của Người Sun Group là trên những chặng đường cống hiến chứ không chỉ là đích đến; Không có công việc tầm thường, chỉ có con người tầm thường.",
+     "Người Sun Group luôn phấn đấu trở thành “Hiền tài” thay vì “Người tài”; Hạt giống tốt chỉ nảy mầm và phát triển khi có môi trường thuận lợi."
+    ],
+    "answer": 0
+   },
+   {
+    "id": "nghi-quyet-2026-100",
+    "no": 100,
+    "text": "Trong thời gian qua Tập đoàn đẩy mạnh triển khai các hoạt động về nâng cao sức khỏe như rèn luyện thể dục thể thao, kiểm tra thể lực, không hút thuốc, chiến dịch Người Sun Group Khỏe thể chất - Sáng tâm hồn - Giàu tri thức,… Việc này nhằm hoàn thành điều gì?",
+    "options": [
+     "Sứ mệnh Sun Group",
+     "Giá trị cốt lõi Đẳng cấp",
+     "Lý tưởng Sun Group",
+     "Giá trị cốt lõi Khác biệt"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "nghi-quyet-2026-101",
+    "no": 101,
+    "text": "Trong triết lý xây dựng và phát triển văn hóa, với yếu tố \"Bản sắc'', Người Sun Group luôn đặt tiêu chí gì lên hàng đầu?",
+    "options": [
+     "Dấn thân",
+     "Kỷ luật",
+     "Sáng tạo",
+     "Học hỏi"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "nghi-quyet-2026-102",
+    "no": 102,
+    "text": "Trong Triết lý xây dựng văn hóa của Sun Group, yếu tố Hội nhập cho biết Văn hóa Sun Group đã, đang và sẽ tiếp tục được bổ sung các tiêu chí văn hóa hiện đại; điều này nhằm mục tiêu gì?",
+    "options": [
+     "Đảm bảo sự hội nhập của Sun Group cũng như Người Sun Group với môi trường phát triển năng động, văn minh và hiện đại của thế giới",
+     "Đảm bảo mỗi người Sun Group đều hiểu, cập nhật và tận dụng những thay đổi về công nghệ của thế giới vào các hoạt động sống và làm việc",
+     "Đảo sự phát triển của Sun Group luôn có sự đồng hành của những tập đoàn lớn, những cá nhân có tên tuổi và uy tín",
+     "Góp phần nâng cao vị thế đất nước, nâng cao chất lượng sống của người dân, làm đẹp, làm giàu cho Tổ quốc"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "nghi-quyet-2026-103",
+    "no": 103,
+    "text": "Trong vai trò là Lãnh đạo và Quản lý, Người đứng đầu cần thể hiện rõ nét tinh thần tinh thần dám dấn thân, dám nghĩ, dám làm, biết làm và dám chịu trách nhiệm với điều gì?",
+    "options": [
+     "Quy trình và cách thức triển khai công việc của CBNV",
+     "Nhiệm vụ mình được giao và kết quả của đơn vị, đội nhóm mà mình phụ trách",
+     "Năng lực chuyên môn, năng lực lãnh đạo của bản thân",
+     "Năng lực chuyên môn, năng suất lao động của CBNV"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "nghi-quyet-2026-104",
+    "no": 104,
+    "text": "Từ còn thiếu trong dấu ba chấm sau đây là gì?\n\"Triết lý ….: đảm bảo cho sự phát triển của mình luôn có sự đồng hành của những tập đoàn lớn, những cá nhân có tên tuổi và uy tin, các công trình luôn gắn với các thương hiệu lớn trên thế giới.\"",
+    "options": [
+     "Về lòng yêu nước",
+     "Về sự hài hòa",
+     "Đứng trên vai những người khổng lồ",
+     "Phát triển bền vững"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "nghi-quyet-2026-105",
+    "no": 105,
+    "text": "Việc đồng hành đưa Michelin Guide tới Việt Nam đã thể hiện triết lý hoạt động nào của Sun Group?",
+    "options": [
+     "Triết lý \"Đứng trên vai người khổng lồ\"; Triết lý về lòng yêu nước",
+     "Triết lý về sự khác biệt; Triết lý đứng trên vai người khổng lồ",
+     "Triết lý xây dựng và phát triển văn hóa; Triết lý về lòng yêu nước",
+     "Triết lý \"Đứng trên vai người khổng lồ\"; Triết lý phát triển bền vững"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "nghi-quyet-2026-106",
+    "no": 106,
+    "text": "Với các nhiệm vụ được giao dù có khó khăn, thách thức; mỗi thành viên Sun Group cần thể hiện tinh thần Nhiệt tâm của mình thế nào?",
+    "options": [
+     "Tuân thủ mọi chuẩn mực của Tập đoàn và hoàn thành mọi nhiệm vụ được giao đúng chất lượng và tiến độ cam kết.",
+     "Sáng tạo, đổi mới, đảm bảo kết quả công việc đạt hiệu quả cao hơn.",
+     "Tiên phong đi đầu, dám nhận và chịu trách nhiệm đến cùng nhiệm vụ được giao.",
+     "Tuân thủ mọi chuẩn mực của Tập đoàn và hoàn thành mọi nhiệm vụ được giao đúng chất lượng và tiến độ cam kết."
+    ],
+    "answer": 2
+   },
+   {
+    "id": "nghi-quyet-2026-107",
+    "no": 107,
+    "text": "Với tôn chỉ phát triển bền vững, một trong những mục tiêu chính Sun Group phấn đấu đạt được là gì?",
+    "options": [
+     "Góp phần xây dựng con người Việt Nam mới với phẩm chất, năng lực, kỹ năng, tri thức bắt kịp với thời cuộc.",
+     "Góp phần nâng cao vị thế đất nước, nâng cao chất lượng cuộc sống của người dân, làm đẹp, làm giàu cho Tổ Quốc, đưa Việt Nam trở thành điểm đến hấp dẫn của thế giới.",
+     "Trở thành một trong những Tập đoàn kinh tế tư nhân Việt Nam có quy mô và đẳng cấp quốc tế, lấy lĩnh vực Du lịch nghỉ dưỡng, Vui chơi giải trí, Bất động sản và Đầu tư hạ tầng làm lĩnh vực đầu tư chiến lược.",
+     "Kiên quyết đấu tranh chống lại sự vô cảm, vô tâm và thiếu trách nhiệm với những nghĩa vụ phải hoàn thành."
+    ],
+    "answer": 2
+   },
+   {
+    "id": "nghi-quyet-2026-108",
+    "no": 108,
+    "text": "Với tôn chỉ phát triển bền vững, một trong những mục tiêu chính Sun Group phấn đấu đạt được là gì?.",
+    "options": [
+     "Luôn thuộc nhóm các công ty dẫn đầu trong các lĩnh vực đầu tư mà Sun Group tham gia.",
+     "Góp phần nâng cao vị thế đất nước, nâng cao chất lượng cuộc sống của người dân, làm đẹp, làm giàu cho Tổ Quốc, đưa Việt Nam trở thành điểm đến hấp dẫn của thế giới.",
+     "Tìm đến những vùng đất giàu tiềm năng nhưng chưa được khai thác đúng tầm, làm thay đổi những vùng đất ấy, kiến tạo và đóng góp cho xã hội những công trình, sản phẩm/dịch vụ có đẳng cấp chất lượng vượt trội, trường tồn theo thời gian.",
+     "Cân bằng giữa phát triển với bảo tồn, tôn trọng các giá trị của thiên nhiên."
+    ],
+    "answer": 0
+   },
+   {
+    "id": "nghi-quyet-2026-109",
+    "no": 109,
+    "text": "Với tôn chỉ phát triển bền vững, một trong những tầm nhìn Sun Group phấn đấu đạt được là gì?",
+    "options": [
+     "Luôn thuộc nhóm các công ty dẫn đầu trong lĩnh vực đầu tư mà Sun Group tham gia.",
+     "Góp phần nâng cao vị thế đất nước, nâng cao chất lượng sống của người dân, làm đẹp, làm giàu cho Tổ quốc và đưa Việt Nam trở thành điểm đến hấp dẫn của thế giới.",
+     "Tìm đến những vùng đất giàu tiềm năng nhưng chưa được khai thác đúng tầm, làm thay đổi những vùng đất ấy, kiến tạo và đóng góp cho xã hội những công trình, sản phẩm/dịch vụ có đẳng cấp chất lượng vượt trội, trường tồn theo thời gian.",
+     "Cân bằng giữa phát triển với bảo tồn, tôn trọng các giá trị của thiên nhiên."
+    ],
+    "answer": 0
+   },
+   {
+    "id": "nghi-quyet-2026-110",
+    "no": 110,
+    "text": "Yêu cầu về Phẩm chất (Nhân cách - Đạo đức) của Người Sun Group trong thời kì mới bao gồm những yếu tố nào?",
+    "options": [
+     "Đạo đức tốt - Nhân cách tốt - Yêu nước - Ý thức vì cộng đồng",
+     "Yêu nước - Lý tưởng - Khiêm nhường - Nhân cách tốt",
+     "Lý tưởng - Nhân cách tốt - Năng suất lao động - Thể chất khỏe mạnh",
+     "Đạo đức tốt - Nhân cách tốt - Yêu nước - Ý thức vì cộng đồng"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "nghi-quyet-2026-111",
+    "no": 111,
+    "text": "Yêu cầu về Sức khỏe (Thể chất – Tinh thần) của Người Sun Group trong thời kì mới bao gồm những yếu tố nào?",
+    "options": [
+     "Ý thức tốt - Nhân cách tốt - Tinh thần tốt.",
+     "Thể chất khỏe mạnh - Tinh thần khỏe mạnh - Lối sống lành mạnh.",
+     "Thể chất khỏe mạnh - Tinh thần khỏe mạnh - Năng suất lao động cao.",
+     "Ý thức tốt - Nhân cách tốt - Tinh thần tốt."
+    ],
+    "answer": 1
+   }
+  ]
+ },
+ {
+  "id": "nhiem-vu-trong-tam",
+  "name": "Nhiệm vụ trọng tâm",
+  "questions": [
+   {
+    "id": "nhiem-vu-trong-tam-1",
+    "no": 1,
+    "text": "Theo Nghị quyết 126 của Tập đoàn, đâu là yêu cầu đối với NVTT về công tác TTVH?",
+    "options": [
+     "Thúc đẩy thực thi giá trị cốt lõi trong phát triển nguồn nhân lực bền vững, phát huy tinh thần kỷ luật, đa năng đa nhiệm, học tập chủ động.",
+     "Thiết lập hệ thống công cụ kiểm soát, đánh giá mức độ trưởng thành văn hóa trên toàn Tập đoàn.",
+     "Đẩy mạnh số hóa toàn diện hoạt động kiểm soát nhằm nâng cao tốc độ, minh bạch và khả năng cảnh báo cho các lĩnh vực trọng yếu",
+     "Đẩy mạnh đào tạo phổ cập nhằm nâng cao năng lực số, hình thành tư duy làm việc dựa trên dữ liệu, công nghệ, tự động hóa."
+    ],
+    "answer": 1
+   },
+   {
+    "id": "nhiem-vu-trong-tam-2",
+    "no": 2,
+    "text": "Theo Nghị quyết 126 của Tập đoàn, định hướng của NVTT về công tác Phát triển & Đầu tư các dự án trọng tâm, trọng điểm là gì?",
+    "options": [
+     "Định hướng Xanh.",
+     "Định hướng phát triển bền vững.",
+     "Tối ưu hiệu quả kinh doanh hệ sinh thái.",
+     "Ghi dấu ấn vượt thời gian."
+    ],
+    "answer": 1
+   },
+   {
+    "id": "nhiem-vu-trong-tam-3",
+    "no": 3,
+    "text": "Theo Nghị quyết 126 của Tập đoàn, nội dung nào sau đây là yêu cầu đối với NVTT về công tác Thanh tra - Kiểm soát?",
+    "options": [
+     "Nâng cao vai trò Người đứng đầu trong việc chủ trì và chịu trách nhiệm cao nhất về  công tác TTVH",
+     "Xây dựng môi trường \"Nói thật – Làm đúng – Báo cáo kịp thời\", hoàn thiện cơ chế bảo vệ người tố giác và quy trình xử lý minh bạch.",
+     "Thiết lập cơ chế kiểm soát, giám sát chủ động, đặc biệt chú trọng công tác kiểm soát rủi ro, chi phí nhằm hạn chế tối đa việc phát sinh gây chậm tiến độ, lãng phí.",
+     "Thiết lập hệ thống công cụ kiểm soát, đánh giá mức độ trưởng thành văn hóa trên toàn Tập đoàn."
+    ],
+    "answer": 1
+   },
+   {
+    "id": "nhiem-vu-trong-tam-4",
+    "no": 4,
+    "text": "Theo Nghị quyết 126 của Tập đoàn, nội dung: \"Đẩy mạnh số hóa toàn diện hoạt động kiểm soát nhằm nâng cao tốc độ, minh bạch và khả năng cảnh báo cho các lĩnh vực trọng yếu\" là yêu cầu đối với NVTT nào?",
+    "options": [
+     "Phát triển văn hóa doanh nghiệp và nâng cao chất lượng nguồn nhân lực.",
+     "Phát triển và đầu tư các Dự án trọng tâm, trọng điểm theo định hướng phát triển bền vững",
+     "Đẩy mạnh triển khai Toàn dân làm văn hóa",
+     "Nâng cao năng lực và hoàn thiện hệ thống kiểm soát nội bộ"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "nhiem-vu-trong-tam-5",
+    "no": 5,
+    "text": "Theo Nghị Quyết 126 của Tập đoàn, yêu cầu đối với NVTT về công tác Nhân sự là gì?",
+    "options": [
+     "Phát triển các dự án trọng điểm",
+     "Đảm bảo nguồn nhân lực đáp ứng yêu cầu và nâng tầm công tác Quản trị nhân sự",
+     "Đẩy mạnh chuyển đổi số trong kinh doanh",
+     "Tăng cường hoạt động quảng bá thị trường quốc tế"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "nhiem-vu-trong-tam-6",
+    "no": 6,
+    "text": "Theo Nghị quyết 126 của Tập đoàn, yêu cầu đối với NVTT về công tác Thanh tra - Kiểm soát là gì?",
+    "options": [
+     "Nâng cao năng lực và hoàn thiện hệ thống kiểm soát nội bộ",
+     "Đổi mới công tác Thanh tra - Kiểm soát thân thiện, hiệu quả",
+     "Tự động hóa công tác Thanh tra - Kiểm soát",
+     "Hoàn thiện hệ thống Thanh tra - Kiểm soát đáp ứng yêu cầu phát triển của Tập đoàn"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "nhiem-vu-trong-tam-7",
+    "no": 7,
+    "text": "Theo NVTT về công tác Chuyển đổi số - Công nghệ trong Nghị Quyết 126 của Tập đoàn, yêu cầu xây dựng, chuẩn hóa và khai thác dữ liệu nhằm phục vụ mục đích nào?",
+    "options": [
+     "Thúc đẩy hiệu quả hoạt động kinh doanh.",
+     "Tăng cường kết nối và nâng cao trải nghiệm đối tác.",
+     "Tập trung xây dựng, chuẩn hóa và khai thác dữ liệu như tài nguyên chiến lược nhằm phục vụ quản trị, điều hành và ra quyết định; đồng thời mở rộng kết nối, gia tăng giá trị dữ liệu phục vụ chiến lược phát triển dài hạn của Tập đoàn",
+     "Hình thành tư duy làm việc dựa trên dữ liệu."
+    ],
+    "answer": 2
+   },
+   {
+    "id": "nhiem-vu-trong-tam-8",
+    "no": 8,
+    "text": "Theo NVTT về công tác Kinh doanh trong Nghị Quyết 126 của Tập đoàn, vai trò của Hàng không trong hệ sinh thái Sun Group là gì?",
+    "options": [
+     "Phát triển thêm các tuyến bay quốc tế mới",
+     "Chú trọng tăng trưởng lượt khách, doanh thu",
+     "Mở rộng hợp tác với các hãng hàng không quốc tế",
+     "Là cầu nối đưa khách hàng tới các điểm đến trọng điểm của Tập đoàn, góp phần hoàn thành các mục tiêu kinh doanh, mang lại hành trình trải nghiệm khách hàng liền mạch và nhất quán."
+    ],
+    "answer": 3
+   },
+   {
+    "id": "nhiem-vu-trong-tam-9",
+    "no": 9,
+    "text": "Theo NVTT về công tác Kinh doanh trong Nghị Quyết 126 của Tập đoàn, việc quản lý và kiểm soát chi phí hiệu quả nhằm mục tiêu gì?",
+    "options": [
+     "Nâng tầm trải nghiệm khách hàng thông qua sản phẩm đẳng cấp, khác biệt",
+     "Tăng giá bán sản phẩm",
+     "Tăng chi phí marketing để mở rộng thị trường",
+     "Quản lý và kiểm soát chi phí hiệu quả nhằm đảm bảo hoàn thành các chỉ tiêu tài chính, đồng thời thúc đẩy sự tăng trưởng bền vững"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "nhiem-vu-trong-tam-10",
+    "no": 10,
+    "text": "Theo NVTT về công tác Kinh doanh trong Nghị Quyết 126 của Tập đoàn, yêu cầu chú trọng mở rộng và xúc tiến thị trường quốc tế trọng điểm nhằm gia tăng độ phủ và giá trị thương hiệu hướng đến những thị trường nào?",
+    "options": [
+     "Hàn Quốc, Trung Quốc & Đông Nam Á",
+     "Malaysia, Singapore & Hàn Quốc",
+     "Thị trường Đông Bắc Á (Hàn Quốc, Đài Loan, Trung Quốc); Đông Nam Á (Thái Lan, Philippines, Malaysia, Singapore), Ấn Độ, Nga và CIS.",
+     "Đông Bắc Á, Trung Đông và Châu Phi"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "nhiem-vu-trong-tam-11",
+    "no": 11,
+    "text": "Theo NVTT về công tác Nhân sự trong Nghị quyết 126 của Tập đoàn, hệ thống đánh giá và đãi ngộ được xây dựng gắn với yếu tố nào?",
+    "options": [
+     "Khả năng ứng dụng công nghệ trong công việc.",
+     "Năng suất lao động.",
+     "Hiệu suất công việc và giá trị đóng góp",
+     "Kết quả kinh doanh của Tập đoàn."
+    ],
+    "answer": 2
+   },
+   {
+    "id": "nhiem-vu-trong-tam-12",
+    "no": 12,
+    "text": "Theo NVTT về công tác Nhân sự trong Nghị quyết 126 của Tập đoàn, mô hình tổ chức được thiết kế và vận hành theo định hướng nào?",
+    "options": [
+     "Tập trung – chuyên sâu – công nghệ.",
+     "Linh hoạt - tinh gọn - tối ưu nguồn lực.",
+     "Mở rộng – tăng trưởng – đa ngành.",
+     "Đa năng - đa nhiệm."
+    ],
+    "answer": 1
+   },
+   {
+    "id": "nhiem-vu-trong-tam-13",
+    "no": 13,
+    "text": "Theo NVTT về công tác Nhân sự trong Nghị quyết 126 của Tập đoàn, yêu cầu quy hoạch và phát triển nguồn nhân lực phải phù hợp với yếu tố nào?",
+    "options": [
+     "Chiến lược phát triển bền vững của Tập đoàn",
+     "Năng lực số của CBNV",
+     "Chiến lược ngắn hạn",
+     "Hoạt động kinh doanh - vận hành."
+    ],
+    "answer": 0
+   },
+   {
+    "id": "nhiem-vu-trong-tam-14",
+    "no": 14,
+    "text": "Theo NVTT về công tác Phát triển & Đầu tư dự án trong Nghị quyết 126 của Tập đoàn, việc đẩy mạnh ứng dụng khoa học công nghệ, chuyển đổi số, tích cực nghiên cứu và đưa vào vận hành các giải pháp kỹ thuật hiện đại, thân thiện với môi trường nhằm hướng tới điều gì?",
+    "options": [
+     "Hoàn thiện trải nghiệm và năng lực số của CBNV",
+     "Gia tăng doanh thu ngắn hạn",
+     "Giảm giấy tờ nội bộ, rút ngắn thời gian xử lý",
+     "Hướng tới mô hình quản lý thông minh và bền vững"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "nhiem-vu-trong-tam-15",
+    "no": 15,
+    "text": "Theo NVTT về công tác Tư tưởng Văn hóa trong Nghị quyết 126 của Tập đoàn, các hoạt động đào tạo, truyền thông được triển khai nhằm mục tiêu gì?",
+    "options": [
+     "Lan tỏa văn hóa sâu rộng cả bên trong và bên ngoài Tập đoàn.",
+     "Củng cố nhận thức và lan tỏa tinh thần “Toàn dân làm văn hóa” tới toàn thể CBNV.",
+     "Xây dựng môi trường làm việc hài hòa, đa dạng thế hệ và quốc tịch.",
+     "Lan tỏa văn hóa sâu rộng cả bên trong và bên ngoài Tập đoàn."
+    ],
+    "answer": 1
+   },
+   {
+    "id": "nhiem-vu-trong-tam-16",
+    "no": 16,
+    "text": "Theo NVTT về công tác Tư tưởng Văn hóa trong Nghị quyết 126 của Tập đoàn, Đội ngũ nòng cốt triển khai văn hóa tại các đơn vị được xác định là lực lượng nào?",
+    "options": [
+     "Đại sứ văn hóa và Truyền thông nội bộ kiêm nhiệm",
+     "Các CBNV cũ",
+     "Đội ngũ Hạt nhân Văn hóa",
+     "Đội ngũ CBLĐ/CBQL"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "nhiem-vu-trong-tam-17",
+    "no": 17,
+    "text": "Theo Nghị quyết 126 của Tập đoàn, nội dung Tổ chức giám sát theo định hướng tập trung nguồn lực vào các lĩnh vực trọng yếu là yêu cầu đối với NVTT về công tác nào sau đây?",
+    "options": [
+     "Công tác Kiểm soát - Thanh tra",
+     "Công tác Quản trị nguồn nhân lực",
+     "Công tác Đầu tư & Phát triển dự án",
+     "Công tác Kinh doanh"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "nhiem-vu-trong-tam-18",
+    "no": 18,
+    "text": "Theo Nghị quyết 126 của Tập đoàn, yêu cầu đối với NVTT về công tác Phát triển - Đầu tư là gì?",
+    "options": [
+     "Tăng cường thâm canh, tối ưu hiệu quả kinh doanh hệ sinh thái",
+     "Tập trung xây dựng, chuẩn hóa và khai thác dữ liệu",
+     "Phát triển và đầu tư các Dự án trọng tâm, trọng điểm theo định hướng phát triển bền vững",
+     "Phát triển các nền tảng số nhằm tăng cường kết nối và nâng cao trải nghiệm đối tác"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "nhiem-vu-trong-tam-19",
+    "no": 19,
+    "text": "Theo NVTT về công tác Kinh doanh trong Nghị Quyết 126 của Tập đoàn, chú trọng triển khai hoạt động thâm canh trong mảng Bất động sản là gì?",
+    "options": [
+     "Đảm bảo chất lượng dịch vụ cao cấp và ổn định, gia tăng tỷ lệ lấp đầy đối với các cơ sở du lịch nghỉ dưỡng; chú trọng tăng trưởng lượt khách, doanh thu (đặc biệt doanh thu ngoài vé, doanh thu show diễn) đối với các cơ sở vui chơi giải trí",
+     "Triển khai hoạt động kinh doanh, khai thác vận hành tại các địa bàn trọng điểm theo Kế hoạch được duyệt đảm bảo nguồn thu của Tập đoàn",
+     "Triển khai đảm bảo an toàn và chất lượng dịch vụ cao xấp xuyên suốt quá trình vận hàng và phục vụ khách hàng",
+     "Triển khai chú trọng mở rộng và xúc tiến thị trường quốc tế trọng điểm nhằm gia tăng độ phủ và giá trị \nthương hiệu"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "nhiem-vu-trong-tam-20",
+    "no": 20,
+    "text": "Theo NVTT về công tác Nhân sự trong Nghị quyết 126 của Tập đoàn, \"phát huy tinh thần kỷ luật, đa năng đa nhiệm, học tập chủ động\" gắn với yếu tố nào?",
+    "options": [
+     "Thúc đẩy thực thi giá trị cốt lõi trong phát triển nguồn nhân lực bền vững",
+     "Đẩy mạnh số hóa toàn diện công tác quản trị và vận hành nhân sự",
+     "Xây dựng hệ thống đánh giá và đãi ngộ",
+     "Thiết kế và vận hành mô hình tổ chức linh hoạt – tinh gọn – tối ưu nguồn lực"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "nhiem-vu-trong-tam-21",
+    "no": 21,
+    "text": "Theo Nghị quyết 126 của Tập đoàn, nội dung:\" Lấy khách hàng làm trung tâm, kết nối trải nghiệm toàn hệ sinh thái \" là yếu tố của NVTT nào?",
+    "options": [
+     "Thanh - Kiểm soát",
+     "Phát triển Dự án",
+     "Quản trị nhân sự",
+     "Chuyển đổi số"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "nhiem-vu-trong-tam-22",
+    "no": 22,
+    "text": "Theo Nghị quyết 126 của Tập đoàn, yêu cầu nào sau đây thuộc yếu tố \"Đẩy mạnh triển khai Toàn dân làm văn hóa\"?",
+    "options": [
+     "Tiếp tục xây dựng và phát huy công tác đối ngoại",
+     "Xây dựng và phát triển đội ngũ nòng cốt triển khai văn hóa tại các đơn vị",
+     "Hoàn thiện trải nghiệm và năng lực số của CBNV",
+     "Tiếp tục duy trì và củng cố công tác đối ngoại"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "nhiem-vu-trong-tam-23",
+    "no": 23,
+    "text": "Theo Nghị quyết 126 của Tập đoàn, yêu cầu nào sau đây CHƯA ĐÚNG đối với NVTT về công tác Chuyển đổi số - Công nghệ  là gì?",
+    "options": [
+     "Lấy khách hàng làm trung tâm, kết nối trải nghiệm toàn hệ sinh thái",
+     "Phát triển các nền tảng số nhằm tăng cường kết nối và nâng cao trải nghiệm đối tác",
+     "Hoàn thiện trải nghiệm và năng lực số của CBNV",
+     "Khai thác hiệu quả hệ sinh thái Sun Group"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "nhiem-vu-trong-tam-24",
+    "no": 24,
+    "text": "Theo Nghị quyết 126 của Tập đoàn, đâu là yêu cầu đối với NVTT về công tác Tư tưởng văn hóa?",
+    "options": [
+     "Xây dựng và phát triển đội ngũ nòng cốt triển khai văn hóa tại các đơn vị",
+     "Đẩy mạnh số hóa toàn diện công tác quản trị và vận hành nhân sự",
+     "Thiết lập cơ chế tự chịu trách nhiệm và bắt buộc đánh giá kiểm soát",
+     "Thiết kế và vận hành mô hình tổ chức linh hoạt – tinh gọn – tối ưu nguồn lực"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "nhiem-vu-trong-tam-25",
+    "no": 25,
+    "text": "Theo Nghị quyết 126 của Tập đoàn, đâu là yêu cầu đối với NVTT về công tác Thanh tra - Kiểm soát ?",
+    "options": [
+     "Thiết lập cơ chế tự chịu trách nhiệm và bắt buộc đánh giá kiểm soát",
+     "Xây dựng môi trường \"Nói thật – Làm đúng – Báo cáo kịp thời\"",
+     "Đẩy mạnh số hóa toàn diện hoạt động kiểm soát nhằm nâng cao tốc độ, minh bạch và khả  năng cảnh báo cho các lĩnh vực trọng yếu",
+     "Tất cả đều đúng"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "nhiem-vu-trong-tam-26",
+    "no": 26,
+    "text": "Theo Nghị quyết 126 của Tập đoàn, định hướng của NVTT về công tác Chuyển đổi số - Công nghệ, chú trọng đến điều gì?",
+    "options": [
+     "Công tác pháp lý và đầu tư",
+     "Kết nối hệ sinh thái",
+     "Duy trì và củng cố công tác đối ngoại",
+     "Thiết kế và vận hành"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "nhiem-vu-trong-tam-27",
+    "no": 27,
+    "text": "Theo nghị quyết 126 của tập đoàn, về công tác Thanh tra - Kiểm soát yêu cầu xây dựng mô trường như thế nào?",
+    "options": [
+     "\"Nói thật – Làm đúng – Báo cáo kịp thời\"",
+     "\"Nói thật - Nhanh nhẹn - Báo cáo kịp thời\"",
+     "\"Tuân thủ - Nói thật - Trách nhiệm\"",
+     "\"Nói thật - Làm nhanh - Báo các kịp thời\""
+    ],
+    "answer": 0
+   },
+   {
+    "id": "nhiem-vu-trong-tam-28",
+    "no": 28,
+    "text": "Theo Nghị quyết 126 của Tập đoàn, để củng cố hệ thống kiểm soát tập trung độc lập theo mô hình bao nhiêu tuyến?",
+    "options": [
+     "1 tuyến",
+     "2 tuyến",
+     "3 tuyến",
+     "4 tuyến"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "nhiem-vu-trong-tam-29",
+    "no": 29,
+    "text": "Theo Nghị quyết 126 của Tập đoàn, đâu là yêu cầu đối với NVTT về công tác ĐT&PT Dự án?",
+    "options": [
+     "Phát triển các nền tảng số nhằm tăng cường kết nối và nâng cao trải nghiệm đối tác",
+     "Tăng cường các hoạt động quảng bá, truyền thông điểm đến và sản phẩm hệ sinh thái",
+     "Chủ động rà soát cơ cấu, chức năng nhiệm vụ, đẩy mạnh phân cấp, phân quyền và nâng cao năng lực thực thi cho đội ngũ",
+     "Đẩy mạnh số hóa toàn diện công tác quản trị và vận hành nhân sự"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "nhiem-vu-trong-tam-30",
+    "no": 30,
+    "text": "Theo Nghị Quyết 126 của tập đoàn, yêu cầu khai thác hiệu quả hệ sinh thái Sun Group, thuộc công tác nào?",
+    "options": [
+     "Công tác Kiểm soát - Thanh tra",
+     "Công tác nhân sự",
+     "Công tác tư tưởng văn hóa",
+     "Công tác kinh doanh"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "nhiem-vu-trong-tam-31",
+    "no": 31,
+    "text": "Theo Nghị quyết 126 của tập đoàn, có bao nhiêu công tác NVTT năm 2026 ?",
+    "options": [
+     "Năm",
+     "Sáu",
+     "Bảy",
+     "Tám"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "nhiem-vu-trong-tam-32",
+    "no": 32,
+    "text": "Theo Nghị quyết 126 của Tập đoàn, đâu là yêu cầu đối với NVTT về công tác Kinh doanh hệ sinh thái ?",
+    "options": [
+     "Tăng cường các hoạt động quảng bá, truyền thông điểm đến và sản phẩm hệ sinh thái",
+     "Chú trọng triển khai hoạt động thâm canh cho từng mảng kinh doanh đảm bảo phù hợp  với từng sản phẩm và phân khúc khách hàng",
+     "Quản lý và kiểm soát chi phí hiệu quả nhằm đảm bảo hoàn thành các chỉ tiêu tài chính, đồng thời thúc đẩy sự tăng trưởng bền vững",
+     "Tất cả đều đúng"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "nhiem-vu-trong-tam-33",
+    "no": 33,
+    "text": "Theo Nghị quyết 126 của Tập đoàn, nội dung:\" Đảm bảo các hoạt động Tư tưởng văn hóa được triển khai vừa đồng bộ vừa linh hoạt, phát huy vai trò dẫn dắt, định hướng xuyên suốt từ Tập đoàn \" là yếu cầu của NVTT nào?",
+    "options": [
+     "Thanh tra -Kiểm soát",
+     "Tư tưởng văn hóa",
+     "Quản trị nhân sự",
+     "Chuyển đổi số - Công nghệ"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "nhiem-vu-trong-tam-34",
+    "no": 34,
+    "text": "Theo NVTT về công tác Phát triển & Đầu tư dự án trong Nghị Quyết 126 của Tập đoàn, yêu cầu Tập trung thúc đẩy công tác pháp lý và đầu tư xây dựng tại các dự án trọng tâm, trọng điểm nhằm đảm bảo điều gì?",
+    "options": [
+     "Đảm bảo nâng cao trải nghiệm \nngười dùng trên mọi điểm chạm",
+     "Đảm bảo rút ngắn thời gian xử lý và nâng cao hiệu suất làm việc",
+     "Đảm bảo đúng tiến độ, chất lượng, đáp ứng nhu cầu phát triển trong ngắn và trung hạn; bên cạnh đó, tận dụng cơ hội nghiên cứu, phát triển dự án tại các địa bàn mới và các dự án PPP, mở rộng hợp tác, liên kết vùng/hệ sinh thái để tạo đột phá trong dài hạn.",
+     "Đảm bảo hiệu suất công việc và giá trị đóng góp; đa dạng hóa chính sách đãi ngộ theo nhóm ngành nghề và vùng miền"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "nhiem-vu-trong-tam-35",
+    "no": 35,
+    "text": "Theo Nghị quyết 126 của Tập đoàn, đâu là yêu cầu đối với NVTT về công tác Chuyển đổi số - Công nghệ ?",
+    "options": [
+     "Phát triển các nền tảng số nhằm tăng cường kết nối và nâng cao trải nghiệm đối tác, đại lý và kênh phân phối, giúp mở rộng khả năng tiếp cận khách hàng",
+     "Tăng cường các hoạt động quảng bá, truyền thông điểm đến và sản phẩm hệ sinh thái",
+     "Tập trung thúc đẩy công tác pháp lý và đầu tư xây dựng tại các dự án trọng tâm, trọng điểm",
+     "Thiết kế và vận hành mô hình tổ chức linh hoạt – tinh gọn – tối ưu nguồn lực"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "nhiem-vu-trong-tam-36",
+    "no": 36,
+    "text": "Theo Nghị quyết 126 của Tập đoàn, đứng trước tình hình thực tế, Tập đoàn Sun Group xác định năm 2026 là năm ?",
+    "options": [
+     "\"Thâm canh, tối ưu quản trị nhân sự và phát triển bền vững \"",
+     "\"Thâm canh, tối ưu tư tưởng văn hóa và phát triển bền vững \"",
+     "\"Thâm canh, tối ưu Chuyển đổi số - Công nghệ và phát triển bền vững\"",
+     "\"Thâm canh, tối ưu hiệu quả kinh doanh và phát triển bền vững\""
+    ],
+    "answer": 3
+   },
+   {
+    "id": "nhiem-vu-trong-tam-37",
+    "no": 37,
+    "text": "Theo Nghị quyết 126 của Tập đoàn, đâu là yêu cầu đối với NVTT về công tác Quản trị nhân sự ?",
+    "options": [
+     "Quy hoạch và phát triển nguồn nhân lực phù hợp với chiến lược phát triển bền vững của Tập đoàn",
+     "Thiết kế và vận hành mô hình tổ chức linh hoạt – tinh gọn – tối ưu nguồn lực",
+     "Xây dựng hệ thống đánh giá và đãi ngộ",
+     "Tất cả đều đúng"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "nhiem-vu-trong-tam-38",
+    "no": 38,
+    "text": "Theo NVTT về công tác Nhân sự trong Nghị quyết 126 của Tập đoàn, quy hoạch và phát triển nguồn nhân lực phù hợp với chiến lược phát triển bền vững chú trọng đến những ngành trọng điểm nào?",
+    "options": [
+     "Ngành giáo dục",
+     "Các ngành trọng điểm như xây dựng, khách sạn nghỉ dưỡng, vui chơi giải trí, hàng không, y tế…",
+     "Ngành truyền thông",
+     "Ngành Bảo hiểm - Ngân hàng"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "nhiem-vu-trong-tam-39",
+    "no": 39,
+    "text": "Theo NVTT về công tác Phát triển & Đầu tư dự án trong Nghị quyết 126 của Tập đoàn, định hướng phát triển bền vững đặt ra yêu cầu nghiên cứu, phát triển dự án tại các địa bàn mới và các dự án gì?",
+    "options": [
+     "Các dự án PPP (các dự án phối hợp với Nhà nước)",
+     "Các dự án mở rộng tại các địa bàn đã khai thác",
+     "Các dự án hạ tầng nối các điểm đến lân cận",
+     "Các dự án tại đặc khu Phú Quốc"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "nhiem-vu-trong-tam-40",
+    "no": 40,
+    "text": "NVTT 05 về TTVH đặt ra yêu cầu nâng tầm đội ngũ nào trở thành lực lượng hạt nhân đắc lực đồng hành cùng CBLĐ/CBQL trong việc thúc đẩy thực thi văn hóa một cách mạnh mẽ?",
+    "options": [
+     "Cán bộ nhân viên",
+     "Đội ngũ Truyền thông nội bộ",
+     "Đội ngũ Đại sứ văn hóa - Truyền thông nội bộ",
+     "Đầu mối Hành chính nhân sự tại các đơn vị"
+    ],
+    "answer": 2
+   }
+  ]
+ },
+ {
+  "id": "noi-quy-quy-che-noi-lam-viec",
+  "name": "Nội quy Quy chế nơi làm việc",
+  "questions": [
+   {
+    "id": "noi-quy-quy-che-noi-lam-viec-1",
+    "no": 1,
+    "text": "Theo Nội quy lao động SG, các hành vi vi phạm được phân thành bao nhiêu nhóm lỗi?",
+    "options": [
+     "03 nhóm lỗi",
+     "04 nhóm lỗi",
+     "06 nhóm lỗi",
+     "05 nhóm lỗi"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "noi-quy-quy-che-noi-lam-viec-2",
+    "no": 2,
+    "text": "Theo Nội quy lao động SG, đối tượng áp dụng của văn bản này gồm:",
+    "options": [
+     "Người lao động làm việc tại Sun Group, tùy theo loại hợp đồng",
+     "Người lao động làm việc tại Sun Group tùy theo tình trạng hợp đồng đã giao kết.",
+     "Người lao động làm việc tại Sun Group sau khi lao động chính thức.",
+     "Người lao động làm việc tại Sun Group, không phân biệt loại hợp đồng, tình trạng hợp đồng đã giao kết."
+    ],
+    "answer": 3
+   },
+   {
+    "id": "noi-quy-quy-che-noi-lam-viec-3",
+    "no": 3,
+    "text": "Theo Nội quy Lao động SG, hình thức kỷ luật kéo dài thời hạn nâng lương không quá 6 tháng được áp dụng trong trường hợp nào?",
+    "options": [
+     "Hành vi vi phạm thuộc nhóm L2, hoặc tái phạm các HVVP nhóm L3",
+     "Hành vi vi phạm thuộc nhóm L3, hoặc tái phạm các HVVP nhóm L2",
+     "Hành vi vi phạm thuộc nhóm L4, hoặc tái phạm các HVVP nhóm L3",
+     "Hành vi vi phạm thuộc nhóm L3, hoặc tái phạm các HVVP nhóm L4"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "noi-quy-quy-che-noi-lam-viec-4",
+    "no": 4,
+    "text": "Theo Nội quy Lao động SG, Người lao động không tuân thủ cam kết đã ký với SG, hoặc vi phạm quy định chính sách an ninh bảo mật thông tin, chống tham nhũng và gian lận tại từng thời kỳ sẽ bị xử lý kỷ luật với hình thức:",
+    "options": [
+     "Khiển trách",
+     "Sa thải",
+     "Cách chức",
+     "Kéo dài thời hạn nâng lương không quá 6 tháng"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "noi-quy-quy-che-noi-lam-viec-5",
+    "no": 5,
+    "text": "Theo Nội quy Lao động SG, Người lao động nếu không tuân thủ các quy trình, quy định, nội quy an toàn vệ sinh lao động, bệnh nghề nghiệp để xảy ra hậu quả thiệt hại về người và tài sản của Sun Group, và/ hoặc gây ảnh hưởng đến uy tín, hình ảnh của Sun Group nhưng chưa đến mức truy cứu trách nhiệm hình sự theo quy định pháp luật thì sẽ bị xử lý kỷ luật với hình thức:",
+    "options": [
+     "Sa thải",
+     "Khiển trách",
+     "Kéo dài thời hạn nâng lương không quá 6 tháng",
+     "Cách chức"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "noi-quy-quy-che-noi-lam-viec-6",
+    "no": 6,
+    "text": "Theo Nội quy Lao động SG, Người lao động thông đồng với đối tác, khách hàng, gây ảnh hưởng/thiệt hại nghiêm trọng hoặc đe dọa gây ảnh hưởng/thiệt hại đặc biệt nghiêm trọng đến tài sản, lợi ích (uy tín, hình ảnh, thương hiệu,…) của SG, sẽ bị xử lý kỷ luật với hình thức:",
+    "options": [
+     "Khiển trách",
+     "Cách chức",
+     "Kéo dài thời hạn nâng lương không quá 6 tháng",
+     "Sa thải"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "noi-quy-quy-che-noi-lam-viec-7",
+    "no": 7,
+    "text": "Theo Nội quy Lao động SG, Người lao động trộm cắp (tài sản, tài liệu, thông tin…), tham ô (không phân biệt giá trị), sẽ bị xử lý kỷ luật với hình thức:",
+    "options": [
+     "Kéo dài thời hạn nâng lương không quá 6 tháng",
+     "Khiển trách",
+     "Cách chức",
+     "Sa thải"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "noi-quy-quy-che-noi-lam-viec-8",
+    "no": 8,
+    "text": "Theo Nội quy Lao động SG, Người lao động tự ý nghỉ việc năm (05) ngày cộng dồn trong thời hạn ba mươi (30) ngày hoặc hai mươi (20) ngày cộng dồn trong thời hạn ba trăm sáu mươi lăm (365) ngày, tính từ ngày đầu tiên tự ý nghỉ việc mà không có lý do chính đáng, sẽ bị xử lý kỷ luật với hình thức:",
+    "options": [
+     "Sa thải",
+     "Kéo dài thời hạn nâng lương không quá 6 tháng",
+     "Khiển trách",
+     "Cách chức"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "noi-quy-quy-che-noi-lam-viec-9",
+    "no": 9,
+    "text": "Theo Nội quy lao động SG, Người lao động vi phạm nhiều hành vi kỷ luật lao động sẽ bị xử lý:",
+    "options": [
+     "Một hoặc nhiều hình thức kỷ luật lao động",
+     "Chỉ được áp dụng một (01) hình thức xử lý kỷ luật cao nhất tương ứng với hành vi vi phạm nặng nhất",
+     "Có thể bị phạt tiền thay cho kỷ luật lao động",
+     "Nhiều hình thức kỷ luật lao động"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "noi-quy-quy-che-noi-lam-viec-10",
+    "no": 10,
+    "text": "Theo Nội quy lao động SG, nhóm lỗi nào sẽ bị xử lý kỷ luật hình thức Khiển trách",
+    "options": [
+     "Nhóm L3",
+     "Nhóm L4",
+     "Nhóm L5",
+     "Nhóm L2"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "noi-quy-quy-che-noi-lam-viec-11",
+    "no": 11,
+    "text": "Theo Nội quy lao động SG, sau bao nhiêu năm làm việc liên tục Người lao động được hưởng thêm một (01) ngày phép",
+    "options": [
+     "04 năm",
+     "03 năm",
+     "7 năm",
+     "02 năm"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "noi-quy-quy-che-noi-lam-viec-12",
+    "no": 12,
+    "text": "Theo Nội quy lao động SG, thời hiệu xử lý kỷ luật (đối với các hành vi không liên quan đến tài chính, tài sản, tiết lộ bí mật công nghệ, kinh doanh) là:",
+    "options": [
+     "06 tháng, kể từ ngày xảy ra hành vi vi phạm",
+     "12 tháng, kể từ ngày phát hiện ra hành vi vi phạm",
+     "06 tháng, kể từ ngày phát hiện ra hành vi vi phạm",
+     "12 tháng, kể từ ngày xảy ra hành vi vi phạm"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "noi-quy-quy-che-noi-lam-viec-13",
+    "no": 13,
+    "text": "Theo Nội quy lao động SG, trình tự xử lý kỷ luật lao động:",
+    "options": [
+     "(1) Lập biên bản sự việc, thu thập chứng cứ (2) Tiến hành họp; Lập biên bản xử lý kỷ luật (3) Ban hành Quyết định  (4) Lưu trữ hồ sơ",
+     "(1) Lập biên bản sự việc, thu thập chứng cứ (2) Tiến hành họp (3) Lập biên bản xử lý kỷ luật",
+     "(1) Lập biên bản sự việc, thu thập chứng cứ (2) Tiến hành họp (3) Ban hành Quyết định",
+     "(1) Tiến hành họp (2) Ban hành Quyết định"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "noi-quy-quy-che-noi-lam-viec-14",
+    "no": 14,
+    "text": "Theo Nội quy lao động SG, tùy theo nhu cầu sản xuất kinh doanh của Tập đoàn như chia tách, sáp nhập các đơn vị, hoặc thay đổi cơ cấu tổ chức, tái cấu trúc lĩnh vực hoạt động, thay đổi quy trình công nghệ, máy móc, thiết bị sản xuất kinh doanh, địa điểm thực hiện, hoặc bù đắp vị trí bị khuyết thiếu hoặc đảm bảo vận hành thông suốt ….. thì người lao động cần:",
+    "options": [
+     "Ưu tiên theo lĩnh vực chuyên môn",
+     "Ưu tiên theo địa bàn cư trú",
+     "Tuân thủ quy định tạm thời điều chuyển",
+     "Tuân thủ quy định điều chuyển"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "noi-quy-quy-che-noi-lam-viec-15",
+    "no": 15,
+    "text": "Theo Pháp luật hiện hành, thời giờ làm việc bình thường theo ngày được quy định như thế nào?",
+    "options": [
+     "12h/ngày",
+     "08h/ngày",
+     "Không quá 08h/ngày",
+     "Không quá 12h/ngày"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "noi-quy-quy-che-noi-lam-viec-16",
+    "no": 16,
+    "text": "Thẩm quyền ra quyết định kỷ luật lao động",
+    "options": [
+     "Chủ tịch/Tổng giám đốc Vùng/Khối",
+     "Trưởng Ban Nhân sự TĐ",
+     "Tổng giám đốc Tập đoàn",
+     "Đại diện theo pháp luật của công ty, hoặc người được ủy quyền theo quy định của pháp luật"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "noi-quy-quy-che-noi-lam-viec-17",
+    "no": 17,
+    "text": "Theo Nội quy Lao động SG, Người lao động cố ý hành hung, gây thương tích ở bất cứ mức độ nào cho người khác trong phạm vi nơi làm việc, khu vực thuộc sở hữu và quản lý của SG, sẽ bị xử lý kỷ luật với hình thức:",
+    "options": [
+     "Khiển trách",
+     "Cách chức",
+     "Sa thải",
+     "Kéo dài thời hạn nâng lương không quá 6 tháng"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "noi-quy-quy-che-noi-lam-viec-18",
+    "no": 18,
+    "text": "Theo Nội quy lao động SG, thời hiệu xử lý kỷ luật (đối với các hành vi liên quan đến tài chính, tài sản, tiết lộ bí mật công nghệ, kinh doanh) là:",
+    "options": [
+     "06 tháng, kể từ ngày xảy ra hành vi vi phạm",
+     "12 tháng, kể từ ngày phát hiện ra hành vi vi phạm",
+     "06 tháng, kể từ ngày phát hiện ra hành vi vi phạm",
+     "12 tháng, kể từ ngày xảy ra hành vi vi phạm"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "noi-quy-quy-che-noi-lam-viec-19",
+    "no": 19,
+    "text": "Đi muộn, về sớm vượt quá từ bốn (04) lần trở lên so với số lần cho phép theo quy định trong một kỳ tính lương là hành vi vi phạm thuộc nhóm lỗi nào?",
+    "options": [
+     "L1",
+     "L2",
+     "L3",
+     "L4"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "noi-quy-quy-che-noi-lam-viec-20",
+    "no": 20,
+    "text": "Các hành vi gian lận chấm công để được ghi nhận giờ làm việc/giờ đào tạo không đúng thực tế thuộc nhóm lỗi nào?",
+    "options": [
+     "L1",
+     "L2",
+     "L3",
+     "L4"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "noi-quy-quy-che-noi-lam-viec-21",
+    "no": 21,
+    "text": "Thời giờ làm việc ban đêm  được tính như thế nào?",
+    "options": [
+     "được tính từ 22:00 đêm đến 06:00 sáng hôm sau",
+     "được tính từ 23:00 đêm đến 07:00 sáng hôm sau",
+     "được tính từ 7:00 tối đến 7:00 sáng hôm sau",
+     "được tính từ 6:00 tối đến 12:00 sáng hôm sau"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "noi-quy-quy-che-noi-lam-viec-22",
+    "no": 22,
+    "text": "Theo Nội quy lao động SG, mức độ vi phạm được xếp theo bao nhiêu cấp độ?",
+    "options": [
+     "3 (Ít nghiêm trọng - Nghiêm trọng - Đặc biệt nghiêm  trọng)",
+     "2 (Nghiêm trọng - Đặc biệt nghiêm trọng)",
+     "1 (Đặc biệt nghiêm trọng)",
+     "Không phân cấp độ"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "noi-quy-quy-che-noi-lam-viec-23",
+    "no": 23,
+    "text": "Theo Nội quy lao động SG, nội dung nào sau đây là căn cứ xác định vi phạm đặc biệt nghiêm trọng?",
+    "options": [
+     "Thiệt hại vật chất trên 20 tháng lương tối thiểu vùng và/ hoặc gây thiệt hại nghiêm trọng hoặc đe dọa gây thiệt hại đặc biệt nghiêm trọng về lợi ích (uy tín, hình ảnh, thương hiệu …) của Sun Group.",
+     "Thiệt hại vật chất không quá 10 tháng lương tối thiểu vùng và/ hoặc gây thiệt hại nghiêm trọng hoặc đe dọa gây thiệt hại đặc biệt nghiêm trọng về lợi ích (uy tín, hình ảnh, thương hiệu …) của Sun Group.",
+     "Thiệt hại vật chất từ 10 đến 20 tháng lương tối thiểu vùng và/ hoặc gây thiệt hại nghiêm trọng hoặc đe dọa gây thiệt hại đặc biệt nghiêm trọng về lợi ích (uy tín, hình ảnh, thương hiệu …) của Sun Group.",
+     "Không căn cứ trên thiệt hại vật chất; chỉ xét đến thiệt hại hoặc đe dọa gây thiệt hại đặc biệt nghiêm trọng về lợi ích (uy tín, hình ảnh thương hiệu …) của Sun Group."
+    ],
+    "answer": 0
+   },
+   {
+    "id": "noi-quy-quy-che-noi-lam-viec-24",
+    "no": 24,
+    "text": "Theo Nội quy lao động SG, cán bộ nhân viên có hành vi vi phạm thuộc nhóm lỗi nào sẽ bị xử lý kỷ luật hình thức \"Cách chức\"?",
+    "options": [
+     "Nhóm L2",
+     "Nhóm L5",
+     "Nhóm L4",
+     "Nhóm L3"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "noi-quy-quy-che-noi-lam-viec-25",
+    "no": 25,
+    "text": "Theo Nội quy lao động SG, cán bộ nhân viên có hành vi vi phạm thuộc nhóm lỗi nào sẽ bị \"Nhắc nhở nội bộ\"",
+    "options": [
+     "Nhóm L1",
+     "Nhóm L2",
+     "Nhóm L3",
+     "Nhóm L4"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "noi-quy-quy-che-noi-lam-viec-26",
+    "no": 26,
+    "text": "Theo Nội quy Lao động SG, Người lao động chơi cờ bạc dưới bất kỳ hình thức nào trong phạm vi nơi làm việc, khu vực thuộc sở hữu và quản lý của SG, sẽ bị xử lý kỷ luật với hình thức:",
+    "options": [
+     "Sa thải",
+     "Khiển trách",
+     "Kéo dài thời hạn nâng lương không quá 6 tháng",
+     "Cách chức"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "noi-quy-quy-che-noi-lam-viec-27",
+    "no": 27,
+    "text": "Nếu hết thời hiệu hoặc còn thời hiệu nhưng không đủ 60 ngày thì được kéo dài thời hiệu để xử lý kỷ luật lao động hay không?",
+    "options": [
+     "Được kéo dài thời hiệu để xử lý kỷ luật lao động nhưng không quá 90 ngày kể từ ngày hết thời gian trên",
+     "Không vì đã hết thời hiệu",
+     "Được kéo dài thời hiệu để xử lý kỷ luật lao động nhưng không quá 60 ngày kể từ ngày hết thời gian trên",
+     "Tùy theo từng trường hợp"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "noi-quy-quy-che-noi-lam-viec-28",
+    "no": 28,
+    "text": "Theo NQLĐ Sun Group hiện hành, sau 5 năm làm việc liên tục trong điều kiện lần lượt là: Điều kiện bình thường/Điều kiện nặng nhọc độc hại/ĐK đặc biệt nặng nhọc, độc hại thì người lao động được hưởng bao nhiêu ngày phép?",
+    "options": [
+     "13/15/17",
+     "12/14/2016 00:00:00",
+     "14/16/18",
+     "15/16/18"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "noi-quy-quy-che-noi-lam-viec-29",
+    "no": 29,
+    "text": "Theo NQLĐ Sun Group hiện hành, các hành vi vi phạm ít nghiêm trọng là trường hợp người lao động do sơ suất gây thiệt hại ít nghiêm trọng bị phạt với giá trị như thế nào?",
+    "options": [
+     "Không quá 10 tháng lương tối thiểu vùng",
+     "Từ mười (10) đến hai mươi (20) tháng lương tối thiểu vùng",
+     "Từ trên hai mươi (20) tháng lương tối thiểu vùng",
+     "Không quá 05 tháng lương tối thiểu vùng"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "noi-quy-quy-che-noi-lam-viec-30",
+    "no": 30,
+    "text": "Theo Nội quy lao động Sun Group, căn cứ nào xác định mức độ nghiêm trọng của các hành vi vi phạm?",
+    "options": [
+     "Thiệt hại về vật chất",
+     "Thiệt hại về tinh thần",
+     "Thiệt hại về uy tín",
+     "Thiệt hại về cả vật chất và uy tín"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "noi-quy-quy-che-noi-lam-viec-31",
+    "no": 31,
+    "text": "Theo Nội quy lao động Sun Group, nhóm lỗi nào sẽ bị xử lý kỷ luật hình thức \"Kéo dài thời hạn nâng lương không quá 06 tháng\"?",
+    "options": [
+     "Các hành vi vi phạm thuộc nhóm L2; Tái phạm các hành vi vi phạm thuộc nhóm L1 trong vòng 30 ngày.",
+     "Các hành vi vi phạm thuộc nhóm L3; Tái phạm các hành vi vi phạm thuộc nhóm L2.",
+     "Các hành vi vi phạm thuộc nhóm L4; Tái phạm các hành vi vi phạm thuộc nhóm L3.",
+     "Các hành vi vi phạm thuộc nhóm L5; Tái phạm các hành vi vi phạm thuộc nhóm L3, L4."
+    ],
+    "answer": 1
+   },
+   {
+    "id": "noi-quy-quy-che-noi-lam-viec-32",
+    "no": 32,
+    "text": "Theo Nội quy lao động Sun Group, nhóm lỗi nào sẽ bị xử lý kỷ luật hình thức \"Sa thải\"?",
+    "options": [
+     "Các hành vi vi phạm thuộc nhóm L2; Tái phạm các hành vi vi phạm thuộc nhóm L1 trong vòng 30 ngày.",
+     "Các hành vi vi phạm thuộc nhóm L3; Tái phạm các hành vi vi phạm thuộc nhóm L2.",
+     "Các hành vi vi phạm thuộc nhóm L4; Tái phạm các hành vi vi phạm thuộc nhóm L3.",
+     "Các hành vi vi phạm thuộc nhóm L5; Tái phạm các hành vi vi phạm thuộc nhóm L3, L4."
+    ],
+    "answer": 3
+   },
+   {
+    "id": "noi-quy-quy-che-noi-lam-viec-33",
+    "no": 33,
+    "text": "Theo Nội quy lao động Sun Group, nội dung nào sau đây KHÔNG thuộc danh mục hình thức kỷ luật?",
+    "options": [
+     "Nhắc nhở nội bộ",
+     "Khiển trách",
+     "Cách chức",
+     "Sa thải"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "noi-quy-quy-che-noi-lam-viec-34",
+    "no": 34,
+    "text": "Theo Anh/Chị, mục đích của việc bổ sung ngày nghỉ việc riêng hưởng nguyên lương vào ngày sinh nhật cho CBNV theo quy định Quản lý thời giờ làm việc, thời giờ nghỉ ngơi hiện hành của Tập đoàn là gì?",
+    "options": [
+     "Giảm thời gian làm việc cho CBNV",
+     "Tăng quỹ ngày nghỉ của CBNV",
+     "Tạo sự ghi nhận và trân trọng cá nhân, thúc đẩy động lực làm việc, thể hiện văn hóa lấy con người làm trung tâm",
+     "Đảm bảo cân đối ngày nghỉ phép của CBNV"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "noi-quy-quy-che-noi-lam-viec-35",
+    "no": 35,
+    "text": "Theo Quy định Quản lý thời giờ làm việc, thời giờ nghỉ ngơi hiện hành của Tập đoàn trong việc ghi nhận thời giờ làm việc, cơ sở để thanh toán tiền lương và các chế độ đãi ngộ khác cho CBNV theo quy định của Tập đoàn là:",
+    "options": [
+     "Dữ liệu chấm công của CBNV được cán bộ nhân sự xác nhận",
+     "Dữ liệu chấm công thực tế của CBNV",
+     "Dữ liệu chấm công của CBNV được cấp có thẩm quyền xác nhận, phê duyệt",
+     "Dữ liệu chấm công thực tế của CBNV kèm giải trình trong tháng"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "noi-quy-quy-che-noi-lam-viec-36",
+    "no": 36,
+    "text": "Theo Quy định Quản lý thời giờ làm việc, thời giờ nghỉ ngơi hiện hành của Tập đoàn, ca làm việc là gì?",
+    "options": [
+     "Là khoảng thời gian làm việc của CBNV từ khi bắt đầu nhận nhiệm vụ cho đến khi kết thúc và bàn giao nhiệm vụ cho người khác, bao gồm cả thời gian làm việc và thời gian nghỉ giữa giờ",
+     "Là khoảng thời gian làm việc của CBNV từ khi bắt đầu nhận nhiệm vụ cho đến khi kết thúc và bàn giao nhiệm vụ cho người khác, không bao gồm thời gian nghỉ giữa giờ",
+     "Thời gian nghỉ trưa",
+     "Thời gian CBNV có mặt tại công ty"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "noi-quy-quy-che-noi-lam-viec-37",
+    "no": 37,
+    "text": "Theo Quy định Quản lý thời giờ làm việc, thời giờ nghỉ ngơi hiện hành của Tập đoàn, hạn mức thời gian đi muộn, về sớm, vắng mặt trong ca làm việc của mỗi CBNV trong tháng là bao nhiêu?",
+    "options": [
+     "Không quá 03 lần/tháng, tổng thời gian không quá 03 giờ/lần",
+     "Không quá 03 lần/tháng, tổng thời gian không quá 04 giờ/lần",
+     "Không quá 03 lần/tháng, tổng thời gian không quá 01 giờ/lần",
+     "Không quá 03 lần/tháng, tổng thời gian không quá 02 giờ/lần và cộng dồn không quá 04 giờ/tháng tính lương"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "noi-quy-quy-che-noi-lam-viec-38",
+    "no": 38,
+    "text": "Theo Quy định Quản lý thời giờ làm việc, thời giờ nghỉ ngơi hiện hành của Tập đoàn, CBNV được nghỉ 1 ngày làm việc hưởng nguyên lương vào ngày nào?",
+    "options": [
+     "Đúng ngày sinh nhật của mình",
+     "Ngày nghỉ phép năm",
+     "Ngày bất kỳ trong tháng sinh nhật của mình với điều kiện thực hiện các thủ tục đăng ký trước và được Cấp có thẩm quyền phê duyệt",
+     "Đúng ngày sinh nhật của mình hoặc ngày làm việc liền kề trước/sau nếu ngày sinh nhật trùng ngày nghỉ hằng tuần, nghỉ lễ, tết với điều kiện thực hiện các thủ tục đăng ký trước và được Cấp có thẩm quyền phê duyệt"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "noi-quy-quy-che-noi-lam-viec-39",
+    "no": 39,
+    "text": "Theo Nội quy lao động SG, thời giờ làm việc bình thường được quy định như thế nào?",
+    "options": [
+     "Không quá 10h/ngày",
+     "Không quá 06h/ngày",
+     "Không quá 12h/ngày",
+     "Không quá 08h/ngày"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "noi-quy-quy-che-noi-lam-viec-40",
+    "no": 40,
+    "text": "Thời giờ làm việc ban đêm được tính như thế nào?",
+    "options": [
+     "Được tính từ 7:00 tối đến 7:00 sáng hôm sau",
+     "Được tính từ 6:00 tối đến 12:00 sáng hôm sau",
+     "Được tính từ 23:00 đêm đến 07:00 sáng hôm sau",
+     "Được tính từ 22:00 đêm đến 06:00 sáng hôm sau"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "noi-quy-quy-che-noi-lam-viec-41",
+    "no": 41,
+    "text": "Theo QĐ CS ANBMTT, trong trường hợp nào thì CBNV được phép forward thư trao đổi của các CB Lãnh đạo từ cấp TGĐ trở lên cho cấp dưới và các bộ phận khác?",
+    "options": [
+     "Nội dung thuộc nhóm thông tin công khai",
+     "Nội dung phê duyệt để người nhận có thể tiếp tục triển khai công việc",
+     "Nội dung có bút phê đồng ý của Lãnh đạo",
+     "Không có qui định cụ thể"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "noi-quy-quy-che-noi-lam-viec-42",
+    "no": 42,
+    "text": "Theo QĐ CS ANBMTT, CBNV có được phép thực hiện Archiveing email trên máy tính không?",
+    "options": [
+     "Không được phép",
+     "Được phép",
+     "Không qui định",
+     "Được phép trong vòng 1 tháng"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "noi-quy-quy-che-noi-lam-viec-43",
+    "no": 43,
+    "text": "Theo QĐ CS ANBMTT, CBNV có được phép sử dụng email Sun Group/Các CTTV để đăng ký truy cập vào các diễn đàn trang mạng, tổ chức ngoài trên mạng Internet không?",
+    "options": [
+     "Không qui định",
+     "Được phép",
+     "Không được phép",
+     "Được phép cho các ứng dụng phổ thông như google, Facebook"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "noi-quy-quy-che-noi-lam-viec-44",
+    "no": 44,
+    "text": "Theo QĐ CS ANBMTT, trước khi thanh lý hoặc chuyển sở hữu tài sản CNTT cho dối tác bên ngoài, thông tin phải được xử lý ntn?",
+    "options": [
+     "Chỉ thực hiện xóa, tiêu hủy các thông tin \"mật\" \"tuyệt mật\"",
+     "Xóa, tiêu hủy hoàn toàn đảm bảo không thể phục hồi",
+     "CHỉ thực hiện xóa, tiêu hủy thông tin nội bộ, mật, tuyệt mật",
+     "Không qui định"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "noi-quy-quy-che-noi-lam-viec-45",
+    "no": 45,
+    "text": "Theo QĐ CS ANBMTT, trước khi thanh lý hoặc chuyển sở hữu tài sản CNTT trong nội bộ, thông tin phải được xử lý ntn?",
+    "options": [
+     "Xóa, tiêu hủy hoàn toàn đảm bảo không thể phục hồi",
+     "Thông tin mật, tuyệt mật phải được xóa đảm bảo không thể phục hồi",
+     "Không qui định",
+     "Thông tin nội bộ mật, tuyệt mật phải được xóa đảm bảo không thể phục hồi"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "noi-quy-quy-che-noi-lam-viec-46",
+    "no": 46,
+    "text": "Theo QĐ CS ANBMTT, khi thông tin thuộc nhiều danh mục phân loại thì tài sản thông tin sẽ được phân loại theo nhóm nào?",
+    "options": [
+     "Cao nhất",
+     "Nội bộ",
+     "Mật",
+     "Tuyệt mật"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "noi-quy-quy-che-noi-lam-viec-47",
+    "no": 47,
+    "text": "Theo QĐ CS ANBMTT, công tác đào tạo nâng cao nhận thức ANAT TT cần thực hiện định kỳ tối thiểu bao nhiêu lần/năm?",
+    "options": [
+     "2 lần/năm",
+     "4 lần/năm",
+     "1 lần/năm",
+     "3 lần/năm"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "noi-quy-quy-che-noi-lam-viec-48",
+    "no": 48,
+    "text": "Theo QĐ CS ANBMTT, trong trường hợp thông tin không được phân loại thì thông tin này được mặc định phân loại thuộc nhóm nào?",
+    "options": [
+     "Mật",
+     "Tuyệt mật",
+     "Nội bộ",
+     "Công khai"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "noi-quy-quy-che-noi-lam-viec-49",
+    "no": 49,
+    "text": "Theo QĐ CS ANBMTT, nội dung trách nhiệm sau đây là của bộ phận nào? - Xây dựng và cập nhật các Quy định, quy trình và hướng dẫn về ANTT. - Định kỳ thực hiện đánh giá tuân thủ với các Quy định, tiêu chuẩn, hướng dẫn và quy định ANTT đã ban hành. Triển khai các chương trình ANTT nhằm đảm bảo tính bí mật, toàn vẹn và sẵn sàng của thông tin trong Tập đoàn",
+    "options": [
+     "Bộ phận nhân sự",
+     "Cán bộ nhân viên SG",
+     "Bộ phận An ninh bảo mật - Ban CNTT",
+     "Chủ quản dữ liệu"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "noi-quy-quy-che-noi-lam-viec-50",
+    "no": 50,
+    "text": "Quy định chính sách ANBMTT áp dụng cho những đối tượng nào?",
+    "options": [
+     "Tất cả cán bộ nhân viên của Tập Đoàn Sun Group, bao gồm nhân viên toàn thời gian, bán thời gian và nhân viên tạm thời đang làm việc tại Tập đoàn và đơn vị thành viên Sun Group (ĐVTVSG), các cá nhân, đơn vị bên thứ ba tham gia vào các nghiệp vụ phát triển, vận hành, quản lý và sử dụng tài sản Công nghệ Thông tin (CNTT) của Sun Group",
+     "Tất cả cán bộ nhân viên của Tập Đoàn Sun Group, bao gồm nhân viên toàn thời gian, bán thời gian và nhân viên tạm thời đang làm việc tại Tập đoàn và đơn vị thành viên Sun Group (ĐVTVSG). Các cá nhân, đơn vị bên thứ ba tham gia vào các nghiệp vụ phát triển, vận hành, quản lý và sử dụng tài sản Công nghệ Thông tin (CNTT) của Sun Group không cần thiết phải tuân thủ quy định này",
+     "Tất cả cán bộ nhân viên của Tập Đoàn Sun Group, bao gồm nhân viên toàn thời gian, bán thời gian và nhân viên tạm thời đang làm việc tại Tập đoàn và đơn vị thành viên Sun Group (ĐVTVSG).",
+     "Tất cả cán bộ nhân viên của Tập Đoàn Sun Group (không bao gồm nhân viên bán thời gian và nhân viên tạm thời đang làm việc tại Tập đoàn), các cá nhân, đơn vị bên thứ ba tham gia vào các nghiệp vụ phát triển, vận hành, quản lý và sử dụng tài sản Công nghệ Thông tin (CNTT) của Sun Group"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "noi-quy-quy-che-noi-lam-viec-51",
+    "no": 51,
+    "text": "QĐ CS ANBMTT được đưa ra nhằm đảm bảo các mục đích gì?",
+    "options": [
+     "Đảm bảo tính bảo mật, tính minh bạch, tính linh hoạt",
+     "Đảm bảo tính bảo mật, tính minh bạch, tính sẵn sàng",
+     "Đảm bảo tính bí mật, tính toàn vẹn, tính sẵn sàng",
+     "Đảm bảo tính bí mật, tính minh bạch, tính sẵn sàng"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "noi-quy-quy-che-noi-lam-viec-52",
+    "no": 52,
+    "text": "Đâu là chính sách ANBM dành cho nhân sự?",
+    "options": [
+     "CBNV phải ký cam kết bảo mật thông tin (NDA) ngay sau 2 tháng thử việc",
+     "CBNV phải ký kết điều khoản về cam kết bảo mật thông tin với Sungroup trong và sau khi làm việc tại Sungroup\nQuyền truy cập vào các tài sản CNTT phải được vô hiệu hóa ngay lập tức đối với nhân viên nghỉ việc",
+     "Lựa chọn 1Quyền truy cập vào các tài sản CNTT phải được vô hiệu hóa ngay lập tức đối với nhân viên nghỉ việc",
+     "CBNV phải ký kết điều khoản về cam kết bảo mật thông tin với Sungroup trong và sau khi làm việc tại Sungroup"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "noi-quy-quy-che-noi-lam-viec-53",
+    "no": 53,
+    "text": "Anh/Chị cần cẩn trọng và cảnh giác khi nhận được những yêu cầu nào sau đây?",
+    "options": [
+     "Yêu cầu đổi mật khẩu đã sắp hết hạn từ hệ thống gửi đến với địa chỉ đổi mật khẩu là https://matkhau.sungroup.com.vn",
+     "Yêu cầu gửi báo cáo công việc được giao qua email công ty cho CBLĐ",
+     "Yêu cầu thanh toán tiền gấp vào tài khoản mới từ đối tác hoặc yêu cầu mở tập tin đính kèm trong email từ những địa chỉ lạ",
+     "Tất cả đáp án trên"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "noi-quy-quy-che-noi-lam-viec-54",
+    "no": 54,
+    "text": "Đơn vị làm gì khi chuyển quyền sở hữu máy tính từ một CBNV đã nghỉ việc sang cho CBNV mới tuyển dụng?",
+    "options": [
+     "Vì CBNV mới tuyển dụng nhằm thay thế cho CBNV cũ đã nghỉ việc nên chuyển giao toàn bộ máy tính và dữ liệu trên máy tính của nhân viên cũ cho nhân viên mới cho thuận tiện",
+     "Yêu cầu CBNV tại đơn vị thực hiện lệnh xóa dữ liệu \"Delete\" trên máy tính của CBNV cũ trước khi bàn giao sang CBNV mới tuyển dụng",
+     "Yêu cầu và giám sát bộ phận CNTT tại đơn vị xóa đảm bảo không thể khôi phục đối với các dữ liệu thuộc nhóm \"mật\" và \"tuyệt mật\" trên máy tính trước khi chuyển",
+     "Yêu cầu CBNV mới tuyển dụng ký cam kết bảo mật thông tin sau đó mới chuyển giao máy tính của CBNV cũ và dữ liệu trên máy tính cho CBNV mới"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "noi-quy-quy-che-noi-lam-viec-55",
+    "no": 55,
+    "text": "Một đồng nghiệp tải phần mềm không có bản quyền từ trên mạng và chia sẻ với anh/chị để cài đặt. Anh/Chị nên làm gì ?",
+    "options": [
+     "Cài đặt phần mềm và sử dụng vì nhu cầu công việc đang cần gấp",
+     "Cố gắng cài thử, nếu chương trình Antivirus phát hiện thì không dùng thôi !",
+     "Từ chối và yêu cầu đồng nghiệp liên hệ với bộ phận CNTT để được hỗ trợ nhu cầu cài đặt phần mềm.",
+     "Tất cả phương án trên"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "noi-quy-quy-che-noi-lam-viec-56",
+    "no": 56,
+    "text": "Chính sách nào sau đây là chính sách quản lý truy cập hệ thống mạng nội bộ của tập đoàn",
+    "options": [
+     "Để đảm bảo công việc, Ban CNTT đảm bảo toàn bộ các CBNV/CBLĐ của tập đoàn đều khó thể truy cập từ xa vào hệ thống mạng nội bộ của Sungroup",
+     "Việc thiết lập các truy cập từ xa vào hệ thống mạng nội bộ của Sun Group dựa trên nhu cầu công việc và phải được phê duyệt của lãnh đạo Đơn vị và LĐTĐ",
+     "Khi có nhu cầu truy cập từ xa vào hệ thống mạng nội bộ của Sun Group, CBNV/CBLĐ gửi yêu cầu trực tiếp tới BCNTT Tập Đoàn yêu cầu hỗ trợ phân quyền truy cập\nđảm bảo kịp thời nhu cầu công việc",
+     "Để đảm bảo tốc độ truy cập hệ thống nội bộ Sungroup, toàn bộ các hệ thống của Sungroup cần phải đưa ra internet từ đó không có phân biệt mạng nội bộ tập đoàn và mạng ngoài tập đoàn."
+    ],
+    "answer": 1
+   },
+   {
+    "id": "noi-quy-quy-che-noi-lam-viec-57",
+    "no": 57,
+    "text": "Anh/Chị nhận được điện thoại của người xưng là Thanh tra Tập đoàn, yêu cầu cung cấp ngay mật khẩu đăng nhập máy tính phục vụ thanh tra. Anh/Chị sẽ làm gì trong trường hợp này?",
+    "options": [
+     "Ngay lập tức cung cấp mật khẩu để tránh bị phiền hà.",
+     "Cẩn thận xem lại có CBNV Tập đoàn có ai tên như vậy không, nếu đúng thì cung cấp ngay để tránh phiền hà",
+     "Không chia sẻ mật khẩu qua điện thoại và thực hiện chia sẻ qua email",
+     "Không chia sẻ thông tin mật khẩu"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "noi-quy-quy-che-noi-lam-viec-58",
+    "no": 58,
+    "text": "Sử dụng máy tính cá nhân để làm việc được quy định như thế nào?",
+    "options": [
+     "Không sử dụng máy tính, thiết bị cá nhân phục vụ công việc.",
+     "Trường hợp ngoại lệ phải được Cán bộ Lãnh đạo có thẩm quyền phê duyệt",
+     "Máy tính cá nhân phải được cấu hình tuân thủ tất cả Quy định, tiêu chuẩn an ninh bảo mật của Sun Group và phải được Bộ phận CNTT kiểm tra trước khi kết nối vào mạng nội bộ",
+     "Tất cả các đáp án trên"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "noi-quy-quy-che-noi-lam-viec-59",
+    "no": 59,
+    "text": "Thời gian hiệu lực tối đa cho các yêu cầu ngoại lệ (truy cập mạng xã hội, lưu trữ trực tuyến, chat...) là?",
+    "options": [
+     "90 ngày",
+     "180 ngày",
+     "365 ngày",
+     "Không giới hạn thời gian"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "noi-quy-quy-che-noi-lam-viec-60",
+    "no": 60,
+    "text": "Chính sách an ninh bảo mật thông tin quy định quy định việc sử dụng email như thế nào ?",
+    "options": [
+     "Nghiêm cấm sử dụng tài khoản email khác ngoài hệ thống email của Sungroup (như Yahoo, Hotmail, Gmail ...) để trao đổi thông tin trong quá trình xử lý công việc",
+     "Nghiêm cấm sử dụng tài khoản email khác ngoài hệ thống email của Sungroup (như Yahoo, Hotmail, Gmail ..) cho mục đích cá nhân",
+     "Cho phép sử dụng tài khoản email khác ngoài hệ thống email của Sungroup (như Yahoo, Hotmail, Gmail ...) để trao đổi thông tin trong quá trình xử lý công việc",
+     "Không cấm sử dụng Yahoo, Gmail"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "noi-quy-quy-che-noi-lam-viec-61",
+    "no": 61,
+    "text": "Trang https://matkhau.sungroup.com.vn là trang web dùng để làm gì ?",
+    "options": [
+     "Cổng thông tin quản lý tài khoản Sun Group",
+     "Website quản lý mật khẩu người dùng cuối",
+     "Website bảo mật mật khẩu người dùng cuối",
+     "Cổng thông tin Sun Group"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "noi-quy-quy-che-noi-lam-viec-62",
+    "no": 62,
+    "text": "Theo chính sách ANBM của Sun Group, CBNV không được phép sử dụng địa chỉ email của Sun Group trong trường hợp nào?",
+    "options": [
+     "Đăng ký thành viên trên các diễn đàn công cộng, mạng xã hội, hoặc bất kỳ thao tác nào tiềm ẩn nguy cơ lộ địa chỉ email của Sun Group",
+     "Gửi email cho đối tác bên ngoài",
+     "Đăng ký email Gmail, Yahoo",
+     "Gửi email chứa đường link"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "noi-quy-quy-che-noi-lam-viec-63",
+    "no": 63,
+    "text": "Trách nhiệm đảm bảo an ninh thông tin là của ai?",
+    "options": [
+     "Ban Công nghệ Thông tin",
+     "CBLD cao cấp",
+     "Bộ phận An ninh bảo mật",
+     "Tất cả Cán bộ nhân viên"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "noi-quy-quy-che-noi-lam-viec-64",
+    "no": 64,
+    "text": "Hành động nào sau đây được coi là tuân thủ quy định chính sách ANBM?",
+    "options": [
+     "Chia sẻ dữ liệu của Tập đoàn ra bên ngoài mà chưa được cấp phép phê duyệt",
+     "Tự cài đặt phần mềm không bản quyền có chứa virus",
+     "Không truy cập các website không liên quan nội dung công việc",
+     "Chia sẻ mật khẩu đăng nhập vào máy tính, ứng dụng cho người khác biết"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "noi-quy-quy-che-noi-lam-viec-65",
+    "no": 65,
+    "text": "Tài liệu nào sau đây được coi là thông tin công khai có thể chia sẻ ra bên ngoài Tập đoàn?",
+    "options": [
+     "Quy định nội bộ chung",
+     "Thông cáo báo chí, tài liệu tiếp thị và các báo cáo tài chính đã công bố",
+     "Mật khẩu",
+     "Lương, thưởng, kỷ luật lao động"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "noi-quy-quy-che-noi-lam-viec-66",
+    "no": 66,
+    "text": "Sử dụng email trong các trường hợp nào sau đây được coi là vi phạm?",
+    "options": [
+     "Không gởi đính kèm các loại tệp thực thi như: .exe, .com, .bat, .sh.js…",
+     "Sử dụng email của Tập đoàn cho mục đích cá nhân và sử dụng email cá nhân để gửi trên danh nghĩa của Sun Group hoặc cấu hình tự động gửi/chuyển tiếp (auto-forward) các email nội bộ Sun Group ra các email bên ngoài hệ thống của Tập đoàn (gmail, yahoo...) hoặc đồng bộ dữ liệu từ hòm thư email công ty với hòm thư bên ngoài Internet",
+     "Không được mở các link, tệp đính kèm từ email lạ hoặc không rõ nguồn gốc.",
+     "Đặt mật khẩu cho file chứa thông tin được phân loại \"mật\" hoặc \"tuyệt mật\" khi gửi qua email"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "noi-quy-quy-che-noi-lam-viec-67",
+    "no": 67,
+    "text": "Anh/Chị bấm vào một đường dẫn trong email, trên màn hình hiện lên thông báo, dữ liệu trên máy đã bị mã hóa và yêu cầu trả tiền chuộc để lấy lại dữ liệu. Anh/Chị sẽ làm gì?",
+    "options": [
+     "Không thông báo cho ai, tiếp tục làm việc bình thường vì dữ liệu đã lưu trên máy chủ",
+     "Không thông báo cho ai, trả tiền chuộc theo yêu cầu để khôi phục lại dữ liệu bị mã hóa",
+     "Chuyển tiếp email nhận được cho đồng nghiệp làm việc trong lĩnh vực CNTT ở cơ quan cũ để nhờ trợ giúp",
+     "Dừng sử dụng, ngắt máy tính ra khỏi mạng và thông báo ngay cho bộ phận CNTT/ANBM"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "noi-quy-quy-che-noi-lam-viec-68",
+    "no": 68,
+    "text": "Anh/Chị nhận được email truyền thông về An Toàn Thông Tin từ bcntt@sungroup.com.vn. Khi nhận được mail này, Anh/Chị sẽ làm gì",
+    "options": [
+     "Bỏ qua không đọc vì còn bận nhiều công việc khác",
+     "Đợi CBLĐ có chỉ đạo rồi mới thực hiện.",
+     "Đọc kỹ và nghiêm túc thực hiện theo các hướng dẫn trong email",
+     "Đọc qua cho biết, chắc mấy việc đó không xảy ra với mình"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "noi-quy-quy-che-noi-lam-viec-69",
+    "no": 69,
+    "text": "Để tăng tính sẵn sàng của dữ liệu quan trọng, Anh/Chị cần thực hiện những hành động nào sau đây?",
+    "options": [
+     "Lưu dữ liệu quan trọng định kỳ lên Data Room được quy hoạch của TĐ & ĐVTVSG",
+     "Xóa các dữ liệu ít quan trọng hơn để còn nhiều dung lượng cho các dữ liệu quan trọng",
+     "Lưu các dữ liệu quan trọng ra USB cá nhân",
+     "Lưu các dữ liệu quan trọng ra các dịch vụ lưu trữ online các nhân trên Internet như GoogleDrive, DropBox..."
+    ],
+    "answer": 0
+   },
+   {
+    "id": "noi-quy-quy-che-noi-lam-viec-70",
+    "no": 70,
+    "text": "Anh/Chị nhận được email dưới tên của Tổ chức Y tế thế giới WHO yêu cầu mở tập tin đính kèm để xem cách phòng tránh dịch bệnh Covid. Anh/Chị xử lý như thế nào?",
+    "options": [
+     "Mở tài liệu đính kèm ra xem thông tin.",
+     "Không mở tập tin đính kèm và chuyển tiếp dưới dạng đính kèm (Forward as attachment) cho CNTT/ANBM để kiểm tra.",
+     "Chuyển tiếp (Forward) email này tới nhiều đồng nghiệp được biết thông tin.",
+     "Chuyển tiếp (Forward) email tới tài khoản cá nhân để mở ra xem sau giờ làm việc"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "noi-quy-quy-che-noi-lam-viec-71",
+    "no": 71,
+    "text": "Anh/Chị nhận được điện thoại xưng là nhân viên ngân hàng, đọc đúng thông tin cá nhân của Anh/Chị và yêu cầu cung cấp thông tin mật khẩu Ngân hàng trực tuyến để hỗ trợ tra soát giao dich. Anh/Chị sẽ xử lý như thế nào?",
+    "options": [
+     "Không cung cấp mật khẩu",
+     "Cung cấp mật khẩu vì các thông tin nhân viên đó cung cấp đều chính xác",
+     "Cung cấp mật khẩu sau khi xác nhận được tên và chi nhánh làm việc của nhân viên đó",
+     "Cung cấp mật khẩu qua điện thoại, mật khẩu sẽ được cung cấp an toàn cho nhân viên đó qua email"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "noi-quy-quy-che-noi-lam-viec-72",
+    "no": 72,
+    "text": "Để gửi tài liệu chứa thông tin mật/tuyệt mật qua email, Anh/Chị dùng phương án nào?",
+    "options": [
+     "Gửi tập tin qua email cho đồng nghiệp, và cc cho CBLĐ hai bên biết để kiểm soát công việc.",
+     "Đặt mật khẩu cho tập tin, rồi gửi tập tin và mật khẩu qua mail cho đồng nghiệp",
+     "Không gửi qua email vì đây là tài liệu chứa thông tin mật/tuyệt mật",
+     "Đặt mật khẩu cho tập tin, rồi gửi qua email cho đồng nghiệp. Mật khẩu mở tập tin sẽ được gửi qua kênh khác như tin nhắn, điện thoại,..."
+    ],
+    "answer": 3
+   },
+   {
+    "id": "noi-quy-quy-che-noi-lam-viec-73",
+    "no": 73,
+    "text": "Anh/Chị dự họp với đối tác tiềm năng do CBLĐ giới thiệu. Sau buổi họp, đối tác đề nghị gửi tài liệu nội bộ luôn để có thể hỗ trợ ngày cho dự án. Anh/Chị giải quyết như thế nào?",
+    "options": [
+     "Xin phê duyệt của CBLĐ và yêu cầu đối tác ký cam kết không tiết lộ thông tin (NDA) trước khi gửi tài liệu.",
+     "Gửi luôn vì thấy công việc được triển khai nhanh hơn kế hoạch",
+     "Gửi tài liệu cho đối tác và CC cho CBLĐ kiểm soát công việc",
+     "Tất cả phương án trên"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "noi-quy-quy-che-noi-lam-viec-74",
+    "no": 74,
+    "text": "Vai trò và trách nhiệm của mỗi CBNV trong việc đảm bảo an ninh thông tin là gì?",
+    "options": [
+     "Nắm rõ và tuân thủ theo các Quy định, quy trình và hướng dẫn về ANTT, Báo cáo kịp thời cho Bộ phận hỗ trợ người dùng hoặc An ninh Bảo mật ngay khi phát hiện",
+     "Chia sẻ các sự cố thông tin xảy ra tại Sun Group ra ngoài để toàn xã hội cùng biết và phòng tránh",
+     "Đọc quy định hướng dẫn nhưng không làm theo",
+     "Chỉ báo cáo cho quản lý mà không káo cáo kịp thời cho Bộ phận hỗ trợ người dùng hoặc An ninh Bảo mật ngay khi phát hiện"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "noi-quy-quy-che-noi-lam-viec-75",
+    "no": 75,
+    "text": "CBNV cần làm gì ngay sau khi được tuyển dụng?",
+    "options": [
+     "CBNV ký cam kết bảo mật thông tin (NDA)",
+     "CBNV chia sẻ các thông tin về hợp đồng lao động ra bên ngoài",
+     "CBNV gửi tất cả các thông tin cá nhân cho các bên không liên quan",
+     "Chụp email thư mời làm việc và chia sẻ lên internet"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "noi-quy-quy-che-noi-lam-viec-76",
+    "no": 76,
+    "text": "Thông tin được phân loại bao gồm các nhóm nào?",
+    "options": [
+     "Thấp, trung bình, cao, nghiêm trọng",
+     "Công khai, nội bộ, mật, tuyệt mật",
+     "Công khai, không hạn chế, hạn chế, rất hạn chế",
+     "Word, Excel, Powerpoint, PDF"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "noi-quy-quy-che-noi-lam-viec-77",
+    "no": 77,
+    "text": "Trường hợp nào sau đây được xem là vi phạm khi sử dụng máy tính?",
+    "options": [
+     "Sử dụng máy tính của tập đoàn và được join của domain Tập đoàn & ĐVTVSG",
+     "Sử dụng máy tính cá nhân để phục vụ công việc mà chưa được phê duyệt ngoại lệ",
+     "Máy tính được cài đặt bản Ghost/ hệ điều hành có bản quyền của Tập đoàn",
+     "Máy tính được cài đặt đầy đủ phần mềm bảo vệ virus của Tập đoàn"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "noi-quy-quy-che-noi-lam-viec-78",
+    "no": 78,
+    "text": "Trường hợp mặc định nhóm các website/dịch vụ internet sau đây bị chặn",
+    "options": [
+     "Mạng xã hội, chia sẻ file, lưu trữ trực tuyến, chat, dịch vụ email, media streaming, website độc hại nội dung không lành mạnh",
+     "Trang tìm kiếm google.com",
+     "Trang giao dịch ngân hàng internet banking",
+     "Website tập đoàn và các đơn vị thành viên"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "noi-quy-quy-che-noi-lam-viec-79",
+    "no": 79,
+    "text": "Những điều nào sau đây được coi là đúng khi truy cập website/dịch vụ internet?",
+    "options": [
+     "Sử dụng internet cho mục đích cá nhân trong giờ làm việc.",
+     "Truy cập internet trực tiếp từ wifi điện thoại 3G/4G phát ra khi đang kết nội mạng nội bộ Tập đoàn",
+     "Không truy cập các trang web có nội dung xấu, chống phá nhà nước,vi phạm pháp luật và không tải về và cài đặt phần mềm, các tệp độc hại hoặc file, nội dung chiếm băng thông.",
+     "Truy cập các nhóm website mặc định bị chặn mà không phục vụ công việc liên quan được thẩm định và phê duyệt"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "noi-quy-quy-che-noi-lam-viec-80",
+    "no": 80,
+    "text": "Sử dụng mạng nội bộ hoặc mạng internet của Tập đoàn & ĐVTVSG như thế nào được coi là vi phạm ?",
+    "options": [
+     "Không xem video giải trí trong giờ làm việc",
+     "Không lưu trữ dữ liệu cá nhân trên máy chủ chia sẻ file của Tập đoàn.",
+     "không sử dụng các công cụ để tấn công, theo dõi, thay đổi luồng thông tin truyền trên mạng nội bộ.",
+     "Cài đặt/kết nối các thiết bị CNTT (wifi, switch, máy tính, điện thoại thông minh...) trái phép trong mạng nội bộ"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "noi-quy-quy-che-noi-lam-viec-81",
+    "no": 81,
+    "text": "Khi nhận được các email lạ, không rõ nguồn gốc, CBNV cần làm gì?",
+    "options": [
+     "Forward mail cho CBNV không liên quan khác cùng biết",
+     "Mở xem tệp đính kèm chứa thông tin gì",
+     "Không mở các link, tệp đính kèm và thông báo ngay cho bộ phận ANMB/ CNTT để được hỗ trợ",
+     "Mở link đính kèm và làm theo hướng dẫn trong email"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "noi-quy-quy-che-noi-lam-viec-82",
+    "no": 82,
+    "text": "Do yêu cầu công việc, Anh/Chị được cung cấp nhiều tài khoản khác nhau để truy cập các hệ thống ứng dụng nghiệp vụ khác nhau. Anh/Chị không nên làm gì với mật khẩu của các tài khoản này?",
+    "options": [
+     "Viết các mật khẩu này ra giấy hoặc lưu trên tập tin không được mã hóa",
+     "Đặt mật khẩu của các tài khoản này giống nhau hoàn toàn",
+     "Chia sẻ mật khẩu với đồng nghiệp",
+     "Tất cả phương án trên"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "noi-quy-quy-che-noi-lam-viec-83",
+    "no": 83,
+    "text": "Anh/Chị nhận được email từ một địa chỉ lạ thông báo Anh/Chị đã trúng thưởng 1 chiếc Iphone và yêu cầu Anh/Chị mở tập tin đính kèm để biết thêm chi tiết. Anh/Chị nên làm gì?",
+    "options": [
+     "Mở tập tin đính kèm ngay lập tức.",
+     "Trả lời lại email để hỏi chi tiết về giải thưởng.",
+     "Không mở tập tin đính kèm và xóa ngay email đó hoặc thông báo tới IT nếu Anh/Chị không chắc chắn phải làm gì",
+     "Chia sẻ thông tin với đồng nghiệp để tham gia cùng"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "noi-quy-quy-che-noi-lam-viec-84",
+    "no": 84,
+    "text": "Anh/Chị nên làm gì nếu nghĩ rằng mật khẩu của mình đã bị lộ và bị sử dụng trái phép?",
+    "options": [
+     "Thay đổi mật khẩu ngay lập tức và báo cho bộ phận CNTT/ANBM",
+     "Tiếp tục sử dụng chờ đến khi hệ thống thông báo mới phải đổi.",
+     "Không cần làm gì",
+     "Chia sẻ mật khẩu lộ với đồng nghiệp"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "noi-quy-quy-che-noi-lam-viec-85",
+    "no": 85,
+    "text": "Để phục vụ công việc, Anh/Chị cần sử dụng một số phần mềm Tập đoàn chưa mua bản quyền. Anh/Chị sẽ xử lý như thế nào?",
+    "options": [
+     "Tải bộ cài có sẵn trên mạng, dùng key chia sẻ trên cộng đồng mạng (hoặc crack) để cài đặt, gỡ bỏ khi sử dụng xong.",
+     "Tải và chạy chương trình không cần cài đặt (portable), xóa bỏ ngay khi sử dụng xong.",
+     "Không tải, cài đặt các phần mềm không có bản quyền, crack và trình CBLĐ để mua bản quyền cho phần mềm phục vụ công việc và thông báo Bộ phận CNTT để nhận tư vấn, hỗ trợ",
+     "Tải và cài đặt phần mềm dùng thử, hết hạn dùng thử sẽ crack để dùng tiếp"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "noi-quy-quy-che-noi-lam-viec-86",
+    "no": 86,
+    "text": "Anh/Chị nghi ngờ có ai đó truy cập trái phép vào máy tính của mình. Anh/Chị nên làm gì trong tình huống này?",
+    "options": [
+     "Tiếp tục theo dõi thêm và sẽ đổi mật khẩu sau",
+     "Bỏ qua vì cho rằng chuyện đó không quan trọng hoặc sẽ được xử lý bởi cán bộ CNTT",
+     "Đổi ngay mật khẩu truy cập máy tính của mình",
+     "Tất cả phương án trên"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "noi-quy-quy-che-noi-lam-viec-87",
+    "no": 87,
+    "text": "Anh/Chị cần nhớ mật khẩu cho nhiều tài khoản và phải thay đổi định kỳ, một trong những cách để Anh/Chị quản lý mật khẩu an toàn là gì?",
+    "options": [
+     "Ghi mật khẩu ra giấy dán ở góc màn hình hoặc sổ tay, hay ghi vào file Word lưu trên máy",
+     "Sử dụng mật khẩu gắn với tên tuổi, ngày sinh nhật hoặc chức danh, đáp ứng tiêu chuẩn bảo mật về đặt mật khẩu",
+     "Đặt chung mật khẩu cho tất cả tài khoản",
+     "Dùng chương trình quản lý mật khẩu (ví dụ: keepass) để lưu mật khẩu dưới dạng mã hóa hoặc file được lưu mật khẩu có độ dài phức tạp"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "noi-quy-quy-che-noi-lam-viec-88",
+    "no": 88,
+    "text": "Đối tác đến văn phòng làm việc của Sun Group muốn sử dụng internet thì hướng dẫn nào sau đây là đúng",
+    "options": [
+     "Kết nối mạng wifi guest (wifi dành riêng cho khách)",
+     "Kết nốt mạng office",
+     "Sử dụng 3G/4G",
+     "sử dụng mạng Lan"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "noi-quy-quy-che-noi-lam-viec-89",
+    "no": 89,
+    "text": "Khi mật khẩu email sắp hết hạn, bạn có thể tự đổi mật khẩu mới tại website nào sau đây:",
+    "options": [
+     "https://matkhau.sungroup.com.vn",
+     "Đổi mật khẩu trên My SGR",
+     "Đổi mật khẩu trên Outlook",
+     "Đổi mật khẩu trên Microsoft"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "noi-quy-quy-che-noi-lam-viec-90",
+    "no": 90,
+    "text": "Theo QĐ CS ANBMTT, chủ quản dữ liệu là ai?",
+    "options": [
+     "Người đứng đầu cao nhất của các đơn vị TVSG hoặc lãnh đạo các Khối/Vùng tùy theo từng loại dữ liệu",
+     "CBNV CNTT",
+     "Phòng/ Ban/ Bộ phận CNTT",
+     "CBNV Sun Group sử dụng dữ liệu"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "noi-quy-quy-che-noi-lam-viec-91",
+    "no": 91,
+    "text": "\"Không tiết lộ, cung cấp, đăng tải thông tin bảo mật dưới bất kỳ hình thức nào, cho bất kỳ tổ chức, cá nhân nào khác, trừ trường hợp được phép tiết lộ theo phạm vi chức trách công việc, theo quy định của Tập đoàn và pháp luật\" là trách nhiệm của bên nào theo Quy định Hoạt động của CBNV trên phương tiện truyền thông liên quan đến các thông tin về TĐ?",
+    "options": [
+     "Ban Nhân sự Tập đoàn",
+     "Ban Truyền thông Tập đoàn",
+     "Ban Thanh Tra Tập đoàn",
+     "CBNV Sun Group"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "noi-quy-quy-che-noi-lam-viec-92",
+    "no": 92,
+    "text": "Theo QĐ CS ANBMTT, CBNV có được phép thực hiện cấu hình tự động gửi/chuyển tiếp (auto-forward) các email nội bộ Sun Group ra các email bên ngoài hệ thống của Tập đoàn (gmail, yahoo...).",
+    "options": [
+     "Không được phép",
+     "Được phép",
+     "Không quy định",
+     "Được phép thực hiện nhưng chỉ forward về email của chính mình"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "noi-quy-quy-che-noi-lam-viec-93",
+    "no": 93,
+    "text": "Theo QĐ CS ANBMTT, CBNV có được phép tự ý truy cập, tải về và cài đặt các phần mềm lên máy tính hay không?",
+    "options": [
+     "Không được phép",
+     "Không quy định",
+     "Được phép",
+     "Được phép tự ý cài đặt nếu phần mềm nằm trong danh sách đã phê duyệt"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "noi-quy-quy-che-noi-lam-viec-94",
+    "no": 94,
+    "text": "Trong trường hợp thông tin được phân loại “Mật” hoặc “Tuyệt mật” thì CBNV cần làm những gì?",
+    "options": [
+     "Gửi vào email cá nhân để sử dụng về sau",
+     "Chia sẻ cho các CBNV/bộ phận không liên quan",
+     "Chủ động không để lộ thông tin dưới bất kỳ hình thức nào.Không chia sẻ, trao đổi khi chưa được phép/phê duyệt và dùng máy hủy tài liệu bản cứng khi không còn sử dụng",
+     "In ra bản cứng và mang về nhà để đọc"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "noi-quy-quy-che-noi-lam-viec-95",
+    "no": 95,
+    "text": "Theo QĐ CS ANBMTT, CBNV có được phép thực hiện Archiving email trên máy tính hay không?",
+    "options": [
+     "Được phép Archiving email trong vòng 1 tháng",
+     "Không được phép",
+     "Được phép",
+     "Không quy định"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "noi-quy-quy-che-noi-lam-viec-96",
+    "no": 96,
+    "text": "Theo QĐ CS ANBMTT, khi lưu trữ, đăng tải, chia sẻ thông tin của Sun Group lên Internet, CBNV cần có sự phê duyệt của",
+    "options": [
+     "Báo ngay cho bộ phận IT",
+     "Cấp quản lý trực tiếp",
+     "Báo ngay cho bộ phận Nhân sự",
+     "Cấp có thẩm quyền"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "noi-quy-quy-che-noi-lam-viec-97",
+    "no": 97,
+    "text": "Theo QĐ CS ANBMTT, nhóm email của cả Tập đoàn do đơn vị nào quản lý?",
+    "options": [
+     "Ban CNTT Tập đoàn",
+     "Ban TTVH",
+     "Ban Nhân sự Tập đoàn",
+     "VP BĐH"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "noi-quy-quy-che-noi-lam-viec-98",
+    "no": 98,
+    "text": "Theo QĐ hoạt động của CBNV trên PTTT liên quan tới các thông tin về TĐ, CBNV được khuyến khích chia sẻ các nội dung có lợi cho TĐ, khơi gợi được lòng tự hào, tinh thần đoàn kết,... . HĐ nào sau đây tuân thủ đúng QĐ?",
+    "options": [
+     "Đăng tải hình ảnh, logo, các thương hiệu của TĐ trong tất cả các bài post lên trang cá nhân",
+     "Chia sẻ thông tin về các dự án mà TĐ chưa công bố để tạo sự thuận lợi cho việc kinh doanh sau này",
+     "Đăng tải thông tin về các công trường tại dự án đang triển khai của SG để sử dụng như minh họa về việc đảm bảo ATLĐ",
+     "Chia sẻ các bài viết đăng tải trên Fanpage Sun Group cùng cảm xúc tự hào"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "noi-quy-quy-che-noi-lam-viec-99",
+    "no": 99,
+    "text": "Theo QĐ hoạt động của CBNV trên PTTT liên quan tới các thông tin về TĐ, mục tiêu của QĐ hoạt động của CBNV trên PTTT liên quan đến thông tin TĐ là gì?",
+    "options": [
+     "Sử dụng PTTT như một kênh tương tác tích cự góp phần giới thiệu các hình ảnh, sản phẩm, dịch vụ quảng bá thương hiệu nổi bật và các hoạt động nổi bật của TĐ tơi khách hàng",
+     "Nâng cao ý thức của CBNV TĐ trong các hoạt động trên PTTT, tối đa hiệu quả cũng như các tác động tích cực của PTTT",
+     "Hạn chế các ảnh hưởng tiêu cực trên PTTT tới thương hiệu, hoạt động của TĐ",
+     "Tất cả các phương án còn lại"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "noi-quy-quy-che-noi-lam-viec-100",
+    "no": 100,
+    "text": "Theo QĐ hoạt động của CBNV trên PTTT liên quan tới các thông tin về TĐ, CBNV tham gia nhóm chính trị xã hội lấy danh nghĩa TĐ Sun Group để tranh luận gay gắt về những yếu tố chính trị nhạy cảm. CBNV trên đã vi phạm qui tắc ứng xử nào trên không gian mạng?",
+    "options": [
+     "KHÔNG quay chụp và/hoặc đăng tải",
+     "KHÔNG đăng tải và/hoặc chia sẻ",
+     "KHÔNG sử dụng",
+     "Những hành vi nhạy cảm rủi ro khác"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "noi-quy-quy-che-noi-lam-viec-101",
+    "no": 101,
+    "text": "Theo QĐ hoạt động của CBNV trên PTTT liên quan tới các thông tin về TĐ, cuối tháng 7/2023 trong tâm điểm tin thời sự nhóm nhạc hàng đầu thế giới BLACK Pink đến biểu diễn tại Hà Nội, NV khách sạn Capella đã trả lời \"có nhóm nhạc Hàn Quốc đang lưu trú tại đây\" với nghệ nhân Ánh Tuyết. Nghệ nhân sau đó đã kể lại nội dung trên khi trả lời phỏng vấn báo chí. CBNV đã vi phạm các hành vi không được thự hiện nào trong QĐ hoạt động của CBNV trên PTTT liên quan đến thông tin TĐ?",
+    "options": [
+     "Đăng tải, chia sẻ nhứng nội dung kinh tế chính trị nhạy cảm gây ảnh hưởng tiêu cực tới TĐ. - Chia sẻ các thông tin nội bộ hoặc các nội dung thuộc sở hữu của TĐ đến PTTT. - Trả lời phỏng vấn của các cơ quan truyền thông về hoạt động của TĐ khi không được ủy quyền",
+     "Chia sẻ các thông tin nội bộ hoặc các nội dung thuộc sở hữu của TĐ đến PTTT",
+     "Đăng tải, chia sẻ nhứng nội dung kinh tế, chính trị nhạy cảm ảnh hưởng tiêu cực đến TĐ",
+     "Trả lời phỏng vấn của các cơ quan truyền thông về hoạt động của TĐ khi không được ủy quyền."
+    ],
+    "answer": 1
+   },
+   {
+    "id": "noi-quy-quy-che-noi-lam-viec-102",
+    "no": 102,
+    "text": "Theo Quy định HĐ của CBNV trên PTTT liên quan tới các thông tin về TĐ, CBNV quay chụp toàn bộ quá trình thi công đến khi hình thành tượng Phật Bà Tây Bổ Đà Sơn, dựng thành phim và đăng lên MXH với mục đích lan tỏa tinh thần làm việc của Sun Group và vẻ đẹp của vùng đất Tây Ninh. Việc làm của CBNV trên có vi phạm quy định hoạt động của CBNV trên phương tiện truyền thông liên quan đến thông tin TĐ không?",
+    "options": [
+     "Không có đáp án nào đúng",
+     "Vi phạm nhưng không nghiêm trọng",
+     "Có vi phạm",
+     "Không vi phạm"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "noi-quy-quy-che-noi-lam-viec-103",
+    "no": 103,
+    "text": "Theo QĐ hoạt động của CBNV trên PTTT liên quan tới các thông tin về TĐ, khi CBNV vi phạm các QĐ về hoạt động trên MXH, CBNV cần làm gì?",
+    "options": [
+     "Đăng tải thông tin đính chính ngay lập tức",
+     "Giao nộp thông tin tài khoản MXH cho LĐ dơn vị hoặc đơn vị chuyên trách",
+     "Xóa tài khoản MXH và viết đơn xin nghỉ việc",
+     "Gỡ bỏ thông tin hình ảnh trên MXH và tham gia khắc phục hậu quả khi được yêu cầu từ LĐ đơn vị hoặc đơn vị chuyên trách"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "noi-quy-quy-che-noi-lam-viec-104",
+    "no": 104,
+    "text": "Theo QĐ hoạt động của CBNV trên PTTT liên quan tới các thông tin về TĐ,  \"CBNV quay chụp hình ảnh Lãnh đạo TĐ lên các PTTT, cung cấp các thông tin hình ảnh, bản ghi âm ghi hình của các cá nhân LĐ\" là điều:",
+    "options": [
+     "Được thực hiện",
+     "Không được thực hiện",
+     "Tùy theo từng sự kiên",
+     "Không được thực hiện trừ khi được sự cho phép của cấp có thẩm quyền"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "noi-quy-quy-che-noi-lam-viec-105",
+    "no": 105,
+    "text": "Khi gặp những thông tin sai lệch về tập đoàn, người Sun Group cần báo ngay cho đơn vị chuyên trách nào?",
+    "options": [
+     "Ban Pháp Chế",
+     "Ban Thanh tra",
+     "Ban Truyền thông",
+     "Cả 3 phương án còn lại"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "noi-quy-quy-che-noi-lam-viec-106",
+    "no": 106,
+    "text": "Có bao nhiêu hành vi không được thực hiện trong quy định hoạt động của CBNV trên phương tiện truyền thông liên quan đến thông tin TĐ",
+    "options": [
+     "8",
+     "10",
+     "12",
+     "20"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "noi-quy-quy-che-noi-lam-viec-109",
+    "no": 109,
+    "text": "Theo Quy định HĐ của CBNV trên PTTT liên quan tới các thông tin về TĐ, phương tiện truyền thông gồm những gì?",
+    "options": [
+     "Mạng xã hội: Các trang mạng, ứng dụng di động như Facebook, Zalo, Instagram, Twitter, Youtube, TikTok, WordPress...",
+     "Website và các diễn đàn như Webtretho (http://www.webtretho.com), Lamchame (http://www.lamchame.com), Otofun (http://www.otofun.net/forums)...",
+     "Báo điện tử, báo giấy, trang tin, diễn đàn mạng xã hội, Đài phát thanh, kênh truyền hình của địa phương, trung ương hoặc nước ngoài...",
+     "Cả 3 phương án còn lại"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "noi-quy-quy-che-noi-lam-viec-110",
+    "no": 110,
+    "text": "Theo Quy định HĐ của CBNV trên PTTT liên quan tới các thông tin về TĐ, nội dung nào không phải là phương tiện truyền thông chính thống",
+    "options": [
+     "Website Tập đoàn",
+     "Truyền hình",
+     "Báo chí",
+     "Các kênh cộng đồng mạng xã hội uy tín"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "noi-quy-quy-che-noi-lam-viec-111",
+    "no": 111,
+    "text": "Theo Quy định HĐ của CBNV trên PTTT liên quan tới các thông tin về TĐ, CBNV khi đăng ký các trang mạng xã hội cần lưu ý gì?",
+    "options": [
+     "Không sử dụng hòm thư cá nhân được Tập đoàn cung cấp",
+     "Sử dụng hình ảnh, logo của Tập đoàn, các ĐVTV để gia tăng mức độ uy tín",
+     "Chủ động tham gia bình luận, tương tác trên các kênh mạng xã hội chống phá, đi ngược với chủ trương, chính sách của Đảng và Nhà nước để tìm kiếm, phản biện các thông tin liên quan đến Tập đoàn được nhắc tới trong đó",
+     "Sử dụng hình ảnh các Lãnh đạo Tập đoàn để câu view"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "noi-quy-quy-che-noi-lam-viec-112",
+    "no": 112,
+    "text": "Theo Quy định HĐ của CBNV trên PTTT liên quan tới các thông tin về TĐ, đâu là các thông tin nội bộ hoặc các nội dung thuộc sở hữu của Tập đoàn mà CBNV không được phép chia sẻ lên các phương tiện truyền thông?",
+    "options": [
+     "Quy chế, quy định, thư từ trao đổi, tài liệu, định hướng, chương trình.",
+     "Số liệu, công cụ, thông tin, hình ảnh các sự kiện nội bộ, mức lương, thưởng",
+     "Các thông tin không được chính thức công bố trên hệ thống báo chí, website chính thức và hệ thống fanpage của Tập đoàn",
+     "Cả 3 phương án còn lại"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "noi-quy-quy-che-noi-lam-viec-113",
+    "no": 113,
+    "text": "Theo Quy định HĐ của CBNV trên PTTT liên quan tới các thông tin về TĐ, bên nào cần cẩn trọng và chịu trách nhiệm đối với việc cung cấp, phát ngôn bất kỳ thông tin, hình ảnh nào liên quan đến hoạt động, công trình của Tập đoàn, đảm bảo thông tin đưa ra là chính xác, trên cơ sở nguồn thông tin hợp lệ và đầy đủ ?",
+    "options": [
+     "CBNV Sun Group",
+     "Ban Truyền thông Tập đoàn",
+     "Ban Nhân sự Tập đoàn",
+     "Cả 3 phương án còn lại"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "noi-quy-quy-che-noi-lam-viec-114",
+    "no": 114,
+    "text": "Theo Quy định HĐ của CBNV trên PTTT liên quan tới các thông tin về TĐ, các đơn vị nào có trách nhiệm trong quy định hoạt động của CBNV trên phương tiện truyền thông liên quan đến thông tin Tập đoàn",
+    "options": [
+     "Ban Truyền thông",
+     "CBNV",
+     "Ban Pháp Chế",
+     "Cả 3 phương án còn lại"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "noi-quy-quy-che-noi-lam-viec-115",
+    "no": 115,
+    "text": "Theo Quy định HĐ của CBNV trên PTTT liên quan tới các thông tin về TĐ, \"Tiếp nhận thông tin được cung cấp từ các đơn vị chức năng liên quan để phân tích, xử lý thông tin, xác định mức độ vi phạm và đề xuất hình thức xử lý đối với từng trường hợp vi phạm cụ thể, báo cáo và trình duyệt Lãnh đạo Tập đoàn\" là trách nhiệm của đơn vị nào?",
+    "options": [
+     "Ban Truyền thông Tập đoàn",
+     "Ban Nhân sự Tập đoàn",
+     "Ban Kiểm soát Tập đoàn/Ban Thanh tra Tập đoàn/Bộ phận Thanh tra ĐVTV",
+     "Ban Pháp chế"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "noi-quy-quy-che-noi-lam-viec-116",
+    "no": 116,
+    "text": "Theo Quy định HĐ của CBNV trên PTTT liên quan tới các thông tin về TĐ, những thông tin khuyến khích CBNV chia sẻ, tương tác trên MXH bao gồm những gì?",
+    "options": [
+     "Thông tin, hình ảnh Lãnh đạo Tập đoàn",
+     "Những thông tin được phát hành chính thống trên hệ thống báo chí, website chính thức và các kênh mạng xã hội chính thức của Tập đoàn và các thương hiệu trực thuộc (Youtube, Fanpage, Instagram, TikTok...)",
+     "Những thông tin về đối thủ cạnh tranh",
+     "Thông tin, hình ảnh về các công trường tại các dự án đang triển khai của Tập đoàn"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "noi-quy-quy-che-noi-lam-viec-117",
+    "no": 117,
+    "text": "Theo Quy định HĐ của CBNV trên PTTT liên quan tới các thông tin về TĐ, đâu là hành vi khuyến khích CBNV thực hiện trong quy định hoạt động của CBNV trên phương tiện truyền thông liên quan đến thông tin TĐ",
+    "options": [
+     "Cãi nhau, bảo vệ thương hiệu tập đoàn ngay khi phát hiện thông tin tiêu cực về tập đoàn trên MXH",
+     "Sử dụng email tập đoàn để lập kênh Facebook, Tiktok... chia sẻ các thông tin về nơi làm việc, văn bản làm việc của tập đoàn",
+     "Thay mặt đại diện tập đoàn phát ngôn bảo vệ thương hiệu tập đoàn ngay khi xảy ra sự cố truyền thông",
+     "Chia sẻ, tương tác các nội dung có lợi cho Tập đoàn, khơi gợi được lòng tự hào, tinh thần đoàn kết trong Tập đoàn. Những thông tin được chia sẻ là những thông tin được phát hành chính thống trên hệ thống báo chí, website chính thức và các kênh mạng xã hội chính thức của Tập đoàn và các thương hiệu trực thuộc"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "noi-quy-quy-che-noi-lam-viec-118",
+    "no": 118,
+    "text": "Theo Quy định HĐ của CBNV trên PTTT liên quan tới các thông tin về TĐ, mục tiêu của Quy định hoạt động của CBNV trên phương tiện truyền thông liên quan đến thông tin TĐ là gì?",
+    "options": [
+     "Nâng cao ý thức của cán bộ nhân viên Tập đoàn trong các hoạt động trên phương tiện truyền thông, tối đa hóa hiệu quả cũng như các tác động tích cực của phương tiện truyền thông",
+     "Hạn chế các ảnh hưởng tiêu cực trên phương tiện truyền thông tới thương hiệu, hoạt động của Tập đoàn Sun Group (sau đây gọi tắt là Tập đoàn)",
+     "Sử dụng phương tiện truyền thông như một kênh tương tác tích cực, góp phần giới thiệu các hình ảnh, sản phẩm, dịch vụ, quảng bá thương hiệu và các hoạt động nổi bật của Tập đoàn tới khách hàng.",
+     "Tất cả các phương án còn lại"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "noi-quy-quy-che-noi-lam-viec-119",
+    "no": 119,
+    "text": "Theo Quy định HĐ của CBNV trên PTTT liên quan tới các thông tin về TĐ, thông tin bảo mật được định nghĩa tại Quy định hoạt động của CBNV trên phương tiện truyền thông liên quan đến thông tin Tập đoàn là gì?",
+    "options": [
+     "Là tất cả các tài liệu thông tin liên quan tới Sun Group",
+     "Là các tài liệu và thông tin của Tập đoàn hoặc liên quan đến Tập đoàn Sun Group, đơn vị thành viên Sun Group và/ hoặc hoạt động kinh doanh của các đơn vị này",
+     "Là các tài liệu lưu hành nội bộ tại Sun Group và các đơn vị thành viên Sun Group",
+     "Là các hồ sơ, hợp đồng thương mại; bí quyết kinh doanh và báo cáo tài chính của doanh nghiệp"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "noi-quy-quy-che-noi-lam-viec-120",
+    "no": 120,
+    "text": "Theo Quy định HĐ của CBNV trên PTTT liên quan tới các thông tin về TĐ, trong quy định hoạt động của CBNV trên phương tiện truyền thông liên quan đến thông tin TĐ, nội dung nào sau đây là trách nhiệm của mỗi CBNV Sun Group?",
+    "options": [
+     "Thực hiện việc rà soát, giám sát, phòng ngừa và phát hiện kịp thời các yếu tố bất lợi cho Tập đoàn bị gây ra bởi hoạt động của CBNV trên phương tiện truyền thông",
+     "Cẩn trọng và chịu trách nhiệm đối với việc cung cấp, phát ngôn bất kỳ thông tin, hình ảnh nào liên quan đến hoạt động, công trình của Tập đoàn",
+     "Kiểm soát các vấn đề an ninh bảo mật, xử lý hệ thống công nghệ thông tin, mạng nội bộ",
+     "Phối hợp với các đơn vị chức năng để giải quyết theo thực tế của từng sự vụ"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "noi-quy-quy-che-noi-lam-viec-121",
+    "no": 121,
+    "text": "Theo Quy định HĐ của CBNV trên PTTT liên quan tới các thông tin về TĐ, \"Không tiết lộ, cung cấp, đăng tải thông tin bảo mật dưới bất kỳ hình thức nào, cho bất kỳ tổ chức, cá nhân nào khác, trừ trường hợp được phép tiết lộ theo phạm vi chức trách công việc, theo quy định của Tập đoàn và pháp luật\" là trách nhiệm của bên nào?",
+    "options": [
+     "Ban Truyền thông Tập đoàn",
+     "CBNV Sun Group",
+     "Ban Nhân sự Tập đoàn",
+     "Ban Thanh Tra Tập đoàn"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "noi-quy-quy-che-noi-lam-viec-122",
+    "no": 122,
+    "text": "Theo Quy định HĐ của CBNV trên PTTT liên quan tới các thông tin về TĐ, \"Quay chụp, đăng tải hình ảnh Lãnh đạo Tập đoàn lên các phương tiện truyền thông, cung cấp các thông tin, hình ảnh, bản ghi âm, ghi hình của các cá nhân Lãnh đạo Tập đoàn\" là điều",
+    "options": [
+     "Không được thực hiện",
+     "Tùy theo từng sự kiện",
+     "Được thực hiện",
+     "Không được thực hiện trừ khi có sự cho phép của cấp có thẩm quyền"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "noi-quy-quy-che-noi-lam-viec-123",
+    "no": 123,
+    "text": "Theo Quy định HĐ của CBNV trên PTTT liên quan tới các thông tin về TĐ, CBNV Sun Group khi thấy các nội dung bàn luận về tình hình chính trị, chính sách kinh tế đầu tư của Nhà nước trên diễn đàn mạng xã hội, đã tham gia tranh luận gay gắt với danh nghĩa người Sun Group bảo vệ chủ trương định hướng đầu tư của Tập đoàn tại Việt Nam. CBNV trên đã vi phạm nhóm quy tắc ứng xử nào trên không gian mạng?",
+    "options": [
+     "Những hành vi nhạy cảm, rủi ro khác",
+     "KHÔNG quay chụp và/hoặc đăng tải",
+     "KHÔNG đăng tải và/ hoặc chia sẻ",
+     "KHÔNG sử dụng"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "noi-quy-quy-che-noi-lam-viec-124",
+    "no": 124,
+    "text": "Bước thiết lập bối cảnh trong quản lý rủi ro, cần thực hiện",
+    "options": [
+     "Xác định các yếu tố bên trong và bên ngoài ảnh hưởng tới doanh nghiệp",
+     "Xác định mục tiêu chiến lược của doanh nghiệp",
+     "Xác định yếu tố bên trong của doanh nghiệp",
+     "Xác định yếu tố bên ngoài của doanh nghiệp"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "noi-quy-quy-che-noi-lam-viec-125",
+    "no": 125,
+    "text": "Công tác quản trị rủi ro được thực hiện bởi cá nhân/đơn vị?",
+    "options": [
+     "HĐSL, HĐQT, BĐH Tập đoàn",
+     "P.QTRR - BKS TĐ",
+     "Toàn thể CBLĐ/CBQL/CBNV Tập đoàn",
+     "Toàn thể CBLĐ/CBQL Tập đoàn"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "noi-quy-quy-che-noi-lam-viec-126",
+    "no": 126,
+    "text": "Khi xác định rủi ro, rủi ro luôn gắn liền với yếu tố nào",
+    "options": [
+     "Ảnh hưởng",
+     "Sự cố",
+     "Mục tiêu",
+     "Khủng hoảng"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "noi-quy-quy-che-noi-lam-viec-127",
+    "no": 127,
+    "text": "Theo quy định về quản trị rủi ro của Tập đoàn, danh mục rủi ro gồm mấy nhóm chính",
+    "options": [
+     "1",
+     "2",
+     "3",
+     "4\n(Chiến lược, hoạt động, tài chính, tuân thủ)"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "noi-quy-quy-che-noi-lam-viec-128",
+    "no": 128,
+    "text": "Rủi ro mục tiêu của Tập đoàn là gì?",
+    "options": [
+     "Là mức rủi ro mà Chủ sở hữu rủi ro chấp nhận/mong muốn sau khi đã lên kế hoạch xử lý rủi ro nhằm thay đổi khả năng xảy ra và/hoặc mức độ tác động của rủi ro.",
+     "Là mức rủi ro chấp nhận được, theo mong muốn của từng CBNV khi thực hiện các biện pháp giảm thiểu rủi ro",
+     "Là rủi ro tồn tại trong sản xuất kinh doanh trước khi áp dụng bất cứ hoạt động ứng phó rủi ro nào",
+     "Là mức rủi ro mà Tập đoàn chấp nhận/mong muốn sau khi đã thực hiện các biện pháp nhằm thay đổi khả năng xảy ra và/hoặc mức độ tác động của rủi ro."
+    ],
+    "answer": 3
+   },
+   {
+    "id": "noi-quy-quy-che-noi-lam-viec-129",
+    "no": 129,
+    "text": "Mục tiêu chính của Quản trị rủi ro trong một tổ chức là gì?",
+    "options": [
+     "Chuyển giao toàn bộ rủi ro cho bên thứ ba",
+     "Giúp tổ chức đạt được mục tiêu bằng cách tận dụng cơ hội và giảm thiểu tác động tiêu cực của rủi ro",
+     "Loại bỏ hoàn toàn mọi rủi ro",
+     "Chỉ tập trung vào việc xử lý khi sự cố đã xảy ra"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "noi-quy-quy-che-noi-lam-viec-130",
+    "no": 130,
+    "text": "Câu nào sau đây mô tả ĐÚNG về mối quan hệ giữa rủi ro và sự cố?",
+    "options": [
+     "Sự cố là nguyên nhân, rủi ro là kết quả",
+     "Sự cố kỹ thuật thang máy tại khu vui chơi giải trí thuộc miền rủi ro",
+     "Rủi ro và sự cố là hai khái niệm hoàn toàn độc lập",
+     "Sự cố là biểu hiện của một rủi ro đã trở thành hiện thực và gây thiệt hại"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "noi-quy-quy-che-noi-lam-viec-131",
+    "no": 131,
+    "text": "Một sự cố cần được báo cáo khi nào?",
+    "options": [
+     "Gây gián đoạn hoạt động bình thường",
+     "Gây ảnh hưởng đến tài sản hoặc con người",
+     "Có nguy cơ trở thành rủi ro nghiêm trọng",
+     "Tất cả các lựa chọn trên"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "noi-quy-quy-che-noi-lam-viec-132",
+    "no": 132,
+    "text": "Chủ sở hữu rủi ro của rủi ro là ai?",
+    "options": [
+     "CBNV/CBQL nhận diện rủi ro",
+     "P.QTRR",
+     "Lãnh đạo đơn vị có rủi ro được nhận diện thuộc chức năng mình quản lý",
+     "HĐSL, HĐQT, BĐH Tập đoàn"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "noi-quy-quy-che-noi-lam-viec-133",
+    "no": 133,
+    "text": "Vai trò chung của mỗi CBNV trong hệ thống QTRR là gì?",
+    "options": [
+     "Là một phần chủ động trong việc nhận diện, báo cáo và phòng ngừa rủi ro/sự cố",
+     "Không có vai trò vì đã có Bộ phận QTRR_BKS xử lý tất cả mọi việc",
+     "Chỉ thực hiện công việc được giao, chỉ tham gia khi có sự cố lớn xảy ra",
+     "Chỉ cần tuân thủ khi có yêu cầu bằng văn bản"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "noi-quy-quy-che-noi-lam-viec-134",
+    "no": 134,
+    "text": "Mục đích của việc báo cáo sự cố là gì?",
+    "options": [
+     "Để phân tích nguyên nhân, đưa ra giải pháp khắc phục và phòng ngừa, bảo vệ cá nhân và Tập đoàn",
+     "Để ghi nhận lại mọi thứ đã xảy ra",
+     "Để hoàn thành thủ tục giấy tờ",
+     "Để hoàn thành thủ tục giấy tờ"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "noi-quy-quy-che-noi-lam-viec-135",
+    "no": 135,
+    "text": "Tại sao cần quản lý sự cố hiệu quả?",
+    "options": [
+     "Để xác định và xử phạt đúng người gây ra sự cố",
+     "Để học hỏi từ sai lầm, giảm thiểu thiệt hại và cải thiện quy trình trong tương lai",
+     "Để tránh bị phạt",
+     "Để chứng minh không có rủi ro nào"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "noi-quy-quy-che-noi-lam-viec-136",
+    "no": 136,
+    "text": "Đâu là các tiêu chí đánh giá rủi ro?",
+    "options": [
+     "1. Kỳ vọng của cổ đông 2. Mục tiêu của tổ chức 3. KPI",
+     "1. Mức độ ảnh hưởng 2. Thiệt hại của sự cố/rủi ro 3. Mức độ lặp lại của sự kiện trong quá khứ",
+     "1. Tần suất/khả năng xảy ra 2. Mức độ ảnh hưởng 3. Hiệu quả của biện pháp xử lý rủi ro hiện tại",
+     "1. Tần suất/khả năng xảy ra 2. Số lượng sự cố đã xảy ra 3. Giá trị tổn thất"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "noi-quy-quy-che-noi-lam-viec-137",
+    "no": 137,
+    "text": "Chức năng của phòng quản trị rủi ro là gì?",
+    "options": [
+     "Đánh giá rủi ro, thực hiện các biện pháp giảm thiểu rủi ro",
+     "Rà soát độc lập và đánh giá hiệu quả hoạt động của các đơn vị",
+     "Chủ động nhận diện, đo lường, theo dõi, ứng phó, báo cáo rủi ro",
+     "Xây dựng chính sách, quy trình, quy định, hướng dẫn về quản trị rủi ro. Theo dõi, giám sát danh mục rủi ro, sự kiện rủi ro/sự cố, tham vấn khi có yêu cầu"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "noi-quy-quy-che-noi-lam-viec-138",
+    "no": 138,
+    "text": "Câu nào sau đây mô tả đúng nhất về \"Quản trị rủi ro\"",
+    "options": [
+     "Hạn chế rủi ro bằng mọi giá",
+     "Là quá trình nhận diện, đánh giá, kiểm soát/ giảm thiểu ảnh hưởng của các rủi ro tiềm ẩn và giám sát rủi ro",
+     "Tập trung vào việc khắc phục sự cố sau khi chúng xảy ra",
+     "Việc tránh mọi hoạt động có rủi ro hoặc chuyển giao trách nhiệm rủi ro cho bên khác"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "noi-quy-quy-che-noi-lam-viec-139",
+    "no": 139,
+    "text": "Rủi ro là gì?",
+    "options": [
+     "Không có lựa chọn nào đúng",
+     "Một kế hoạch dự phòng đã được phê duyệt",
+     "Sự việc không thể kiểm soát và không thể phòng ngừa",
+     "Sự việc chắc chắn xảy ra và gây tổn thất"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "noi-quy-quy-che-noi-lam-viec-140",
+    "no": 140,
+    "text": "Tập đoàn có các đầu mối QTRR ở cấp nào?",
+    "options": [
+     "Tập đoàn",
+     "Vùng/Khối",
+     "Tập đoàn/BCN/Vùng/Khối/Đơn vị TVSG",
+     "Các BCN TĐ"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "noi-quy-quy-che-noi-lam-viec-141",
+    "no": 141,
+    "text": "Tại sao việc quản trị rủi ro lại cần thiết đối với Sun Group trong kỷ nguyên mới?",
+    "options": [
+     "Để giảm chi phí hoạt động",
+     "Để tăng thêm công việc cho nhân viên",
+     "Giúp tận dụng tối đa cơ hội và giảm thiểu tối đa rủi ro, đảm bảo phát triển bền vững",
+     "Chỉ để tuân thủ quy định của nhà nước"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "noi-quy-quy-che-noi-lam-viec-142",
+    "no": 142,
+    "text": "Đâu là quan niệm đúng về rủi ro?",
+    "options": [
+     "Rủi ro mang lại cả thách thức và cơ hội",
+     "Rủi ro xuất phát từ các yếu tố bất định bên ngoài doanh nghiệp",
+     "Rủi ro gồm cả những sự kiện không ảnh hưởng tới mục tiêu của tổ chức",
+     "Rủi ro luôn tác động tiêu cực tới hoạt động của doanh nghiệp"
+    ],
+    "answer": 0
    }
   ]
  }
