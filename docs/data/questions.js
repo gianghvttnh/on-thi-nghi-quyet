@@ -1,5 +1,3551 @@
 window.QUESTION_BANKS = [
  {
+  "id": "bo-de-bt-gs-2025-bep",
+  "name": "Bộ đề BT GS 2025 - Bếp",
+  "questions": [
+   {
+    "id": "bo-de-bt-gs-2025-bep-1",
+    "no": 1,
+    "text": "Khi quản lý sử dụng hàng hóa trong kho ta theo nguyên tắc nào?",
+    "options": [
+     "Hàng hóa nhập vào trước thì xuất (sử dụng) trước.",
+     "Hàng hóa cận date thì sử dụng sau",
+     "Hàng hóa hết date thì phải đem vào sản xuất",
+     "Hàng hóa nhập kho ngày nào sử dụng ngày đó"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "bo-de-bt-gs-2025-bep-2",
+    "no": 2,
+    "text": "Khi bảo quản đông thực phẩm chúng ta cần phải làm gì?",
+    "options": [
+     "Được bao bọc bằng màng bọc thực phẩm, tem nhãn ghi đủ thông tin",
+     "Chứa trong hộp không nắp kín, tem nhãn.",
+     "Đựng trong rổ, tem nhãn",
+     "Không cần bao gói"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "bo-de-bt-gs-2025-bep-3",
+    "no": 3,
+    "text": "Món Sashimi Nhật Bản thường được sử dụng với loại mù tạt nào sau đây?",
+    "options": [
+     "Mù tạt Wasabi",
+     "Mù tạt Dion",
+     "Mù tạt Meaux",
+     "Mù Tạt Old Style Maille"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "bo-de-bt-gs-2025-bep-4",
+    "no": 4,
+    "text": "Xương cá ninh trong vòng bao nhiêu phút là đúng nhất?",
+    "options": [
+     "Xương cá ninh nhỏ lửa trong thời gian 1-2 giờ",
+     "Xương cá ninh nhỏ lửa trong thời gian 3-4 giờ",
+     "Xương cá ninh nhỏ lửa trong thời gian 5 giờ",
+     "Xương cá ninh nhỏ lửa trong thời gian 6 giờ"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "bo-de-bt-gs-2025-bep-5",
+    "no": 5,
+    "text": "Làm sạch xương bò như thế nào là đúng nhất?",
+    "options": [
+     "Xương bò phải chần qua 3 lần\n(2 lần với muối và dấm lần thứ 3 chỉ chần cùng muối) sau đó rửa sạch lại bằng nước lạnh",
+     "Xương bò phải chần qua 3 lần\n(2 lần với muối lần thứ 3 chần qua muối và dấm) sau đó rửa sạch lại bằng nước lạnh",
+     "Xương bò chần qua 3 lần muối và dấm sau đó rửa sạch bằng nước lạnh",
+     "Xương bò ta chần qua nước sôi 3 lần sau đó rửa sạch bằng nước lạnh"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "bo-de-bt-gs-2025-bep-6",
+    "no": 6,
+    "text": "Để kiểm tra nhiệt độ của tủ lạnh hằng ngày chúng ta phải làm gì ?",
+    "options": [
+     "Ghi chép lại đầy đủ thông tin, nhiệt độ trước mỗi ca làm việc",
+     "Sờ vào thực phẩm xem có lạnh không",
+     "Nhìn vào tủ lạnh có đỏ đèn hay không",
+     "Nhìn vào bảng hiện thị nhiệt độ"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "bo-de-bt-gs-2025-bep-7",
+    "no": 7,
+    "text": "Baking powder là thuật ngữ chỉ nguyên liệu nào?",
+    "options": [
+     "Bột nở dùng cho bánh ngọt",
+     "Men nở dùng cho bánh mì",
+     "Phụ gia dùng cho bánh mì",
+     "Bột nở dùng cho bánh mì"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "bo-de-bt-gs-2025-bep-8",
+    "no": 8,
+    "text": "Tại sao sử dụng nước đá khi đánh bột có men với số lượng lớn?",
+    "options": [
+     "Giúp làm giảm độ nở của men trong quá trính đánh",
+     "Giúp làm tăng  độ nở của men  trong quá  trình đánh",
+     "Giúp men nhanh nở hơn  và bánh nướng có màu đẹp hơn",
+     "Giúp men thơm hơn  và bánh nướng có màu đẹp hơn"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "bo-de-bt-gs-2025-bep-9",
+    "no": 9,
+    "text": "Butter cream là thuật ngữ chỉ hỗn hợp kem được chế biến từ nguyên liệu chính nào?",
+    "options": [
+     "Bơ trái và đường",
+     "Lòng trắng trứng gà và đường",
+     "Bơ làm bánh, lòng trắng trứng gà và đường",
+     "Meringue và bơ làm bánh"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "bo-de-bt-gs-2025-bep-10",
+    "no": 10,
+    "text": "Khi chần rau củ thời điểm cho vào lúc nào là thích hợp?",
+    "options": [
+     "Cho vào lúc nước lạnh, nước ấm, nước sôi đều được",
+     "Cho vào khi nước ấm",
+     "Cho vào từ nước lạnh",
+     "Cho vào lúc nước sôi"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "bo-de-bt-gs-2025-bep-11",
+    "no": 11,
+    "text": "Để giữ cho rau muống bào, bắp chuối bào, không bị thâm đen, người ta thường dùng biện pháp nào sau đây?",
+    "options": [
+     "Ngâm trong nước có vắt chanh",
+     "Ngâm nước muối",
+     "Ngâm nước đường",
+     "Để ráo"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "bo-de-bt-gs-2025-bep-12",
+    "no": 12,
+    "text": "Muối chua các loại thực phẩm là gì?",
+    "options": [
+     "Là cách chế biến thực phẩm thông qua sự lên men của thực phảm trong moi trường yếm khí để tạo nên các món ăn ngon nhiều hương vị tự nhiên hấp dẫn.",
+     "Là cách chế biến thực phẩm lâu đời tạo nên nhiều món ăn ngon.Đây là quá trình lên men Lactic dị hình. Vi sinh vật đã chuyển hóa đường có sẵn trong rau củ thành Acid Lactic và sản phẩm khác khiến cho thực phảm có hương vị đặc trưng.",
+     "Là cách chế biến thực phẩm nhờ vi khuẩn không gây hại có sẵn trong thực phẩm.Giups thực phẩm chuyển hóa một số các thành phần cấu tạo để tạo nên một thực phẩm mới có màu sắc, mùi vị khác hẳn các màu sắc mùi vị ban đầu.",
+     "Là các chế biến thực phẩm không qua nhiệt làm thực phẩm chín không vị các vi khuẩn vi rút gây hại xâm nhật gây mất ATVSTP và tạo nên một món ăn có hương vị mới háp dẫn hơn cho cơ thể con người."
+    ],
+    "answer": 1
+   },
+   {
+    "id": "bo-de-bt-gs-2025-bep-13",
+    "no": 13,
+    "text": "Tại sao không được phép cấp đông: cua, ghẹ nguyên liệu và các loại rau củ quả.",
+    "options": [
+     "Vì đây là nguyên liệu tươi sống",
+     "Vì xả đông các nguyên liệu trên rất khó",
+     "Vì nếu làm đông sẽ phá vỡ cấu trúc của nguyên liệu",
+     "Vì cấp thực phẩm này có thể mua thường xuyên"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "bo-de-bt-gs-2025-bep-14",
+    "no": 14,
+    "text": "Các phương pháp chế biến thực phẩm có sử dụng nhiệt sau đây là đầy đủ nhất ?",
+    "options": [
+     "Phương pháp làm chín thực phẩm trong nước.\nPhương pháp làm chín thực phẩm bằng sức nóng trực tiếp của lửa\nPhương pháp làm chín thực phẩm trong chất béo",
+     "Phương pháp làm chín thực phẩm bằng hơi nước\nPhương pháp làm chín thực phẩm bằng sức nóng trực tiếp của lửa\nPhương pháp làm chín thực phẩm trong chất béo",
+     "Phương pháp làm chín thực phẩm bằng sức nóng trực tiếp của lửa\nPhương pháp làm chín thực phẩm trong chất béo\nPhương pháp làm chín thực phẩm bằng dấm",
+     "Phương pháp làm chín thực phẩm bằng sức nóng trực tiếp của lửa\nPhương pháp làm chín thực phẩm trong chất béo\nPhương pháp làm chín thực phẩm trong nước\nPhương pháp làm chín thực phẩm bằng hơi nước"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "bo-de-bt-gs-2025-bep-15",
+    "no": 15,
+    "text": "Thực phẩm khi bảo quản trong kho, trong tủ lạnh cần phải ?",
+    "options": [
+     "Bọc kỹ, hút chân không, bỏ vào tủ lạnh hoặc tủ đông, ghi đầy đủ thông tin",
+     "Ghi đầy đủ thông tin ngày tháng năm nhập vào, hạn sử dụng; áp dụng phương pháp FIFO",
+     "Phải để trên giá, kệ inox và phải thường xuyên kiểm tra nhiệt độ của thực phẩm",
+     "Phải bỏ tủ lạnh, dùng màng bọc thực phẩm bọc kỹ hoặc bỏ trong hộp nhựa, bao ny lông cột lại"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "bo-de-bt-gs-2025-bep-16",
+    "no": 16,
+    "text": "Nguyên liệu nào sau đây dùng để chế biến bánh mỳ  baguette?",
+    "options": [
+     "Bột bánh mỳ, nước, men, muối, dầu, đường và phụ gia bánh mỳ",
+     "Bột bánh mỳ, nước,  sữa tươi, muối, dầu, đường và phụ gia bánh mỳ",
+     "Bột bánh mỳ, nước,  bột sữa, muối, dầu, đường và phụ gia bánh mỳ",
+     "Bột bánh mỳ, nước,  kem béo , muối, dầu, đường và phụ gia bánh mỳ"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "bo-de-bt-gs-2025-bep-17",
+    "no": 17,
+    "text": "Biện pháp nào dưới đây phù hợp nhất khi cần làm tan băng một miếng thịt ức gà kịp chế biến phục vụ khách?",
+    "options": [
+     ". Cho vào nước nóng để làm tan băng",
+     "Cho vào vòi nước chảy để làm tan băng",
+     "Cho vào lò vi sóng để tan băng",
+     "Cho vào tủ hấp cho tan đá"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "bo-de-bt-gs-2025-bep-18",
+    "no": 18,
+    "text": "Risotto là thuật ngữ dùng để chỉ món ăn nào?",
+    "options": [
+     "Món ăn Tây Ban Nha truyền thống bao gồm gạo hương vị nghệ tây nấu với đậu Hà Lan, rượu vang, thịt gà, tôm, cua, sò, hến, xúc xích chorizo ​​Tây Ban Nha và nguyên liệu khác.",
+     "Gạo hạt dài hầm thường được ăn kèm với các loại thực phẩm khác.",
+     "Món cơm truyền thống của vùng Bắc Ý tương tự như cháo. Sự kết dính là do gạo hạt ngắn và kết hợp cùng với pho mát Parmesan bào mịn.",
+     "Món tráng miệng trái cây dạng mứt và được làm từ bột bánh ngọt."
+    ],
+    "answer": 2
+   },
+   {
+    "id": "bo-de-bt-gs-2025-bep-19",
+    "no": 19,
+    "text": "Bộ phận nào của hải sản được sử dụng làm chất tạo màu và hương vị cho món pasta?",
+    "options": [
+     "Trứng cá hồi",
+     "Túi mực",
+     "Gạch tôm hùm",
+     "Trứng cá"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "bo-de-bt-gs-2025-bep-20",
+    "no": 20,
+    "text": "Thành phần chất lỏng chính được dùng trong sốt mayonnaise là gì?",
+    "options": [
+     "Bơ",
+     "Tròng trắng trứng",
+     "Dầu ăn",
+     "Nước dùng"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "bo-de-bt-gs-2025-bep-21",
+    "no": 21,
+    "text": "Khi sơ chế rau, nên rửa sạch rồi mới cắt thái. Nếu làm ngược lại thì chất dinh dưỡng nào sau đây bị mất?",
+    "options": [
+     "Vitamin D",
+     "Vitamin C",
+     "Vitamin B",
+     "Vitamin E"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "bo-de-bt-gs-2025-bep-22",
+    "no": 22,
+    "text": "Những món nào sau đây dễ bị nhiểm khuẩn nhất?",
+    "options": [
+     "Các món xào",
+     "Các món nướng",
+     "Các món salad trộn",
+     "Các món canh"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "bo-de-bt-gs-2025-bep-23",
+    "no": 23,
+    "text": "Nước sử dụng trong sản xuất nước đá vảy phải đáp ứng yêu cầu Qui chuẩn kỹ thuật nào?",
+    "options": [
+     "Quy chuẩn kỹ thuật quốc gia về chất lượng nước ăn uống QCVN 01: 2009/BYT",
+     "Nghị định 15/2018/NĐ-CP hướng dẫn Luật An toàn thực phẩm",
+     "Nghị định 09/2016/NĐ-CP quy định về tăng cường vi chất dinh dưỡng vào thực phẩm.",
+     "Quy chuẩn kỹ thuật của ban hạ tầng công ty về chất lượng nguồn nước"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "bo-de-bt-gs-2025-bep-24",
+    "no": 24,
+    "text": "Khi thực phẩm đông đã sả một lần thì sẽ được bảo quản như thế nào?",
+    "options": [
+     "Được cấp đông lại",
+     "Không được cấp đông lại lần 2, bảo quản trong tủ mát",
+     "Phải sử dụng ngay",
+     "Không cần làm gì"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "bo-de-bt-gs-2025-bep-25",
+    "no": 25,
+    "text": "Nhân viên Phòng bếp cần được đào tạo bắt buộc kiến thức gì trước khi vào bếp?",
+    "options": [
+     "Đào tạo thực hành",
+     "Đào tạo lý thuyết",
+     "Đào tạo VSATTP",
+     "Đào tạo hiểu biết về thực phẩm"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "bo-de-bt-gs-2025-bep-26",
+    "no": 26,
+    "text": "Loại thiết bị, dụng cụ nào được hạn chế sử dụng hâm nóng trên khu vực phục vụ buffet?",
+    "options": [
+     "Hâm nóng bằng cồn trong khu vực phục vụ.",
+     "Hâm nóng bằng điện trong khu vực phục vụ",
+     "Hâm nóng bằng nước nóng trong khu vực phục vụ",
+     "Hâm nóng bằng bếp ủ điện trong khu vực phục vụ"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "bo-de-bt-gs-2025-bep-27",
+    "no": 27,
+    "text": "Gia vị thơm nào chỉ có hiệu quả trong những món có thời gian đun nấu lâu như món súp và món hầm?",
+    "options": [
+     "Bayleaf",
+     "Basil",
+     "Thyme",
+     "Oregano"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "bo-de-bt-gs-2025-bep-28",
+    "no": 28,
+    "text": "Kiểm tra bình chữa cháy trong bếp như thế nào?",
+    "options": [
+     "Để đúng nơi quy định/Chốt khóa còn nguyên vẹn/bình không bị móp méo, hoen rỉ hoặc tắc, gãy ống phun/Đồng hồ kim chỉ trong vạch sử dụng được/Có tem màu cho loại bình/Kiểm tra ngày bảo trì gần nhất trên phiếu.",
+     "Để đâu cũng được/Chốt khóa còn nguyên vẹn/bình không bị móp méo, hoen rỉ hoặc tắc, gãy ống phun/Đồng hồ kim chỉ trong vạch sử dụng được/Có tem màu cho loại bình/Kiểm tra ngày bảo trì gần nhất trên phiếu.",
+     "Để đúng nơi quy định/Chốt khóa được tháo, gỡ bỏ cho dễ dùng/bình không bị móp méo, hoen rỉ hoặc tắc, gãy ống phun/Đồng hồ kim chỉ trong vạch sử dụng được/Có tem màu cho loại bình/Kiểm tra ngày bảo trì gần nhất trên phiếu.",
+     "Để đúng nơi quy định/Chốt khóa còn nguyên vẹn/bình không bị móp méo, hoen rỉ hoặc tắc, gãy ống phun/Đồng hồ kim chỉ trong vạch đỏ /không cần tem màu cho loại bình/Kiểm tra ngày bảo trì gần nhất trên phiếu."
+    ],
+    "answer": 0
+   },
+   {
+    "id": "bo-de-bt-gs-2025-bep-29",
+    "no": 29,
+    "text": "Khi bị bỏng do nhiêt, thường được phân ra bao nhiêu cấp độ bỏng sau đây?",
+    "options": [
+     "Cấp độ 1: Bỏng trên bề mặt lớp biểu bì\nCấp độ 2: Bỏng một phần lan xuống lớp trung bì.\nCấp độ 3: Bỏng nặng lan sâu xuống phần mô mỡ",
+     "Cấp độ 1: Bỏng trên bề mặt lớp biểu bì\nCấp độ 2: Bỏng nặng lan sâu xuống phần mô mỡ\nCấp độ 3: Bỏng nặng phá huyr đến phần lớp cơ.",
+     "Cấp độ 1: Bỏng trên bề mặt lớp biểu bì\nCấp độ 2:Bỏng một phần lan xuống lớp trung bì.\nCấp độ 3:Bỏng nặng phá hủy đến phần lớp cơ.",
+     "Cấp độ 1: Bỏng trên bề mặt lớp biểu bì\nCấp độ 2: Bỏng một phần lan xuống lớp trung bì.\nCấp độ 3: Bỏng nặng lan sâu xuống phần mô mỡ\nCấp độ 4: Bỏng nặng phá hủy đến phần lớp cơ."
+    ],
+    "answer": 3
+   },
+   {
+    "id": "bo-de-bt-gs-2025-bep-30",
+    "no": 30,
+    "text": "Các công việc nào đầy đủ nhất cần kiểm tra để đảm bảo an toàn đầu ca làm việc ?",
+    "options": [
+     "- Kiểm tra các thiết bị điện và dây dẫn đảm bảo không hư hỏng và rò rỉ điện.\n- Kiểm tra các thiết bị sử dụng gas và van \n- Kiểm tra trong khu vực bếp xem có dấu hiệu sự xâm nhập của động vật gây hại.\n- Kiểm tra điện chiếu sáng đảm bảo hoạt động\n- Kiểm tra cửa thoát hiểm và lối đi",
+     "- Kiểm tra các thiết bị điện và dây dẫn đảm bảo không hư hỏng và rò rỉ điện.\n- Kiểm tra các thiết bị sử dụng gas và van \n- Kiểm tra trong khu vực bếp xem có dấu hiệu sự xâm nhập của động vật gây hại.\n- Kiểm tra điện chiếu sáng đảm bảo hoạt động",
+     "- Kiểm tra các thiết bị điện và dây dẫn đảm bảo không hư hỏng và rò rỉ điện.\n- Kiểm tra các thiết bị sử dụng gas và van \n- Kiểm tra trong khu vực bếp xem có dấu hiệu sự xâm nhập của động vật gây hại.\n- Kiểm tra cửa thoát hiểm và lối đi",
+     "- Kiểm tra các thiết bị điện và dây dẫn đảm bảo không hư hỏng và rò rỉ điện.\n- Kiểm tra các thiết bị sử dụng gas và van \n- Kiểm tra điện chiếu sáng đảm bảo hoạt động\n- Kiểm tra cửa thoát hiểm và lối đi"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "bo-de-bt-gs-2025-bep-31",
+    "no": 31,
+    "text": "Khi nào chúng ta cần rã đông thực phẩm trong lò vi sóng trong nhà bếp?",
+    "options": [
+     "- Đây là một tiến bộ của công nghệ chế biến nên áp dụng cho tất cả các trường hợp rã đông kể cả nấu chín.\n- Rã đông trong lò vi sóng phù hợp với thực phẩm được chế biến ngay vì một phần thịt có thể đã bị chín.",
+     "- Rã đông trong lò vi sóng phù hợp với thực phẩm được chế biến ngay vì một phần thịt có thể đã bị chín. \n- Chỉ sử dụng cách này khi cần phải rã đông gấp thực phẩm để chế biến món ăn phục vụ khách. \n- Không được tái cấp đông sau khi đã rã thực phẩm bằng lò Vi sóng.",
+     "-Rã đông trong lò vi sóng phù hợp với thực phẩm được chế biến ngay vì một phần thịt có thể đã bị chín. \n-Dùng lò vi sóng để chế biến các món ăn khi cần thiết\n-Không được tái cấp đông sau khi đã rã thực phẩm bằng lò Vi sóng.",
+     "-Rã đông trong lò vi sóng phù hợp với thực phẩm được chế biến ngay vì một phần thịt có thể đã bị chín. \n-Chỉ sử dụng cách này khi cần phải rã đông gấp thực phẩm để chế biến món ăn phục vụ khách. \n-Không được sử dụng công cụ dụng cụ kim loại trong lò Vi sóng"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "bo-de-bt-gs-2025-bep-32",
+    "no": 32,
+    "text": "Rã đông thực phẩm bằng nước lạnh cần lưu ý các điều gì?",
+    "options": [
+     "- \tNgâm túi/gói thực phẩm đông trong nước lạnh. Sản phẩm phải được đóng trong túi nilon dán kín để nước không bị dính trực tiếp vào thực phẩm. \n- \tKhông được sử dụng nước nóng, vì có thể làm cho lớp ngoài của thực phẩm nóng đến nhiệt độ thuận lợi để cho vi khuẩn phát triển. \n-\t Cần thay nước để đảm bảo nước đủ lạnh sau mỗi 30 phút ngâm thực phẩm.",
+     "- Cho thực phẩm trực tiếp tiếp xúc với nước cho mau rã đông \n-\tKhông được sử dụng nước nóng, vì có thể làm cho lớp ngoài của thực phẩm nóng đến nhiệt độ thuận lợi để cho vi khuẩn phát triển. \n-\tCần thay nước để đảm bảo nước đủ lạnh sau mỗi 30 phút ngâm thực phẩm.",
+     "- Ngâm túi/gói thực phẩm đông trong nước lạnh. Sản phẩm phải được đóng trong túi nilon dán kín để nước không bị dính trực tiếp vào thực phẩm. \n - Dùng nước nóng để rã đông sẽ nhanh hơn khi dùng nước lạnh\n- \tCần thay nước để đảm bảo nước đủ lạnh sau mỗi 30 phút ngâm thực phẩm.",
+     "-\t Ngâm túi/gói thực phẩm đông trong nước lạnh. Sản phẩm phải được đóng trong túi nilon dán kín để nước không bị dính trực tiếp vào thực phẩm. \n-\t Không được sử dụng nước nóng, vì có thể làm cho lớp ngoài của thực phẩm nóng đến nhiệt độ thuận lợi để cho vi khuẩn phát triển."
+    ],
+    "answer": 0
+   },
+   {
+    "id": "bo-de-bt-gs-2025-bep-33",
+    "no": 33,
+    "text": "Làm nguội thực phẩm như thế nào là đúng cách?",
+    "options": [
+     "- Làm nguội thực phẩm từ 100°C xuống còn khoảng 21°C trong thời gian 2 giờ.\n- Khi thực phẩm nguội xuống 21°C, phải đặt thực phẩm trong tủ lạnh, phòng mát hoặc tủ đông để làm nguội xuống dưới 5°C trong 2 giờ tiếp theo. \n- Thực phẩm đã nấu chín không được để ở ngoài tủ lạnh trong thời gian quá hai giờ.",
+     "- Làm nguội thực phẩm từ 80°C xuống còn khoảng 21°C trong thời gian 2 giờ.\n- Khi thực phẩm nguội xuống 21°C, phải đặt thực phẩm trong tủ lạnh, phòng mát hoặc tủ đông để làm nguội xuống dưới 5°C trong 2 giờ tiếp theo. \n- Thực phẩm đã nấu chín không được để ở ngoài tủ lạnh trong thời gian quá hai giờ.",
+     "- Làm nguội thực phẩm từ 57°C xuống còn khoảng 21°C trong thời gian 2 giờ.\n- Khi thực phẩm nguội xuống 21°C, phải đặt thực phẩm trong tủ lạnh, phòng mát hoặc tủ đông để làm nguội xuống dưới 5°C trong 2 giờ tiếp theo. \n- Thực phẩm đã nấu chín không được để ở ngoài tủ lạnh trong thời gian quá hai giờ.",
+     "- Làm nguội thực phẩm từ 37°C xuống còn khoảng 21°C trong thời gian 2 giờ.\n- Khi thực phẩm nguội xuống 21°C, phải đặt thực phẩm trong tủ lạnh, phòng mát hoặc tủ đông để làm nguội xuống dưới 5°C trong 2 giờ tiếp theo. \n- Thực phẩm đã nấu chín không được để ở ngoài tủ lạnh trong thời gian quá hai giờ."
+    ],
+    "answer": 2
+   },
+   {
+    "id": "bo-de-bt-gs-2025-bep-34",
+    "no": 34,
+    "text": "Hóa chất sử dụng trong nhà bếp bảo quản như thế nào?",
+    "options": [
+     "-Có thể sử dụng tất cả các hóa chất hiện có trên thị trường.\n-Hóa chất được bảo quản trong kho riêng biệt, bên ngoài khu vực chế biến.\n-Chỉ có người có thẩm quyền mới được giao sử dụng và bảo quản hóa chất\n-Bao bì chưa đựng hóa chất phải ghi đầy đủ các thông tin",
+     "- Chỉ được sử dụng các hóa chất trong danh mục cho phép của bộ y tế.\n- Hóa chất được bảo quản trong kho riêng biệt, bên ngoài khu vực chế biến.\n- Chỉ có người có thẩm quyền mới được giao sử dụng và bảo quản hóa chất\n- Bao bì chưa đựng hóa chất phải ghi đầy đủ các thông tin",
+     "- Chỉ được sử dụng các hóa chất trong danh mục cho phép của bộ y tế.\n- Có thể đem hóa chất vào khu vực chế biến để sử dụng cho công việc\n- Chỉ có người có thẩm quyền mới được giao sử dụng và bảo quản hóa chất\n- Bao bì chưa đựng hóa chất phải ghi đầy đủ các thông tin",
+     "- Chỉ được sử dụng các hóa chất trong danh mục cho phép của bộ y tế.\n- Hóa chất được bảo quản trong kho riêng biệt, bên ngoài khu vực chế biến.\n- Chỉ có người có thẩm quyền mới được giao sử dụng và bảo quản hóa chất\n- Bao bì chưa đựng hóa chất có thể lấy các chai lọ hộp các loại đề đựng hóa chất"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "bo-de-bt-gs-2025-bep-35",
+    "no": 35,
+    "text": "Làm thế nào để kiểm soát động vật gây hại xâm nhập vào trong khu vực bếp",
+    "options": [
+     "-Tất cả các cửa thông ra ngoài khu vực bếp đều luôn đóng để ngăn côn trùng xâm nhập vào bếp.\n-   Thả thuốc diệt chuột trong khu vực bếp\n-   Bên trong bếp bố trí đèn diệt côn trùng, hoạt động liên tục.",
+     "-Tất cả các cửa thông ra ngoài khu vực bếp đều luôn đóng để ngăn côn trùng xâm nhập vào bếp.\n-   Các hệ thống cống rãnh thông ra ngoài khu vực bếp đều có các lưới che chắn để ngăn chặn động vật xâm nhập vào bếp\n-   Phun thuốc diệt trùng hàng ngày.",
+     "- Săn bắt các động vật gây hại trong bếp\n-   Các hệ thống cống rãnh thông ra ngoài khu vực bếp đều có các lưới che chắn để ngăn chặn động vật xâm nhập vào bếp\n-   Bên trong bếp bố trí đèn diệt côn trùng, hoạt động liên tục.",
+     "-Tất cả các cửa thông ra ngoài khu vực bếp đều luôn đóng để ngăn côn trùng xâm nhập vào bếp.\n-   Các hệ thống cống rãnh thông ra ngoài khu vực bếp đều có các lưới che chắn để ngăn chặn động vật xâm nhập vào bếp\n-   Bên trong bếp bố trí đèn diệt côn trùng, hoạt động liên tục."
+    ],
+    "answer": 3
+   },
+   {
+    "id": "bo-de-bt-gs-2025-bep-36",
+    "no": 36,
+    "text": "Nhiệt độ lý tưởng để chiên thực phẩm giòn vàng là bao nhiêu?",
+    "options": [
+     "120 độ",
+     "160 độ",
+     "180 độ",
+     "220 độ"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "bo-de-bt-gs-2025-bep-37",
+    "no": 37,
+    "text": "Khi nấu canh xương, tại sao phải trụng xương qua nước sôi?",
+    "options": [
+     "Giúp xương nhanh chín hơn",
+     "Làm nước canh trong và không bị hôi",
+     "Tăng vị ngọt cho canh",
+     "Làm xương mềm hơn"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "bo-de-bt-gs-2025-bep-38",
+    "no": 38,
+    "text": "Khi làm món chiên ngập dầu, vì sao không nên cho quá nhiều nguyên liệu cùng lúc?",
+    "options": [
+     "Dễ cháy dầu",
+     "Làm giảm nhiệt độ dầu, món ăn dễ bị hút dầu và không giòn.",
+     "Tốn dầu hơn",
+     "Món ăn chín không đều."
+    ],
+    "answer": 1
+   },
+   {
+    "id": "bo-de-bt-gs-2025-bep-39",
+    "no": 39,
+    "text": "Khi kết thúc ca làm, việc nào sau đây là bắt buộc?",
+    "options": [
+     "Rửa sạch CCDC và khu vực bếp. Tắt hết các thiệt bị điện, ga không sử dụng trước khi ra về",
+     "Để nguyên vì sáng mai làm tiếp",
+     "Tắt đèn, gas, nhưng không cần vệ sinh",
+     "Chỉ cần rửa CCDC và khu vực làm việc."
+    ],
+    "answer": 0
+   },
+   {
+    "id": "bo-de-bt-gs-2025-bep-40",
+    "no": 40,
+    "text": "Thực phẩm chín và sống cần được?",
+    "options": [
+     "Để chung cho tiện",
+     "Để riêng tránh lây nhiễm chéo",
+     "Để chín phía trên sống phía dưới",
+     "Để theo kích cở thực phẩm"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "bo-de-bt-gs-2025-bep-41",
+    "no": 41,
+    "text": "Khi dầu bị cháy hoặc có khói nhiều, nên làm gì ?",
+    "options": [
+     "Đổ nước vào cho nguội",
+     "Đậy nắp chảo hoặc tắt bếp để hạ nhiệt",
+     "Cho thêm dầu mới vào",
+     "Tiếp tục chiên cho xong"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "bo-de-bt-gs-2025-bep-42",
+    "no": 42,
+    "text": "Khi bắt đầu ca làm việc, việc đầu tiên cần làm là gì?",
+    "options": [
+     "Kiểm tra nguyên liệu còn lại từ hôm trước",
+     "Bật bếp và nấu nước sôi",
+     "Rửa tay và mang đồng phục , mũ, khẩu trang đầy đủ.",
+     "Chuẩn bị CCDC"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "bo-de-bt-gs-2025-bep-43",
+    "no": 43,
+    "text": "Lỗi thường gặp khi làm bánh mỳ ?",
+    "options": [
+     "Men yếu hoặc chết do nước quá nóng.\nỦ bột trong môi trường lạnh hoặc chưa đủ thời gian.\nCho quá nhiều muối.\nNhào bột chưa đủ.",
+     "Kiểm tra hạn men, pha men với nước ấm 35–40°C.\nỦ ở nơi ấm (28–32°C).\nCho muối xa men khi trộn.",
+     "Giảm thời gian ủ, chỉ ủ đến khi bột nở gấp đôi.\nLàm nóng lò trước 15 phút.\nDùng đúng lượng men (2–3% lượng bột).",
+     "Nhào kỹ đến khi bột mịn, đàn hồi.\nCanh tỉ lệ nước phù hợp (60–65%).\nỦ đủ 1–2 lần cho đến khi nở gấp đôi."
+    ],
+    "answer": 0
+   },
+   {
+    "id": "bo-de-bt-gs-2025-bep-44",
+    "no": 44,
+    "text": "Khi nướng thịt trên bếp than, việc nướng lửa to hơn vài phút đầu có tác dụng gì ?",
+    "options": [
+     "Nướng nhanh chín hơn",
+     "Giữ nước trong thịt không mất, mềm và mọng nước.",
+     "Làm cháy bề mặt thịt",
+     "Tạo màu cho thịt"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "bo-de-bt-gs-2025-bep-45",
+    "no": 45,
+    "text": "Khi chiên thực phảm trong bếp chiên nhúng tại sao không nên chiên quá nhiều cùng 1 lúc ?",
+    "options": [
+     "Làm giảm nhanh nhiệt độ dầu, khiến thực phẩm không đạt độ giòn như mong muốn,",
+     "Tiết kiệm dầu",
+     "Chiên nhanh hơn",
+     "Màu sắc đẹp hơn"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "bo-de-bt-gs-2025-bep-46",
+    "no": 46,
+    "text": "Mục đích của việc ướp gia vị trước khi chế biến món ăn là gì?",
+    "options": [
+     "Giúp thực phẩm thấm gia vị và ngon hơn",
+     "Giúp món ăn có màu đẹp hơn",
+     "Tăng thời gian bảo quản",
+     "Làm thực phẩm nhanh chín hơn"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "bo-de-bt-gs-2025-bep-47",
+    "no": 47,
+    "text": "Khi chế biến món ăn đối với các món hải sản thì làm thế nào để thịt hải sản được ngon hơn?",
+    "options": [
+     "Sau khi chần xong thì ngâm vào nước lạnh ngay",
+     "Sau khi chần xong thì ngâm vào nước nóng ngay",
+     "Bỏ ra ngoài đợi nguội",
+     "Sau khi chần xong bỏ vào tủ mát"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "bo-de-bt-gs-2025-bep-48",
+    "no": 48,
+    "text": "Tỷ lệ cắt hình que diêm như thế nào là đúng?",
+    "options": [
+     "0,6x0,6x6 cm",
+     "2x2x6 cm",
+     "3x3x6 cm",
+     "4x4x6cm"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "bo-de-bt-gs-2025-bep-49",
+    "no": 49,
+    "text": "Đối với các sản phẩm Sashimi cá ngừ đông lạnh, phục vụ khách như thế nào?",
+    "options": [
+     "Cắt cá ngừ bằng máy cưa thịt để phân chia nhỏ.",
+     "Dùng dao và đồ chuyên dụng để cắt khi còn đông",
+     "Để sản phẩm rã đông hoàn toàn mới phục vụ.",
+     "Cắt cá ngừ bằng dao chuyên dụng để phân chia nhỏ."
+    ],
+    "answer": 2
+   },
+   {
+    "id": "bo-de-bt-gs-2025-bep-50",
+    "no": 50,
+    "text": "Tỷ lệ cắt sợi nhỏ đâu là đúng?",
+    "options": [
+     "4x4x6cm",
+     "2x2x6 cm",
+     "3x3x6 cm",
+     "0,1x0,1x6 cm"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "bo-de-bt-gs-2025-bep-51",
+    "no": 51,
+    "text": "Khi sơ chế, chế biến để khử mùi tanh của cá, người chế biến thường sử dụng những loại gia vị nào?",
+    "options": [
+     "Giấm, gừng",
+     "Nước khoáng",
+     "Đường, giấm",
+     "Ớt, nước mắm"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "bo-de-bt-gs-2025-bep-52",
+    "no": 52,
+    "text": "Bánh mỳ Hambuger thường được ăn kèm với món nào?",
+    "options": [
+     "Bánh mỳ Hambuger thường được ăn kèm với sốt cà chua",
+     "Bánh mỳ Hambuger thường được ăn kèm xúc xích",
+     "Bánh mỳ Hambuger thường được ăn kèm với rau salad vag dưa chuột muối",
+     "Bánh mỳ Hambuger thường được ăn kèm với khoai tây chiên"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "bo-de-bt-gs-2025-bep-53",
+    "no": 53,
+    "text": "Cách tốt nhất để làm mềm rong biển tươi hoặc khô là gì ?",
+    "options": [
+     "Ngâm rong biển vào nước lạnh ít nhất trong vòng 6h để rong biển mềm.",
+     "Ngâm rong biển trong nước nóng để rong biển nhanh mềm hơn",
+     "Chần rong biển qua nước sôi 3 lần rong biển sẽ mềm để chế biến.",
+     "Ngâm nước đá để làm mềm rong biển đồng thời giữ được các vitamin có trong rong biển"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "bo-de-bt-gs-2025-bep-54",
+    "no": 54,
+    "text": "Virus viêm gan B và C có lây qua đường ăn uống không",
+    "options": [
+     "Có lây",
+     "Không lây",
+     "Chưa chắc",
+     "Không bị sao cả"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "bo-de-bt-gs-2025-bep-55",
+    "no": 55,
+    "text": "Ký sinh trùng là ô nhiễm gì",
+    "options": [
+     "Ô nhiễm sinh học",
+     "Ô nhiễm hóa học",
+     "Ô nhiễm vật lý",
+     "Ô nhiễm lý học"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "bo-de-bt-gs-2025-bep-56",
+    "no": 56,
+    "text": "Khi luộc rau ta nên thực hiện như thế nào để rau được xanh và ngon?",
+    "options": [
+     "Luộc rau khoảng 15 phút để rau chín mềm sau đó vớt ra để ráo nước.",
+     "Thực hiện đun cho nước sôi, cho  rau vào luộc chín sau đó vớt rau ra ngâm qua nước lạnh để rau được giữ màu xanh.",
+     "Thực hiện đun cho nước sôi, cho  rau vào luộc chín sau đó vớt rau ra ngâm qua nước ấm để rau được giữ màu xanh.",
+     "Cho  rau vào luộc khi nước lạnh, luộc cho rau chín sau đó vớt rau ra ngâm qua nước lạnh để rau được giữ màu xanh."
+    ],
+    "answer": 1
+   },
+   {
+    "id": "bo-de-bt-gs-2025-bep-57",
+    "no": 57,
+    "text": "Tinh dầu cà cuống thường được sử dụng trong các món ăn nào ?",
+    "options": [
+     "Bún thang",
+     "Bún bò giò heo",
+     "Bún sứa",
+     "Bánh canh trảng bàng"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "bo-de-bt-gs-2025-bep-58",
+    "no": 58,
+    "text": "Để làm sạch mùi hôi của vịt Anh, chị làm như thế nào là đúng nhất?",
+    "options": [
+     "Chà sát muối trên phần da vịt sau đó rửa bằng nước lạnh 3 lần.",
+     "Bước 1; Chà xát muối đều trên phần da vịt sau đó rửa sạch bằng nước lạnh\nBước 2; Chà xát rượu gừng đều trên phần da vịt để 3 phút sau đó rửa sạch lại bằng nước lạnh rồi để ráo",
+     "Bước 1; Chà xát muối đều trên phần da vịt sau đó rửa sạch bằng nước lạnh\nBước 2; Chà xát  rượu đều trên phần da vịt để sau đó rửa sạch lại bằng nước lạnh.",
+     "Chà xát  rượu đều trên phần da vịt để sau đó rửa sạch lại bằng nước lạnh."
+    ],
+    "answer": 1
+   },
+   {
+    "id": "bo-de-bt-gs-2025-bep-59",
+    "no": 59,
+    "text": "Phương pháp chế biến nào giúp  các nguyên liệu như tôm, cua, chip chip, nghêu, ít mất chất dinh dưỡng và giữ được mùi vị ngon nhất?",
+    "options": [
+     "Ninh",
+     "Hấp",
+     "Luộc",
+     "Chiên sâu"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "bo-de-bt-gs-2025-bep-60",
+    "no": 60,
+    "text": "-Vì sao phải ngâm gelatine trong nước lạnh ?",
+    "options": [
+     "-Ngâm gelatine trong nước lạnh cho sạch và cho Gelatine nở ra dễ nấu chảy để chế biến.",
+     "-Để gelatine nở mềm , dễ tan chảy và khả năng kết dính của gelatine không bị mất hoặc hao hụt khi làm bánh.",
+     "-Ngâm trong nước lạnh để giữ đúng vị của galantine",
+     "-Ngâm gelatine để thực hiện đủ các công đoạn trong chế biến"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "bo-de-bt-gs-2025-bep-61",
+    "no": 61,
+    "text": "Vì sao khi luộc khoai tây làm salad cần để nguyên vỏ mà không lột ?",
+    "options": [
+     "Lột vỏ làm khoai tây bị đen khi luộc dẫn đến màu sắc khoai bị tối màu và cả chất lượng của khoai cũng bị mất đi khi gọt vỏ.",
+     "Lột vỏ sẽ làm mất các vitamin C, B vì vậy cần để nguyên vỏ để giữ lại các chất dinh dưỡng và tránh khoai tây bị nát.",
+     "Lột vỏ sẽ chỉ thực hiện cho các món chiên rán các món làm salad không cần lột để nguyên có thể sử dụng cả vỏ cho món salad.",
+     "Tùy từng món sẽ lột vỏ và để cả vỏ khi chế biến."
+    ],
+    "answer": 1
+   },
+   {
+    "id": "bo-de-bt-gs-2025-bep-62",
+    "no": 62,
+    "text": "Làm thế nào để riêu tôm, riêu cua được kết dính và bông xốp khi ăn?",
+    "options": [
+     "Cho nhiều chả giò vào đánh nhuyễn bằng máy xay để riêu được kết dính.",
+     "Cho nhiều ruột bánh mỳ cùng trứng gà để riêu được kết dính và mịn hơn khi chế biến",
+     "Có thể sử dụng trứng gà,đậu khuôn chả giò sống, để riêu được mịn và kết cấu chặt chẽ hơn",
+     "Cho hỗn hợp 3 thứ chả giò bột năng, trứng gà để đánh riêu kết dính xà xốp mềm."
+    ],
+    "answer": 2
+   },
+   {
+    "id": "bo-de-bt-gs-2025-bep-63",
+    "no": 63,
+    "text": "Tại sao khi nấu để nước dùng sôi lâu thì nước đục trắng, vị chua nồng và mùi khó chịu?",
+    "options": [
+     "Khi nấu nước dùng, chất béo bị nóng chảy và chuyển dịch vào nước nấu dưới tác dụng nhiệt độ cao thì bị oxi hóa nên làm giá trị cảm quan nước dùng giảm đi",
+     "Khi nấu nước dùng, chất béo bị nóng chảy và chuyển dịch vào nước nấu dưới tác dụng nhiệt độ cao thì bị dextin hóa nên làm giá trị cảm quan nước dùng giảm đi",
+     "Khi nấu nước dùng, chất béo bị nóng chảy và chuyển dịch vào nước nấu dưới tác dụng nhiệt độ cao thì bị nhũ tương hóa nên làm giá trị cảm quan nước dùng giảm đi",
+     "Khi nấu nước dùng, chất béo bị nóng chảy và chuyển dịch vào nước nấu dưới tác dụng nhiệt độ cao thì bị biến tính nên làm giá trị cảm quan nước dùng giảm đi"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "bo-de-bt-gs-2025-bep-64",
+    "no": 64,
+    "text": "Tại sao trọng lượng thực phẩm sau khi chiên lại bị giảm?",
+    "options": [
+     "Do xảy ra hiện tượng bốc hơi nước của sản phẩm và quá trình hút chất béo vào trong sản phẩm",
+     "Do xảy ra hiện tượng thẩm thấu nước của sản phẩm và quá trình hút chất béo vào trong sản phẩm",
+     "Do xảy ra hiện tượng bốc hơi nước của sản phẩm và quá trình oxy hóa chất béo vào trong sản phẩm",
+     "Do xảy ra hiện tượng bốc hơi nước của sản phẩm và quá trình bốc hơi của chất béo"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "bo-de-bt-gs-2025-bep-65",
+    "no": 65,
+    "text": "Vì sao ủ bột mà bánh mì không nở?",
+    "options": [
+     "Do men sử dụng đã bị hỏng hoặc do nước dùng trong công thức quá nóng, đánh bột quá tới nên dẫn đến chết men",
+     "Do bột nổi sử dụng đã bị hỏng hoặc do nước dùng trong công thức quá nóng nên dẫn đến chết men",
+     "Do bột bánh mỳ sử dụng đã bị hỏng hoặc do nước dùng trong công thức quá nóng nên dẫn đến chết men",
+     "Do phụ gia đã bị hỏng  hoặc do nước dùng trong công thức quá nóng nên dẫn đến chết men"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "bo-de-bt-gs-2025-bep-66",
+    "no": 66,
+    "text": "Khi xào hải sản, nếu món ăn bị ra nhiều nước và mất độ ngọt, nguyên nhân chủ yếu là là?",
+    "options": [
+     "Ướp muối quá ít",
+     "Cho nước sốt trước khi cho hải sản",
+     "Nhiệt độ chảo thấp, xào quá lâu",
+     "Dầu chiên quá nóng"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "bo-de-bt-gs-2025-bep-67",
+    "no": 67,
+    "text": "Khi chiên sâu (deep fry), nếu thực phẩm hút nhiều dầu, nguyên nhân chính là?",
+    "options": [
+     "Nhiệt độ dầu quá cao",
+     "Thực phẩm quá khô",
+     "Nhiệt độ dầu quá thấp, chiên quá lâu",
+     "Không tẩm bột áo"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "bo-de-bt-gs-2025-bep-68",
+    "no": 68,
+    "text": "Khi chế biến món kho, lý do nên thắng nước màu riêng thay vì cho đường trực tiếp là?",
+    "options": [
+     "Để tiết kiệm thời gian",
+     "Giúp kiểm soát độ ngọt và màu sắc ổn định hơn",
+     "Để nước kho đậm đặc hơn",
+     "Giúp thực phẩm nhanh mềm"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "bo-de-bt-gs-2025-bep-69",
+    "no": 69,
+    "text": "Trong quy trình HACCP, công đoạn “kiểm soát tới hạn” (CCP) thường áp dụng ở bước nào trong chế biến món ăn?",
+    "options": [
+     "Chuẩn bị nguyên liệu",
+     "Chế biến nhiệt (nấu chín) và bảo quản lạnh",
+     "Trình bày món ăn",
+     "Phục vụ khách"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "bo-de-bt-gs-2025-bep-70",
+    "no": 70,
+    "text": "Khi chuẩn bị thịt bò để xào, thao tác nào giúp thịt mềm, ngọt và không bị ra nước khi nấu?",
+    "options": [
+     "Cắt thịt ngang thớ, ướp gia vị và cho vào ít dầu ăn ướp khoảng 15 đến 30 phút trước khi xào",
+     "Rửa thịt nhiều lần với nước muối",
+     "Cắt thịt theo thớ, ướp muối sớm",
+     "Cắt dọc thớ, ướp nhiều nước mắm"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "bo-de-bt-gs-2025-bep-71",
+    "no": 71,
+    "text": "Nhiệt độ lõi (core temperature) của thực phẩm cần đạt bao nhiêu để đảm bảo an toàn thực phẩm?",
+    "options": [
+     "≥ 55°C",
+     "≥ 63°C",
+     "≥ 70°C",
+     "≥ 75°C"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "bo-de-bt-gs-2025-bep-72",
+    "no": 72,
+    "text": "Khi nướng thực phẩm trong lò, cần làm gì để kiểm soát nhiệt độ chính xác?",
+    "options": [
+     "Cảm nhận bằng tay hoặc mắt",
+     "Đặt nhiệt kế thực phẩm vào phần dày nhất của nguyên liệu",
+     "Dựa vào màu sắc bên ngoài",
+     "Nướng theo thời gian ước lượng"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "bo-de-bt-gs-2025-bep-73",
+    "no": 73,
+    "text": "Khi hâm nóng lại thức ăn chín, nhiệt độ tối thiểu trong tâm thực phẩm phải đạt là:",
+    "options": [
+     "50°C",
+     "60°C",
+     "70°C",
+     "75°C"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "bo-de-bt-gs-2025-bep-74",
+    "no": 74,
+    "text": "Khi chiên cá phi lê, bên ngoài đã vàng giòn nhưng bên trong còn sống nhẹ, nguyên nhân có thể là gì?",
+    "options": [
+     "Dầu quá nóng >190°C",
+     "Dầu quá nguội <150°C",
+     "Cá còn đông lạnh",
+     "Dầu quá nóng >190°C và Cá còn đông lạnh"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "bo-de-bt-gs-2025-bep-75",
+    "no": 75,
+    "text": "Khi áp chảo thịt bò, tại sao phải để thịt “nghỉ” sau khi nấu xong khoảng 5–10 phút?",
+    "options": [
+     "Cho nguội để dễ cắt",
+     "Cho nước thịt thấm lại, tránh chảy ra ngoài khi cắt",
+     "Làm mềm thịt bằng hơi nóng còn lại",
+     "Cho nước thịt thấm lại, tránh chảy ra ngoài khi cắt, làm mềm thịt bằng hơi nóng còn lại"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "bo-de-bt-gs-2025-bep-76",
+    "no": 76,
+    "text": "Khi nướng thịt xiên, yếu tố nào quan trọng nhất để thịt chín đều và không bị cháy?",
+    "options": [
+     "Dùng than đỏ đều, không có lửa cháy ngọn",
+     "Nướng ở nhiệt độ thật cao",
+     "Phết nhiều dầu lên thịt trong suốt quá trình",
+     "Đặt thịt gần than cho nhanh chín"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "bo-de-bt-gs-2025-bep-77",
+    "no": 77,
+    "text": "Khi nướng cá trên bếp than, để cá không bị dính vỉ, đầu bếp nên làm gì?",
+    "options": [
+     "Đặt cá lên than ngay khi than vừa cháy",
+     "Cho thêm bột mì phủ cá",
+     "Bôi dầu lên mặt vỉ trước khi đặt cá",
+     "Lật cá liên tục trong quá trình nướng"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "bo-de-bt-gs-2025-bep-78",
+    "no": 78,
+    "text": "Dấn ăn được dùng trong sơ chế thực phẩm để làm gì?",
+    "options": [
+     "Khử mùi tanh, làm sạch, làm mềm, giữ màu sắc cho các loại thực phẩm.",
+     "Làm tăng trọng lượng, làm sạch, làm mềm, giữ màu sắc cho các loại thực phẩm.",
+     "Khử mùi tanh, làm giảm trọng lượng, làm mềm, giữ màu sắc cho các loại thực phẩm.",
+     "Khử mùi tanh, làm sạch, làm mềm, làm mất màu sắc thực phẩm, tăng Protein cho các loại thực phẩm."
+    ],
+    "answer": 0
+   },
+   {
+    "id": "bo-de-bt-gs-2025-bep-79",
+    "no": 79,
+    "text": "Mục đích của việc “chill shock” (ngâm nước đá) sau khi luộc mì pasta là gì?",
+    "options": [
+     "Ngăn mì bị chín quá, giữ độ dai",
+     "Làm mì có độ giòn hơn",
+     "Làm mì lạnh để ăn liền",
+     "Tăng hương vị sợi mì"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "bo-de-bt-gs-2025-bep-80",
+    "no": 80,
+    "text": "Khi làm món chiên giòn, vì sao không nên cho thực phẩm ướt trực tiếp vào dầu?",
+    "options": [
+     "Dầu bắn mạnh, lớp áo dễ bong tróc và hấp thụ dầu nhiều",
+     "Làm mất mùi vị",
+     "Thực phẩm dễ bám dầu hơn",
+     "Làm thực phẩm chín không đều"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "bo-de-bt-gs-2025-bep-81",
+    "no": 81,
+    "text": "Các trường hợp nào sau đây không đảm bảo VS ATTP?",
+    "options": [
+     "Rửa tay khi tiếp xúc với thực phẩm sống chuyển qua thực phẩm chín.",
+     "Rửa tay khi tiếp xúc với hóa chất.",
+     "Sử dụng bao tay khi tiếp xúc với thực phẩm chín.",
+     "Sử dụng bao tay cầm nắm tủ lạnh sau đó cằm nắm thực phẩm chín."
+    ],
+    "answer": 3
+   },
+   {
+    "id": "bo-de-bt-gs-2025-bep-82",
+    "no": 82,
+    "text": "Nhiệt độ kho lạnh bảo quản rau củ là bao nhiêu?",
+    "options": [
+     "1 độ đến 4 độ C",
+     "Âm 2 độ đến 2 độ C",
+     "Âm 18 độ C",
+     "Chỉ duy trì mức 10 độ C"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "bo-de-bt-gs-2025-bep-83",
+    "no": 83,
+    "text": "Sắp xếp thực phẩm trong kho lạnh cách dàn lạnh tối thiểu ?",
+    "options": [
+     "Càng xa càng tốt",
+     "Trong khoảng 20cm, không được để quá xa, không đảm bảo khoảng cách để giữ lạnh",
+     "30cm",
+     "50cm"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "bo-de-bt-gs-2025-bep-84",
+    "no": 84,
+    "text": "Việc lưu mẫu được thực hiện khi phục vụ từ bao nhiêu khách trở lên?",
+    "options": [
+     "Lúc nào cũng cần lưu",
+     "20 khách",
+     "30 khách",
+     "Số lượng khách dao động trong khoảng từ 30 đến 50 mới phải lưu mẫu"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "bo-de-bt-gs-2025-bep-85",
+    "no": 85,
+    "text": "Khi thực phẩm bị ôi thiu hoặc nổi mốc mốc thì được xếp vào mối nguy nào theo tiêu chuẩn HACCP?",
+    "options": [
+     "Mối nguy hóa học",
+     "Mối nguy sinh học",
+     "Mối nguy vật lý.",
+     "Mối nguy cơ học"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "bo-de-bt-gs-2025-bep-86",
+    "no": 86,
+    "text": "Những lợi ích khi thực hiện ATVSTP tốt?",
+    "options": [
+     "1.Sự hài lòng của khách hàng.\n2.Tuân thủ pháp luật về VSATTP.\n3.Giảm thiểu lãng phí thực phẩm.",
+     "1.Sự hài lòng của khách hàng.\n2.Tuân thủ pháp luật về VSATTP.\n3.Điều kiện làm việc tốt, đạo đức nhân viên cao hơn.",
+     "1.Sự hài lòng của khách hàng.\n2.Giảm thiểu lãng phí thực phẩm.\n3.Điều kiện làm việc tốt, đạo đức nhân viên cao hơn.",
+     "1.Sự hài lòng của khách hàng.\n2.Tuân thủ pháp luật về VSATTP.\n3.Giảm thiểu lãng phí thực phẩm.\n4.Điều kiện làm việc tốt, đạo đức nhân viên cao hơn."
+    ],
+    "answer": 3
+   },
+   {
+    "id": "bo-de-bt-gs-2025-bep-87",
+    "no": 87,
+    "text": "Nguyên liệu, sản phẩm thực phẩm phải được bảo quản trong kho ở vị trí cách tường tối thiểu là bao nhiêu?",
+    "options": [
+     "Không cần cách tường, dựa vào tường để hàng không bị đỗ",
+     "10 cm",
+     "20 cm",
+     "30 cm"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "bo-de-bt-gs-2025-bep-88",
+    "no": 88,
+    "text": "Để đảm bảo vệ sinh trong chế biến món ăn cần thực hiện đúng các quy tắc về ?",
+    "options": [
+     "Vệ sinh thực phẩm",
+     "Vệ sinh cá nhân",
+     "Vệ sinh thực phẩm, vệ sinh cá nhân, vệ sinh thiết bị và khu vực nấu",
+     "Vệ sinh thực phẩm , vệ sinh thiết bị và khu vực nấu"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "bo-de-bt-gs-2025-bep-89",
+    "no": 89,
+    "text": "Theo quy định của Bộ Y tế thời gian lưu mẫu thực phẩm tối thiểu bao nhiêu lâu?",
+    "options": [
+     "Nếu mẫu thử có hiện tượng lạ, lập tức bỏ đi",
+     "Chỉ cần 12 giờ",
+     "Tùy thuộc vào từng thời điểm cụ thể",
+     "Ít nhất 24 giờ"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "bo-de-bt-gs-2025-bep-90",
+    "no": 90,
+    "text": "Mối nguy Vi sinh gồm những nguyên nhân nào sau đây?",
+    "options": [
+     "1.Thực phẩm bị lẫn  với tóc và mảnh sành\n2.Thực phẩm nhiễm vi rút.\n3.Thực phẩm nhiễm ký sinh trùng.\n4.Thực phẩm nhiễm nấm mốc.",
+     "1.Thực phẩm bị nhiễm bẩn, ôi thiu\n2.Thực phẩm nhiễm vi rút.\n3.Thực phẩm nhiễm ký sinh trùng.\n4.Thực phẩm nhiễm nấm mốc.",
+     "1.Thực phẩm bị nhiễm chất phóng xạ\n2.Thực phẩm nhiễm vi rút.\n3.Thực phẩm nhiễm ký sinh trùng.\n4.Thực phẩm nhiễm nấm mốc.",
+     "1.Thực phẩm bị nhiễm chất hoá học từ môi trường\n2.Thực phẩm nhiễm vi rút.\n3.Thực phẩm nhiễm ký sinh trùng.\n4.Thực phẩm nhiễm nấm mốc."
+    ],
+    "answer": 1
+   },
+   {
+    "id": "bo-de-bt-gs-2025-bep-91",
+    "no": 91,
+    "text": "Vi khuẩn có thể hoạt động và sinh sôi tốt nhất trong vùng nhiệt độ nào ?",
+    "options": [
+     "Theo HACCP vùng nhiệt độ mà vi khuẩn gây hại có thể hoạt động từ 1 độ C đến 99 độ C.",
+     "Theo HACCP vùng nhiệt độ mà vi khuẩn gây hại có thể hoạt động từ 5 độ C đến 60 độ C.",
+     "Theo HACCP vùng nhiệt độ mà vi khuẩn gây hại có thể hoạt động từ 60 độ C đến 100 độ C.",
+     "Theo HACCP vùng nhiệt độ mà vi khuẩn gây hại có thể hoạt động từ  25 độ C đến 60 độ C."
+    ],
+    "answer": 1
+   },
+   {
+    "id": "bo-de-bt-gs-2025-bep-92",
+    "no": 92,
+    "text": "Nhãn dán trên thực phẩm bảo quản cần các thông tin gì ?",
+    "options": [
+     "Tên sản phẩm, ngày nhập kho",
+     "Tên sản phẩm, ngày nhập kho, ngày hết hạn",
+     "Tên sản phẩm, ngày hết hạn",
+     "Ngày hết hạn, trọng lượng sản phẩm"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "bo-de-bt-gs-2025-bep-93",
+    "no": 93,
+    "text": "Cách rã đông nào làm chất lượng sản phẩm bị giảm, hạn chế tối đa để sử dụng?",
+    "options": [
+     "Rã đông bằng nước.",
+     "Rã đông bằng lò vi sóng.",
+     "Rã đông ở nhiệt độ phòng",
+     "Rã đông trong tủ lạnh."
+    ],
+    "answer": 1
+   },
+   {
+    "id": "bo-de-bt-gs-2025-bep-94",
+    "no": 94,
+    "text": "Việc sử dụng chung bồn rửa thịt cá và rau củ có nguy cơ gì?",
+    "options": [
+     "Vi khuẩn gây bệnh sẽ xâm nhập vào thực phẩm",
+     "Không có nguy cơ lây nhiễm",
+     "Nguy cơ lây nhiễm chéo vi khuẩn rất cao",
+     "Nhiễm vi khuẩn E COLI"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "bo-de-bt-gs-2025-bep-95",
+    "no": 95,
+    "text": "Vi khuẩn cần các điều kiện nào để phát triển ?",
+    "options": [
+     "Nhiệt độ, ánh sáng, không khí, thời gian",
+     "Thực phẩm, ánh sáng, nhiệt độ, thời gian",
+     "Thực phẩm, độ ẩm, nhiệt độ, thời gian",
+     "Nhiệt độ, ánh sáng, thời gian, không gian"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "bo-de-bt-gs-2025-bep-96",
+    "no": 96,
+    "text": "Ở vùng nhiệt độ nào vi khuẩn ngừng sinh sôi, nhưng vẫn còn sống?",
+    "options": [
+     "Từ 0 độ C đến âm 18 độ C",
+     "Từ 0 độ C đến 4 độ C",
+     "Từ 5 độ C đến  63 độ C",
+     "Từ 63 độ C đến 100 độ C"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "bo-de-bt-gs-2025-bep-97",
+    "no": 97,
+    "text": "Nhãn thực phẩm bao gói sẵn cần có những nội dung nào?",
+    "options": [
+     "Tên thực phẩm, địa chỉ sản xuất\nHạn sử dụng, hướng dẫn bảo quản",
+     "Tên thực phẩm, địa chỉ sản xuất\nKhối lượng tịnh\nHạn sử dụng, hướng dẫn bảo quản\nMẫu mã, hình dạng đẹp",
+     "Tên thực phẩm, địa chỉ sản xuất\nKhối lượng tịnh",
+     "Tên thực phẩm, địa chỉ sản xuất\nKhối lượng tịnh\nHạn sử dụng, hướng dẫn bảo quản"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "bo-de-bt-gs-2025-bep-98",
+    "no": 98,
+    "text": "Theo chương trình HACCP thì có các mối nguy nào?",
+    "options": [
+     "1.Các bề mặt tiếp xúc với tay.\n2. Các bề mặt tiếp xúc với thực phẩm.\n3. Mối nguy sinh học",
+     "1.Các bề mặt tiếp xúc với tay.\n2. Các bề mặt tiếp xúc với thực phẩm.\n3. Mối nguy hóa học",
+     "1.Các bề mặt tiếp xúc với tay.\n2. Các bề mặt tiếp xúc với thực phẩm.\n3. Mối nguy vật lý",
+     "Các bề mặt tiếp xúc với tay.\n2. Các bề mặt tiếp xúc với thực phẩm.\n3. Làm sạch các trang thiết bị."
+    ],
+    "answer": 3
+   },
+   {
+    "id": "bo-de-bt-gs-2025-bep-99",
+    "no": 99,
+    "text": "Anh/chị hãy đánh giá các nguy cơ lây nhiễm từ cao đến thấp để ngăn ngừa ngộ độc thực phẩm theo HACCP?",
+    "options": [
+     "1.Thực phẩm sử dụng ngay\n2.Thực phẩm sống không cần qua chế biến.\n3.Thực phẩm sống phải qua chế biến.",
+     "1.Thực phẩm có nguy cơ cao.\n2.Thực phẩm sống không cần qua chế biến.\n3.Thực phẩm sống phải qua chế biến.",
+     "1.Thực phẩm chín cấp đông\n2.Thực phẩm sống không cần qua chế biến.\n3.Thực phẩm sống phải qua chế biến.",
+     "1.Thực phẩm công nghệ.\n2.Thực phẩm sống không cần qua chế biến.\n3.Thực phẩm sống phải qua chế biến."
+    ],
+    "answer": 1
+   },
+   {
+    "id": "bo-de-bt-gs-2025-bep-100",
+    "no": 100,
+    "text": "Hãy sắp xếp 4 vùng nhiêt độ theo thang nhiệt trong HACCP ?",
+    "options": [
+     "1.Vùng 63 - 100 độ C vi khuản bị tiêu diệt.\n2.Vùng 0 - 100 độ C vi khuẩn sinh sôi mạnh.\n3.Vùng từ 0-5 độ C Vùng nhiệt độ bảo quản món lạnh.\n4. Vùng từ -18 và sâu hơn vùng nhiệt độ bảo quản món đông.",
+     "1.Vùng 63 - 100 độ C vi khuản bị tiêu diệt.\n2.Vùng 5 - 63 độ C vi khuẩn sinh sôi mạnh.\n3.Vùng từ 37 - 63 độ C Vùng nhiệt độ bảo quản món lạnh.\n4. Vùng từ -18 và sâu hơn vùng nhiệt độ bảo quản món đông.",
+     "1.Vùng 63 - 100 độ C vi khuản bị tiêu diệt.\n2.Vùng 5 - 63 độ C vi khuẩn sinh sôi mạnh.\n3.Vùng từ 0-5 độ C Vùng nhiệt độ bảo quản món lạnh.\n4. Vùng từ -18 và sâu hơn vùng nhiệt độ bảo quản món đông.",
+     "1.Vùng 100 - 120 độ C vi khuẩn bị tiêu diệt.\n2.Vùng 5 - 63 độ C vi khuẩn sinh sôi mạnh.\n3.Vùng từ 0-5 độ C Vùng nhiệt độ bảo quản món lạnh.\n4. Vùng từ -18 và sâu hơn vùng nhiệt độ bảo quản món đông."
+    ],
+    "answer": 2
+   },
+   {
+    "id": "bo-de-bt-gs-2025-bep-101",
+    "no": 101,
+    "text": "Các trường hợp nào sau đây tuyệt đối không cho nhân viên tiếp xúc với thực phẩm theo HACCP?",
+    "options": [
+     "1.Nhân viên bị mệt mỏi.\n2.Nhân viên bị tiêu chảy.\n3.Nhân viên vị vàng da.\n4.Nhân viên bị Đau họng và sốt cao chưa rõ nguyên nhân",
+     "1.Nhân viên bị khát nước.\n2.Nhân viên bị tiêu chảy.\n3.Nhân viên vị vàng da.\n4.Nhân viên bị Đau họng và sốt cao chưa rõ nguyên nhân",
+     "1.Nhân viên Đau đầu.\n2.Nhân viên bị tiêu chảy.\n3.Nhân viên vị vàng da.\n4.Nhân viên bị Đau họng và sốt cao chưa rõ nguyên nhân",
+     "1.Nhân viên bị nôn ói từ 2 lần trở lên chưa rõ nguyên nhân.\n2.Nhân viên bị tiêu chảy.\n3.Nhân viên vị vàng da.\n4.Nhân viên bị Đau họng và sốt cao chưa rõ nguyên nhân"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "bo-de-bt-gs-2025-bep-102",
+    "no": 102,
+    "text": "Đối với việc trưng bày và phục vụ buffet, việc nào sau đây không đúng với quy tắc về an toàn thực phẩm?",
+    "options": [
+     "Thời gian trưng bày và phục vụ thực phẩm dài hơn 1 giờ  có kiểm soát nhiệt độ.",
+     "Thời gian trưng bày và phục vụ thực phẩm dài hơn 2 giờ có kiểm soát nhiệt độ.",
+     "Thời gian trưng bày và phục vụ thực phẩm dài hơn 3 giờ có kiểm soát nhiệt độ.",
+     "Thời gian trưng bày và phục vụ thực phẩm dài hơn 4 giờ không có kiểm soát nhiệt độ."
+    ],
+    "answer": 3
+   },
+   {
+    "id": "bo-de-bt-gs-2025-bep-103",
+    "no": 103,
+    "text": "Vệ sinh thực phẩm không chỉ là sạch sẽ mà còn bao gồm các yếu tố nào sau đây?",
+    "options": [
+     "1.Bảo quản thực phẩm khỏi nguy cơ nhiễm bẩn.\n2.Tiêu diệt vi khuẩn có hại.\n3.Loại bỏ thực phẩm không đạt chuẩn hoặc bị nhiễm bẩn.",
+     "1.Bảo quản thực phẩm khỏi nguy cơ nhiễm bẩn.\n2.Ngăn chặn sự sinh sôi của vi khuẩn\n3.Tiêu diệt vi khuẩn có hại.\n4.Loại bỏ thực phẩm không đạt chuẩn hoặc bị nhiễm bẩn.",
+     "1.Bảo quản thực phẩm khỏi nguy cơ nhiễm bẩn.\n2.Ngăn chặn sự sinh sôi của vi khuẩn\n3.Loại bỏ thực phẩm không đạt chuẩn hoặc bị nhiễm bẩn.",
+     "1.Bảo quản thực phẩm khỏi nguy cơ nhiễm bẩn.\n2.Ngăn chặn sự sinh sôi của vi khuẩn\n3.Tiêu diệt vi khuẩn có hại."
+    ],
+    "answer": 1
+   },
+   {
+    "id": "bo-de-bt-gs-2025-bep-104",
+    "no": 104,
+    "text": "Thực phẩm nào sau đây thuộc nhóm nguy cơ thấp theo phân tích của HACCP là đúng?",
+    "options": [
+     "-Thực phẩm khô như ngũ cốc, mỳ ống, hoặc thực phẩm chứa nồng độ cao như đường, muối, dấm và gia vị tổng hợp",
+     "-Thực phẩm khô như ngũ cốc, mỳ ống, hoặc thực phẩm chứa nồng độ cao như đường, muối, dấm và chất bảo quản.",
+     "-Thực phẩm khô như ngũ cốc, mỳ ống, hoặc thực phẩm chứa nồng độ cao như đường, muối, dấm và chất béo thực vật",
+     "-Thực phẩm khô như ngũ cốc, mỳ ống, hoặc thực phẩm chứa nồng độ cao như đường, muối, dấm và chất đạm tổng hợp"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "bo-de-bt-gs-2025-bep-105",
+    "no": 105,
+    "text": "Theo HACCP, dây chuyền ngộ độc thực phẩm bao gồm 3 nguy cơ chính đó là?",
+    "options": [
+     "-1.Sự nhiễm bẩn của thực phẩm có nguy cơ cao\n-2.Sự sinh sôi của vi khuẩn trong thực phẩm.\n3.Sự sống sót của vi khuẩn trong thực phẩm",
+     "1.Sự nhiễm bẩn của thực phẩm có nguy cơ cao\n2.Sự sinh sôi của vi khuẩn trong thực phẩm.\n3.Nấu thực phẩm chín quá",
+     "1.Sự nhiễm bẩn của thực phẩm có nguy cơ cao\n2.Sự sinh sôi của vi khuẩn trong thực phẩm.\n3.Cấp đông thực phẩm lâu ngày",
+     "1.Sự nhiễm bẩn của thực phẩm có nguy cơ cao\n2.Sự sinh sôi của vi khuẩn trong thực phẩm.\n3.tẩm ướp thực phẩm quá 24 giờ"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "bo-de-bt-gs-2025-bep-106",
+    "no": 106,
+    "text": "Rửa tay đúng cách trước khi chế biến thực phẩm giúp:",
+    "options": [
+     "Giảm mùi thực phẩm",
+     "Loại bỏ vi khuẩn gây bệnh",
+     "Làm da tay mềm hơn",
+     "Giúp thức ăn ngon hơn"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "bo-de-bt-gs-2025-bep-107",
+    "no": 107,
+    "text": "Thực phẩm đông lạnh sau khi rã đông nên:",
+    "options": [
+     "Rã đông xong để ngoài nhiệt độ phòng qua đêm",
+     "Rã đông và nấu ngay",
+     "Rã đông rồi cấp đông lại",
+     "Rã đông bằng nước nóng"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "bo-de-bt-gs-2025-bep-108",
+    "no": 108,
+    "text": "Mối nguy sinh học trong VSATTP thường đến từ:",
+    "options": [
+     "Dư lượng thuốc bảo vệ thực vật",
+     "Vi khuẩn, virus, ký sinh trùng",
+     "Dị vật như tóc, cát",
+     "Chất tẩy rửa còn sót"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "bo-de-bt-gs-2025-bep-109",
+    "no": 109,
+    "text": "Khi phát hiện nguyên liệu có dấu hiệu ôi thiu hoặc nấm mốc, người chế biến nên:",
+    "options": [
+     "Loại bỏ phần hư, dùng phần còn tốt",
+     "Nấu kỹ để diệt vi khuẩn",
+     "Loại bỏ hoàn toàn, không sử dụng",
+     "Dùng gia vị mạnh để át mùi"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "bo-de-bt-gs-2025-bep-110",
+    "no": 110,
+    "text": "Trong quy trình HACCP, “Điểm kiểm soát tới hạn” (CCP) là gì?",
+    "options": [
+     "Điểm kiểm tra chất lượng thành phẩm",
+     "Giai đoạn có thể kiểm soát mối nguy để đảm bảo an toàn thực phẩm",
+     "Điểm bắt đầu chế biến",
+     "Điểm giao nhận nguyên liệu"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "bo-de-bt-gs-2025-bep-111",
+    "no": 111,
+    "text": "Vi khuẩn Salmonella thường xuất hiện nhiều nhất trong loại thực phẩm nào sau đây?",
+    "options": [
+     "Rau củ",
+     "Trứng và thịt gia cầm sống",
+     "Hải sản đông lạnh",
+     "Bánh ngọt"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "bo-de-bt-gs-2025-bep-112",
+    "no": 112,
+    "text": "Theo nguyên tắc “5 chìa khóa an toàn thực phẩm” của WHO, chìa khóa nào sau đây không đúng?",
+    "options": [
+     "Giữ sạch",
+     "Nấu chín kỹ",
+     "Giữ thực phẩm ở nhiệt độ nguy hiểm để dễ chế biến",
+     "Sử dụng nước và nguyên liệu an toàn"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "bo-de-bt-gs-2025-bep-113",
+    "no": 113,
+    "text": "Vi sinh vật bị kìm hãm tốc độ phát triển và sinh sản ở nhiệt độ nào sau đây?",
+    "options": [
+     "0-(-18) độ C",
+     "0-10 độ C",
+     "45-70 độ C",
+     "20-100 độ C"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "bo-de-bt-gs-2025-bep-114",
+    "no": 114,
+    "text": "Đối với hàng hóa nhập khẩu chúng ta cần chú ý tới tiêu chí nào?",
+    "options": [
+     "Phải có nhãn mác phụ bằng tiếng Việt có nội dung tương ứng với nội dung ghi trên nhãn mác gốc.",
+     "Phải có tiếng Việt kèm theo trên bao bì của công ty có nội dung gần đúng với nhãn mác gốc",
+     "Phải có tiếng Việt theo tiêu chuẩn kèm theo trên bao bì của công ty",
+     "Phải có tiếng Việt theo tiêu chuẩn kèm theo trên bao bì được kiểm định của công ty"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "bo-de-bt-gs-2025-bep-115",
+    "no": 115,
+    "text": "Tại sao phải ghi nhiệt độ tủ lạnh, tủ đông?",
+    "options": [
+     "Đảm bảo thiết bị luôn hoạt động tốt",
+     "Để phản ứng nhanh kịp thời nếu có",
+     "Để phản ứng kịp thời khi hàng mỹ phẩm có sự cố",
+     "Để phản ứng hóa lý nếu có"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "bo-de-bt-gs-2025-bep-116",
+    "no": 116,
+    "text": "Thiết bị máy móc nào sau đây cần phải phun hóa chất vệ sinh khi còn nóng?",
+    "options": [
+     "Bếp điện",
+     "Lò nướng",
+     "Chảo",
+     "Bếp từ"
+    ],
+    "answer": 1
+   }
+  ]
+ },
+ {
+  "id": "bo-de-bt-gs-2025-tap-vu",
+  "name": "Bộ đề BT GS 2025 - Tạp vụ",
+  "questions": [
+   {
+    "id": "bo-de-bt-gs-2025-tap-vu-1",
+    "no": 1,
+    "text": "Các thiết bị, CCDC phải trong tình trạng như thế nào trước khi phục vụ?",
+    "options": [
+     "Không hỏng, không có vết ố, không dầu mỡ, có vân tay.",
+     "Không sứt mẻ, hư hỏng, không có vết ố/dầu mỡ/vân tay",
+     "Không hỏng, không có vết ố, không dầu mỡ, có vân tay, không trầy sứt da.",
+     "Không hỏng, không có vết ố, không dầu mỡ, có vân tay, không bị nứt da."
+    ],
+    "answer": 1
+   },
+   {
+    "id": "bo-de-bt-gs-2025-tap-vu-2",
+    "no": 2,
+    "text": "Nhiệt độ của máy rửa chén như thế nào là đúng ?",
+    "options": [
+     "Rửa 50 đến 65 độ C, tráng 82 đến 86 độ C",
+     "Rửa 55 đến  65 độ C, tráng 76 đến 82 độ C",
+     "Rửa 50 đến 65 độ C, tráng 76 đến 82 độ C",
+     "Rửa 55 đến 65 độ C, tráng 82 đến 86 độ C"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "bo-de-bt-gs-2025-tap-vu-3",
+    "no": 3,
+    "text": "Cách vệ sinh bên trong lò vi sóng ?",
+    "options": [
+     "Rút phích cắm trước khi làm vệ sinh. Dùng khăn lau mềm lau sạch dây điện",
+     "Tháo các vỉ nướng ra khỏi lò, lau chùi bằng hóa chất đa năng, sau đó rửa sạch và lau khô",
+     "Dùng khăn lau mềm thấm hỗn hợp và lau chùi bề mặt giá kệ.",
+     "Dùng khăn mềm thấm chất tẩy rửa đa năng trên lau chùi bề mặt bên trong thiết bị .\nSau đó lau sạch lại với nước và lau khô"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "bo-de-bt-gs-2025-tap-vu-4",
+    "no": 4,
+    "text": "CCDC sau khi được rửa sạch cần cách ly mặt đất tối thiểu 20cm, nhằm mục đích gì?",
+    "options": [
+     "Gọn gàng, ngăn nắp",
+     "Trách vi khuẩn xâm nhập lây nhiễm chéo",
+     "Cần phải cách ly mặt sàn",
+     "Dễ dàng di chuyển"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "bo-de-bt-gs-2025-tap-vu-5",
+    "no": 5,
+    "text": "Khi tiếp xúc hóa chất, chúng ta cần trang bị những dụng cụ gì ?",
+    "options": [
+     "Găng tay nilon và  khẩu trang",
+     "Khẩu trang",
+     "Găng tay chuyên dụng",
+     "Găng tay nilon, khẩu trang, găng tay chuyên dụng"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "bo-de-bt-gs-2025-tap-vu-6",
+    "no": 6,
+    "text": "Quy trình lưu giữ hóa chất như thế nào là đúng ?",
+    "options": [
+     "Sắp xếp theo từng loại hóa chất",
+     "Cất trữ trong kho",
+     "Hóa chất cất trữ kho riêng biệt\nThẻ kho xuất nhập kho\nNhập trước xuất trước, nhập sau xuất sau",
+     "Rửa lại bằng nước sạch sau khi sử dụng hóa chất"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "bo-de-bt-gs-2025-tap-vu-7",
+    "no": 7,
+    "text": "Điều quan trọng nhất không được làm đối với CBNV khi kiểm tra hóa chất là gì?",
+    "options": [
+     "Không nếm, ngửi, sờ bằng tay sản phẩm hóa chất nguyên chất",
+     "Không pha hóa chất bằng nước bẩn",
+     "Quan sát màu của hóa chất",
+     "Quấy hóa chất khi pha trộn với nước"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "bo-de-bt-gs-2025-tap-vu-8",
+    "no": 8,
+    "text": "Tần suất vệ sinh bộ lọc máy làm đá là bao nhiêu lần trên tháng?",
+    "options": [
+     "1 lần",
+     "2 lần",
+     "3 lần",
+     "4 lần"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "bo-de-bt-gs-2025-tap-vu-9",
+    "no": 9,
+    "text": "Hóa chất Diversoy cx có công dụng như thế nào?",
+    "options": [
+     "Vào sửa được trực tiếp",
+     "Làm bóng ccdc",
+     "Tẩy rửa nồi hâm nóng thức ăn",
+     "Tẩy dầu mỡ"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "bo-de-bt-gs-2025-tap-vu-10",
+    "no": 10,
+    "text": "Chén đĩa CCDC rửa qua máy rửa chén theo quy trình nào?",
+    "options": [
+     "Bỏ chén đĩa vào Rack sau đó đưa vô máy",
+     "Ngâm với Sunlight, cho lên Rack đẩy vào máy",
+     "Xịt rửa sơ bộ\nRửa bằng hóa chất rửa trong máy.\nTráng khô qua hóa chất trong máy.",
+     "Sắp xếp theo từng loại vô rack rồi cho vào máy"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "bo-de-bt-gs-2025-tap-vu-11",
+    "no": 11,
+    "text": "Lò nướng đa năng được vệ sinh bao nhiêu lần trong ngày?",
+    "options": [
+     "Lò nướng được vệ sinh ngay sau khi sử dụng",
+     "Lò nướng được vệ sinh 1 ngày/ lần vào ca đêm (trường hợp quá bẩn phải vệ sinh ngay)",
+     "Lò nướng được vệ sinh 2 ngày/ lần vào ca đêm",
+     "Lò nướng được vệ sinh 1 tuần/01 lần vào ca đêm"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "bo-de-bt-gs-2025-tap-vu-12",
+    "no": 12,
+    "text": "Cống, rãnh thoát sàn được vệ sinh như thế nào đạt yêu cầu?",
+    "options": [
+     "Cuối ca làm việc",
+     "Ngày vệ sinh 2 lần",
+     "Vệ sinh ngay khi bẩn, hạn chế rác thức ăn rơi xuống miệng cống",
+     "Vệ sinh với hóa chất chuyên dụng"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "bo-de-bt-gs-2025-tap-vu-13",
+    "no": 13,
+    "text": "Vệ sinh thớt theo cách nào là đúng?",
+    "options": [
+     "Thớt sau khi dùng xong phải được vệ sinh, sắp xếp thẳng lên kệ cho khô ráo và cuối ngày phải đem ra khu vực rửa và ngâm rửa hóa chất khử trùng",
+     "Thớt cần được sử dụng đúng màu sắc với từng mục đích khác nhau",
+     "Bàn và kệ được vệ sinh thường xuyên trong quá trình làm việc",
+     "Tất cả thớt chỉ được vệ sinh vào những thời điểm vào đầu mỗi ca làm việc"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "bo-de-bt-gs-2025-tap-vu-14",
+    "no": 14,
+    "text": "Ngâm tẩy đồ nhựa và sành sứ thủy tinh bằng hóa chất Dual Dip với tỷ lệ bao nhiêu là đúng?",
+    "options": [
+     "6 gam/ 1 lít nước",
+     "8 gam/ 2 lít nước",
+     "10 gam/ 1 lít nước",
+     "10 gam / 2 lít nước"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "bo-de-bt-gs-2025-tap-vu-15",
+    "no": 15,
+    "text": "Khu vực quầy buffet phải được khử khuẩn bao nhiêu lần/ngày?",
+    "options": [
+     "Ca sáng",
+     "2 lần/ ngày ( trước và sau khi phục vụ)",
+     "Ca chiều",
+     "Ngày 1 lần"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "bo-de-bt-gs-2025-tap-vu-16",
+    "no": 16,
+    "text": "Xe đẩy thực phẩm bếp lưu thông trong khu vực có khách du lịch phải đảm bảo như thế nào là đúng?",
+    "options": [
+     "Xe inox 3 tầng",
+     "Xe ionx thùng có nắp đậy",
+     "Loại xe chuyên dùng",
+     "Loại xe đẩy phù hợp kích thước và có bạt phủ xe"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "bo-de-bt-gs-2025-tap-vu-17",
+    "no": 17,
+    "text": "Hóa chất diệt khuẩn Suma J512 có tác dụng ngăn ngừa vi khuẩn xâm nhập bề mặt bàn chế biến thực phẩm trong bao nhiêu giờ đồng hồ ?",
+    "options": [
+     "1h",
+     "2h",
+     "3h",
+     "4h"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "bo-de-bt-gs-2025-tap-vu-18",
+    "no": 18,
+    "text": "Khi các loại máy pha hóa chất bị trục trặc hoặc hỏng hóc, nhân viên trực khu vực phải làm gì ?",
+    "options": [
+     "Báo bộ phận bảo trì",
+     "Báo quản lý,yêu cầu nhà cung cấp  lên xử lí hoặc thay máy mới",
+     "Vẫn để hoạt động rửa",
+     "Ngừng công việc vệ sinh"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "bo-de-bt-gs-2025-tap-vu-19",
+    "no": 19,
+    "text": "Dung dịch chai xịt GIFT 580ml, dùng để làm gì?",
+    "options": [
+     "Tẩy ố",
+     "Vệ sinh kính",
+     "Lau sàn",
+     "Đánh sàn"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "bo-de-bt-gs-2025-tap-vu-20",
+    "no": 20,
+    "text": "Cách vệ sinh khay inox bẩn do đưa vào lò nướng cháy?",
+    "options": [
+     "Lấy bàn chải sắt cọ sạch và rửa bằng nước",
+     "Ngâm với hóa chất Optimum 282 khoảng 30 phút, cọ sạch vết bẩn, rửa lại bằng nước sạch",
+     "Làm ấm nó lên, phun Optimum 282, cọ sạch vết bẩn, rửa lại bằng nước sạch",
+     "Ngâm với Sunlight và chà rửa"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "bo-de-bt-gs-2025-tap-vu-21",
+    "no": 21,
+    "text": "Hóa chất SPECTRUM DC có tính năng gì?",
+    "options": [
+     "Sát khuẩn, khử mùi sàn nhà, nhà vệ sinh…",
+     "Đánh sàn và tẩy bong các lớp đá vôi bám trên sàn",
+     "Có tinh năng làm bóng kim loại",
+     "Đánh bóng đá"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "bo-de-bt-gs-2025-tap-vu-22",
+    "no": 22,
+    "text": "Làm sạch sàn nhà bằng máy bắn sàn theo quy trình nào?",
+    "options": [
+     "Chuẩn bị máy móc và CCDC đến Kiểm tra máy móc và nguồn điện đến Thực hiện công tác bắn sàn đến Vệ sinh máy đến Kiểm tra tổng thể lần cuối.",
+     "Chuẩn bị máy móc và CCDC đến Thực hiện việc bắn sàn",
+     "Kiểm tra máy móc và nguồn điện đến Chuẩn bị máy móc và CCDC đến Thực hiện công tác bắn sàn",
+     "Thực hiện công tác bắn sàn đến vệ sinh máy"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "bo-de-bt-gs-2025-tap-vu-23",
+    "no": 23,
+    "text": "Hóa chất lau kính Gift khi sử dụng vệ sinh kính, thông thường có hòa chung với các dung dịch khác hay không? Nếu có tỉ lệ là bao nhiêu?",
+    "options": [
+     "Có, tỉ lệ 1:1",
+     "Có, tỉ lệ 1:2",
+     "Có, tỉ lệ 1:5",
+     "Không hòa chung với dung dịch khác"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "bo-de-bt-gs-2025-tap-vu-24",
+    "no": 24,
+    "text": "Để thực hiện công tác bắn sàn Anh, chị cần những công cụ chính nào ?",
+    "options": [
+     "Máy bắn nước, dây ống dẫn nước, dây điện",
+     "Dây ống nhựa dẻo, hóa chất lau sàn",
+     "Dây ống nhựa dẻo, chổi cước, hóa chất",
+     "Dây điện, chổi cước"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "bo-de-bt-gs-2025-tap-vu-25",
+    "no": 25,
+    "text": "Sử dụng hóa chất đúng cách và hiệu quả phải làm theo các yếu tố nào?",
+    "options": [
+     "Đúng nhiệt độ",
+     "Đúng thời gian",
+     "Đúng thời tiết",
+     "Sử dụng đúng nồng độ và tỷ lệ do nhà sản xuất đưa ra, được Quản lý niêm yết"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "bo-de-bt-gs-2025-tap-vu-26",
+    "no": 26,
+    "text": "Khu vực Buffet cần vệ sinh theo cách nào là đúng ?",
+    "options": [
+     "Đổ nước vào chafingdish",
+     "Lau chùi các bếp điện, chân kê, đèn hâm nóng",
+     "Đổ đá vào các hộc Salad",
+     "Vệ sinh tất cả CCDC và bề mặt quầy Buffet với hóa chất Suma J512."
+    ],
+    "answer": 3
+   },
+   {
+    "id": "bo-de-bt-gs-2025-tap-vu-27",
+    "no": 27,
+    "text": "Anh/chị làm gì để giữ gìn hệ thống cống rãnh không bị tắc nghẽn?",
+    "options": [
+     "Cống luôn có lọc rác không đổ dầu mỡ xuống cống",
+     "Không đổ rác xuống cống",
+     "Báo với bảo trì",
+     "Làm theo chỉ đạo"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "bo-de-bt-gs-2025-tap-vu-28",
+    "no": 28,
+    "text": "Quy trình vệ sinh lò chiên dầu bằng điện như thế nào?",
+    "options": [
+     "Lọc dầu rồi lau chùi với xà phòng",
+     "Lọc dầu, dùng Break up để vệ sinh",
+     "Tắt nguồn điện, lọc dầu, mang lưới lọc đi ngâm",
+     "Tắt nguồn điện.\nĐể nguội, lọc dầu, tháo chi tiết.\nVệ sinh với Break up và rửa lại nước sạch"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "bo-de-bt-gs-2025-tap-vu-29",
+    "no": 29,
+    "text": "Tài sản thiết bị CCDC kho bếp được cấp phát như thế nào là đúng?",
+    "options": [
+     "Nhân viên tạp vụ",
+     "Gửi Phiếu yêu cầu cho Tổ trưởng TV có xác nhận của Trưởng Phòng.",
+     "Tổ trưởng",
+     "Bếp trưởng"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "bo-de-bt-gs-2025-tap-vu-30",
+    "no": 30,
+    "text": "Cách vệ sinh lò nướng mặt phẳng tròn bằng điện theo các bước nào?",
+    "options": [
+     "Xịt Optimum 282 ngâm 15 phút sau đó lau chùi",
+     "Dùng vật nhọn để cào vết bẩn trên bề mặt",
+     "Làm ấm bề mặt, xịt 282 ngâm rồi vệ sinh",
+     "Tắt nguồn điện.\nĐể ấm bề mặt, xịt 282 ngâm 15 phút sau đó lau chùi dễ dàng."
+    ],
+    "answer": 3
+   },
+   {
+    "id": "bo-de-bt-gs-2025-tap-vu-31",
+    "no": 31,
+    "text": "Hóa chất Suma Break up được sử dụng hiệu quả cao nhất khi vệ sinh là gì ?",
+    "options": [
+     "Lấy từ máy pha sẵn",
+     "Vệ sinh sàn nhà",
+     "Hòa với nước Ấm 60 độ C",
+     "Vệ sinh kho rác"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "bo-de-bt-gs-2025-tap-vu-32",
+    "no": 32,
+    "text": "Hóa chất khử khẩn Suma J512 được chiết xuất từ máy pha sẵn có nồng độ bao nhiêu ppm?",
+    "options": [
+     "100ppm",
+     "150ppm",
+     "200ppm",
+     "250ppm"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "bo-de-bt-gs-2025-tap-vu-33",
+    "no": 33,
+    "text": "Các loại dao bếp phải được tẩy, khử khuẩn theo quy trình như thế nào là đúng ?",
+    "options": [
+     "Vệ sinh bằng hóa chất",
+     "Ngâm qua đêm",
+     "Rửa qua máy rửa chén",
+     "Ngâm dao trong quá trình chế biến với dung dịch J512 từ máy pha sẵn,có tác dụng 4H.\nSau khi chế biến phải rửa sạch và cho vào tủ sấy khô"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "bo-de-bt-gs-2025-tap-vu-34",
+    "no": 34,
+    "text": "Vệ sinh lò nướng phẳng theo cách nào sau đây là đúng ?",
+    "options": [
+     "Phun Otimum 282 lên bề mặt, 15 phút sau đó lau chùi",
+     "Phun Otimum 282 lên bề mặt đang ấm.\n15 phút sau vệ sinh bằng xẻng xủi inox và lau lại bằng nước sạch.",
+     "Dùng miếng cọ sắt để vệ sinh",
+     "Làm nóng lò nướng sau đó xịt hóa chất rồi vệ sinh"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "bo-de-bt-gs-2025-tap-vu-35",
+    "no": 35,
+    "text": "Máy rửa chén được vận hành đúng theo cách nào ?",
+    "options": [
+     "Bật công tắc nguồn, mở cửa máy và đổ nước nóng, sau đó sử dụng",
+     "Vệ sinh sau khi sử dụng",
+     "Bật công tắc nguồn, đổ nước nóng và chờ đủ nhiệt thì sử dụng",
+     "Bật công tất nguồn\n Bấm nút khởi động\n Máy tự bơm nước và hóa chất khi đủ nhiệt độ thì sử dụng"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "bo-de-bt-gs-2025-tap-vu-36",
+    "no": 36,
+    "text": "Chén bát đĩa được xử lý như thế nào đúng tiêu chuẩn?",
+    "options": [
+     "Chén bát đĩa phải được loại bỏ thức ăn và vết bẩn.sau đó cho vào máy rửa sạch.",
+     "Chén bát đĩa được sắp xếp lên kệ",
+     "Sắp xếp, phân loại theo từng loại kích thước.",
+     "Trong quá trình sử dụng chén bát đĩa bị bám các vết bẩn ố vàng, định kỳ 1 tháng 2 lần dùng hóa chất Suma Dual dip để ngâm qua đêm  để đánh tan các vết bẩn"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "bo-de-bt-gs-2025-tap-vu-37",
+    "no": 37,
+    "text": "Các loại thớt bếp sử dụng được tẩy rửa đúng quy trình ?",
+    "options": [
+     "Chà rửa bằng xà phòng",
+     "Rửa vào cuối ca làm việc",
+     "Chà rửa sơ bộ và rửa qua máy rửa chén trong quá trình chế biến.\nKết thúc ca ngâm hóa chất tẩy khuẩn qua đêm \nRửa lại với nước sạch",
+     "Ngâm tẩy hóa chất trong quá trình chế biến"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "bo-de-bt-gs-2025-tap-vu-38",
+    "no": 38,
+    "text": "Cách sử dụng hóa chất rửa rau Suma Eden được sử dụng như thế nào đúng quy trình?",
+    "options": [
+     "Hòa với máy pha sẵn",
+     "Sau khi rửa với nước",
+     "Rửa rau, củ, quả với nước, để ráo nước. Sau đó nhúng ngập dung dịch hóa chất trong 1 phút.Vớt ra dùng được.",
+     "Rửa theo quy trình bảng hướng dẫn"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "bo-de-bt-gs-2025-tap-vu-39",
+    "no": 39,
+    "text": "Thùng rác được vệ sinh như thế nào sạch và đúng quy trình?",
+    "options": [
+     "Hóa chất tẩy rửa lau chùi bên trong bên ngoài thùng rác.\nDùng nước xả sạch lại thùng rác. Khăn lau khô thùng rác và thay bao rác mới",
+     "Dùng nước xả sạch lại thùng rác.dùng khăn lau khô thùng rác và thay bao rác mới",
+     "Chuẩn bị dụng cụ xúc rác, chổi nhựa, cây cào nước, máy đánh sàn, máy hút nước, hóa chất  tẩy rửa và khử trùng Suma Breakup hóa chất khử mùi Suma Spectrum",
+     "Bao rác sau khi được thu gom vào kho, chuẩn bị miếng chà rửa, hóa chất tẩy rửa và khử trùng Suma Breakup, khăn lau khô"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "bo-de-bt-gs-2025-tap-vu-40",
+    "no": 40,
+    "text": "Tiêu chuẩn sạch của thiết bị bếp lò ?",
+    "options": [
+     "Sạch bóng vết dầu mỡ, không bám bụi bẩn, sáng bóng màu inox",
+     "Sạch sẽ không vết bẩn thức ăn bám",
+     "Thấy bẩn là vệ sinh",
+     "Không vết ố vàng"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "bo-de-bt-gs-2025-tap-vu-41",
+    "no": 41,
+    "text": "Khăn lau 3 màu phân biệt nhằm mục đích gì?",
+    "options": [
+     "1 màu khăn chùi hóa chất làm sạch,1 màu khăn lau khô, 1 màu khăn lau diệt khuẩn",
+     "Phân biệt 3 bước vệ sinh",
+     "Mỗi khu vực bếp sử dụng 1 màu",
+     "Mỗi nhân viên sử dụng 1 màu"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "bo-de-bt-gs-2025-tap-vu-42",
+    "no": 42,
+    "text": "Các bình hóa chất dùng tẩy rửa thiết bị CCDC hàng ngày tại khu vực làm việc. Anh/Chị nên cần làm gì đúng ?",
+    "options": [
+     "Treo trên máy rửa chén",
+     "Để trên kệ inox",
+     "Để trong khay",
+     "Tập trung vào giỏ nhựa cất giữ góc khuất riêng, dán tem báo hiệu."
+    ],
+    "answer": 3
+   },
+   {
+    "id": "bo-de-bt-gs-2025-tap-vu-43",
+    "no": 43,
+    "text": "Quy trình rửa CCDC bằng tay ?",
+    "options": [
+     "Rửa với 3 bồn nước sạch, hóa chất, nướ tráng",
+     "Gạt bỏ thức ăn, ngâm chà rửa bằng hóa chất",
+     "Gạt thức ăn thừa, chuẩn bị hóa chất, ngâm trong bồn, dùng miếng xốp mềm cọ sạch, xả lại với nước",
+     "dọn rửa bằng tay sau đó rửa hóa chất cuối cùng rửa qua máy rửa chén"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "bo-de-bt-gs-2025-tap-vu-44",
+    "no": 44,
+    "text": "Hóa chất Suma J512 được pha sẵn từ máy theo tỷ lệ  hóa chất và nước như thế nào là đúng?",
+    "options": [
+     "Pha 1 phần J 512 với 512 phần nước để có nồng độ 200 ppm. Xịt ướt bề mặt với dung dịch vừa pha hoặc ngâm ngập các đồ cần diệt khuẩn trong dung dịch",
+     "Pha 1 phần J 512 với 100 phần nước\nNgâm các đồ dùng trong dung dịch vừa pha ít nhất 1 phút. Tráng lại với nước sạch",
+     "1:512 (200 ppm) (không cần tráng lại bằng nước).  1:100 (nồng độ cao) (cần tráng lại với nước sạch)",
+     "Hóa chất vệ sinh diệt khuẩn gốc Q.A.C, dạng lỏng dùng cho các bề mặt tiếp xúc với thực phẩm."
+    ],
+    "answer": 2
+   },
+   {
+    "id": "bo-de-bt-gs-2025-tap-vu-45",
+    "no": 45,
+    "text": "Cách vệ sinh các loại kệ inox, nhựa?",
+    "options": [
+     "Dùng miếng chà và hóa chất tẩy rửa đa năng hòa nước, chà rửa sạch các chi tiết. Sau đó rửa lại qua nước sạch .\nDùng khăn mềm lau khô",
+     "Bề mặt trên dưới kệ không dính vết bẩn và dầu mỡ.\nChân kệ lâu lâu mới vệ sinh một lần.",
+     "Chân kệ không dính vết bẩn và dầu mỡ. Khô thoáng\nBề mặt luôn sạch sáng bóng",
+     "Dùng miếng chà và hóa chất đậm đặc chà bề mặt bàn.\nCác vị trí khác lâu lâu mới lau một lần."
+    ],
+    "answer": 0
+   },
+   {
+    "id": "bo-de-bt-gs-2025-tap-vu-46",
+    "no": 46,
+    "text": "Cách vệ sinh lò nướng bánh mì băng chuyền?",
+    "options": [
+     "Dây băng chuyền sạch vết bẩn do cháy\nKhông dính bụi bẩn\nKhông để lại mùi hóa chất",
+     "Lau chùi sạch vết bẩn bằng khăn lau mềm.",
+     "Bề mặt thiết bị lò nướng  sạch bóng vết dầu mỡ, không để lại mùi hóa chất",
+     "Giữ độ nóng của lò nướng ở 60 độ C, tắt nguồn điện trước khi vệ sinh.dùng miếng chà rửa cọ sạch các vết bẩn bám, sau đó giặt khăn mềm sạch rồi lau chùi lại cho sạch nhiều lần"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "bo-de-bt-gs-2025-tap-vu-47",
+    "no": 47,
+    "text": "Cách vệ sinh dàn hút khói?",
+    "options": [
+     "Sạch bóng vết dầu mỡ \nKhông bám bụi bẩn\nKhông vết ố vàng\nSáng bóng màu inox",
+     "Tháo các tấm chắn Inox ngâm tẩy rửa với Suma Breakup.\nQuét sạch dầu bám trên rãnh dàn hút inox.",
+     "Bề mặt trên dưới kệ không dính vết bẩn và dầu mỡ\nBề mặt luôn sạch sáng bóng",
+     "Chà rửa sạch, sau đó rửa lại qua nước sạch. Dùng khăn mềm lau khô"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "bo-de-bt-gs-2025-tap-vu-48",
+    "no": 48,
+    "text": "HACCP là hệ thống nhằm mục đích chính gì trong bếp khách sạn?",
+    "options": [
+     "Kiểm soát chi phí thực phẩm",
+     "Ngăn ngừa mối nguy mất an toàn vệ sinh thực phẩm.",
+     "Tăng tốc độ phục vụ món ăn của nhà bếp cho khách hàng",
+     "Quản lý nhân sự phục vụ vệ sinh trong ca làm việc"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "bo-de-bt-gs-2025-tap-vu-49",
+    "no": 49,
+    "text": "Mối nguy nào không thuộc phạm vi kiểm soát của HACCP?",
+    "options": [
+     "Sinh học (vi khuẩn, nấm mốc)",
+     "Hóa học (chất tẩy, thuốc trừ sâu)",
+     "Vật lý (kim loại, thủy tinh)",
+     "Thiết kế nội thất không phù hợp"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "bo-de-bt-gs-2025-tap-vu-50",
+    "no": 50,
+    "text": "Vai trò của tạp vụ bếp trong việc thực hiện HACCP là gì?",
+    "options": [
+     "Quan sát nhân viên bếp thực hiện vệ sinh.",
+     "Báo cáo tình hình kinh doanh đảm bảo an toàn vệ sinh thực phẩm",
+     "Vệ sinh đúng quy trình để tránh lây nhiễm chéo",
+     "Ký xác nhận checklist sau mỗi ngày làm việc của tạp vụ"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "bo-de-bt-gs-2025-tap-vu-51",
+    "no": 51,
+    "text": "Trong quá trình vệ sinh thiết bị bếp theo tiêu chuẩn HACCP, đâu là bước thường bị bỏ sót nhưng có nguy cơ gây nhiễm chéo cao nhất?",
+    "options": [
+     "Vệ sinh tay cầm, nút  vặn và góc cạnh thiết bị.",
+     "Xả lại bằng nước sau khi khử trùng",
+     "Đeo găng khi lau khô",
+     "Ngâm dụng cụ trong nước nóng"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "bo-de-bt-gs-2025-tap-vu-52",
+    "no": 52,
+    "text": "Nếu nhân viên tạp vụ dùng cùng một khăn lau cho khu sơ chế thịt sống và khu đặt thực phẩm chín, vi phạm HACCP thuộc nhóm nào?",
+    "options": [
+     "Sai quy trình vệ sinh",
+     "Gây nhiễm chéo sinh học",
+     "Không tuân thủ an toàn hóa chất",
+     "Thiếu kiểm soát điểm tới hạn"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "bo-de-bt-gs-2025-tap-vu-53",
+    "no": 53,
+    "text": "Bạn phát hiện lò nướng chưa được vệ sinh đúng quy trình sau ca trước, nhưng bếp trưởng sắp dùng ngay. Theo HACCP, bước xử lý nào là đúng nhất?",
+    "options": [
+     "Tiếp tục sử dụng vì nhiệt sẽ diệt khuẩn",
+     "Vệ sinh tối thiểu các khu vực thấy bẩn",
+     "Báo cho bếp trưởng và thực hiện vệ sinh nhanh đúng quy định trước khi dùng",
+     "Ghi vào sổ ca và để ca sau xử lý"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "bo-de-bt-gs-2025-tap-vu-54",
+    "no": 54,
+    "text": "Trong hệ thống HACCP, việc phân loại rác thải trong bếp liên quan đến mục tiêu nào?",
+    "options": [
+     "Tiết kiệm chi phí xử lý",
+     "Ngăn ngừa mối nguy sinh học và hóa học",
+     "Tận dụng phế phẩm",
+     "Tạo báo cáo cho quản lý hàng ngày"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "bo-de-bt-gs-2025-tap-vu-55",
+    "no": 55,
+    "text": "Thu gom rác thải trong khu vực bếp , đi theo quy trình nào là đúng?",
+    "options": [
+     "Từ trong bếp ra ngoài kho rác",
+     "Đi ngang qua khu vực chế biến",
+     "Gom tập trung cuối ngày chuyển ra kho rác",
+     "Theo quy tắc 1 chiều đi ra kho rác"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "bo-de-bt-gs-2025-tap-vu-56",
+    "no": 56,
+    "text": "Hành động nào sau đây vi phạm nguyên tắc vệ sinh theo HACCP?",
+    "options": [
+     "Khử trùng khăn lau đúng định kỳ",
+     "Dụng cụ sống và chín để riêng khu",
+     "Đeo găng khi tiếp xúc thực phẩm",
+     "Dùng chung thớt cho thịt sống và rau"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "bo-de-bt-gs-2025-tap-vu-57",
+    "no": 57,
+    "text": "Khi một nhân viên bếp làm rơi dao xuống sàn nhưng tiếp tục sử dụng, bạn nên xử lý ra sao?",
+    "options": [
+     "Không liên quan, bỏ qua",
+     "Báo cáo bếp trưởng",
+     "Nhắc nhở và yêu cầu khử trùng trước khi dùng lại",
+     "Loại bỏ dao đi"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "bo-de-bt-gs-2025-tap-vu-58",
+    "no": 58,
+    "text": "Trường hợp có đoàn thanh tra vệ sinh đến đột xuất khu vực bếp khi bạn đang làm việc, bước nào cần ưu tiên?",
+    "options": [
+     "Tiếp tục công việc, giữ vệ sinh đúng quy trình",
+     "Tắt đèn và nghỉ làm việc",
+     "Đi ra khỏi khu bếp",
+     "Lau chùi tạm vài khu vực"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "bo-de-bt-gs-2025-tap-vu-59",
+    "no": 59,
+    "text": "Trong lúc vệ sinh, bạn thấy có côn trùng xuất hiện trong khu vực làm việc,bạn nên làm gì ?",
+    "options": [
+     "Xịt thuốc diệt côn trùng",
+     "Quét ra và cho vào thùng rác",
+     "Báo cho bếp trưởng yêu cầu  bộ phận kiểm soát côn trùng xử lí",
+     "Đóng cửa khu vực"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "bo-de-bt-gs-2025-tap-vu-60",
+    "no": 60,
+    "text": "Thiết bị ccdc có nguy cơ tích tụ vi khuẩn cao nhất nếu không vệ sinh đúng cách là:",
+    "options": [
+     "Thớt và dao",
+     "Quạt thông gió",
+     "Kệ inox đựng chén bát",
+     "Sàn nền cống rãnh"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "bo-de-bt-gs-2025-tap-vu-61",
+    "no": 61,
+    "text": "Quy trình vệ sinh dụng cụ bếp theo chuẩn HACCP gồm mấy bước chính?",
+    "options": [
+     "Dọn rác- chà - rửa -khử trùng",
+     "Dọn rác - rửa - chà - khử trùng -làm khô",
+     "Rửa - chà - khử trùng -lau khô",
+     "Chà - rửa - sấy khô -khử trùng"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "bo-de-bt-gs-2025-tap-vu-62",
+    "no": 62,
+    "text": "Bao tay, khẩu trang và tạp dề dùng khi nào?",
+    "options": [
+     "Khi làm vệ sinh các thiết bị bếp",
+     "Khi có sự yêu cầu của quản lý",
+     "Khi giao ca",
+     "Tùy theo quy định từng ngày"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "bo-de-bt-gs-2025-tap-vu-63",
+    "no": 63,
+    "text": "Các trường hợp nào sau đây không đảm bảo VS ATTP?",
+    "options": [
+     "Rửa tay khi tiếp xúc với thực phẩm sống chuyển qua thực phẩm chín.",
+     "Rửa tay khi tiếp xúc với hóa chất.",
+     "Sử dụng bao tay khi tiếp xúc với thực phẩm chín.",
+     "Sử dụng bao tay cầm nắm tủ lạnh sau đó cằm nắm thực phẩm chín."
+    ],
+    "answer": 3
+   },
+   {
+    "id": "bo-de-bt-gs-2025-tap-vu-64",
+    "no": 64,
+    "text": "Nhiệt độ kho lạnh bảo quản rau củ là bao nhiêu?",
+    "options": [
+     "1 độ đến 4 độ C",
+     "Âm 2 độ đến 2 độ C",
+     "Âm 18 độ C",
+     "Chỉ duy trì mức 10 độ C"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "bo-de-bt-gs-2025-tap-vu-65",
+    "no": 65,
+    "text": "Sắp xếp thực phẩm trong kho lạnh cách dàn lạnh tối thiểu ?",
+    "options": [
+     "Càng xa càng tốt",
+     "Trong khoảng 20cm, không được để quá xa, không đảm bảo khoảng cách để giữ lạnh",
+     "30cm",
+     "50cm"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "bo-de-bt-gs-2025-tap-vu-66",
+    "no": 66,
+    "text": "Việc lưu mẫu được thực hiện khi phục vụ từ bao nhiêu khách trở lên?",
+    "options": [
+     "Lúc nào cũng cần lưu",
+     "20 khách",
+     "30 khách",
+     "Số lượng khách dao động trong khoảng từ 30 đến 50 mới phải lưu mẫu"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "bo-de-bt-gs-2025-tap-vu-67",
+    "no": 67,
+    "text": "Khi thực phẩm bị ôi thiu hoặc nổi mốc mốc thì được xếp vào mối nguy nào theo tiêu chuẩn HACCP?",
+    "options": [
+     "Mối nguy hóa học",
+     "Mối nguy sinh học",
+     "Mối nguy vật lý.",
+     "Mối nguy cơ học"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "bo-de-bt-gs-2025-tap-vu-68",
+    "no": 68,
+    "text": "Những lợi ích khi thực hiện ATVSTP tốt?",
+    "options": [
+     "1.Sự hài lòng của khách hàng.\n2.Tuân thủ pháp luật về VSATTP.\n3.Giảm thiểu lãng phí thực phẩm.",
+     "1.Sự hài lòng của khách hàng.\n2.Tuân thủ pháp luật về VSATTP.\n3.Điều kiện làm việc tốt, đạo đức nhân viên cao hơn.",
+     "1.Sự hài lòng của khách hàng.\n2.Giảm thiểu lãng phí thực phẩm.\n3.Điều kiện làm việc tốt, đạo đức nhân viên cao hơn.",
+     "1.Sự hài lòng của khách hàng.\n2.Tuân thủ pháp luật về VSATTP.\n3.Giảm thiểu lãng phí thực phẩm.\n4.Điều kiện làm việc tốt, đạo đức nhân viên cao hơn."
+    ],
+    "answer": 3
+   },
+   {
+    "id": "bo-de-bt-gs-2025-tap-vu-69",
+    "no": 69,
+    "text": "Nguyên liệu, sản phẩm thực phẩm phải được bảo quản trong kho ở vị trí cách tường tối thiểu là bao nhiêu?",
+    "options": [
+     "Không cần cách tường, dựa vào tường để hàng không bị đỗ",
+     "10 cm",
+     "20 cm",
+     "30 cm"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "bo-de-bt-gs-2025-tap-vu-70",
+    "no": 70,
+    "text": "Để đảm bảo vệ sinh trong chế biến món ăn cần thực hiện đúng các quy tắc về ?",
+    "options": [
+     "Vệ sinh thực phẩm",
+     "Vệ sinh cá nhân",
+     "Vệ sinh thực phẩm, vệ sinh cá nhân, vệ sinh thiết bị và khu vực nấu",
+     "Vệ sinh thực phẩm , vệ sinh thiết bị và khu vực nấu"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "bo-de-bt-gs-2025-tap-vu-71",
+    "no": 71,
+    "text": "Theo quy định của Bộ Y tế thời gian lưu mẫu thực phẩm tối thiểu bao nhiêu lâu?",
+    "options": [
+     "Nếu mẫu thử có hiện tượng lạ, lập tức bỏ đi",
+     "Chỉ cần 12 giờ",
+     "Tùy thuộc vào từng thời điểm cụ thể",
+     "Ít nhất 24 giờ"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "bo-de-bt-gs-2025-tap-vu-72",
+    "no": 72,
+    "text": "Mối nguy Vi sinh gồm những nguyên nhân nào sau đây?",
+    "options": [
+     "1.Thực phẩm bị lẫn  với tóc và mảnh sành\n2.Thực phẩm nhiễm vi rút.\n3.Thực phẩm nhiễm ký sinh trùng.\n4.Thực phẩm nhiễm nấm mốc.",
+     "1.Thực phẩm bị nhiễm bẩn, ôi thiu\n2.Thực phẩm nhiễm vi rút.\n3.Thực phẩm nhiễm ký sinh trùng.\n4.Thực phẩm nhiễm nấm mốc.",
+     "1.Thực phẩm bị nhiễm chất phóng xạ\n2.Thực phẩm nhiễm vi rút.\n3.Thực phẩm nhiễm ký sinh trùng.\n4.Thực phẩm nhiễm nấm mốc.",
+     "1.Thực phẩm bị nhiễm chất hoá học từ môi trường\n2.Thực phẩm nhiễm vi rút.\n3.Thực phẩm nhiễm ký sinh trùng.\n4.Thực phẩm nhiễm nấm mốc."
+    ],
+    "answer": 1
+   },
+   {
+    "id": "bo-de-bt-gs-2025-tap-vu-73",
+    "no": 73,
+    "text": "Vi khuẩn có thể hoạt động và sinh sôi tốt nhất trong vùng nhiệt độ nào ?",
+    "options": [
+     "Theo HACCP vùng nhiệt độ mà vi khuẩn gây hại có thể hoạt động từ 1 độ C đến 99 độ C.",
+     "Theo HACCP vùng nhiệt độ mà vi khuẩn gây hại có thể hoạt động từ 5 độ C đến 60 độ C.",
+     "Theo HACCP vùng nhiệt độ mà vi khuẩn gây hại có thể hoạt động từ 60 độ C đến 100 độ C.",
+     "Theo HACCP vùng nhiệt độ mà vi khuẩn gây hại có thể hoạt động từ  25 độ C đến 60 độ C."
+    ],
+    "answer": 1
+   },
+   {
+    "id": "bo-de-bt-gs-2025-tap-vu-74",
+    "no": 74,
+    "text": "Nhãn dán trên thực phẩm bảo quản cần các thông tin gì ?",
+    "options": [
+     "Tên sản phẩm, ngày nhập kho",
+     "Tên sản phẩm, ngày nhập kho, ngày hết hạn",
+     "Tên sản phẩm, ngày hết hạn",
+     "Ngày hết hạn, trọng lượng sản phẩm"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "bo-de-bt-gs-2025-tap-vu-75",
+    "no": 75,
+    "text": "Cách rã đông nào làm chất lượng sản phẩm bị giảm, hạn chế tối đa để sử dụng?",
+    "options": [
+     "Rã đông bằng nước.",
+     "Rã đông bằng lò vi sóng.",
+     "Rã đông ở nhiệt độ phòng",
+     "Rã đông trong tủ lạnh."
+    ],
+    "answer": 1
+   },
+   {
+    "id": "bo-de-bt-gs-2025-tap-vu-76",
+    "no": 76,
+    "text": "Việc sử dụng chung bồn rửa thịt cá và rau củ có nguy cơ gì?",
+    "options": [
+     "Vi khuẩn gây bệnh sẽ xâm nhập vào thực phẩm",
+     "Không có nguy cơ lây nhiễm",
+     "Nguy cơ lây nhiễm chéo vi khuẩn rất cao",
+     "Nhiễm vi khuẩn E COLI"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "bo-de-bt-gs-2025-tap-vu-77",
+    "no": 77,
+    "text": "Vi khuẩn cần các điều kiện nào để phát triển ?",
+    "options": [
+     "Nhiệt độ, ánh sáng, không khí, thời gian",
+     "Thực phẩm, ánh sáng, nhiệt độ, thời gian",
+     "Thực phẩm, độ ẩm, nhiệt độ, thời gian",
+     "Nhiệt độ, ánh sáng, thời gian, không gian"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "bo-de-bt-gs-2025-tap-vu-78",
+    "no": 78,
+    "text": "Ở vùng nhiệt độ nào vi khuẩn ngừng sinh sôi, nhưng vẫn còn sống?",
+    "options": [
+     "Từ 0 độ C đến âm 18 độ C",
+     "Từ 0 độ C đến 4 độ C",
+     "Từ 5 độ C đến  63 độ C",
+     "Từ 63 độ C đến 100 độ C"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "bo-de-bt-gs-2025-tap-vu-79",
+    "no": 79,
+    "text": "Nhãn thực phẩm bao gói sẵn cần có những nội dung nào?",
+    "options": [
+     "Tên thực phẩm, địa chỉ sản xuất\nHạn sử dụng, hướng dẫn bảo quản",
+     "Tên thực phẩm, địa chỉ sản xuất\nKhối lượng tịnh\nHạn sử dụng, hướng dẫn bảo quản\nMẫu mã, hình dạng đẹp",
+     "Tên thực phẩm, địa chỉ sản xuất\nKhối lượng tịnh",
+     "Tên thực phẩm, địa chỉ sản xuất\nKhối lượng tịnh\nHạn sử dụng, hướng dẫn bảo quản"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "bo-de-bt-gs-2025-tap-vu-80",
+    "no": 80,
+    "text": "Theo chương trình HACCP thì có các mối nguy nào?",
+    "options": [
+     "1.Các bề mặt tiếp xúc với tay.\n2. Các bề mặt tiếp xúc với thực phẩm.\n3. Mối nguy sinh học",
+     "1.Các bề mặt tiếp xúc với tay.\n2. Các bề mặt tiếp xúc với thực phẩm.\n3. Mối nguy hóa học",
+     "1.Các bề mặt tiếp xúc với tay.\n2. Các bề mặt tiếp xúc với thực phẩm.\n3. Mối nguy vật lý",
+     "Các bề mặt tiếp xúc với tay.\n2. Các bề mặt tiếp xúc với thực phẩm.\n3. Làm sạch các trang thiết bị."
+    ],
+    "answer": 3
+   },
+   {
+    "id": "bo-de-bt-gs-2025-tap-vu-81",
+    "no": 81,
+    "text": "Anh/chị hãy đánh giá các nguy cơ lây nhiễm từ cao đến thấp để ngăn ngừa ngộ độc thực phẩm theo HACCP?",
+    "options": [
+     "1.Thực phẩm sử dụng ngay\n2.Thực phẩm sống không cần qua chế biến.\n3.Thực phẩm sống phải qua chế biến.",
+     "1.Thực phẩm có nguy cơ cao.\n2.Thực phẩm sống không cần qua chế biến.\n3.Thực phẩm sống phải qua chế biến.",
+     "1.Thực phẩm chín cấp đông\n2.Thực phẩm sống không cần qua chế biến.\n3.Thực phẩm sống phải qua chế biến.",
+     "1.Thực phẩm công nghệ.\n2.Thực phẩm sống không cần qua chế biến.\n3.Thực phẩm sống phải qua chế biến."
+    ],
+    "answer": 1
+   },
+   {
+    "id": "bo-de-bt-gs-2025-tap-vu-82",
+    "no": 82,
+    "text": "Hãy sắp xếp 4 vùng nhiêt độ theo thang nhiệt trong HACCP ?",
+    "options": [
+     "1.Vùng 63 - 100 độ C vi khuản bị tiêu diệt.\n2.Vùng 0 - 100 độ C vi khuẩn sinh sôi mạnh.\n3.Vùng từ 0-5 độ C Vùng nhiệt độ bảo quản món lạnh.\n4. Vùng từ -18 và sâu hơn vùng nhiệt độ bảo quản món đông.",
+     "1.Vùng 63 - 100 độ C vi khuản bị tiêu diệt.\n2.Vùng 5 - 63 độ C vi khuẩn sinh sôi mạnh.\n3.Vùng từ 37 - 63 độ C Vùng nhiệt độ bảo quản món lạnh.\n4. Vùng từ -18 và sâu hơn vùng nhiệt độ bảo quản món đông.",
+     "1.Vùng 63 - 100 độ C vi khuản bị tiêu diệt.\n2.Vùng 5 - 63 độ C vi khuẩn sinh sôi mạnh.\n3.Vùng từ 0-5 độ C Vùng nhiệt độ bảo quản món lạnh.\n4. Vùng từ -18 và sâu hơn vùng nhiệt độ bảo quản món đông.",
+     "1.Vùng 100 - 120 độ C vi khuẩn bị tiêu diệt.\n2.Vùng 5 - 63 độ C vi khuẩn sinh sôi mạnh.\n3.Vùng từ 0-5 độ C Vùng nhiệt độ bảo quản món lạnh.\n4. Vùng từ -18 và sâu hơn vùng nhiệt độ bảo quản món đông."
+    ],
+    "answer": 2
+   },
+   {
+    "id": "bo-de-bt-gs-2025-tap-vu-83",
+    "no": 83,
+    "text": "Các trường hợp nào sau đây tuyệt đối không cho nhân viên tiếp xúc với thực phẩm theo HACCP?",
+    "options": [
+     "1.Nhân viên bị mệt mỏi.\n2.Nhân viên bị tiêu chảy.\n3.Nhân viên vị vàng da.\n4.Nhân viên bị Đau họng và sốt cao chưa rõ nguyên nhân",
+     "1.Nhân viên bị khát nước.\n2.Nhân viên bị tiêu chảy.\n3.Nhân viên vị vàng da.\n4.Nhân viên bị Đau họng và sốt cao chưa rõ nguyên nhân",
+     "1.Nhân viên Đau đầu.\n2.Nhân viên bị tiêu chảy.\n3.Nhân viên vị vàng da.\n4.Nhân viên bị Đau họng và sốt cao chưa rõ nguyên nhân",
+     "1.Nhân viên bị nôn ói từ 2 lần trở lên chưa rõ nguyên nhân.\n2.Nhân viên bị tiêu chảy.\n3.Nhân viên vị vàng da.\n4.Nhân viên bị Đau họng và sốt cao chưa rõ nguyên nhân"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "bo-de-bt-gs-2025-tap-vu-84",
+    "no": 84,
+    "text": "Đối với việc trưng bày và phục vụ buffet, việc nào sau đây không đúng với quy tắc về an toàn thực phẩm?",
+    "options": [
+     "Thời gian trưng bày và phục vụ thực phẩm dài hơn 1 giờ  có kiểm soát nhiệt độ.",
+     "Thời gian trưng bày và phục vụ thực phẩm dài hơn 2 giờ có kiểm soát nhiệt độ.",
+     "Thời gian trưng bày và phục vụ thực phẩm dài hơn 3 giờ có kiểm soát nhiệt độ.",
+     "Thời gian trưng bày và phục vụ thực phẩm dài hơn 4 giờ không có kiểm soát nhiệt độ."
+    ],
+    "answer": 3
+   },
+   {
+    "id": "bo-de-bt-gs-2025-tap-vu-85",
+    "no": 85,
+    "text": "Vệ sinh thực phẩm không chỉ là sạch sẽ mà còn bao gồm các yếu tố nào sau đây?",
+    "options": [
+     "1.Bảo quản thực phẩm khỏi nguy cơ nhiễm bẩn.\n2.Tiêu diệt vi khuẩn có hại.\n3.Loại bỏ thực phẩm không đạt chuẩn hoặc bị nhiễm bẩn.",
+     "1.Bảo quản thực phẩm khỏi nguy cơ nhiễm bẩn.\n2.Ngăn chặn sự sinh sôi của vi khuẩn\n3.Tiêu diệt vi khuẩn có hại.\n4.Loại bỏ thực phẩm không đạt chuẩn hoặc bị nhiễm bẩn.",
+     "1.Bảo quản thực phẩm khỏi nguy cơ nhiễm bẩn.\n2.Ngăn chặn sự sinh sôi của vi khuẩn\n3.Loại bỏ thực phẩm không đạt chuẩn hoặc bị nhiễm bẩn.",
+     "1.Bảo quản thực phẩm khỏi nguy cơ nhiễm bẩn.\n2.Ngăn chặn sự sinh sôi của vi khuẩn\n3.Tiêu diệt vi khuẩn có hại."
+    ],
+    "answer": 1
+   },
+   {
+    "id": "bo-de-bt-gs-2025-tap-vu-86",
+    "no": 86,
+    "text": "Thực phẩm nào sau đây thuộc nhóm nguy cơ thấp theo phân tích của HACCP là đúng?",
+    "options": [
+     "-Thực phẩm khô như ngũ cốc, mỳ ống, hoặc thực phẩm chứa nồng độ cao như đường, muối, dấm và gia vị tổng hợp",
+     "-Thực phẩm khô như ngũ cốc, mỳ ống, hoặc thực phẩm chứa nồng độ cao như đường, muối, dấm và chất bảo quản.",
+     "-Thực phẩm khô như ngũ cốc, mỳ ống, hoặc thực phẩm chứa nồng độ cao như đường, muối, dấm và chất béo thực vật",
+     "-Thực phẩm khô như ngũ cốc, mỳ ống, hoặc thực phẩm chứa nồng độ cao như đường, muối, dấm và chất đạm tổng hợp"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "bo-de-bt-gs-2025-tap-vu-87",
+    "no": 87,
+    "text": "Theo HACCP, dây chuyền ngộ độc thực phẩm bao gồm 3 nguy cơ chính đó là?",
+    "options": [
+     "-1.Sự nhiễm bẩn của thực phẩm có nguy cơ cao\n-2.Sự sinh sôi của vi khuẩn trong thực phẩm.\n3.Sự sống sót của vi khuẩn trong thực phẩm",
+     "1.Sự nhiễm bẩn của thực phẩm có nguy cơ cao\n2.Sự sinh sôi của vi khuẩn trong thực phẩm.\n3.Nấu thực phẩm chín quá",
+     "1.Sự nhiễm bẩn của thực phẩm có nguy cơ cao\n2.Sự sinh sôi của vi khuẩn trong thực phẩm.\n3.Cấp đông thực phẩm lâu ngày",
+     "1.Sự nhiễm bẩn của thực phẩm có nguy cơ cao\n2.Sự sinh sôi của vi khuẩn trong thực phẩm.\n3.tẩm ướp thực phẩm quá 24 giờ"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "bo-de-bt-gs-2025-tap-vu-88",
+    "no": 88,
+    "text": "Rửa tay đúng cách trước khi chế biến thực phẩm giúp:",
+    "options": [
+     "Giảm mùi thực phẩm",
+     "Loại bỏ vi khuẩn gây bệnh",
+     "Làm da tay mềm hơn",
+     "Giúp thức ăn ngon hơn"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "bo-de-bt-gs-2025-tap-vu-89",
+    "no": 89,
+    "text": "Thực phẩm đông lạnh sau khi rã đông nên:",
+    "options": [
+     "Rã đông xong để ngoài nhiệt độ phòng qua đêm",
+     "Rã đông và nấu ngay",
+     "Rã đông rồi cấp đông lại",
+     "Rã đông bằng nước nóng"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "bo-de-bt-gs-2025-tap-vu-90",
+    "no": 90,
+    "text": "Mối nguy sinh học trong VSATTP thường đến từ:",
+    "options": [
+     "Dư lượng thuốc bảo vệ thực vật",
+     "Vi khuẩn, virus, ký sinh trùng",
+     "Dị vật như tóc, cát",
+     "Chất tẩy rửa còn sót"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "bo-de-bt-gs-2025-tap-vu-91",
+    "no": 91,
+    "text": "Khi phát hiện nguyên liệu có dấu hiệu ôi thiu hoặc nấm mốc, người chế biến nên:",
+    "options": [
+     "Loại bỏ phần hư, dùng phần còn tốt",
+     "Nấu kỹ để diệt vi khuẩn",
+     "Loại bỏ hoàn toàn, không sử dụng",
+     "Dùng gia vị mạnh để át mùi"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "bo-de-bt-gs-2025-tap-vu-92",
+    "no": 92,
+    "text": "Trong quy trình HACCP, “Điểm kiểm soát tới hạn” (CCP) là gì?",
+    "options": [
+     "Điểm kiểm tra chất lượng thành phẩm",
+     "Giai đoạn có thể kiểm soát mối nguy để đảm bảo an toàn thực phẩm",
+     "Điểm bắt đầu chế biến",
+     "Điểm giao nhận nguyên liệu"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "bo-de-bt-gs-2025-tap-vu-93",
+    "no": 93,
+    "text": "Vi khuẩn Salmonella thường xuất hiện nhiều nhất trong loại thực phẩm nào sau đây?",
+    "options": [
+     "Rau củ",
+     "Trứng và thịt gia cầm sống",
+     "Hải sản đông lạnh",
+     "Bánh ngọt"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "bo-de-bt-gs-2025-tap-vu-94",
+    "no": 94,
+    "text": "Theo nguyên tắc “5 chìa khóa an toàn thực phẩm” của WHO, chìa khóa nào sau đây không đúng?",
+    "options": [
+     "Giữ sạch",
+     "Nấu chín kỹ",
+     "Giữ thực phẩm ở nhiệt độ nguy hiểm để dễ chế biến",
+     "Sử dụng nước và nguyên liệu an toàn"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "bo-de-bt-gs-2025-tap-vu-95",
+    "no": 95,
+    "text": "Vi sinh vật bị kìm hãm tốc độ phát triển và sinh sản ở nhiệt độ nào sau đây?",
+    "options": [
+     "0-(-18) độ C",
+     "0-10 độ C",
+     "45-70 độ C",
+     "20-100 độ C"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "bo-de-bt-gs-2025-tap-vu-96",
+    "no": 96,
+    "text": "Đối với hàng hóa nhập khẩu chúng ta cần chú ý tới tiêu chí nào?",
+    "options": [
+     "Phải có nhãn mác phụ bằng tiếng Việt có nội dung tương ứng với nội dung ghi trên nhãn mác gốc.",
+     "Phải có tiếng Việt kèm theo trên bao bì của công ty có nội dung gần đúng với nhãn mác gốc",
+     "Phải có tiếng Việt theo tiêu chuẩn kèm theo trên bao bì của công ty",
+     "Phải có tiếng Việt theo tiêu chuẩn kèm theo trên bao bì được kiểm định của công ty"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "bo-de-bt-gs-2025-tap-vu-97",
+    "no": 97,
+    "text": "Tại sao phải ghi nhiệt độ tủ lạnh, tủ đông?",
+    "options": [
+     "Đảm bảo thiết bị luôn hoạt động tốt",
+     "Để phản ứng nhanh kịp thời nếu có",
+     "Để phản ứng kịp thời khi hàng mỹ phẩm có sự cố",
+     "Để phản ứng hóa lý nếu có"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "bo-de-bt-gs-2025-tap-vu-98",
+    "no": 98,
+    "text": "Thiết bị máy móc nào sau đây cần phải phun hóa chất vệ sinh khi còn nóng?",
+    "options": [
+     "Bếp điện",
+     "Lò nướng",
+     "Chảo",
+     "Bếp từ"
+    ],
+    "answer": 1
+   }
+  ]
+ },
+ {
+  "id": "bo-de-bt-gs-2025-dinh-luong",
+  "name": "Bộ đề BT GS 2025 - Định lượng",
+  "questions": [
+   {
+    "id": "bo-de-bt-gs-2025-dinh-luong-1",
+    "no": 1,
+    "text": "Yêu cầu mua hàng có lưu kho do đơn vị tự thực hiện mua, thuộc loại PR nào?",
+    "options": [
+     "PR11",
+     "PR13",
+     "PR18",
+     "PR19"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "bo-de-bt-gs-2025-dinh-luong-2",
+    "no": 2,
+    "text": "Yêu cầu mua hàng có lưu kho và được thực hiện qua Khối cung ứng, thuộc loại PR nào?",
+    "options": [
+     "PR11",
+     "PR13",
+     "PR18",
+     "PR19"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "bo-de-bt-gs-2025-dinh-luong-3",
+    "no": 3,
+    "text": "Khi thao tác trên phần mềm SAP để tạo PR thủ công, màn hình PR được chia thành mấy phần?",
+    "options": [
+     "1 phần",
+     "2 phần",
+     "3 phần",
+     "4 phần"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "bo-de-bt-gs-2025-dinh-luong-4",
+    "no": 4,
+    "text": "Khi tiến hành xuất kho hàng chi phí, đối với nguyên vật liệu chính anh/chị sử dụng GL nào sau đây ?",
+    "options": [
+     "6322710100",
+     "100",
+     "200",
+     "63227"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "bo-de-bt-gs-2025-dinh-luong-5",
+    "no": 5,
+    "text": "Khi tiến hành xuất kho hàng chi phí, đối với nguyên vật liệu phụ anh/chị sử dụng GL nào sau đây ?",
+    "options": [
+     "63227",
+     "6322710200",
+     "100",
+     "200"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "bo-de-bt-gs-2025-dinh-luong-6",
+    "no": 6,
+    "text": "Hiện tại đang dùng hệ thống phần mềm nào để chấm công?",
+    "options": [
+     "MySGR",
+     "CBNV",
+     "VGS",
+     "Ticket"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "bo-de-bt-gs-2025-dinh-luong-7",
+    "no": 7,
+    "text": "Trong phần mềm chấm công MySGR, khi muốn nghỉ phép sẽ thực hiện thao tác nào?",
+    "options": [
+     "Tạo yêu cầu vắng mặt",
+     "Tạo giải trình",
+     "Tạo nghỉ phép",
+     "Tạo đổi ca"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "bo-de-bt-gs-2025-dinh-luong-8",
+    "no": 8,
+    "text": "Trong phần mềm chấm công MySGR, khi có việc ca nhân muốn xin đi trễ về sớm sẽ thực hiện thao tác nào?",
+    "options": [
+     "Tạo yêu cầu vắng mặt",
+     "Tạo giải trình",
+     "Tạo đi muộn về sớm",
+     "Tạo đổi ca"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "bo-de-bt-gs-2025-dinh-luong-9",
+    "no": 9,
+    "text": "Trong phần mềm chấm công MySGR, khi quản lý yêu cầu ra khỏi khu vực làm việc để thực hiện công việc theo chỉ đạo sẽ thực hiện thao tác nào?",
+    "options": [
+     "Tạo yêu cầu vắng mặt",
+     "Tạo giải trình",
+     "Tạo đi muộn về sớm",
+     "Tạo đổi ca"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "bo-de-bt-gs-2025-dinh-luong-10",
+    "no": 10,
+    "text": "Trong phần mềm chấm công MySGR, khi  muốn thay đổi ca làm việc sẽ thực hiện thao tác nào?",
+    "options": [
+     "Tạo yêu cầu vắng mặt",
+     "Tạo giải trình",
+     "Tạo đi muộn về sớm",
+     "Tạo đổi ca"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "bo-de-bt-gs-2025-dinh-luong-11",
+    "no": 11,
+    "text": "Trong quy định chấm công, việc làm thêm giờ không được quá bao nhiêu giờ/ tháng?",
+    "options": [
+     "Không quá 30h/ tháng",
+     "Không quá 35h/ tháng",
+     "Không quá 40h/ tháng",
+     "Không quá 45h/ tháng"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "bo-de-bt-gs-2025-dinh-luong-12",
+    "no": 12,
+    "text": "Trong quy định chấm công, khi nhân sự cấp 4+ muốn nghỉ phép dưới 3 ngày cần báo trước bao nhiêu ngày",
+    "options": [
+     "Báo trước 1 ngày",
+     "Báo trước 2 ngày",
+     "Báo trước 3 ngày",
+     "Báo trước 4 ngày"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "bo-de-bt-gs-2025-dinh-luong-13",
+    "no": 13,
+    "text": "Trong quy định chấm công, khi nhân sự cấp 4+ muốn nghỉ phép từ 3 ngày đến 7 ngày cần báo trước bao nhiêu ngày",
+    "options": [
+     "Báo trước 1 ngày",
+     "Báo trước 2 ngày",
+     "Báo trước 3 ngày",
+     "Báo trước 4 ngày"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "bo-de-bt-gs-2025-dinh-luong-14",
+    "no": 14,
+    "text": "Trong quy định chấm công, nhân viên văn phòng cấp 4+ phải chấm vân tay bao nhiêu lần / ngày",
+    "options": [
+     "Chấm 4 lần / ngày",
+     "Chấm 3 lần / ngày",
+     "Chấm 2 lần / ngày",
+     "Chấm 1 lần / ngày"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "bo-de-bt-gs-2025-dinh-luong-15",
+    "no": 15,
+    "text": "Đơn hàng thực phẩm hằng ngày trên hệ thống SAP cần được phê duyệt qua mấy cấp ?",
+    "options": [
+     "1",
+     "2",
+     "3",
+     "4"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "bo-de-bt-gs-2025-dinh-luong-16",
+    "no": 16,
+    "text": "Khi giao nhận gas với nhà cung cấp có cần phải cân lượng gas còn dư trong bình không?",
+    "options": [
+     "Bắt buộc phải cân và có ký xác nhận đối chiếu giữa bộ phận nhận gas và nhà cung cấp gas",
+     "Cân để biết và không cần ký xác nhận",
+     "Cân lại và chụp hình xác nhận",
+     "Không cần cân lại"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "bo-de-bt-gs-2025-dinh-luong-17",
+    "no": 17,
+    "text": "Có cần theo dõi và ghi nhật ký nhiệt độ kho đông kho mát hàng ngày không?",
+    "options": [
+     "Bắt buộc để đảm bảo kho được vận hành thông suốt và nhiệt độ kho luôn trong tiêu chuẩn quy định.",
+     "Bắt buộc để đảm bảo kho được vận hành thông suốt",
+     "Bằng kinh nghiệm khi thấy thực phẩm đảm bảo đông cứng là được",
+     "Không cần theo dõi vì hàng ngày đều nhập và xuất hàng cho các bếp."
+    ],
+    "answer": 0
+   },
+   {
+    "id": "bo-de-bt-gs-2025-dinh-luong-18",
+    "no": 18,
+    "text": "Khi tem dán DATE hết có thể sử dụng tem niêm phong lưu mẫu thay thế tạm thời được không?",
+    "options": [
+     "Không được vì không đúng mục đích sử dụng và biểu mẫu quy định",
+     "Có thể dùng thay thế hoặc song song",
+     "Có thể dùng tạm thời trong khi chờ PR tem Date về hàng",
+     "Dùng bình thường vì 2 loại giống nhau"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "bo-de-bt-gs-2025-dinh-luong-19",
+    "no": 19,
+    "text": "Sau khi chốt số liệu cuối tháng trên hệ thống kế toán định lượng phải nộp những chứng từ bằng bản cứng gì cho Phòng Kế toán?",
+    "options": [
+     "Phiếu xuất kho",
+     "Phiếu điều chuyển",
+     "Phiếu xuất kho &\nPhiếu điều chuyển",
+     "Phiếu xuất kho,\nPhiếu điều chuyển và Biên bản kiểm kê"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "bo-de-bt-gs-2025-dinh-luong-20",
+    "no": 20,
+    "text": "Anh/Chị đã ký hợp đồng vô thời hạn, khi nghỉ việc cần báo trước bao nhiêu ngày?",
+    "options": [
+     "30 ngày",
+     "35 ngày",
+     "40 ngày",
+     "45 ngày"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "bo-de-bt-gs-2025-dinh-luong-21",
+    "no": 21,
+    "text": "Có bao nhiêu Nguyên tắc quản trị hiệu quả công việc cá nhân trên SAP?",
+    "options": [
+     "4",
+     "5",
+     "6",
+     "7"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "bo-de-bt-gs-2025-dinh-luong-22",
+    "no": 22,
+    "text": "Chu kỳ xây dựng mục tiêu giữa năm trên SAP?",
+    "options": [
+     "Theo kỳ lương hàng tháng",
+     "Từ 01/01-30/06",
+     "Từ 26/12-25/6",
+     "từ 01/01-25/06"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "bo-de-bt-gs-2025-dinh-luong-23",
+    "no": 23,
+    "text": "Cấp phê duyệt của đánh giá OKR hàng tháng?",
+    "options": [
+     "Cấp quản lý trực tiếp",
+     "Cấp quản lý trên 1 cấp",
+     "Cấp lãnh đạo",
+     "Không cần phê duyệt"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "bo-de-bt-gs-2025-dinh-luong-24",
+    "no": 24,
+    "text": "Thưởng thành tích năm cho đối tượng nào?",
+    "options": [
+     "Xếp loại từ Tiên tiến trở trên",
+     "Xếp loại từ Đạt trở lên",
+     "Xếp loại từ Xuất sắc trở lên",
+     "Xếp loại từ cần cải thiện trở lên"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "bo-de-bt-gs-2025-dinh-luong-25",
+    "no": 25,
+    "text": "Cấu phần đánh giá mục tiêu cả năm?",
+    "options": [
+     "Năng lực chuyên môn",
+     "Năng lực cốt lõi",
+     "Năng lực chuyên môn/ cốt lõi",
+     "Năng lực chuyên môn/ cốt lõi/ lãnh đạo"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "bo-de-bt-gs-2025-dinh-luong-26",
+    "no": 26,
+    "text": "Đánh giá giữa kỳ như thế nào là đúng?",
+    "options": [
+     "Đánh giá  % hoàn thành và xếp loại",
+     "Không đánh giá",
+     "Đánh giá  % hoàn thành và không xếp loại",
+     "Đánh giá điểm theo thang điểm 100"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "bo-de-bt-gs-2025-dinh-luong-27",
+    "no": 27,
+    "text": "Có bao nhiêu bước thiết lập mục tiêu OKR?",
+    "options": [
+     "2",
+     "3",
+     "4",
+     "5"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "bo-de-bt-gs-2025-dinh-luong-28",
+    "no": 28,
+    "text": "Chu kỳ đánh giá hiệu quả công việc trên SAP cả năm?",
+    "options": [
+     "3 tháng 1 lần",
+     "6 tháng 1 lần",
+     "9 tháng 1 lần",
+     "12 tháng 1 lần"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "bo-de-bt-gs-2025-dinh-luong-29",
+    "no": 29,
+    "text": "Khi thiết lập mục tiêu OKR cần đảm bảo bao nhiêu liên kết?",
+    "options": [
+     "1 liên kết",
+     "2 liên kết",
+     "3 liên kết",
+     "Không có liên kết"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "bo-de-bt-gs-2025-dinh-luong-30",
+    "no": 30,
+    "text": "Việc rà soát, điều chỉnh mục tiêu năm vào thời gian nào?",
+    "options": [
+     "Tháng 7 hàng năm",
+     "Tháng 1 hàng năm",
+     "Tháng 6 hàng năm",
+     "Tháng 12 hàng năm"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "bo-de-bt-gs-2025-dinh-luong-31",
+    "no": 31,
+    "text": "Hợp đồng thử việc 1 tháng có được đánh giá xếp loại thưởng không?",
+    "options": [
+     "Được xếp loại thưởng bình thường",
+     "Không được xếp loại thưởng",
+     "Chỉ được xếp loại thưởng cao nhất là loại B",
+     "Chỉ được xếp loại thưởng cao nhất là loại C"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "bo-de-bt-gs-2025-dinh-luong-32",
+    "no": 32,
+    "text": "Nhân viên thử việc và thời vụ 2 tháng trở lên, bắt đầu từ tháng thứ 2 thử việc được tính thưởng loại nào?",
+    "options": [
+     "Được tính cao nhất loại A",
+     "Được tính cao nhất loại B",
+     "Được tính cao nhất loại C",
+     "Được tính cao nhất loại D"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "bo-de-bt-gs-2025-dinh-luong-33",
+    "no": 33,
+    "text": "Sau khi PR hàng thực phẩm đã duyệt đến cấp D2 thì có được sửa thông tin trong PR không?",
+    "options": [
+     "Vào sửa được trực tiếp",
+     "Không sửa đươc",
+     "Bỏ duyệt cấp D2 rồi sửa",
+     "Bỏ duyệt hết các cấp D1 và D2 rồi vào sửa"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "bo-de-bt-gs-2025-dinh-luong-34",
+    "no": 34,
+    "text": "Hàng thực phẩm PR hằng ngày thuộc nhóm hàng nào ?",
+    "options": [
+     "100",
+     "200",
+     "300",
+     "400"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "bo-de-bt-gs-2025-dinh-luong-35",
+    "no": 35,
+    "text": "Trong phần mềm SAP, Tcode để tạo PO thủ công là gì?",
+    "options": [
+     "ME21N",
+     "MEN",
+     "ZSMMQ",
+     "MIGO"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "bo-de-bt-gs-2025-dinh-luong-36",
+    "no": 36,
+    "text": "Trong phần mềm SAP, để hiển thị màn hình tìm kiếm các PR chọn vào đâu?",
+    "options": [
+     "Purchase Requisition",
+     "My Purchase Requisition-A",
+     "My Purchase orders-B",
+     "Purchase orders-C"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "bo-de-bt-gs-2025-dinh-luong-37",
+    "no": 37,
+    "text": "Trong phần mềm SAP muốn chỉnh sửa, xem lại và xoá PO sử dụng Tcode nào sau đây?",
+    "options": [
+     "ZSMMQ",
+     "ME22N",
+     "ZSMM",
+     "ZMMXZ"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "bo-de-bt-gs-2025-dinh-luong-38",
+    "no": 38,
+    "text": "Trong phần mềm SAP muốn kiểm tra lại PR, sử dụng Tcode nào sau đây?",
+    "options": [
+     "ZSMQ",
+     "ZSMMQZ",
+     "ME23N",
+     "ZMMXQ"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "bo-de-bt-gs-2025-dinh-luong-39",
+    "no": 39,
+    "text": "PR mua hàng hóa dịch vụ quốc tế cho hoạt động sản xuất kinh doanh \nHệ thống sẽ tự động đóng PR sau bao nhiêu ngày kể từ ngày tạo nếu chưa kéo PO?",
+    "options": [
+     "90 ngày",
+     "45 ngày",
+     "30 ngày",
+     "60 ngày"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "bo-de-bt-gs-2025-dinh-luong-40",
+    "no": 40,
+    "text": "Thời gian thực hiện gửi KHMS năm là ngày bao nhiêu trong Quy trình mua hàng ?",
+    "options": [
+     "Trước 31/10 hàng năm",
+     "Trước 30/10",
+     "Trước 29/10",
+     "Trước 28/10"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "bo-de-bt-gs-2025-dinh-luong-41",
+    "no": 41,
+    "text": "Đơn vị nào chịu trách nhiệm quản trị và kiểm soát hoạt động mua sắm toàn Tập đoàn?",
+    "options": [
+     "Thành viên Sun Group",
+     "Thành viên trong ban cung ứng các Vùng (VMB, VMT, VMN)",
+     "Ban cung ứng Tập đoàn.",
+     "Thành viên trong Ban kiểm soát"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "bo-de-bt-gs-2025-dinh-luong-42",
+    "no": 42,
+    "text": "Đơn vị nào chịu trách nhiệm triển khai mua sắm tại các vùng?",
+    "options": [
+     "Thành viên ban cung ứng Tập đoàn",
+     "Ban cung ứng các Vùng (VMB, VMT, VMN)",
+     "Thành viên Sun Group",
+     "Thành viên trong Ban kiểm soát"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "bo-de-bt-gs-2025-dinh-luong-43",
+    "no": 43,
+    "text": "Quy trình SG-QT-R01 áp dụng cho đối tượng nào sau đây?",
+    "options": [
+     "Chỉ áp dụng cho các nhà cung cấp",
+     "Chỉ áp dụng cho các đơn vị thuê ngoài",
+     "Áp dụng cho các Thành viên Sun Group và các đơn vị liên quan",
+     "Chỉ áp dụng cho khách hàng của Sun Group"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "bo-de-bt-gs-2025-dinh-luong-44",
+    "no": 44,
+    "text": "Hồ sơ “PR” được lưu giữ trong bao lâu?",
+    "options": [
+     "1 năm",
+     "3 năm",
+     "5 năm.",
+     "Vĩnh viễn"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "bo-de-bt-gs-2025-dinh-luong-45",
+    "no": 45,
+    "text": "Theo quy trình, đơn vị nào có trách nhiệm kiểm soát hoạt động mua sắm tại các vùng?",
+    "options": [
+     "Ban cung ứng Tập đoàn",
+     "Thành viên Sun Group",
+     "Ban cung ứng các Vùng (VMB, VMT, VMN).",
+     "Ban Kiểm soát"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "bo-de-bt-gs-2025-dinh-luong-46",
+    "no": 46,
+    "text": "Trong trường hợp đơn hàng thực phẩm khẩn cấp có giá trị > 10 triệu đồng, ai là người xác nhận tình trạng khẩn/gấp?",
+    "options": [
+     "Ban cung ứng các Vùng (VMB, VMT, VMN)",
+     "Đại diện Chủ đầu tư hoặc Giám đốc đơn vị",
+     "Ban cung ứng Tập đoàn",
+     "Ban Kiểm soát"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "bo-de-bt-gs-2025-dinh-luong-47",
+    "no": 47,
+    "text": "Trong các trường hợp nào sau đây, Thành viên Sungroup không được phép sử dụng mã vật tư?",
+    "options": [
+     "Vật tư đã được cài giá",
+     "Mã vật tư có thông tin chung chung, không đầy đủ thông số kỹ thuật",
+     "Vật tư  thuộc danh mục mua sắm tập trung",
+     "Vật tư  thuộc danh mục mua sắm phi tập trung"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "bo-de-bt-gs-2025-dinh-luong-48",
+    "no": 48,
+    "text": "Trong trường hợp nào sau đây, đơn vị Thành viên Sungroup được phép tự thực hiện mua sắm?",
+    "options": [
+     "Hàng hóa thuộc danh mục mua sắm tập trung chưa được cài giá",
+     "Khi hàng hóa thuộc hợp đồng nguyên tắc đã ký và được phê duyệt",
+     "Hàng hóa là quốc tế đặc thù",
+     "Hàng hóa có giá trị trên 1 tỷ đồng"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "bo-de-bt-gs-2025-dinh-luong-49",
+    "no": 49,
+    "text": "Trong quy trình, “Mua sắm phi tập trung” là gì?",
+    "options": [
+     "Vật tư có giá cố định",
+     "Mã vật tư phi tập trung, không tự động điền giá",
+     "Vật tư quốc tế",
+     "Vật tư nội địa"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "bo-de-bt-gs-2025-dinh-luong-50",
+    "no": 50,
+    "text": "Đối với mua sắm nội địa, nếu giá trị PO < PR và làm thay đổi cấp phê duyệt, đơn vị nào xử lý đơn hàng?",
+    "options": [
+     "Ban Kiểm soát",
+     "Đơn vị nhận PR ban đầu và các bên liên quan.",
+     "Ban cung ứng Tập đoàn",
+     "Ban cung ứng các Vùng (VMB, VMT, VMN)"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "bo-de-bt-gs-2025-dinh-luong-51",
+    "no": 51,
+    "text": "Lao động nữ trong thời gian con nhỏ được nghỉ bao nhiêu phút/ ngày?",
+    "options": [
+     "60 phút/ ngày hoặc cộng dồn 1 ngày/ tuần",
+     "50 phút/ ngày hoặc cộng dồn 1 ngày/ tuần",
+     "40 phút/ ngày hoặc cộng dồn 1 ngày/ tuần",
+     "40 phút/ ngày hoặc cộng dồn 1 ngày/ tuần"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "bo-de-bt-gs-2025-dinh-luong-52",
+    "no": 52,
+    "text": "Theo quy định mua hàng CCDC, đơn hàng dưới bao nhiêu tiền sẽ là đơn vị tự thực hiện?",
+    "options": [
+     "Dưới 100 triệu",
+     "Dưới 80 triệu",
+     "Dưới 70 triệu",
+     "Dưới 50 triệu"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "bo-de-bt-gs-2025-dinh-luong-53",
+    "no": 53,
+    "text": "Nhân viên cần đăng ký thời gian làm việc qua hệ thống nào theo quy định quản lý tời gian?",
+    "options": [
+     "Email",
+     "Bảng giấy",
+     "Tin nhắn",
+     "Phần mềm chấm công MYSGR"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "bo-de-bt-gs-2025-dinh-luong-54",
+    "no": 54,
+    "text": "Thời gian nghỉ phép năm tối thiểu là bao nhiêu ngày theo quy định quản lý tời gian?",
+    "options": [
+     "5 ngày",
+     "12 ngày",
+     "7 ngày",
+     "10 ngày"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "bo-de-bt-gs-2025-dinh-luong-55",
+    "no": 55,
+    "text": "Thời gian làm việc ban đêm bắt đầu từ mấy giờ theo quy định quản lý tời gian?",
+    "options": [
+     "22 giờ",
+     "21 giờ",
+     "20 giờ",
+     "19 giờ"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "bo-de-bt-gs-2025-dinh-luong-56",
+    "no": 56,
+    "text": "Theo quy định quản lý thời gian, ngày nghỉ sinh nhật sẽ tạo ký hiệu nào?",
+    "options": [
+     "Ký hiệu R",
+     "Ký hiệu B",
+     "Ký hiệu P",
+     "Ký hiệu V"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "bo-de-bt-gs-2025-dinh-luong-57",
+    "no": 57,
+    "text": "Thời gian nghỉ bù khi làm việc ngày lễ được quy định là bao nhiêu ngày?",
+    "options": [
+     "1 ngày",
+     "2 ngày",
+     "3 Ngày",
+     "0 ngày"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "bo-de-bt-gs-2025-dinh-luong-58",
+    "no": 58,
+    "text": "Trong phần mềm SAP, Tcode để in PR là gì?",
+    "options": [
+     "ZME55",
+     "MIGO",
+     "ZME",
+     "MLE"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "bo-de-bt-gs-2025-dinh-luong-59",
+    "no": 59,
+    "text": "Trong phần mềm SAP, Tcode để tìm ngân hàng giá là gì?",
+    "options": [
+     "MEN",
+     "ME2N",
+     "MGE",
+     "2NME"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "bo-de-bt-gs-2025-dinh-luong-60",
+    "no": 60,
+    "text": "Trong phần mềm SAP, Khi kéo PO muốn update thuế thì chọn thanh nào?",
+    "options": [
+     "Conditions",
+     "partners",
+     "address",
+     "org.data"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "bo-de-bt-gs-2025-dinh-luong-61",
+    "no": 61,
+    "text": "Mục tiêu chính của công tác định lượng trong Nhà hàng – khách sạn là gì?",
+    "options": [
+     "Tăng doanh thu bán hàng",
+     "Kiểm soát chi phí nguyên vật liệu và đảm bảo chất lượng món ăn.",
+     "Quảng bá thương hiệu",
+     "Giảm thời gian chế biến món ăn"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "bo-de-bt-gs-2025-dinh-luong-62",
+    "no": 62,
+    "text": "Khi lập định lượng món ăn, yếu tố nào quan trọng nhất cần xác định trước?",
+    "options": [
+     "Giá bán dự kiến",
+     "Định mức nguyên vật liệu cho từng món.",
+     "Số lượng khách dự kiến",
+     "Tỷ lệ hao hụt của đầu bếp"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "bo-de-bt-gs-2025-dinh-luong-63",
+    "no": 63,
+    "text": "“Định mức hao hụt” trong chế biến món ăn được hiểu là gì?",
+    "options": [
+     "Tỷ lệ tăng nguyên liệu khi chế biến",
+     "Phần nguyên liệu mất đi trong quá trình sơ chế, nấu nướng.",
+     "Phần nguyên liệu được tái sử dụng",
+     "Số lượng nguyên liệu tồn kho"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "bo-de-bt-gs-2025-dinh-luong-64",
+    "no": 64,
+    "text": "Mục đích của việc kiểm tra định lượng thực tế tại bếp là gì?",
+    "options": [
+     "Giám sát thái độ nhân viên",
+     "So sánh giữa định lượng lý thuyết và thực tế sử dụng.",
+     "Đánh giá tốc độ phục vụ",
+     "Tăng doanh thu nhà hàng"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "bo-de-bt-gs-2025-dinh-luong-65",
+    "no": 65,
+    "text": "Trong bảng định lượng món ăn, “Cost per Portion” thể hiện điều gì?",
+    "options": [
+     "Tổng chi phí hàng tháng",
+     "Giá vốn nguyên vật liệu cho 1 phần ăn.",
+     "Lợi nhuận của nhà hàng",
+     "Giá bán niêm yết cho khách"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "bo-de-bt-gs-2025-dinh-luong-66",
+    "no": 66,
+    "text": "Khi giá nguyên liệu thay đổi, vai trò của Nhân viên định lượng cần làm gì?",
+    "options": [
+     "Giữ nguyên bảng định lượng",
+     "Cập nhật lại chi phí và gửi đề xuất điều chỉnh giá bán nếu cần.",
+     "Không cần xử lý",
+     "Báo cáo trực tiếp cho bếp trưởng"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "bo-de-bt-gs-2025-dinh-luong-67",
+    "no": 67,
+    "text": "Trong kiểm soát chi phí F&B, công thức tính “Cost Percentage” là:",
+    "options": [
+     "(Giá vốn / Doanh thu) × 100%.",
+     "(Giá bán / Giá vốn) × 100%",
+     "(Giá bán – Giá vốn) × 100%",
+     "(Giá bán/ Doanh thu) × 100%"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "bo-de-bt-gs-2025-dinh-luong-68",
+    "no": 68,
+    "text": "Nếu hệ thống báo cáo cho thấy chi phí nguyên liệu tăng dù giá mua không thay đổi, nguyên nhân hợp lý nhất có thể là gì?",
+    "options": [
+     "Do giá bán món ăn giảm",
+     "Do định lượng thực tế vượt định mức hoặc hao hụt chưa kiểm soát.",
+     "Do Kế toán nhập sai giá",
+     "Do nhà cung cấp thay đổi phương thức giao hàng"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "bo-de-bt-gs-2025-dinh-luong-69",
+    "no": 69,
+    "text": "Khi phát hiện chênh lệch lớn giữa định lượng lý thuyết và thực tế, nhân viên định lượng nên làm gì đầu tiên?",
+    "options": [
+     "Báo cáo cấp trên và kiểm tra nguyên nhân sai lệch.",
+     "Bỏ qua, không đáng kể",
+     "Quy trách nhiệm cho Bếp trưởng",
+     "Dừng hoạt động bếp ngay lập tức"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "bo-de-bt-gs-2025-dinh-luong-70",
+    "no": 70,
+    "text": "Khi phân tích báo cáo chi phí F&B hàng tháng, nhân viên định lượng phát hiện tỷ lệ “Cost %” tăng bất thường. Bước xử lý hợp lý nhất là gì?",
+    "options": [
+     "Báo ngay cho cấp trên để điều chỉnh sổ sách",
+     "Kiểm tra lại định mức, phiếu xuất kho và so sánh lượng tiêu hao thực tế để tìm nguyên nhân.",
+     "Giảm ngay khẩu phần của món ăn",
+     "Đề xuất tăng giá bán toàn bộ món ăn trong thực đơn"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "bo-de-bt-gs-2025-dinh-luong-71",
+    "no": 71,
+    "text": "Khi trong menu có món ăn tặng kèm free cho khách thì tiến hành post món như thế nào?",
+    "options": [
+     "Không cần post",
+     "Set data tên món và post vào mục món 0 đồng",
+     "Post kèm với món chính",
+     "Chỉ tổng hợp captain giấy để kiểm soát"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "bo-de-bt-gs-2025-dinh-luong-72",
+    "no": 72,
+    "text": "Khi menu định lượng đã được Tổng quản lý công ty phê duyệt nhưng chưa có bản thiết kế menu thì triển khai bán hàng như thế nào?",
+    "options": [
+     "Bán theo tờ trình đã phê duyệt",
+     "Kết hợp với Phòng Nhà hàng, đốc thúc bộ phận thiết kế hoàn thiện bản thiết kế menu để triển khai bán",
+     "Tạo bảng menu tạm trên bảng để kinh doanh trước",
+     "Đợi đến khi nào có menu thì mới set giá bán"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "bo-de-bt-gs-2025-dinh-luong-73",
+    "no": 73,
+    "text": "Trong menu combo có kèm bia thì chi phí bia được hạch toán cho bộ phận nào?",
+    "options": [
+     "Tính vào cost Bếp",
+     "Tính vào cost Nhà hàng",
+     "Tính vào chi phí quà tặng của công ty",
+     "Tính vào chi phí gói combo cáp treo"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "bo-de-bt-gs-2025-dinh-luong-74",
+    "no": 74,
+    "text": "Khi thực hiện upload phiếu điều chuyển nội bộ trên hệ thống SAP, phát hiện nhập sai mã hàng thì xử ký như thế nào?",
+    "options": [
+     "Hủy phiếu sai và upload lại phiếu mới",
+     "Vào phiếu sai sửa lại mã hàng",
+     "Vào sửa số lượng điều chuyển thành 0",
+     "Không thể hủy hay sửa phiếu"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "bo-de-bt-gs-2025-dinh-luong-75",
+    "no": 75,
+    "text": "Trên file upload phiếu xuất kho nguyên vật liệu cuối tháng có cần điền trường GL không?",
+    "options": [
+     "Bắt buộc phải điền",
+     "Không cần thiết",
+     "Để trống khi lên hệ thống SAP sẽ tự nhảy dữ liệu",
+     "Điền giá trị tự do"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "bo-de-bt-gs-2025-dinh-luong-76",
+    "no": 76,
+    "text": "Trong quá trình mua hàng có những mặt hàng đặc thù nhà cung cấp không thể giao hàng thì xử lý như thế nào ?",
+    "options": [
+     "Không mua nếu như NCC không giao hàng",
+     "Thương lượng mua với số lượng rất lớn trữ kho để NCC giao hàng",
+     "Mua hàng và book ship giao đến công ty",
+     "Làm phiếu yêu cầu hỗ trợ xe đi mua hàng để đáp ứng kinh doanh đặc thù"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "bo-de-bt-gs-2025-dinh-luong-77",
+    "no": 77,
+    "text": "T-code để check giá nhập mua và NCC thay đổi trong tháng?",
+    "options": [
+     "ZSMMQ003",
+     "ZM003",
+     "MQ003",
+     "SM003"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "bo-de-bt-gs-2025-dinh-luong-78",
+    "no": 78,
+    "text": "Khi upload pr thực phẩm hàng ngày bị sai ngày giao, xử lý như thế nào?",
+    "options": [
+     "Không thể chỉnh sửa",
+     "Gửi số PR cho kế toán mua hàng để xử mua hàng",
+     "Xóa PR cũ và upload lại PR mới",
+     "Vẫn mua hàng được vì có ngày tạo PR đúng"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "bo-de-bt-gs-2025-dinh-luong-79",
+    "no": 79,
+    "text": "Trong phần mềm Sap mua hàng, hạn cuối kéo PO mua hàng nội địa là mấy ngày từ khi lên PR ?",
+    "options": [
+     "20",
+     "30",
+     "40",
+     "45"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "bo-de-bt-gs-2025-dinh-luong-80",
+    "no": 80,
+    "text": "Khi mua hàng thanh toán tiền trực tiếp cho NCC quá trình thực hiện như thế nào?",
+    "options": [
+     "Đi mua hàng và đem hóa đơn mua hàng về cho kế toán chuyển khoản thanh toán cho NCC",
+     "Lấy tiền cá nhân mua và về hoàn tiền lại từ công ty",
+     "Lấy quỹ của bộ phận đi mua hàng",
+     "Gửi PYC mua hàng cho kế toán mua hàng thực hiện ứng tiền để đi mua hàng"
+    ],
+    "answer": 3
+   }
+  ]
+ },
+ {
   "id": "chuyen-mon-soat-ve",
   "name": "Chuyên môn Soát vé",
   "questions": [
