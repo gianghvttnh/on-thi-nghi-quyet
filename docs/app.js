@@ -3,20 +3,25 @@
 
   // ---------- Dữ liệu ----------
   const BANKS = window.QUESTION_BANKS || [];
+  const GROUPS = window.QUESTION_GROUPS || [{ name: 'Bộ đề', banks: BANKS.map(b => b.id) }];
   const QBY = {};
   const BANK_NAME = {};
+  const GROUP_NAME = {};
   const SEARCH = {};
+  const DUPKEY = {}; // câu giống hệt nhau ở các bộ khác nhau có cùng khoá
   const LETTERS = 'ABCDEFGH';
   BANKS.forEach(b => b.questions.forEach(q => {
     QBY[q.id] = q;
     BANK_NAME[q.id] = b.name;
+    GROUP_NAME[q.id] = b.group || '';
     SEARCH[q.id] = norm(q.text + ' ' + q.options.join(' '));
+    DUPKEY[q.id] = JSON.stringify([q.text, q.options.slice().sort(), q.options[q.answer]]);
   }));
 
   // ---------- Lưu trữ trên máy ----------
   const KEY = 'ontnq.v1';
   const defaults = () => ({
-    tab: 'study', banks: null, stars: {}, wrong: {}, history: [],
+    tab: 'study', banks: null, openGroups: {}, stars: {}, wrong: {}, history: [],
     cfg: {
       practice: { count: 20, random: true, shuffle: true, source: 'all' },
       exam: { count: 30, random: true, shuffle: true, source: 'all', minutes: 0, pass: 80 }
@@ -73,53 +78,105 @@
     if (!store.banks) return BANKS.map(b => b.id);
     return store.banks.filter(id => BANKS.some(b => b.id === id));
   }
-  function pool(source) {
-    const sel = selectedBanks();
-    let ids = [];
-    BANKS.forEach(b => { if (sel.includes(b.id)) b.questions.forEach(q => ids.push(q.id)); });
-    if (source === 'star') ids = ids.filter(id => store.stars[id]);
-    if (source === 'wrong') ids = ids.filter(id => id in store.wrong);
+  // Câu của các bộ được chọn; câu giống hệt ở nhiều bộ chỉ lấy 1 lần.
+  function uniqueIds(bankIds) {
+    const want = new Set(bankIds), seen = new Set(), ids = [];
+    BANKS.forEach(b => {
+      if (!want.has(b.id)) return;
+      b.questions.forEach(q => {
+        if (seen.has(DUPKEY[q.id])) return;
+        seen.add(DUPKEY[q.id]);
+        ids.push(q.id);
+      });
+    });
     return ids;
   }
+  function pool(source) {
+    let ids = uniqueIds(selectedBanks());
+    if (source === 'star') ids = ids.filter(isStarred);
+    if (source === 'wrong') ids = ids.filter(isWrong);
+    return ids;
+  }
+  const GROUP_COUNT = GROUPS.map(g => uniqueIds(g.banks).length);
+  const bankById = id => BANKS.find(b => b.id === id);
   function renderBanks() {
-    const sel = selectedBanks();
-    $('#banks-list').innerHTML = BANKS.map(b => `
-      <label class="chip ${sel.includes(b.id) ? 'on' : ''}">
-        <input type="checkbox" data-bank="${esc(b.id)}" ${sel.includes(b.id) ? 'checked' : ''}>
-        <span>${esc(b.name)}</span><span class="n">${b.questions.length} câu</span>
-      </label>`).join('') || '<span class="muted">Chưa có bộ đề nào.</span>';
+    const sel = new Set(selectedBanks());
+    $('#banks-list').innerHTML = GROUPS.map((g, gi) => {
+      const on = g.banks.filter(id => sel.has(id)).length;
+      const open = !!store.openGroups[g.name];
+      return `<div class="group ${open ? 'open' : ''}">
+        <div class="group-head">
+          <label class="group-check">
+            <input type="checkbox" data-group="${gi}" ${on === g.banks.length ? 'checked' : ''} data-partial="${on > 0 && on < g.banks.length ? 1 : 0}">
+            <span class="gname">${esc(g.name)}</span><span class="n">${GROUP_COUNT[gi]} câu</span>
+          </label>
+          <button class="toggle" data-toggle="${gi}" aria-expanded="${open}">${on}/${g.banks.length} bộ <span class="caret">▾</span></button>
+        </div>
+        <div class="group-body">${g.banks.map(id => {
+          const b = bankById(id);
+          return `<label class="chip ${sel.has(id) ? 'on' : ''}">
+            <input type="checkbox" data-bank="${esc(id)}" ${sel.has(id) ? 'checked' : ''}>
+            <span>${esc(b.name)}</span><span class="n">${b.questions.length} câu</span>
+          </label>`;
+        }).join('')}</div>
+      </div>`;
+    }).join('') || '<span class="muted">Chưa có bộ đề nào.</span>';
+    document.querySelectorAll('[data-partial="1"]').forEach(cb => { cb.indeterminate = true; });
     const total = pool('all').length;
-    $('#banks-summary').innerHTML = sel.length
-      ? `Đã chọn ${sel.length}/${BANKS.length} bộ · ${total} câu`
+    const raw = BANKS.filter(b => sel.has(b.id)).reduce((a, b) => a + b.questions.length, 0);
+    $('#banks-summary').innerHTML = sel.size
+      ? `Đã chọn ${sel.size}/${BANKS.length} bộ · ${total} câu${raw > total ? ` <span class="merged">(đã gộp ${raw - total} câu trùng)</span>` : ''}`
       : '<span class="warn">Hãy chọn ít nhất 1 bộ đề</span>';
   }
-  $('#banks-list').addEventListener('change', e => {
-    const id = e.target.dataset.bank;
-    if (!id) return;
-    const sel = new Set(selectedBanks());
-    e.target.checked ? sel.add(id) : sel.delete(id);
+  function setBanks(sel) {
     store.banks = BANKS.map(b => b.id).filter(x => sel.has(x));
     save();
     renderBanks();
     renderCurrent();
+  }
+  $('#banks-list').addEventListener('change', e => {
+    const sel = new Set(selectedBanks());
+    const { bank, group } = e.target.dataset;
+    if (bank) e.target.checked ? sel.add(bank) : sel.delete(bank);
+    else if (group) GROUPS[+group].banks.forEach(id => (e.target.checked ? sel.add(id) : sel.delete(id)));
+    else return;
+    setBanks(sel);
+  });
+  $('#banks').addEventListener('click', e => {
+    const t = e.target.closest('[data-toggle]');
+    if (t) {
+      const name = GROUPS[+t.dataset.toggle].name;
+      if (store.openGroups[name]) delete store.openGroups[name]; else store.openGroups[name] = 1;
+      save();
+      renderBanks();
+      return;
+    }
+    const a = e.target.closest('[data-all]');
+    if (a) setBanks(new Set(a.dataset.all === '1' ? BANKS.map(b => b.id) : []));
   });
 
   // ---------- Đánh dấu & câu sai ----------
+  // ★ và câu sai áp dụng cho mọi bản của cùng một câu ở các bộ khác nhau
+  const sameKey = (map, id) => Object.keys(map).filter(i => DUPKEY[i] === DUPKEY[id]);
+  const isStarred = id => !!store.stars[id] || sameKey(store.stars, id).length > 0;
+  const isWrong = id => id in store.wrong || sameKey(store.wrong, id).length > 0;
   function toggleStar(id) {
-    if (store.stars[id]) delete store.stars[id]; else store.stars[id] = 1;
+    const on = isStarred(id);
+    if (on) sameKey(store.stars, id).forEach(i => delete store.stars[i]); else store.stars[id] = 1;
     save();
     document.querySelectorAll(`[data-star="${CSS.escape(id)}"]`).forEach(b => {
-      b.classList.toggle('on', !!store.stars[id]);
-      b.title = store.stars[id] ? 'Bỏ đánh dấu' : 'Đánh dấu câu khó';
+      b.classList.toggle('on', !on);
+      b.title = !on ? 'Bỏ đánh dấu' : 'Đánh dấu câu khó';
     });
   }
   // Sai → vào danh sách; đúng 2 lần liên tiếp → tự gỡ.
   function recordAnswer(id, correct) {
-    if (!correct) store.wrong[id] = 0;
-    else if (id in store.wrong) {
-      store.wrong[id] += 1;
-      if (store.wrong[id] >= 2) delete store.wrong[id];
-    }
+    const ids = sameKey(store.wrong, id);
+    if (!correct) { ids.forEach(i => delete store.wrong[i]); store.wrong[id] = 0; return; }
+    ids.forEach(i => {
+      store.wrong[i] += 1;
+      if (store.wrong[i] >= 2) delete store.wrong[i];
+    });
   }
   document.addEventListener('click', e => {
     const s = e.target.closest('[data-star]');
@@ -147,7 +204,7 @@
         ? `<li><button class="opt ${cls}" data-pick="${i}">${inner}</button></li>`
         : `<li><div class="opt ${cls}">${inner}</div></li>`;
     }).join('');
-    const star = store.stars[o.id];
+    const star = isStarred(o.id);
     const multiBank = selectedBanks().length > 1;
     return `<article class="card q">
       <div class="q-head">
@@ -156,7 +213,7 @@
         ${o.badge || ''}
         <button class="star ${star ? 'on' : ''}" data-star="${esc(o.id)}" title="${star ? 'Bỏ đánh dấu' : 'Đánh dấu câu khó'}" aria-label="Đánh dấu">★</button>
       </div>
-      ${multiBank ? `<p class="q-bank">${esc(BANK_NAME[o.id])} · câu ${q.no}</p>` : ''}
+      ${multiBank ? `<p class="q-bank">${GROUP_NAME[o.id] ? esc(GROUP_NAME[o.id]) + ' › ' : ''}${esc(BANK_NAME[o.id])} · câu ${q.no}</p>` : ''}
       <ul class="opts">${opts}</ul>
     </article>`;
   }
@@ -171,8 +228,8 @@
       ids.sort((a, b) => (pos[a] ?? 1e9) - (pos[b] ?? 1e9));
     }
     const total = ids.length;
-    if (study.filter === 'star') ids = ids.filter(id => store.stars[id]);
-    if (study.filter === 'wrong') ids = ids.filter(id => id in store.wrong);
+    if (study.filter === 'star') ids = ids.filter(isStarred);
+    if (study.filter === 'wrong') ids = ids.filter(isWrong);
     const term = norm(study.search.trim());
     if (term) ids = ids.filter(id => SEARCH[id].includes(term));
     $('#study-count').textContent = `Hiển thị ${ids.length}/${total} câu` + (study.order ? ' · đã xáo trộn câu hỏi' : '') + (Object.keys(study.optOrder).length ? ' · đã xáo trộn đáp án' : '');

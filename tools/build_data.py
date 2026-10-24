@@ -1,7 +1,8 @@
 #!/usr/bin/env python3
 """Đọc mọi file .xlsx trong "Tổng hợp Bộ đề thi/" và sinh docs/data/questions.js.
 
-Mỗi file = 1 bộ đề (tên bộ đề = tên file). Mẫu cột (sheet đầu tiên):
+Mỗi thư mục con = 1 nhóm, mỗi file = 1 bộ đề (tên bộ đề = tên file); file nằm
+ngay ở thư mục gốc thuộc nhóm "Khác". Mẫu cột (sheet đầu tiên):
   E = STT câu hỏi, F = Nội dung câu hỏi, G = Đáp án (1-4), H..K = Phương án 1..4
 Chỉ dùng thư viện chuẩn Python.
 """
@@ -10,6 +11,7 @@ import re
 import sys
 import unicodedata
 import zipfile
+from collections import Counter
 import xml.etree.ElementTree as ET
 from pathlib import Path
 
@@ -75,9 +77,9 @@ def to_int(s):
         return None
 
 
-def build_bank(path):
+def build_bank(path, bank_id=None):
     name = unicodedata.normalize("NFC", path.stem)
-    bank_id = slug(name)
+    bank_id = bank_id or slug(name)
     questions, warnings, seen = [], [], {}
     for i, r in enumerate(read_rows(path)[1:], start=2):
         text = r.get("F", "")
@@ -102,19 +104,36 @@ def build_bank(path):
     return {"id": bank_id, "name": name, "questions": questions}, warnings
 
 
+def group_of(path):
+    rel = path.relative_to(SRC).parts
+    return unicodedata.normalize("NFC", rel[0]) if len(rel) > 1 else "Khác"
+
+
 def main():
-    files = sorted(p for p in SRC.glob("*.xlsx") if not p.name.startswith("~$"))
+    files = [p for p in SRC.rglob("*.xlsx") if not p.name.startswith("~$")]
     if not files:
         sys.exit(f"Không tìm thấy file .xlsx trong {SRC}")
-    banks = []
+    files.sort(key=lambda p: (group_of(p) == "Khác", group_of(p), p.stem))
+    # Giữ id = slug(tên bộ đề) để không mất dữ liệu đã lưu; chỉ thêm tên nhóm khi trùng
+    counts = Counter(slug(unicodedata.normalize("NFC", f.stem)) for f in files)
+    banks, groups = [], []
     for f in files:
-        bank, warnings = build_bank(f)
-        print(f"{bank['name']}: {len(bank['questions'])} câu")
+        group = group_of(f)
+        sid = slug(unicodedata.normalize("NFC", f.stem))
+        bank, warnings = build_bank(f, sid if counts[sid] == 1 else slug(f"{group}-{f.stem}"))
+        bank["group"] = group
+        if not groups or groups[-1]["name"] != group:
+            groups.append({"name": group, "banks": []})
+            print(f"[{group}]")
+        groups[-1]["banks"].append(bank["id"])
+        print(f"  {bank['name']}: {len(bank['questions'])} câu")
         for w in warnings:
-            print(w)
+            print("  " + w)
         banks.append(bank)
     OUT.parent.mkdir(parents=True, exist_ok=True)
-    OUT.write_text("window.QUESTION_BANKS = "
+    OUT.write_text("window.QUESTION_GROUPS = "
+                   + json.dumps(groups, ensure_ascii=False, indent=1) + ";\n"
+                   + "window.QUESTION_BANKS = "
                    + json.dumps(banks, ensure_ascii=False, indent=1) + ";\n",
                    encoding="utf-8")
     print(f"Đã ghi {OUT.relative_to(ROOT)}")

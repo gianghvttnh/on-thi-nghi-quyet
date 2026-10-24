@@ -93,8 +93,29 @@ main { padding-top: 16px; padding-bottom: 48px; }
 
 /* Bank selector */
 .banks { margin-bottom: 16px; }
-.banks-head { display: flex; justify-content: space-between; align-items: baseline; gap: 8px; flex-wrap: wrap; margin-bottom: 10px; }
-.banks-list { display: flex; flex-wrap: wrap; gap: 8px; }
+.banks-head { display: flex; justify-content: space-between; align-items: center; gap: 8px; flex-wrap: wrap; }
+.banks-head { margin-bottom: 4px; }
+.banks-summary { margin: 0 0 12px; font-size: .92rem; }
+.banks-summary .merged { color: var(--muted); }
+.bank-tools { display: flex; gap: 4px; }
+.link { background: none; border: 0; padding: 4px 6px; color: var(--primary); font-weight: 600; font-size: .92rem; }
+.banks-list { display: flex; flex-direction: column; gap: 8px; }
+.group { border: 1px solid var(--border); border-radius: 12px; background: var(--surface-2); }
+.group-head { display: flex; align-items: center; gap: 8px; padding: 6px 6px 6px 12px; }
+.group-check { flex: 1; min-width: 0; display: flex; align-items: center; gap: 10px; cursor: pointer; padding: 4px 0; }
+.group-check input { width: 20px; height: 20px; accent-color: var(--primary); margin: 0; flex: 0 0 auto; }
+.gname { font-weight: 700; }
+.group-check .n { color: var(--muted); font-size: .88rem; white-space: nowrap; }
+.toggle {
+  flex: 0 0 auto; border: 1px solid var(--border); background: var(--surface);
+  border-radius: 8px; padding: 6px 10px; font-size: .85rem; font-weight: 600; color: var(--muted);
+}
+.toggle .caret { display: inline-block; transition: transform .15s; transform: rotate(-90deg); }
+.group.open .toggle .caret { transform: none; }
+.group-body { display: none; flex-wrap: wrap; gap: 8px; padding: 4px 12px 12px 42px; }
+.group.open .group-body { display: flex; }
+.group-body .chip { background: var(--surface); }
+.group-body .chip.on { background: var(--primary-soft); }
 .chip {
   display: inline-flex; align-items: center; gap: 8px;
   border: 1px solid var(--border); border-radius: 999px;
@@ -103,7 +124,7 @@ main { padding-top: 16px; padding-bottom: 48px; }
 }
 .chip input { width: 18px; height: 18px; accent-color: var(--primary); margin: 0; }
 .chip.on { border-color: var(--primary); background: var(--primary-soft); }
-.chip .n { color: var(--muted); font-size: .9em; }
+.chip .n { color: var(--muted); font-size: .9em; white-space: nowrap; }
 
 /* Buttons */
 .btn {
@@ -257,6 +278,8 @@ table.hist th { color: var(--muted); font-weight: 600; font-size: .85rem; }
   .tab { padding-left: 6px; padding-right: 6px; font-size: .92rem; }
 }
 @media (max-width: 420px) {
+  .group-body { padding-left: 12px; }
+  .gname { font-size: .95rem; }
   .actions .btn { flex: 1; }
   .actions .right { flex: 1; }
   .stats { gap: 6px; }
