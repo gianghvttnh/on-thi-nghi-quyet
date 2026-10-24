@@ -32,7 +32,17 @@ window.QUESTION_GROUPS = [
   "banks": [
    "bo-de-bt-gs-2025-bep",
    "bo-de-bt-gs-2025-tap-vu",
-   "bo-de-bt-gs-2025-dinh-luong"
+   "bo-de-bt-gs-2025-dinh-luong",
+   "fb-fb",
+   "fb-kit",
+   "fb-ke-toan-dinh-luong-bnc",
+   "fb-qlat",
+   "fb-tap-vu-bep-bnc",
+   "fb-tap-vu-nha-hang-bnc",
+   "fb-xuong-xuc-xich",
+   "fb-am-thuc-bnc",
+   "kien-thuc-sat-hach-nha-hang",
+   "nghiep-vu-fb"
   ]
  }
 ];
@@ -17856,6 +17866,15520 @@ window.QUESTION_BANKS = [
      "Gửi PYC mua hàng cho kế toán mua hàng thực hiện ứng tiền để đi mua hàng"
     ],
     "answer": 3
+   }
+  ],
+  "group": "SBD PAT"
+ },
+ {
+  "id": "fb-fb",
+  "name": "FB - FB",
+  "questions": [
+   {
+    "id": "fb-fb-1",
+    "no": 1,
+    "text": "Một nhân viên tác phong nghiêm túc bao gồm những yếu tố nào sau đây?",
+    "options": [
+     "Đồng phục, đầu tóc, gương mặt, vệ sinh cá nhân, trang sức",
+     "Giày dép, quần áo, mũ nón, đồng hồ",
+     "Đầu tóc, trang điểm, chiều cao, cân nặng",
+     "Giọng nói, cách đi đứng, thái độ làm việc"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "fb-fb-2",
+    "no": 2,
+    "text": "Theo chính sách về hình ảnh chuẩn mực của nhân viên thì móng tay nhân viên được dài tối đa bao nhiêu?",
+    "options": [
+     "Không có quy định",
+     "2 mm",
+     "3 mm",
+     "Càng ngắn càng tốt"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "fb-fb-3",
+    "no": 3,
+    "text": "Hành vi nào sai đối với việc bảo mật thông tin khách hàng?",
+    "options": [
+     "Không thu thập lưu trữ thông tin cá nhân của khách hàng",
+     "Không hợp tác với bên ngoài để tìn kiếm thông tin cá nhân của khách hàng",
+     "Chỉ tiết lộ thông tin di chuyển của khách hàng",
+     "Tiết lộ thông tin cá nhân của khách hàng, đối tác"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "fb-fb-4",
+    "no": 4,
+    "text": "Thái độ cần điều chỉnh khi tiếp nhận yêu cầu hoặc giải đáp thông tin của khách hàng?",
+    "options": [
+     "Giải đáp mọi yêu cầu thắc mắc của khách hàng",
+     "Yêu cầu khách hàng đọc ký hưỡng dẫn trước khi trả lời",
+     "Nói \" Không \", \" Không biết \" với khách hàng",
+     "Lắng nghe và phối họp với các phòng khác để giải quyết vấn đề của khách hàng"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "fb-fb-5",
+    "no": 5,
+    "text": "Giao nhận khăn cho nhà giặt gồm những đầu việc nào",
+    "options": [
+     "Phân loại khăn",
+     "Giao nhận khăn",
+     "Phân loại khăn và giao nhận khăn",
+     "Không có đầu việc nào"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "fb-fb-6",
+    "no": 6,
+    "text": "Cách xử lý tiếp nhận yêu cầu của khách hàng?",
+    "options": [
+     "Chuyển cho bộ phận liên quan đến yêu cầu của khách hàng",
+     "Xử lý không triệt để, trọn vẹn các yêu cầu của khách hàng",
+     "Làm rõ, xác nhận yêu cầu của khách hàng trước khi xử lý",
+     "Đợi đến gần hết thời gian cho phép theo quy định."
+    ],
+    "answer": 2
+   },
+   {
+    "id": "fb-fb-7",
+    "no": 7,
+    "text": "Khi giao tiếp trực diện với khách chúng ta nên làm gì?",
+    "options": [
+     "Chủ động mỉm cười và cúi chào khách khi khách tiến đến hoặc đi ngang qua , nhường đường cho khách đi trước, nhường chố cho khách trong trường hợp thang máy đông người.Giữ khoảng cách phù hợp và nhìn thẳng khách hàng khi giao tiếp.",
+     "Chủ động, kịp thời hỗ trợ khách hàng khi cần thiết. Ưu tiên hỗ trợ khách hàng khi được yêu cầu, tôn trọng sự hiện diện của khách bằng cách tạm dừng các công việc đang thực hiện để hướng sự chú ý tới khách hàng, xin thứ lỗi nếu buộc phải hoàn tất.",
+     "Cả hai phương án trên đều đúng",
+     "Tất cả phương án trên đều sai"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "fb-fb-8",
+    "no": 8,
+    "text": "Vì sao chúng ta cần sắp xếp thời gian để đào tạo cho nhân viên?",
+    "options": [
+     "Tránh việc nhân viên làm sai, bị cán bộ quản lý lập biên bản nên chán nản, nghỉ việc, phải tuyển mới",
+     "Để cán bộ quản lý có đủ chỉ tiêu giờ dạy, cán bộ nhân viên đủ chỉ tiêu giờ học",
+     "Để nhân viên có thêm giờ làm việc khi không có khách",
+     "Để cán bộ lãnh đạo rèn luyện kỹ năng giảng dạy"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "fb-fb-9",
+    "no": 9,
+    "text": "Theo tiêu chuẩn tác phong diện mạo thì những việc nào sau đây là không đúng?",
+    "options": [
+     "Móng tay phải đươc̣ cắt tỉa goṇ gàng sacḥ sẽ, không được phép lộ hình xăm",
+     "Được phép lộ hình xăm, cắt đầu đinh dưới 2cm",
+     "Được đeo khuyên tai, dùng nước hoa mùi sặc sỡ",
+     "Đáp án B và C là đúng"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "fb-fb-10",
+    "no": 10,
+    "text": "Vì sao cần lựa chọn hình thức đào tạo phù hợp cho các cấp độ nhận thức khác nhau?",
+    "options": [
+     "Để có nội dung đào tạo tương ứng với từng trình độ của các đối tượng khác nhau",
+     "Để tránh nhàm chán cho các đối tượng học viên",
+     "Để tạo cảm hứng cho học viên",
+     "Để lập nhiều lớp học cho nhiều học viên"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "fb-fb-11",
+    "no": 11,
+    "text": "FIFO là viết tắt của từ gì?",
+    "options": [
+     "Final in first out",
+     "First in first out",
+     "Final in final out",
+     "First in final out"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "fb-fb-12",
+    "no": 12,
+    "text": "FEFO là viết tắt của từ gì?",
+    "options": [
+     "First end first out",
+     "First expired final out",
+     "First expired first out",
+     "Final expired final out"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "fb-fb-13",
+    "no": 13,
+    "text": "Yoko Onsen Quang Hanh là cơ sở kinh doanh của Sungroup trong lĩnh vực gì?",
+    "options": [
+     "Vui chơi giải trí",
+     "Bất động sản",
+     "Cáp treo",
+     "Nghỉ dưỡng chuẩn Nhật, suối khoáng"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "fb-fb-14",
+    "no": 14,
+    "text": "Premier Village Hạ Long Bay Resort là cơ sở kinh doanh của Sungroup thuộc tập đoàn quản lý nào?",
+    "options": [
+     "Trực thuộc SHG quản lý",
+     "Accor",
+     "IHG",
+     "Hyatt"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "fb-fb-15",
+    "no": 15,
+    "text": "Thớt dùng cho gia cầm có màu gì?",
+    "options": [
+     "Đỏ",
+     "Vàng",
+     "Trắng",
+     "Xanh"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "fb-fb-16",
+    "no": 16,
+    "text": "Thớt dùng cho rau củ có màu gì?",
+    "options": [
+     "Đỏ",
+     "Vàng",
+     "Xanh",
+     "Trắng"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "fb-fb-17",
+    "no": 17,
+    "text": "Thớt dùng cho thịt bò sống có màu gì?",
+    "options": [
+     "Nâu",
+     "Vàng",
+     "Xanh",
+     "Đỏ"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "fb-fb-18",
+    "no": 18,
+    "text": "Khi gặp vấn đề về điện (bóng đèn, điều hòa…) cần liên hệ với ai?",
+    "options": [
+     "PA (Vệ sinh công cộng)",
+     "Kỹ thuật",
+     "Quản lý trực tiếp",
+     "Bất cứ ai có thể khắc phục được vì tình huống khẩn cấp, không gọi được cho bộ phận chuyên trách"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "fb-fb-19",
+    "no": 19,
+    "text": "Một ca làm việc thẳng 8 tiếng theo quy định cần chấm vân tay mấy lần?",
+    "options": [
+     "Đi làm theo phân ca, không chấm vân tay vẫn được chấm công",
+     "1 lần (khi vào ca hoặc khi hết ca)",
+     "2 lần (khi vào ca và khi hết ca)",
+     "Không đáp án nào chính xác"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "fb-fb-20",
+    "no": 20,
+    "text": "Khi nhận được điều động/sắp xếp công việc từ bộ phận khác (cấp quản lý) cần làm gì?",
+    "options": [
+     "Nghe theo vô điều kiện vì người điều động ngang cấp bậc với quản lý trực tiếp",
+     "Nghe theo vì chắc chắn cấp quản lý đã trao đổi với nhau và có sự đồng thuận nên mới điều động công việc của mình",
+     "Trả lời đã nhận thông tin và lập tức báo cáo lại với quản lý trực tiếp, nghe sắp xếp công việc từ họ",
+     "Nhất quyết không nghe theo, yêu cầu người điều động phải có xác nhận của quản lý trực tiếp hoặc Trưởng bộ phận"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "fb-fb-21",
+    "no": 21,
+    "text": "Nếu nhân viên quan sát thấy một khách hàng chưa đủ tuổi uống những thức uống có cồn, cách xử lý sẽ như thế nào?",
+    "options": [
+     "Gọi an ninh xử lý",
+     "Lờ đi, khách ở trong khách sạn nên chỉ có khách và nhân viên biết, tăng doanh thu cho khách sạn",
+     "Báo cho quản lý",
+     "Thông báo với khách hàng đó về độ tuổi được cho phép uống rượu bia, ngừng việc tiêu thụ của khách và dẹp đi thức uống đó"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "fb-fb-22",
+    "no": 22,
+    "text": "Tách đơn đặt món trên máy POS áp dụng trong trường hợp nào?",
+    "options": [
+     "Vào nhầm món cần tách món để đúng tiền khách hàng phải thanh toán",
+     "Nhằm mục đích giảm giá trị đơn đặt món",
+     "Nhiều khách chung bàn cần thanh toán riêng, yêu cầu tách đơn đặt món",
+     "Nhằm mục đích tăng giá trí đơn đặt món"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "fb-fb-23",
+    "no": 23,
+    "text": "Khi khách hàng trả bằng tiền mặt, việc thanh toán hóa đơn phải được xử lý trong bao nhiêu lâu?",
+    "options": [
+     "60 giây",
+     "5 phút",
+     "3 phút",
+     "Không có quy định cụ thể thời gian"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "fb-fb-24",
+    "no": 24,
+    "text": "Tại sao phải xác nhận nguyên nhân và người gây ra đổ vỡ ccdc?",
+    "options": [
+     "Để bắt đền người gây ra bể vỡ",
+     "Để có hướng xử lý phù hợp, nếu là khách thì phải xác định giá trị đồ bể vỡ để tính phí nếu món đồ có giá trị lớn. \nNếu là nhân viên thì để kiếm soát, nhắc nhở, đưa biện pháp kỉ luật thích hợp nếu gây bể vỡ nhiều lần.",
+     "Để sau khi xác định nguyên nhân bể vỡ, nếu cố ý thì sẽ tính tiền cho khách. Nếu là nhân viên sẽ phạt nặng.",
+     "Để làm biên bản tường trình, cảnh cáo người vi phạm."
+    ],
+    "answer": 1
+   },
+   {
+    "id": "fb-fb-25",
+    "no": 25,
+    "text": "Nhiệt độ bảo quản thực phẩm lạnh/ đông là?",
+    "options": [
+     "- Thực phẩm cấp đông được giữ ở nhiệt độ ≤-50 ° C\n- Thực phẩm lạnh được giữ ở nhiệt độ ≤4 ° C",
+     "- Thực phẩm cấp đông được giữ ở nhiệt độ ≤-18 ° C\n- Thực phẩm lạnh được giữ ở nhiệt độ ≤15° C",
+     "- Thực phẩm cấp đông được giữ ở nhiệt độ ≤-18 ° C\n- Thực phẩm lạnh được giữ ở nhiệt độ ≤4 ° C",
+     "- Thực phẩm cấp đông được giữ ở nhiệt độ ≤-18 ° C\n- Thực phẩm lạnh được giữ ở nhiệt độ ≤0 ° C"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "fb-fb-26",
+    "no": 26,
+    "text": "Nhiệt độ lưu mẫu thức ăn theo quy định là bao nhiêu?",
+    "options": [
+     "Nhiệt độ phòng(16-18oC)",
+     "Nhiệt độ bảo quản mẫu lưu từ -18\noC đến 0oC",
+     "Nhiệt độ bảo quản mẫu lưu từ -10\noC đến 0oC",
+     "Nhiệt độ bảo quản mẫu lưu từ 2\noC đến 8oC"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "fb-fb-27",
+    "no": 27,
+    "text": "Thời gian lưu mẫu thức ăn theo quy định là bao nhiêu lâu?",
+    "options": [
+     "Ít nhất là 24 giờ kể từ khi lấy mẫu.",
+     "Ít nhất là 12 giờ kể từ khi lấy mẫu.",
+     "Ít nhất là 48 giờ kể từ khi lấy mẫu.",
+     "Tối đa là 24 giờ kể từ khi lấy mẫu."
+    ],
+    "answer": 0
+   },
+   {
+    "id": "fb-fb-28",
+    "no": 28,
+    "text": "Quy định lưu trữ hàng hóa trong kho?",
+    "options": [
+     "Tất cả thực phẩm được lưu trữ trên sàn và tường để có đủ không gian giữa nguyên liệu và tường để thực hiện các hoạt động kiểm soát và kiểm soát dịch hại.",
+     "Tất cả thực phẩm được lưu trữ trên pallet đặt sát sàn và tường để thực hiện các hoạt động kiểm soát và kiểm soát dịch hại.",
+     "Tất cả thực phẩm được lưu trữ trên pallet cách xa sàn và tường để có đủ không gian giữa nguyên liệu và tường để thực hiện các hoạt động kiểm soát và kiểm soát dịch hại.",
+     "Tất cả thực phẩm được lưu trữ trên pallet cách xa sàn và đặt sát tường để thực hiện các hoạt động kiểm soát dịch hại."
+    ],
+    "answer": 2
+   },
+   {
+    "id": "fb-fb-29",
+    "no": 29,
+    "text": "Nhiệt độ lưu trữ thức ăn theo quy định là bao nhiêu?",
+    "options": [
+     "- Thực phẩm đông lạnh được giữ ở nhiệt độ ≤-8 ° C và không được cấp đông lại\n- Thực phẩm lạnh được giữ ở nhiệt độ ≤0 ° C\n- Thức ăn nóng được giữ ở nhiệt độ ≥63 ° C",
+     "- Thực phẩm đông lạnh được giữ ở nhiệt độ ≤-18 ° C và không được cấp đông lại\n- Thực phẩm lạnh được giữ ở nhiệt độ ≤4 ° C\n- Thức ăn nóng được giữ ở nhiệt độ ≥63 ° C",
+     "- Thực phẩm đông lạnh được giữ ở nhiệt độ ≤-18 ° C và không được cấp đông lại\n- Thực phẩm lạnh được giữ ở nhiệt độ ≤0 ° C\n- Thức ăn nóng được giữ ở nhiệt độ ≥80 ° C",
+     "- Thực phẩm đông lạnh được giữ ở nhiệt độ ≤-28 ° C và không được cấp đông lại\n- Thực phẩm lạnh được giữ ở nhiệt độ ≤4 ° C\n- Thức ăn nóng được giữ ở nhiệt độ ≥70 ° C"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "fb-fb-30",
+    "no": 30,
+    "text": "Yêu cầu đối với hộp lưu mẫu thức ăn là gì?",
+    "options": [
+     "Dụng cụ lưu mẫu phải có nắp đậy kín, chứa được ít nhất 100g đối với thức\năn khô, đặc hoặc 150ml đối với thức ăn lỏng.",
+     "Dụng cụ lưu mẫu phải để hở, chứa được ít nhất 100g đối với thức ăn khô, đặc hoặc 150ml đối với thức ăn lỏng.",
+     "Dụng cụ lưu mẫu phải có nắp đậy kín, chứa được ít nhất 200g đối với thức\năn khô, đặc hoặc 250ml đối với thức ăn lỏng.",
+     "Dụng cụ lưu mẫu phải để hở nhìn thấy được, chứa được ít nhất 150g đối với thức\năn khô, đặc hoặc 150ml đối với thức ăn lỏng."
+    ],
+    "answer": 0
+   },
+   {
+    "id": "fb-fb-31",
+    "no": 31,
+    "text": "Quy định kiểm thực 3 bước bao gồm?",
+    "options": [
+     "Bước 1: Kiểm tra trong khi nhận hàng\nBước 2: Kiểm tra trong quá trình chế biến thức ăn\nBước 3: Kiểm tra trước khi ăn",
+     "Bước 1: Kiểm tra trước khi gọi hàng\nBước 2: Kiểm tra trong quá trình nhận hàng\nBước 3: Kiểm tra trước khi ăn",
+     "Bước 1: Kiểm tra trước khi chế biến thức ăn\nBước 2: Kiểm tra trong quá trình chế biến thức ăn\nBước 3: Kiểm tra trước khi ăn",
+     "Bước 1: Kiểm tra trong khi nhận hàng\nBước 2: Kiểm tra trong quá trình sơ chế\nBước 3: Kiểm tra trước khi ăn"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "fb-fb-32",
+    "no": 32,
+    "text": "Quy trình kiểm soát bể vỡ bao gồm những bước?",
+    "options": [
+     "1.  Báo nhân viên vệ sinh công cộng:\nvệ sinh công cộng xuống Nhà hàng\n 2. Thu gom lại đồ đổ vỡ\n3. Xác nhận nguyên nhân và người gây ra đổ vỡ\n4. Cho người gây ra đổ vỡ ký xác nhận (Áp dụng với nhân viên)",
+     "1.  Báo nhân viên vệ sinh công cộng:\nvệ sinh công cộng xuống Nhà hàng\n 2. Thu gom lại đồ đổ vỡ\n3. Xác nhận nguyên nhân và người gây ra đổ vỡ\n4. Cho người gây ra đổ vỡ ký xác nhận (Áp dụng với nhân viên)\n5. Tổng hợp báo cáo đổ vỡ",
+     "1.  Báo nhân viên vệ sinh công cộng:\nvệ sinh công cộng xuống Nhà hàng\n2. Thu gom lại đồ đổ vỡ\n3. Tổng hợp báo cáo đổ vỡ",
+     "1. Xác nhận nguyên nhân và người gây ra đổ vỡ\n2. Cho người gây ra đổ vỡ ký xác nhận (Áp dụng với nhân viên)\n3. Tổng hợp báo cáo đổ vỡ"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "fb-fb-33",
+    "no": 33,
+    "text": "Nhân viên phục vụ nên xử lý trường hợp món ăn, thức uống phục vụ sai, khách hàng trả lại như thế nào?",
+    "options": [
+     "Nói chuyện với khách hàng, xin lỗi khách và hứa lần sau sẽ không lặp lại lỗi",
+     "Thông báo cho quản lý để xử lý",
+     "Nhờ pha chế/bếp làm lại, làm món khách đền cho khách",
+     "Làm việc với pha chế/bếp để rõ trách nhiệm, cá nhân có lỗi sẽ bỏ tiền ra đền cho khách"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "fb-fb-34",
+    "no": 34,
+    "text": "Những điều nào nằm trong 10 nguyên tắc vàng của F&B?",
+    "options": [
+     "Luôn tươi cười; Luôn luôn giả định suy đoán vấn đề.",
+     "Hãy là 1 chuyên gia; Luôn cố gắng làm việc độc lập",
+     "Luôn luôn nghiêm túc; Theo sát vấn đề tới cùng",
+     "Luôn có sự chuẩn bị; Đừng bao giờ nói KHÔNG với những yêu cầu hợp lý"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "fb-fb-35",
+    "no": 35,
+    "text": "Bạn hiểu City ledger như thế nào?",
+    "options": [
+     "Hình thức thanh toán theo dạng công nợ đối với các đối tác",
+     "Là 1 dạng thanh toán với số phòng ảo cố định cho nhiều đối tượng khách hàng khác nhau",
+     "Hình thức xử lý hóa đơn bằng cách charge chi phí giá vốn về khách sạn",
+     "Là tên 1 thành phố"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "fb-fb-36",
+    "no": 36,
+    "text": "Các chất độc có sẵn trong thực phẩm như ở mầm khoai tây, sắn, măng, nấm độc, cá nóc, cóc, nhuyễn thể hai mảnh vỏ,… thuộc nhóm mối nguy nào?",
+    "options": [
+     "Mối nguy sinh học",
+     "Mối nguy hiểm rất cao",
+     "Mối nguy vi khuẩn",
+     "Mối nguy hóa học"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "fb-fb-37",
+    "no": 37,
+    "text": "Khi nào thì đưa dịch vụ thanh toán về mục miscellaneous?",
+    "options": [
+     "Khi có yêu cầu từ bộ phận kinh doanh",
+     "Khi có yêu cầu từ bộ phận kế toán",
+     "Khi dịch vụ khách sử dụng không nằm trong bất kì nhóm nào có sẵn(food, beverage, rental equipment, room rental…)",
+     "Khi có yêu cầu từ bộ phận lễ tân hoặc văn phòng Tổng quản lý"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "fb-fb-38",
+    "no": 38,
+    "text": "Triệu chứng nào sau đây là triệu chứng của ngộ độc thực phẩm?",
+    "options": [
+     "Chảy máu dạ dày, đi ngoài ra máu, nôn, sốt",
+     "Buồn nôn, đau bụng, tiêu chảy",
+     "Đau đầu, ăn không ngon, đau bụng",
+     "Buồn nôn, đau bụng, tiêu chảy, sốt, đau đầu, ăn không ngon"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "fb-fb-39",
+    "no": 39,
+    "text": "Quy trình kiểm kê hàng tồn kho gồm các bươc?",
+    "options": [
+     "1. Tổng hợp danh mục kiểm kê\n2. Chuẩn bị các thiết bị, nhân lực kiểm kê\n3. Áp dụng các phương pháp kiểm kê(Cân, đo, đếm)\n4. Tiến hành kiểm kê, kí biên bản kiểm kê",
+     "1. Tổng hợp danh mục kiểm kê\n2. Chuẩn bị các thiết bị, nhân lực kiểm kê\n3. Áp dụng các phương pháp kiểm kê(Cân, đo, đếm)",
+     "1. Tổng hợp danh mục kiểm kê\n2. Tiến hành kiểm kê, kí biên bản kiểm kê",
+     "1. Chuẩn bị các thiết bị, nhân lực kiểm kê\n2. Áp dụng các phương pháp kiểm kê(Cân, đo, đếm)\n3. Tiến hành kiểm kê, kí biên bản kiểm kê"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "fb-fb-40",
+    "no": 40,
+    "text": "Bước thu gom đồ bể vỡ trong quy trình kiểm soát hàng bể vỡ gồm?",
+    "options": [
+     "- Dùng khăn ăn thu gom đồ bể vỡ\n- Đưa biên bản bể vỡ cho nhân viên kí\n- Đặt đồ bể vỡ vào thùng nhựa có dán nhãn phân loại",
+     "- Thu gom những mảnh đổ vỡ lớn (lưu ý không được dùng tay không để nhặt)\n- Gom đồ đổ vỡ lại\n- Dùng plastic gói từng đồ đổ vỡ lại theo từng chủng loại riêng biệt\n- Vất đồ bể vỡ vào thùng rác theo quy định",
+     "- Thu gom những mảnh đổ vỡ lớn (lưu ý không được dùng tay không để nhặt)\n- Gom đồ đổ vỡ lại\n- Dùng plastic gói từng đồ đổ vỡ lại theo từng chủng loại riêng biệt\n- Đặt đồ đổ vỡ vô thùng nhựa được dán nhẵn phân loại",
+     "- Thu gom những mảnh đổ vỡ lớn (lưu ý không được dùng tay không để nhặt)\n- Vất đồ bể vỡ vào thùng rác theo quy định"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "fb-fb-41",
+    "no": 41,
+    "text": "Phân loại các ccdc theo phương án nào là đúng?",
+    "options": [
+     "Tableware: Bàn ghế\nAsset: Tài sản",
+     "Silverware: Thìa ăn chính, thìa ăn súp, nĩa ăn chính, dao ăn bơ\nGlassware: ly vang, ly nước, ly bia",
+     "Silverware: Thìa ăn chính, thìa ăn súp, nĩa ăn chính, dao ăn bơ\nGlassware: ly vang, ly nước, tách cà phê",
+     "Chinaware: bát, đĩa, thìa sứ, ly uống rượu.\nSilverware: nĩa ăn, dao ăn, thìa cà phê"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "fb-fb-42",
+    "no": 42,
+    "text": "Cách đặt ccdc trên bàn ăn theo thứ tự nào là đúng?",
+    "options": [
+     "Từ phải sang: dao ăn chính, dao ăn bò, thìa ăn súp, đĩa định vị, nĩa/dĩa ăn chính,  nĩa/dĩa ăn salad",
+     "Đặt thứ tự nào cũng được, tùy theo sở thích của khách",
+     "Từ phải sang: dao ăn salad, thìa ăn súp, dao ăn chính, đĩa định vị, nĩa/dĩa ăn salad, thìa ăn chính",
+     "Từ phải sang: dao ăn salad, thìa ăn súp, dao ăn chính, đĩa định vị, nĩa/dĩa ăn chính,  nĩa/dĩa ăn salad"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "fb-fb-43",
+    "no": 43,
+    "text": "Trong bài trí bàn tiệc phong cách Âu Mỹ, kiểu Alacarte, đĩa bánh mì được đặt ở đâu?",
+    "options": [
+     "Góc bên trái,cách nĩa/dĩa 1 cm, cách mép bàn 2 cm",
+     "Góc bên trái đĩa định vị, cách đĩa định vị 3 cm hướng 45 độ",
+     "Bên trái đĩa kê khăn lạnh",
+     "Trên nĩa/ dĩa ăn salad"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "fb-fb-44",
+    "no": 44,
+    "text": "Theo quy trình phục vụ, ai là người được ưu tiên phục vụ đầu tiên trong buổi tiệc?",
+    "options": [
+     "Chủ tiệc",
+     "Phụ nữ",
+     "Người phụ nữ lớn tuổi",
+     "Cụ ông"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "fb-fb-45",
+    "no": 45,
+    "text": "Sau khi rót vang đỏ cho khách, chai vang còn rượu sẽ được đặt ở đâu?",
+    "options": [
+     "Ở phía trước ly của chủ tiệc và nhãn rượu quay về phía chủ tiệc",
+     "Không được đặt lên bàn khách, có thể đặt lên bàn bên cạnh",
+     "Đặt ở khu vực bàn chờ/service station gần bàn ăn nhất",
+     "Đặt lên xô ướp rượu bên cạnh bàn ăn"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "fb-fb-46",
+    "no": 46,
+    "text": "Khay phục vụ luôn được giữ trên tay nào kể cả khi không có đồ trên khay ?",
+    "options": [
+     "Luôn giữ khay phục vụ bên tay trái",
+     "Luôn để khay xuống dưới",
+     "Khay cầm nghiêng bên phải",
+     "Luôn giữ khay phục vụ bên tay phải"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "fb-fb-47",
+    "no": 47,
+    "text": "Cách xử lý khi khách gọi đến IRD và yêu cầu dọn khay đồ ăn?",
+    "options": [
+     "Nhận thông tin, ghi vào log book và thông báo với khách giờ quy định dọn đồ ăn của bộ phận",
+     "Ngay lập tức đến villa của khách để dọn",
+     "Sau khi ước lượng khoảng thời gian vừa đủ để khách dùng xong dịch vụ phục vụ tại phòng, thu khay ở phía bên ngoài villa",
+     "Nhận thông tin, ghi vào log book theo dõi cho ca tiếp theo dọn khay"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "fb-fb-48",
+    "no": 48,
+    "text": "Trước khi gõ cửa phục vụ khách tại phòng nhân viên phục vụ phòng cần phải làm gì đầu tiên ?",
+    "options": [
+     "Nhân viên phải kiểm tra lại tác phong diện mạo, kiểm tra sắp xếp lại  món ăn khách yêu cầu.",
+     "Không cần chuẩn bị gì cả gõ cửa luôn để phục vụ khách",
+     "Kiểm tra có ghi đầy đủ thông tin khách, số phòng, món ăn trên hóa đơn.",
+     "Nhân viên phải kiểm tra lại tác phong diện mạo, hóa đơn có ghi đầy đủ thông tin khách, số phòng, món ăn và kiểm tra sắp xếp lại  món ăn khách yêu cầu."
+    ],
+    "answer": 3
+   },
+   {
+    "id": "fb-fb-49",
+    "no": 49,
+    "text": "Đội dịch vụ phòng phải có phân công nhân viên đi tuần các khu vực khách và villa theo một lộ trình quy định, tối thiểu cách nhau bao nhiêu lâu ?",
+    "options": [
+     "1h/ lần",
+     "30 phút/ lần",
+     "2h/ lần",
+     "4h/ lần"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "fb-fb-50",
+    "no": 50,
+    "text": "Thái độ đúng khi tiếp nhận xử lý yêu cầu của khách hàng ?",
+    "options": [
+     "Phớt lờ, bỏ qua yêu cầu hoặc phản hồi khiếu nại của khách hàng.",
+     "Không quan tâm tới yêu cầu của khách hàng",
+     "Đáp ứng yêu cầu của khách hàng nhanh chóng và làm khách hàng hài lòng với cách xử lý phàn nàn khiếu nại",
+     "Ghi nhận khiếu nại của khách hàng nhưng không xử lý"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "fb-fb-51",
+    "no": 51,
+    "text": "Dấu hiệu nào để nhận biết nhu cầu dọn bát đĩa / ly cốc của khách khi đồ ăn đồ uống đã được dùng xong?",
+    "options": [
+     "Đĩa đồ ăn/ ly cốc đồ uống đã hết. Đĩa thức ăn để sang một bên trên bàn.",
+     "Đĩa thức ăn còn nhưng khách không tiếp tục sử dụng.",
+     "Đĩa thức ăn còn nhưng khách đang ngừng sử dụng.",
+     "Đĩa đồ ăn/ ly cốc đồ uống đã hết. Đĩa thức ăn để sang một bên trên bàn. Đĩa thức ăn còn nhưng khách không tiếp tục sử dụng nữa."
+    ],
+    "answer": 3
+   },
+   {
+    "id": "fb-fb-52",
+    "no": 52,
+    "text": "Hành vi nào sai đối với thông tin khách hàng?",
+    "options": [
+     "Không thu thập lưu trữ thông tin cá nhân của khách hàng",
+     "Không hợp tác với bên ngoài để tìn kiếm thông tin cá nhân của khách hàng",
+     "Chỉ tiết lộ thông tin di chuyển của khách hàng",
+     "Tiết lộ thông tin cá nhân của khách hàng, đối tác"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "fb-fb-53",
+    "no": 53,
+    "text": "Khi vệ sinh dụng cụ cho từng loại dao, muỗng/ thìa, dĩa vào chậu inox đựng nước nóng đã được pha loãng với ?",
+    "options": [
+     "Nước muối",
+     "Nước rửa bát",
+     "Nước khử trùng",
+     "Dấm hoặc chanh"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "fb-fb-54",
+    "no": 54,
+    "text": "Việc thực hiện việc tổng hợp các phiếu nhập - xuất - hủy hàng hóa và thống kê số liệu hàng nhập theo từng loại để làm gì ?",
+    "options": [
+     "Tổng hợp số liệu",
+     "Để cập nhật, tổng hợp số liệu hàng hóa và làm báo cáo cuối ca",
+     "Cập nhật số liệu",
+     "Làm báo cáo"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "fb-fb-55",
+    "no": 55,
+    "text": "Khu vực dọn đồ bẩn cần có những công cụ dụng cụ gì ?",
+    "options": [
+     "Xe đẩy 3 tầng, xe rác",
+     "Xe đẩy 3 tầng, xe rác riêng theo từng loại rác khô, rác ướt",
+     "Xe rác khô, rác ướt",
+     "Xe đẩy 3 tầng"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "fb-fb-56",
+    "no": 56,
+    "text": "Nhân viên khi thu dọn đồ bẩn cần tiến hành phân loại CCDC bản như thế nào ?",
+    "options": [
+     "Phân loại công cụ dụng cụ : dao, thìa, nĩa… và cho vào khay riêng biệt",
+     "Phân loại công cụ dụng cụ : đồ inox, đồ sứ, đồ tre gỗ… và để riêng từng loại hoặc vào khay riêng biệt.",
+     "Phân loại công vụ dụng cụ đồ dễ vỡ đồ không dễ vỡ cho vào khay riêng biệt",
+     "Cho tất cả vào một thùng đựng"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "fb-fb-57",
+    "no": 57,
+    "text": "Trước khi gợi ý bán thêm cho khách hàng bạn cần lưu ý điều gì?",
+    "options": [
+     "Phân loại khách hàng, giao tiếp với khách hàng",
+     "Phân loại đồ ăn, nắm bắt nhu cầu của khách, giao tiếp với khách hàng",
+     "Phân loại khách hàng, nắm bắt đồ uống, giao tiếp với khách hàng",
+     "Phân loại khách hàng, nắm bắt nhu cầu của khách hàng, hiểu rõ sản phẩn của mình, giao tiếp với khách hàng."
+    ],
+    "answer": 3
+   },
+   {
+    "id": "fb-fb-58",
+    "no": 58,
+    "text": "Tiêu chuẩn định lượng rót nước ngọt và nước đóng chai?",
+    "options": [
+     "1/3 ly",
+     "Đầy ly",
+     "2/3 ly",
+     "1/2 ly"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "fb-fb-59",
+    "no": 59,
+    "text": "Nhân viên thông báo với khách giờ đóng cửa Buffet của nhà hàng tối thiểu bao nhiêu phút ?",
+    "options": [
+     "20 phút",
+     "15 phút",
+     "30 phút",
+     "Cả 3 đáp án trên đều sai"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "fb-fb-60",
+    "no": 60,
+    "text": "Khi phục vụ món ăn cho khách, nhân viên cần lưu ý điều gì với khách về các món ăn mà khách đã yêu cầu?",
+    "options": [
+     "Cần giới thiệu và xác nhận lại",
+     "Cần giới thiệu",
+     "Cần xác nhận lại",
+     "Không cần làm gì cứ vậy đặt đồ cho khách."
+    ],
+    "answer": 0
+   },
+   {
+    "id": "fb-fb-61",
+    "no": 61,
+    "text": "Tại sao khi vào villa khách, cửa phải để mở, khép hờ chứ không đóng kín?",
+    "options": [
+     "Để tránh tạo tiếng ồn khi sập cửa, làm phiền khách",
+     "Để thông báo cho người bên ngoài biết trong phòng đang có người",
+     "Để đảm bảo an toàn và an ninh cho nhân viên",
+     "Để thoáng khí"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "fb-fb-62",
+    "no": 62,
+    "text": "Cách xử lý khi đến phòng khách để phục vụ đồ ăn nhưng thấy biển DND?",
+    "options": [
+     "Dùng hotline để gọi về nhà hàng, quản lý nhờ gọi ra phòng khách để kiểm tra",
+     "Gõ cửa phòng khách theo quy định để xin phép vào vì có thể khách nhầm",
+     "Mang đồ ăn về lại bếp và chờ khách gọi ra phục vụ",
+     "Đặt đồ ăn trước cửa phòng khách, sau 15 phút sẽ gọi điện nhắc khách về việc đồ ăn đã được đặt"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "fb-fb-63",
+    "no": 63,
+    "text": "Khi trên bàn có nhiều hơn 1 ly nước thì cách đặt các loại thức uống trên khách nên tuân theo nguyên tắc nào?",
+    "options": [
+     "Theo thứ tự từ thấp đến cao( chiều cao của ly), ly thấp hơn đặt bên phải",
+     "Người phục vụ nên đặt ly Cocktail và ly rượu gần với khách hơn là ly nước",
+     "Theo thứ tự từ thấp đến cao( chiều cao của ly), ly thấp hơn đặt bên trái",
+     "Người phục vụ nên đặt ly nước gần với khách hơn là ly rượu, cocktail"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "fb-fb-64",
+    "no": 64,
+    "text": "Herring là gì?",
+    "options": [
+     "Bánh mì nướng cắt lát dùng chung với soup",
+     "Cá ngừ nướng cắt khối",
+     "Cá trích",
+     "Cá đuối"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "fb-fb-65",
+    "no": 65,
+    "text": "Khi di chuyển bê khay phục vụ đồ ăn, đồ uống cho khách nhân viên cần chú ý điều gì ?",
+    "options": [
+     "Tự tin và cẩn thận",
+     "Bước đi nhanh gọn",
+     "Tư thế thẳng đứng và chuyên nghiệp",
+     "Tất cả các đáp án trên đều đúng"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "fb-fb-66",
+    "no": 66,
+    "text": "Món làm sạch miệng, thông thường là kem hoặc đá xay, được phục vụ giữa các món chính có tên là gì?",
+    "options": [
+     "Sorbet",
+     "Appetizer",
+     "Cold Sweet Course",
+     "Crème Brulée"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "fb-fb-67",
+    "no": 67,
+    "text": "Để thiết lập giá bán cho 1 món ăn, những yếu tố nào sau đây là phù hợp nhất?",
+    "options": [
+     "Quy định của công ty và chất lượng món ăn",
+     "Giá bán từ các đối thủ cạnh tranh, thành phần món và giá nguyên liệu",
+     "Quy mô của nhà hàng và đối tượng khách hàng mà nhà hàng đó hướng tới",
+     "Yêu cầu từ đại lý cấp 1 và chiến lược kinh doanh"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "fb-fb-68",
+    "no": 68,
+    "text": "Nhân viên phục vụ nên xử lý như thế nào khi khách hàng có biểu hiện bị dị ứng thực phẩm (ở mức độ nhẹ)?",
+    "options": [
+     "Đối với trường hợp khách hàng bị dị ứng nhẹ, nhân viên phục vụ đến phòng y tế xin thuốc về cho khách uống tại nhà hàng",
+     "Nhân viên phục vụ không nên làm gì cả vì đây không phải là nghiệp vụ chuyên môn của mình",
+     "Nhân viên nên báo cáo ngay với quản lý",
+     "Nhân viên nên đề nghị được đưa khách đến phòng y tế của khách sạn để nhân viên y tế có chuyên môn thăm khám và cấp thuốc cho khách, sau đó báo cáo lại cho quản lý nắm thông tin và ghi nhận thông tin vào hồ sơ khách hàng"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "fb-fb-69",
+    "no": 69,
+    "text": "Khách chê dịch vụ và đồ ăn không còn tốt, ngon và phong phú như những lần trước. Nhân viên nhà hàng không nên làm gì khi xử lý tình huống?",
+    "options": [
+     "Đổ lỗi cho bếp nấu đồ ăn không ngon và cấp trên.",
+     "Đổ lỗi cho khách hàng, bếp nấu đồ ăn cũng như cấp trên đưa ra thực đơn không phong phú",
+     "Đổ lỗi cho khách không biết thưởng thức đồ ăn",
+     "Cả 3 đáp án trên đều sai"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "fb-fb-70",
+    "no": 70,
+    "text": "Thái độ tích cực với đối tác, khách hàng và đồng nghiệp được thể hiện như thế nào ? Chọn đáp án đúng và đầy đủ nhất ?",
+    "options": [
+     "Lấy tư duy và tinh thần dịch vụ làm nền tảng cho mọi hoạt động.",
+     "Cam kết cung cấp chất lượng dịch vụ cao nhất cho đối tác, khách hàng và đồng nghiệp.",
+     "Lấy tư duy tinh thần dịch vụ làm nên tảng cho mọi hoạt động, cam kết cung cấp chất lượng dịch vụ cao nhất cho đối tác, khách hàng và đồng nghiệp",
+     "Tất cả các phương án trên đều sai"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "fb-fb-71",
+    "no": 71,
+    "text": "Đặt món ăn cho khách như thế nào là đúng?",
+    "options": [
+     "Từ bên phải, dùng tay trái",
+     "Từ bên trái, dùng tay phải",
+     "Từ bên phải, dùng tay phải",
+     "Không quan trọng tay và hướng"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "fb-fb-72",
+    "no": 72,
+    "text": "Khi xử lý phàn nàn của khách, bạn thể hiện sự đồng cảm với khách hàng như thế nào",
+    "options": [
+     "Đồng cảm cùng khách hàng và ghi lại tất cả các thông tin ( đặt mình vào vị trí của khách)",
+     "Sẽ làm tất cả vì khách hàng",
+     "Chỉ cần lắng nghe",
+     "Khuyên khách hàng cứ yên tâm công ty sẽ giải quyết thỏa đáng"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "fb-fb-73",
+    "no": 73,
+    "text": "Khách hàng sẽ được mời xem thực đơn món ăn nhẹ khi nào?",
+    "options": [
+     "Trước khi hỏi đồ uống",
+     "Sau khi hỏi đồ uống",
+     "Bất kỳ thời điểm nào",
+     "Nếu thời điểm phục vụ không trùng với giờ dùng bữa"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "fb-fb-74",
+    "no": 74,
+    "text": "Thứ tự các bước setup CCDC quầy buffet như thế nào là đúng ?",
+    "options": [
+     "Vệ sinh CCDC, thu thập CCDC",
+     "Chuẩn bị CCDC, kiểm tra CCDC, bố trí CCDC, thu dọn CCDC",
+     "Thu thập CCDC, kiểm tra tình trạng CCDC, Vệ sinh CCDC, bố trí CCDC lên quầy, kiểm tra lại lần cuối.",
+     "Chuẩn bị CCDC, kiểm tra CCDC, bố trí CCDC, kiểm tra lại lần cuối"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "fb-fb-75",
+    "no": 75,
+    "text": "Khi dọn dẹp CCDC trước mặt khách cần lưu ý điểm gì?",
+    "options": [
+     "Dọn dẹp từ bên phải của khách (trừ khi không thuận tiện cho khách). Không bao giờ được đi ngang qua trước mặt khách, với ngang tay qua mặt khách, với ngang người qua bàn ăn.Khi thu dọn cần cẩn thận tránh để đồ ăn thừa văng vào khách, tránh để dao nĩa khua vào đĩa gây tiếng ồn và tránh để khách nhìn thấy.",
+     "Không bao giờ được đi ngang qua trước mặt khách, với ngang tay qua mặt khách, với ngang người qua bàn ăn.Khi thu dọn cần cẩn thận tránh để đồ ăn thừa văng vào khách, tránh để khách nhìn thấy.",
+     "Dọn dẹp từ bên phải của khách (trừ khi không thuận tiện cho khách). Không bao giờ được với ngang tay qua mặt khách, với ngang người qua bàn ăn.Khi thu dọn cần cẩn thận tránh để đồ ăn thừa văng vào khách.",
+     "Đáp án B và C là đúng"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "fb-fb-76",
+    "no": 76,
+    "text": "Khi phục vụ món ăn cho khách, nhân viên cần lưu ý điều gì với khách về các món ăn mà khách đã yêu cầu?",
+    "options": [
+     "Cần giới thiệu và xác nhận lại",
+     "Cần giới thiệu",
+     "Cần xác nhận lại",
+     "Cần hỏi lại khách"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "fb-fb-77",
+    "no": 77,
+    "text": "Thứ tự ưu tiên khi phục vụ khách lần lượt là ?",
+    "options": [
+     "Nam giới (già trước, trẻ sau), người tàn tật, trẻ em, phụ nữ (già trước, trẻ sau),chủ tiệc.",
+     "Người tàn tật, phụ nữ (già trước, trẻ sau), nam giới (già trước, trẻ sau), chủ tiệc.",
+     "Người tàn tật, trẻ em, phụ nữ (già trước, trẻ sau), nam giới (già trước, trẻ sau), chủ tiệc.",
+     "Người tàn tật, trẻ em, phụ nữ (già trước, trẻ sau),chủ tiệc, nam giới (già trước, trẻ sau)."
+    ],
+    "answer": 2
+   },
+   {
+    "id": "fb-fb-78",
+    "no": 78,
+    "text": "Khách hàng phàn nàn món ăn được phục vụ chậm, bạn nên làm gì?",
+    "options": [
+     "Báo rằng hôm nay bếp vắng người nên sẽ phục vụ chậm",
+     "Báo khách món ăn khách yêu cầu làm phức tạp nên sẽ mất thời gian và chú ý khách",
+     "Báo rằng nhà hàng đông khách nên sẽ phục vụ chậm.",
+     "Xin lỗi vì sự cố xảy ra và cảm ơn khách đã góp ý. Lấy thông tin của khách và thông báo với quản lý kiểm tra"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "fb-fb-79",
+    "no": 79,
+    "text": "Tại sao khi đã hết giờ phục vụ buffet nhưng khách vẫn muốn lấy đồ ăn thêm, bộ phận FB phải xin lỗi, giải thích cho khách về thời gian kết thúc và đưa ra giải pháp thay thế cho khách ?",
+    "options": [
+     "Làm khách hàng hài lòng",
+     "Luôn cho khách thấy được sự quan tâm đến trải nghiệm của khách và có phương án thay thế",
+     "Thể hiện sự quan tâm đến nhu cầu của khách",
+     "Cả 3 đáp án đều đúng"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "fb-fb-80",
+    "no": 80,
+    "text": "Nhân viên phục vụ tiếp cận bàn ăn khi khách có nhưng dấu hiệu sau ?",
+    "options": [
+     "Thức ăn/ đồ uống đã hết, Đĩa thức ăn còn nhưng không thấy khách tiếp tục sử dụng.",
+     "Thức ăn/ đồ uống đã hết, Đĩa thức ăn còn nhưng không thấy khách tiếp tục sử dụng.Dao thìa, dĩa, chén xốt khách đã dùng xong.Khách để đĩa thức ăn sang một bên trên bàn.",
+     "Dao thìa, dĩa, chén xốt khách đã dùng xong.Khách để đĩa thức ăn sang một bên trên bàn.",
+     "Cả 3 đáp án đều đúng"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "fb-fb-81",
+    "no": 81,
+    "text": "Khách hàng khi bị dị ứng thực phẩm ở mức độ nhẹ thường có dấu hiệu như thế nào?",
+    "options": [
+     "Hắt hơi, sổ mũi, buồn nôn",
+     "Chóng mặt và nổi mề đay",
+     "Ngứa ran, nhứa trong miệng, nổi mề đay, sưng môi, lưỡi, mặt hoặc các bô phận khác của cơ thể",
+     "Co thắt đường hô hấp, khó thở, tụt huyết áp, bất tỉnh nếu ở mức độ nặng"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "fb-fb-82",
+    "no": 82,
+    "text": "Đối việc đồ ăn tự chọn, đồ ăn nóng và lạnh phải được đặt trước( hoặc sau) khi gọi món bắt đầu bao lâu?",
+    "options": [
+     "25 phút đối với đồ ăn nóng, 15 phút đối với đồ lạnh",
+     "30 phút đối với đồ ăn nóng, 40 phút đối với đồ lạnh",
+     "15 phút đối với đồ ăn nóng, 45 phút đối với đồ lạnh",
+     "Càng sớm càng tốt"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "fb-fb-83",
+    "no": 83,
+    "text": "Khi khách sử dụng xong đồ ăn nhưng không thấy đặt đồ dơ trước cửa villa và cũng không gọi điện cho IRD để dọn, nhân viên phục vụ tại phòng phải xử lý như thế nào?",
+    "options": [
+     "Gọi điện đến phòng khách để kiểm tra và xin phép qua dọn đồ",
+     "Không làm gì cả, ngày tiếp theo khi bộ phận HK dọn phòng sẽ hỗ trợ dọn hoặc gọi cho IVD",
+     "Đến villa của khách và bấm chuông để xin phép dọn đồ",
+     "Bàn giao cho ca sau, chờ khi khách đã ngủ thì nhẹ nhàng vào villa để dọn, tuyệt đối không để qua đêm"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "fb-fb-84",
+    "no": 84,
+    "text": "Vùng nhiệt độ nguy hiểm khi lưu trữ thực phẩm là bao nhiêu?",
+    "options": [
+     "5oC-60oC",
+     "5oC-70oC",
+     "10oC-70oC",
+     "Nhiệt độ dưới 0oC"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "fb-fb-85",
+    "no": 85,
+    "text": "Thực phẩm đã nấu chín nên ăn ngay và không được để ở nhiệt độ phòng qua bao nhiêu giờ?",
+    "options": [
+     "1 tiếng",
+     "2 tiếng",
+     "3 tiếng",
+     "4 tiếng"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "fb-fb-86",
+    "no": 86,
+    "text": "3 điều kiện vệ sinh an toàn thực phẩm bắt buộc đối với một cơ sở sản xuất, chế biến thực phẩm là gì?",
+    "options": [
+     "Điều kiện về địa điểm, môi trường; Điều kiện về nguồn nước; Điều kiện về thiết bị, dụng cụ, chế biến, bảo quản",
+     "Điều kiện về kiến thức; Điều kiện về sức khỏe; Điều kiện về đào tạo VSATTP",
+     "Điều kiện về cơ sở; Điều kiện về trang thiết bị, dụng cụ; Điều kiện về con người",
+     "Điều kiện về thiết kế, bố trí khu vực sản xuất; Điều kiện về nguồn nước; Điều kiện về đào tạo VSATTP"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "fb-fb-87",
+    "no": 87,
+    "text": "Nhân viên phục vụ luôn như thế nào để thể hiện sự tương tác với khách hàng tốt nhất ?",
+    "options": [
+     "Không quan tâm đến khách",
+     "Tươi cười",
+     "Nhìn khách",
+     "Để ý khách"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "fb-fb-88",
+    "no": 88,
+    "text": "Lợi ích của việc đào tạo đối với chính cán bộ nhân viên là gì?",
+    "options": [
+     "Có nghề và yêu nghề",
+     "Chất lượng dịch vụ đồng đều",
+     "Dịch vụ tưng xứng với số tiền bỏ ra",
+     "Không giao được nhiều việc hơn"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "fb-fb-89",
+    "no": 89,
+    "text": "Vì sao chúng ta cần sắp xếp thời gian để đào tạo cho nhân viên?",
+    "options": [
+     "Tránh việc nhân viên làm sai, cán bộ lãnh đạo bị lập biên bản, nhân viên chán nản, nghỉ việc, chúng ta phải tuyển mới",
+     "Để cán bộ lãnh đạo có đủ chiểu tiêu giờ dạy, cán bộ nhân viên đủ chỉ tiêu giờ học",
+     "Vì nhân viên cần làm đúng quy trình, đáp ứng sự mong đợi tốt nhất của khách hàng",
+     "Để cán bộ lãnh đạo rèn luyện kỹ năng giảng dạy"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "fb-fb-90",
+    "no": 90,
+    "text": "Tại sao phải hỏi thăm khách sau khi phục vụ đồ ăn?",
+    "options": [
+     "Để tránh trường hợp khách không biết họ đang ăn gì",
+     "Để biết được khách có muốn dùng với món ăn kèm/ gia vị gì không",
+     "Biết được khách có hài lòng với món ăn hay không và có thể giải quyết ngay lập tức khi có vấn đề",
+     "Cả 3 đáp án trên đều đúng"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "fb-fb-91",
+    "no": 91,
+    "text": "Hình thức phục vụ \"Table service\" tại bar mang ý nghĩa là gì?",
+    "options": [
+     "Phục vụ đồ ăn uống tại bar/lounge nhưng khách ngồi tại bàn chứ không phải tại quầy bar",
+     "Phục vụ đồ uống tại bar, đưa đồ uống cho khách từ phía bên phải",
+     "Phục vụ đồ uống tại bar, đưa đồ uống cho khách từ phía bên trái",
+     "Phục vụ đồ ăn uống tại bar/lounge nhưng khách ngồi tại quẩy bar chứ không phải tại bàn"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "fb-fb-92",
+    "no": 92,
+    "text": "Điểm giống nhau cơ bản của rượu Gin và rượu Vodka là gì?",
+    "options": [
+     "Nồng độ ABV đều trên 40 độ",
+     "Cùng là rượu được chưng cất từ các loại ngũ cốc, củ quả chứa nhiều tinh bột",
+     "Có nguồn gốc xuất xứ từ Hà Lan",
+     "Đều không màu, không mùi, không vị"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "fb-fb-93",
+    "no": 93,
+    "text": "Rượu mùi Grand Marnier xuất xứ từ đất nước nào?",
+    "options": [
+     "Paris",
+     "Scotland",
+     "Pháp",
+     "Anh"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "fb-fb-94",
+    "no": 94,
+    "text": "Phục vụ rượu/cocktail theo kiểu Straight Up là như thế nào?",
+    "options": [
+     "Khuấy đều các thành phần rượu trong ly",
+     "Rót trực tiếp rượu từ chai ra ly",
+     "Kĩ thuật lắc rượu không có đá",
+     "Lắc rượu với đá rồi gạn bỏ đỏ, đổ rượu ra ly"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "fb-fb-95",
+    "no": 95,
+    "text": "Loại cocktail nào sau đây pha theo kiểu Straight up?",
+    "options": [
+     "Cosmopolitan, Margarita, Daiquiri",
+     "Classic Martini, Margarita, Cosmopolitan",
+     "Sex on the beach, Rob Roy, Negroni",
+     "Espresso, Latte"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "fb-fb-96",
+    "no": 96,
+    "text": "Giống nho nào dưới đây thường dùng để làm rượu vang đỏ?",
+    "options": [
+     "Cabernet franc, Viognier, Merlot",
+     "Merlot, Pinotage, Pinot noir",
+     "Carbenet sauvignon, Sangiovese, Riesling",
+     "Gamay, Tannat, Sauvignon blanc"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "fb-fb-97",
+    "no": 97,
+    "text": "Giống nho nào dưới đây thường dùng để làm rượu vang trắng?",
+    "options": [
+     "Cabernet franc, Viognier, Merlot",
+     "Merlot, Pinotage, Pinot gris",
+     "Viognier, Chardonnay, Riesling",
+     "Gamay, Tannat, Sauvignon blanc"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "fb-fb-98",
+    "no": 98,
+    "text": "Cà phê latte là gì?",
+    "options": [
+     "Gồm 2 shot espresso, sữa tươi được đánh nóng",
+     "Gồm 1 shot espresso, siro chocolate, sữa tươi và ít bọt sữa được đánh nóng",
+     "Gồm bột ca cao, siro chocolate, sữa tươi và ít bọt sữa được đánh nóng",
+     "Gồm 1 shot espresso, sữa tươi và ít bọt sữa được đánh nóng"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "fb-fb-99",
+    "no": 99,
+    "text": "Đặc điểm và công dụng của ly champagne flute?",
+    "options": [
+     "Ly có cấu tạo chân thấp, thân cao và miệng hẹp. Thân cao và miệng hẹp giúp bão hòa khí carbon. Ly thường được làm lạnh trước khi rót sâm panh. Dùng uống vang sủi bọt( sparkling wine, champagne)",
+     "Ly có cấu tạo chân cao, thân ngắn và miệng rộng. Ly thường được làm lạnh trước khi rót sâm panh. Dùng uống vang sủi bọt( sparkling wine, champagne). Thường dùng để xếp tháp ly cho tiệc, hội nghị.",
+     "Ly có cấu tạo chân cao, thân ngắn và miệng rộng. Ly thường được làm lạnh trước khi rót sâm panh. Dùng uống vang sủi bọt( sparkling wine, champagne), cocktail có thành phần từ champagne, sparkling wine hoặc nước có gas bên trong. Thường dùng để xếp tháp ly cho tiệc, hội nghị.",
+     "Ly có cấu tạo chân cao, thân cao và miệng hẹp. Thân cao và miệng hẹp giúp bão hòa khí carbon. Chân cao hạn chế nhiệt độ tay cầm làm ấm rượu.  Ly thường được làm lạnh trước khi rót sâm panh. Dùng uống vang sủi bọt( sparkling wine, champagne), cocktail có thành phần từ champagne, sparkling wine hoặc nước có gas bên trong."
+    ],
+    "answer": 3
+   },
+   {
+    "id": "fb-fb-100",
+    "no": 100,
+    "text": "Upselling là gì?",
+    "options": [
+     "Phương pháp bán hàng gia tăng, khuyến khích thực khách sử dụng những combo đồ ăn thức uống để tăng doanh thu cho nhà hàng, khách sạn",
+     "Phương pháp bán hàng khuyến khích khách sử dụng đồ ăn thức uống có sẵn trong menu cố định",
+     "Phương pháp bán hàng gia tăng, khuyến khích thực khách sử dụng nhiều hơn món ăn, thức uống .... để tăng doanh thu cho nhà hàng, khách sạn",
+     "Đáp án 1 và 2"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "fb-fb-101",
+    "no": 101,
+    "text": "Nhiệt độ yêu cầu của sữa và bọt sữa đối với cappuccino và café latte là bao nhiêu?",
+    "options": [
+     "45 - 60°C",
+     "Trên 65°C",
+     "75 - 85°C",
+     "60 - 70°C"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "fb-fb-102",
+    "no": 102,
+    "text": "Nguyên liệu làm  nên '' RƯỢU VANG '' ?",
+    "options": [
+     "Nho và các loại hoa quả chín",
+     "Nho",
+     "Các loại hoa quả đều làm nên rượu vang",
+     "Các loại ngũ cốc, đại mạch"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "fb-fb-103",
+    "no": 103,
+    "text": "Nhiệt độ phục vụ vang đỏ là bao nhiêu?",
+    "options": [
+     "Nhiệt độ phòng(16-18oC)",
+     "Từ 6-18oC",
+     "Từ 10-18oC",
+     "Nhiệt độ phòng( từ 18-25oC)"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "fb-fb-104",
+    "no": 104,
+    "text": "Khi phục vụ hết 1 chai vang trắng cần lưu ý điểm gì?",
+    "options": [
+     "Đặt chai rỗng lên bàn cho khách",
+     "Đặt chai rỗng úp xuống xô ướp rượu",
+     "Tự động dẹp chai rượu đi",
+     "Thông báo cho khách hàng chai rượu đã hết và xin phép mang đi."
+    ],
+    "answer": 3
+   },
+   {
+    "id": "fb-fb-105",
+    "no": 105,
+    "text": "Quá trình xử lí thanh toán và trả lại thẻ cho khách trong vòng bao nhiêu phút?",
+    "options": [
+     "1 phút",
+     "2 phút",
+     "3 phút",
+     "5 phút"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "fb-fb-106",
+    "no": 106,
+    "text": "Định lượng phục vụ rượu bán ly là bao nhiêu?",
+    "options": [
+     "130ml",
+     "150ml",
+     "120ml",
+     "135ml"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "fb-fb-107",
+    "no": 107,
+    "text": "Nguồn gốc của trà có từ quốc gia nào?",
+    "options": [
+     "Việt nam",
+     "Trung Quốc",
+     "Nhật Bản",
+     "Sri Lanka"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "fb-fb-108",
+    "no": 108,
+    "text": "Quy trình phục vụ rượu có đá là gì?",
+    "options": [
+     "Rót rượu trước, đá vào sau",
+     "Để khách tự cho đá vào",
+     "Cho đá vào ly rồi mới rót rượu",
+     "Mang đá ra rồi hỏi khách"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "fb-fb-109",
+    "no": 109,
+    "text": "Quy trình phục vụ rượu vang bán ly?",
+    "options": [
+     "Nhân viên vào quầy bar và lấy ly rượu mang ra phục vụ.",
+     "Mang chai rượu khách gọi và rót cho khách",
+     "Mang chai rượu khách gọi, giới thiệu đây là chai rượu khách đã gọi và rót vào ly theo đúng tiêu chuẩn",
+     "Nhân viên mang chai rượu khách đã gọi, giới thiệu chai rượu, rót cho khách thử, sau đó rót vào ly theo đúng tiêu chuẩn."
+    ],
+    "answer": 3
+   },
+   {
+    "id": "fb-fb-110",
+    "no": 110,
+    "text": "Khi khách cư xử không đúng mực và yêu cầu nhân viên phục vụ. Người nhân viên nên xử lý thế nào?",
+    "options": [
+     "Tránh xa khỏi bàn khách",
+     "Từ chối một cách lịch sự",
+     "Nhân viên từ chối một cách lịch sự khéo léo, rời khỏi bàn và thông báo ngay cho quản lý ca trực.",
+     "Đáp án 2 và 3"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "fb-fb-111",
+    "no": 111,
+    "text": "Nhiệt độ phục vụ vang trắng là bao nhiêu?",
+    "options": [
+     "Từ 7-12oC",
+     "Nhiệt độ phòng(16-18oC)",
+     "Từ 0-6oC",
+     "Từ 4-8oC"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "fb-fb-112",
+    "no": 112,
+    "text": "Nhiệt độ phục vụ vang sủi(sparkling wine) là bao nhiêu?",
+    "options": [
+     "Từ -4-0oC",
+     "Từ 3-7oC",
+     "Từ 0-7oC",
+     "Từ 0-4oC"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "fb-fb-113",
+    "no": 113,
+    "text": "Rượu sake được làm từ nguyên liệu gì?",
+    "options": [
+     "Lúa mì",
+     "Đại mạch",
+     "Nho",
+     "Gạo"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "fb-fb-114",
+    "no": 114,
+    "text": "Camellia sinensis là gì?",
+    "options": [
+     "Tên gọi cây trà( chè)",
+     "Tên cây hoa trà",
+     "Tên 1 loại cây thuốc",
+     "Tên của 1 loại cà phê"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "fb-fb-115",
+    "no": 115,
+    "text": "Khách gọi một ly WHISKY ON THE ROCK. Thì nhân viên phải phục vụ như thế nào?",
+    "options": [
+     "Phục vụ rượu, kèm đá bên ngoài",
+     "Phục vụ kèm với đá",
+     "Phục vụ kèm với nước có gas",
+     "Phục vụ không kèm gì"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "fb-fb-116",
+    "no": 116,
+    "text": "Để pha một ly Magarita  bao gồm những thành phần gì?",
+    "options": [
+     "Tequila, triple sec, nước chanh",
+     "Triple sec, Gin, nước chanh",
+     "Tequila, Gin, nước chanh, Triple sec",
+     "Tequila, Rum, nước chanh"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "fb-fb-117",
+    "no": 117,
+    "text": "Bạn hãy nêu các thành phần để pha một ly  Mojito?",
+    "options": [
+     "Rum, đường nâu, lá bạc hà,  soda, đá bào, chanh",
+     "Vodka, chanh, đường nâu,  là bạc hà, soda, đá bào",
+     "Rum, chanh, đường nâu, lá bạc hà, đá bào, 7up",
+     "Rum, chanh, đường nâu, lá bạc hà, chanh leo, soda"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "fb-fb-118",
+    "no": 118,
+    "text": "Khi phục vụ rượu Ricard cần phải có những gì?",
+    "options": [
+     "Chanh cắt lát và đá lạnh",
+     "Carafe nước lọc",
+     "Chanh bổ cau và đá lạnh",
+     "Nước khoáng có ga"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "fb-fb-119",
+    "no": 119,
+    "text": "Loại cocktail nào sử dụng nhiều loại rượu nền để pha chế  nhất?(chọn đáp án đúng nhất)",
+    "options": [
+     "Pinacolada",
+     "Magarita",
+     "Long Island Ice Tea",
+     "Negroni"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "fb-fb-120",
+    "no": 120,
+    "text": "Long Drink( Mixed drink) là gì?",
+    "options": [
+     "Thức uống hỗn hợp của 1 loại rượu mạnh(spirit) với 1 loại soft drink hoặc nước hoa quả( juice)",
+     "Thức uống hỗn hợp của nhiều loại rượu mạnh(spirit) với 1 loại softdrinks hoặc nước hoa quả( juice)",
+     "Thức uống hỗn hợp của 1 loại rượu mạnh(spirit) với 1 loại softdrink",
+     "Thức uống được trộn lẫn bằng nhiều soft drink hoặc nước hoa quả"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "fb-fb-121",
+    "no": 121,
+    "text": "Tính chất khác nhau giữa 2 loại hạt cà phê: Robusta và Arabica?",
+    "options": [
+     "Được trồng với độ cao 1000 mét trên mực nước biển, có mùi vị thơm, đắng nhưng Robusta nhiều cafein hơn.",
+     "Được trồng với độ cao 1000 mét trên mực nước biển, có mùi vị thơm, đắng nhưng Arabica nhiều cafein hơn.",
+     "Arabica được trồng với độ cao 1000 mét trên mực nước biển, có mùi vị thơm hơn, ngon hơn, ít cafein hơn.Robusta được trồng dưới độ cao 1000m, có vị đắng hơn, đậm đặc hơn, nhiều cafein hơn.",
+     "Arabica được trồng với độ cao 1000 mét trên mực nước biển, có mùi vị thơm hơn, ngon hơn, nhiều cafein hơn.Robusta được trồng dưới độ cao 1000m, có vị đắng hơn, đậm đặc hơn, ít cafein hơn."
+    ],
+    "answer": 2
+   },
+   {
+    "id": "fb-fb-122",
+    "no": 122,
+    "text": "Hạt cà phê Robusta có hình dạng như thế nào?",
+    "options": [
+     "Tùy theo vùng đất trồng cà phê",
+     "Thuôn dài, rãnh giữa hạt thường là 1 đường thẳng",
+     "Thuôn dài, rãnh giữa hạt thường có hình lượn sóng",
+     "Tròn, rãnh giữa hạt thường là 1 đường thẳng"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "fb-fb-123",
+    "no": 123,
+    "text": "Pinotage là giống nho đặc trưng của quốc gia nào?",
+    "options": [
+     "Nam Phi",
+     "Pháp",
+     "Ý",
+     "Đà Lạt"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "fb-fb-124",
+    "no": 124,
+    "text": "Thuật ngữ \" VIRGIN\" nghĩa là gì",
+    "options": [
+     "Tên một loại đồ uống",
+     "Thành phần tương tự cocktail nhưng không có rượu",
+     "Tên một loại rượu",
+     "Đồ uống có đá"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "fb-fb-125",
+    "no": 125,
+    "text": "Rượu Brandy thường được phục vụ như thế nào?",
+    "options": [
+     "Bằng ly Brandy Snifter, đi kèm với đá, chanh",
+     "Bằng ly Brandy Snifter, đi kèm với đá, nước có ga",
+     "Bằng ly Brandy Snifter , không kèm đá với chanh",
+     "Bằng ly Brandy Snifter , uống với đá"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "fb-fb-126",
+    "no": 126,
+    "text": "Mezcal là gì?",
+    "options": [
+     "Loại rượu truyền thống của Mexico, làm từ cây thùa",
+     "1 loại Tequila được sản xuất ở vùng Jalisco, Mexico",
+     "1 loại nguyên liệu chính để làm bia Corona trứ danh của Mexico",
+     "1 loại bột để làm Tacos"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "fb-fb-127",
+    "no": 127,
+    "text": "Văn hóa uống trà đen với sữa bắt nguồn từ quốc gia nào?",
+    "options": [
+     "Sri Lanka",
+     "Luân Đôn",
+     "Trung Quốc",
+     "Anh"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "fb-fb-128",
+    "no": 128,
+    "text": "Khi khách hàng đã say nhưng vẫn muốn uống rượu tiếp, nhân viên sẽ xử lý như thế nào?",
+    "options": [
+     "Phục vụ đồ uống tiếp cho khách vì khách hàng là thượng đế, không bao giờ nói không với khách.",
+     "Từ chối khéo và báo cho quản lý, an ninh nếu cần thiết",
+     "Thông báo với khách sẽ phục vụ 1 ly cuối cùng sau đó khách phải dừng uống",
+     "Thông báo với khách là hiện quầy bar đang hết rượu"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "fb-fb-129",
+    "no": 129,
+    "text": "Khách dùng cocktail tại bar sau đó mang đồ uống ra hồ bơi để thưởng thức( đã thanh toán), nhân viên sẽ xử lý như nào?",
+    "options": [
+     "Lưu ý kĩ để nhớ thu ly ở hồ bơi sau khi khách sử dụng xong dịch vụ",
+     "Nhắc khách nhớ mang ly trả sau khi sử dụng xong",
+     "Thông báo quy định hồ bơi không được sử dụng ly thủy tinh và đổi đồ uống sang ly nhựa/melamin cho khách",
+     "Hỗ trợ khách mang đồ uống ra hồ bơi, tránh việc khách có thể làm vỡ ly và nắm được vị trí của khách để sau đó thu ly"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "fb-fb-130",
+    "no": 130,
+    "text": "Rượu Champagne thường được làm từ những giống nho gì?",
+    "options": [
+     "Carbenet franc, Sauvignon blanc, Petit Verdot",
+     "Merlot, Pinot noir, Chardonnay",
+     "Pinot noir, Pinot Meunier, Chardonnay",
+     "Carbernet Sauvignon, Pinot Meunier, Riesling"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "fb-fb-131",
+    "no": 131,
+    "text": "Vang đỏ vùng Bordeux thường dùng những giống nho nào để làm vang?(Bordeaux Blend)",
+    "options": [
+     "Pinot noir, Cabernet franc, Pinotage",
+     "Merlot, Carbenet franc, Carbernet Sauvignon",
+     "Malbec, Carbernet Sauvignon, Tannat",
+     "Tannat, Pinot noir, Merlot"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "fb-fb-132",
+    "no": 132,
+    "text": "Jim Beam thuộc dòng Whisky nào?",
+    "options": [
+     "Blended Scotch",
+     "Single Malts",
+     "Bourbon",
+     "Single Grain"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "fb-fb-133",
+    "no": 133,
+    "text": "Thành phần nào tạo nên tên gọi Dirty Martini?",
+    "options": [
+     "Nước cốt chanh",
+     "Nước ngâm quả Ô Liu",
+     "Tinh dầu vỏ chanh",
+     "Quả Ô Liu dầm"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "fb-fb-134",
+    "no": 134,
+    "text": "Thuật ngữ '' NEAT ''có nghĩa là gì?",
+    "options": [
+     "Đồ uống không pha, không đá",
+     "Đồ uống có đá",
+     "Đồ uống có đá để riêng",
+     "Đồ uống có đá và chanh"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "fb-fb-135",
+    "no": 135,
+    "text": "Làm thế nào để tạo ra cà phê không có cafein(decaffeinated)?",
+    "options": [
+     "Rang cà phê trên 16 phút với nhiệt độ xấp xỉ 220oC, nhiệt độ cao sẽ làm phá hủy liên kết cafein trong hạt cà phê",
+     "Ngâm hạt cà phê xanh trong nước từ 6h-8h, qua hiện tượng thẩm thấu ngược, cafein trong hạt cà phê sẽ hòa tan trong nước, tách hạt cà phê với nước sẽ thu được cà phê không có cafein",
+     "Không có cà phê không có cafein, đây chỉ là phương pháp chế biến các loại bột xay từ ngũ cốc thành bột có mùi giống cà phê.",
+     "Ngâm cà phê xanh trong nước nóng, dùng dung môi đặc biệt để hòa tan cafein, sau đó gạn hạt cà phê riêng ra"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "fb-fb-136",
+    "no": 136,
+    "text": "Single malt là gì?",
+    "options": [
+     "Loại whiskey làm từ 1 loại ngũ cốc, rượu được dùng để pha trộn có tuổi bằng nhau",
+     "Loại whiskey làm từ đại mạch và sản xuất từ 1 nhà chưng cất rượu, có thể pha trộn từ nhiều thùng rượu, nhiều năm khác nhau.",
+     "Loại whiskey làm từ đại mạch và sản xuất từ 1 nhà chưng cất rượu, pha trộn từ nhiều thùng rượu, tuổi của rượu dùng để pha trộn phải bằng nhau",
+     "Loại whiskey làm từ 1 loại ngũ cốc, từ 1 nhà chưng cất, cùng 1 mẻ ủ rượu."
+    ],
+    "answer": 1
+   },
+   {
+    "id": "fb-fb-137",
+    "no": 137,
+    "text": "Chú thích Cask strenth trên nhãn rượu Whiskey mang ý nghĩa gì?",
+    "options": [
+     "Whiskey có độ ABV cao hơn 50 độ",
+     "Whiskey hiếm, được lấy từ 1 thùng gỗ nhất định có đánh số thùng gỗ trên nhãn chai",
+     "Whiskey cao cấp, được làm, lấy từ các thùng rượu không được pha loãng hoặc pha loãng rất ít(undiluted)",
+     "Whisky bình dân, phục vụ trực tiếp từ thùng gỗ, thường nặng độ ABV"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "fb-fb-138",
+    "no": 138,
+    "text": "Để được gọi là Cognac, rượu phải được ủ trong thùng gỗ ít nhất bao lâu?",
+    "options": [
+     "2 năm",
+     "3 năm",
+     "2 năm rưỡi",
+     "Tùy theo nhà sản xuất"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "fb-fb-139",
+    "no": 139,
+    "text": "Bartender đang bận pha chế cho khách đang chờ tại quầy bar, có 1 nhóm khách sang trọng mới vào, người bartender sẽ xử lý như thế nào nếu chỉ có 1 mình?",
+    "options": [
+     "Tạm dừng pha chế và ra đón khách dẫn về bàn, trình menu, sau đó xin phép quay lại để lấy yêu cầu gọi món sau.",
+     "Tiếp tục pha chế, cố gắng hoàn thành nhanh thức uống để có thể ra tiếp khách",
+     "Xin phép khách đang chờ, trong trường hợp được khách cho phép sẽ ra đón đoàn khách mới vào bàn và trình menu, sau đó quay lại tiếp tục làm đồ uống",
+     "Vẫn tiếp tục làm đồ uống và hướng ánh nhìn về nhóm khách mới vào, mỉm cười gật đầu chào ra dấu hiệu đã nhận ra khách"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "fb-fb-140",
+    "no": 140,
+    "text": "Nêu tên các loại rượu mạnh( spirit)?",
+    "options": [
+     "Gin, Whisky, Vodka, Brandy, Tequila, Rhum",
+     "Vodka, Gin, Congac, Tequila, Whisky, Rhum",
+     "Gin, Vodka, Whisky, Congac, Tequila,",
+     "Đáp án 2 và 3"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "fb-fb-141",
+    "no": 141,
+    "text": "BEO là gì?",
+    "options": [
+     "Banquet event orders, đơn đặt hàng sự kiện; có các nội dung chi tiết của từng bộ phận để tổ chức sự kiện cho khách hàng",
+     "Banquet equipment operation, danh sách vật tư sử dụng cho bộ phận lễ tiệc",
+     "Banquet event orders, phiếu yêu cầu gọi món đặc biệt dành cho bộ phận lễ tiệc, có giá bán áp dụng khác so với nhà hàng",
+     "Là tên 1 loại động vật"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "fb-fb-142",
+    "no": 142,
+    "text": "Bộ phận nào phụ trách làm BEO?",
+    "options": [
+     "Ẩm thực/ F&B",
+     "Kinh doanh/ Sales",
+     "Bộ phận nào cũng được",
+     "Đặt phòng/Reservation"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "fb-fb-143",
+    "no": 143,
+    "text": "Bạn hãy kể tên các kiểu set up phòng họp ?",
+    "options": [
+     "Boardroom, Theater, Cinema",
+     "Theater, U Shape, Home working",
+     "U Shape, Boardroom, Classroom",
+     "Buffet, Classroom, Cabaret"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "fb-fb-144",
+    "no": 144,
+    "text": "Teabreak là gì?",
+    "options": [
+     "Thời điểm buổi họp kết thúc",
+     "Thời gian đầu buổi họp, khi khách bắt đầu dùng trà",
+     "Thời gian kết thúc buổi họp, khách VIP dùng trà thư giãn",
+     "Tiệc trà, cà phê giữa buổi họp để nghỉ giải lao"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "fb-fb-145",
+    "no": 145,
+    "text": "IBM là gì?",
+    "options": [
+     "Bàn chữ nhật chuyên dành để set up cho các sự kiện hội họp",
+     "Bàn vuông dùng để quà tặng trong sự kiện",
+     "Bàn tròn tiêu chuẩn trong các buổi tiệc",
+     "Ghế tiêu chuẩn cho các sự kiện"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "fb-fb-146",
+    "no": 146,
+    "text": "PM account là gì?",
+    "options": [
+     "Private message account, tài khoản riêng dành cho quản lý lễ tiệc làm việc với khách hàng",
+     "Tài khoản ảo để thanh toán cho 1 sự kiện",
+     "Private message account, tài khoản riêng dành cho Trưởng bộ phận lễ tiệc làm việc với khách hàng",
+     "Tài khoản bí mật để nhập các yêu cầu đặc biệt cho 1 sự kiện, tránh lộ thông tin của khách hàng"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "fb-fb-147",
+    "no": 147,
+    "text": "Khách mang thiết bị âm thanh vào tổ chức sự kiện và khi ra về chúng ta cần chú ý diều gì ?",
+    "options": [
+     "Nếu thiết bị AV được cung cấp bởi bên thứ ba, cần tiến hành giám sát trong quá trình đóng gói để đảm bảo không thiết bị nào của khách sạn vô tình bị gỡ bỏ.",
+     "Không cần quan tâm khách mang gì vào đó là việc của khách",
+     "Chúng ta cần tiến hành giám sát trong quá trình đóng gói.",
+     "Đáp án 1 và 2 là đúng"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "fb-fb-148",
+    "no": 148,
+    "text": "Phòng sự kiện phải được hoàn thiện  trước bao lâu khi sự kiện bắt đầu theo yêu cầu của khách hàng và dựa theo BEO ?",
+    "options": [
+     "1 giờ",
+     "2 giờ",
+     "3 giờ",
+     "30 phút"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "fb-fb-149",
+    "no": 149,
+    "text": "Podium là gì ?",
+    "options": [
+     "Sân khấu",
+     "Bục phát biểu",
+     "Bậc tam cấp",
+     "Sàn nhà"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "fb-fb-150",
+    "no": 150,
+    "text": "Ly nước được đặt phía trên dao ăn chính bao nhiêu cm ?",
+    "options": [
+     "1,5 cm",
+     "3cm",
+     "1cm",
+     "2 cm"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "fb-fb-151",
+    "no": 151,
+    "text": "Đối với quy trình thông thường đơn đặt hàng sự kiện phải được đưa ra cho các bộ phận liên quan trễ nhất bao lâu?",
+    "options": [
+     "48 giờ",
+     "1 tuần",
+     "72 giờ",
+     "Càng sát sự kiện càng tốt"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "fb-fb-152",
+    "no": 152,
+    "text": "Cabaret là gì?",
+    "options": [
+     "1 loại hình giải trí, hài kịch truyền thống của người Châu Âu",
+     "Kiểu set up bàn ăn dùng bàn vuông hoặc chữ nhật cho 2 người, thường dùng cho các dịp kỉ niệm, lãng mạn",
+     "1 kiểu set up bàn ăn theo kiểu bàn dài trang trọng, hoa hay các đồ trang trí chạy dọc giữa bàn",
+     "1 kiểu set up họp dùng bàn tròn, các ghế được đặt hướng về sân khấu, bàn chủ tọa"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "fb-fb-153",
+    "no": 153,
+    "text": "Khi dọn dẹp, sắp xếp lại phòng họp trong giờ giải lao phải đảm bảo những yếu tố nào?",
+    "options": [
+     "Bổ sung giấy cho bảng lật; Dọn dẹp bát đĩa dơ, rác trên bàn; Thêm nước uống, bút, giấy…; Thay ly nếu họp cả ngày",
+     "Dọn dẹp bát đĩa dơ, rác trên bàn; Thêm nước uống, bút, giấy…; Bổ sung đồ ăn trên quầy teabreak",
+     "Bổ sung giấy cho bảng lật; Thêm nước uống, bút, giấy…; Thay ly nếu họp cả ngày",
+     "Thêm nước uống, bút, giấy…; Thay ly nếu họp cả ngày"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "fb-fb-154",
+    "no": 154,
+    "text": "Đối với những cuộc họp cả ngày với đầy đủ dịch vụ cả ăn trưa, nếu giờ nghỉ trưa trễ hơn so với dự kiến 30 mins, thông tin sẽ phải được thông báo cho ai?",
+    "options": [
+     "Quản lý nhà hàng nơi khách dùng bữa",
+     "Bếp trưởng, Quản lý nhà hàng(nơi khách dùng bữa), Bộ phận kinh doanh, Kĩ thuật viên Âm thanh ánh sáng.",
+     "Trưởng bộ phận ẩm thực, Bếp trưởng",
+     "Bộ phận ẩm thực, Bộ phận buồng phòng, Lễ tân"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "fb-fb-155",
+    "no": 155,
+    "text": "Tại sao phải thông báo cho trưởng bộ phận ẩm thực/Bộ phận kinh doanh nếu khách họp lâu hơn so với yêu cầu ban đầu?",
+    "options": [
+     "Để có thể thông báo với khách đây là điều không được phép, phải tuân thủ quy định trong hợp đồng",
+     "Xin lỗi khách không thể phục vụ vì có sự kiện kế tiếp sắp diễn ra",
+     "Để các vị trí quản lý này có thể nắm thông tin và làm việc với khách về chi phí phát sinh, hoặc xin lỗi khách nếu chuẩn bị có sự kiện kế tiếp",
+     "Tất cả mọi thông tin đều phái thông báo cho Trưởng bộ phận"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "fb-fb-156",
+    "no": 156,
+    "text": "Theo tiêu chuẩn trong tiệc nhẹ giải lao giữa giờ họp, phục vụ cà phê phải đi kèm với  những gì?",
+    "options": [
+     "Mật ong, chanh, đường, sữa",
+     "Chanh, đường nâu, đường trắng, sữa tươi",
+     "Đường trắng, sữa tươi, bánh cookie",
+     "Đường trắng, đường nâu, đường ăn kiêng, sữa tươi, sữa đặc"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "fb-fb-157",
+    "no": 157,
+    "text": "Chuẩn bị đồ uống trước khi sự kiện bắt đầu chúng ta cần làm gì ?",
+    "options": [
+     "Nhập từ kho hoặc điều chuyển đồ uống theo chủng loại và số lượng theo yêu cầu trong BEO.",
+     "Điền vào phiếu xác nhận số lượng đồ uống ban đầu cho sự kiện và có đầy đủ 2 chữ ký của người chịu giám sát sự kiện và người quản lý quầy bar",
+     "Trường hợp nước uống do khách mang vào: cần có 2 chữ ký xác nhận gồm: Khách hàng hoặc đại diện khách hàng được ủy quyền, người giám sát sự kiện.",
+     "Cả 3 đáp án trên đều đúng"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "fb-fb-158",
+    "no": 158,
+    "text": "Khi xong tiệc về mặt hàng nước chúng ta cần làm gì ?",
+    "options": [
+     "Chốt ngay số lượng đồ uống còn lại ngay sau khi tiệc kết thúc. Có bảng tổng kết số lượng đồ uống và có chữ ký người chịu trách nhiệm đồ uống cho tiệc và giám sát buổi tiệc",
+     "Giữ lại số lượng vừa đủ lưu kho còn lại trả về kho tổng hoặc trả lại đồ uống cho khách",
+     "Giữ lại số lượng vừa đủ lưu kho còn lại trả về kho tổng hoặc trả lại đồ uống cho khách phải có giấy xác nhận và có chữ ký 2.",
+     "Đáp án 1 và 3 là đúng"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "fb-fb-159",
+    "no": 159,
+    "text": "Điều hòa được bật trước bao lâu trước khi khách đến ?",
+    "options": [
+     "50 phút",
+     "1 giờ",
+     "2 giờ",
+     "30 phút"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "fb-fb-160",
+    "no": 160,
+    "text": "Khu vực ban công của hội trường được sắp xếp các bàn cocktail đặt song song và cách bao nhiêu cm so với lan can kính của hội trường ?",
+    "options": [
+     "50cm",
+     "30cm",
+     "70cm",
+     "100cm"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "fb-fb-161",
+    "no": 161,
+    "text": "Các cờ công ty, tổ chức nếu được treo lên theo yêu cầu của khách luôn đảm bảo thấp hơn cờ tổ quốc ít nhất bao nhiêu cm ?",
+    "options": [
+     "30cm",
+     "50cm",
+     "40cm",
+     "100cm"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "fb-fb-162",
+    "no": 162,
+    "text": "Những bộ phận sẽ nhận được BEO bao gôm?",
+    "options": [
+     "Bộ phận lễ tiệc, Nhà bếp, Tạp vụ, Âm thanh hình ảnh, IT, Tài chính, Bảo vệ, Kỹ thuật, Buồng phòng, Lễ tân",
+     "Bộ phận lễ tiệc, Nhà bếp, Tạp vụ, Âm thanh hình ảnh, IT",
+     "Bộ phận lễ tiệc, Nhà bếp",
+     "Buồng phòng, Lễ tân"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "fb-fb-163",
+    "no": 163,
+    "text": "Về việc thanh toán: sẽ theo chính sách của khách sạn, một số chi tiết sẽ được liệt kê trên BEO, số khách có thể được ghi lại trong hệ thống, số tiền,... có được tiết lộ với khách của người đặt tiệc không ?",
+    "options": [
+     "Ai hỏi cúng có thể nói được",
+     "Không được phép",
+     "Không được phép hoặc nếu có thể tiết lộ thì cần có sự cho phép của chủ tiệc",
+     "Cả 3 đáp án đều đúng"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "fb-fb-165",
+    "no": 165,
+    "text": "Tiêu chuẩn sắp xếp bộ dao dĩa thì ăn tiểu kiểu tự chọn món gồm những tiêu chí gì ?",
+    "options": [
+     "01 bộ dao dĩa và thìa ăn món chính cách mép bàn 02cm: dao bên phải, lưỡi quay vào trong, dĩa bên trái, thìa ăn chính đặt ngoài cùng cạnh dao ăn khai vị. Cách khăn ăn 02cm .",
+     "Đặt trên mặt bàn và trước mặt ghế ngồi .",
+     "01 bộ dao dĩa và thìa ăn món chính cách mép bàn 02cm: dao bên phải, lưỡi quay vào trong, dĩa bên trái, thìa ăn chính đặt ngoài cùng cạnh dao ăn khai vị. Cách khăn ăn 05cm .",
+     "Đáp án 1 và 3 đều đúng"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "fb-fb-166",
+    "no": 166,
+    "text": "\\",
+    "options": [
+     "Chính giữa phòng có sắp đặt chậu/bình hoa với chiều cao tối đa từ \nchân đến đỉnh không quá 1,2 m. Đảm bảo không che khuất tầm nhìn các khách đối diện trong tư thế ngồi",
+     "Chính giữa phòng có sắp đặt chậu/bình hoa với chiều cao tối đa từ \nchân đến đỉnh không quá 1,2 m",
+     "Đặt chỗ nào ở giữa cũng được",
+     "Cả hai đáp án 1 và 3 đều đúng."
+    ],
+    "answer": 0
+   },
+   {
+    "id": "fb-fb-167",
+    "no": 167,
+    "text": "Đối với kiểu xắp xếp rạp hát chúng ta cần chú ý sắp xếp ghế như thế nào ?",
+    "options": [
+     "Các hàng ghế trên và dưới cách nhau tối thiểu là 0.5m, xếp ngay ngắn theo hàng lối",
+     "Các ghế trong 1 hàng cách nhau tối thiểu là 10 cm. Hàng ghế cuối cùng \ncách cửa ra vào ít nhất 2m",
+     "'Lối đi chính giữa các hàng ghế rộng tối\nthiểu là 1m.",
+     "Cả 3 đáp án trên"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "fb-fb-168",
+    "no": 168,
+    "text": "Sân khấu được sắp xếp trong phòng với tiêu chuẩn như thế nào ?",
+    "options": [
+     "Sân khấu được kê chính giữa phòng, sát tường nhưng giữ khoảng cách tối thiểu 10cm, cân đối với hai bên, cách mép cửa hoặc tường hai bên tối thiểu là 1m.",
+     "Sân khấu được kê chính giữa phòng, sát tường nhưng giữ khoảng cách tối thiểu 10cm, cân đối với hai bên",
+     "Được đặt ở chính giữa phòng",
+     "Đặt ở đâu cũng được"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "fb-fb-169",
+    "no": 169,
+    "text": "Ghế có phủ ghế và nơ ghế, nơ ghế đảm bảo khoảng cách là bao nhiêu tính từ đỉnh ghế xuống?",
+    "options": [
+     "15cm",
+     "20cm",
+     "10cm",
+     "50cm"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "fb-fb-170",
+    "no": 170,
+    "text": "Khi sắp xếp kiểu phòng lớp học thì khoảng cách của lối đi giữa các dãy \nbàn dọc tối thiểu là bao nhiêu ?",
+    "options": [
+     "0.5m",
+     "1m",
+     "0.7m",
+     "1.5m"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "fb-fb-171",
+    "no": 171,
+    "text": "Nêu các tiều chuẩn về khoảng cách set up ghế trong BQ?",
+    "options": [
+     "Theater: đặt ghế cách nhau tối thiểu 7-15 cm và 60 cm khoảng cách giữa các hàng.\nClassroom, Boardroom: tối thiếu 60 cm khoảng cách giữa mỗi ghế",
+     "Theater: đặt ghế cách nhau tối thiểu 20 cm và 90 cm khoảng cách giữa các hàng.\nClassroom, Boardroom: tối thiếu 1 mét khoảng cách giữa mỗi ghế",
+     "Theater: đặt càng sát nhau càng tốt để tiết kiệm diện tích.\nClassroom, Boardroom: đặt càng sát nhau càng tốt để tiết kiệm diện tích.",
+     "Theater: đặt ghế cách nhau 5 cm và 40 cm khoảng cách giữa các hàng.\nClassroom, Boardroom: tối thiếu 40 cm khoảng cách giữa mỗi ghế"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "fb-fb-172",
+    "no": 172,
+    "text": "Trong quá trình diễn ra sự kiện, nếu khách có những yêu cầu thêm các trang thiết bị phát sinh, bộ phận Banquet sẽ xử lý như thế nào?",
+    "options": [
+     "Ngay lập tức thực hiện theo yêu cầu của khách hàng",
+     "Sẵn sàng cung cấp thêm dịch vụ và thông báo cho khách hàng 1 cách lịch sự, rõ ràng về chi phí phát sinh",
+     "Đưa ra lời khuyên cho khách không nên yêu cầu phát sinh vào phút chót mà không có sự chuẩn bị, sẽ ảnh hưởng đến chất lượng dịch vụ",
+     "Báo khách vui lòng làm việc với bộ phận kinh doanh, bộ phận lễ tiệc không làm việc trực tiếp với khách"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "fb-fb-173",
+    "no": 173,
+    "text": "Tiệc nhẹ nghỉ giữa giờ, đồ ăn nóng và lạnh phải được đặt trước( hoặc sau) giờ tiệc bắt đầu bao lâu?",
+    "options": [
+     "15 phút đối với đồ ăn nóng, 20 phút đối với đồ lạnh",
+     "30 phút đối với đồ ăn nóng, 40 phút đối với đồ lạnh",
+     "15 phút đối với đồ ăn nóng, 45 phút đối với đồ lạnh",
+     "Càng sớm càng tốt"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "fb-fb-174",
+    "no": 174,
+    "text": "Như thế nào thì được gọi là sự kiện phát sinh?",
+    "options": [
+     "Sự kiện được tổ chức không qua phòng Kinh doanh",
+     "Sự kiện tổ chức miễn phí cho khách hàng để chiêu đãi, tri ân đối tác",
+     "Sự kiện mà BEO, xác nhận chỉ được cung cấp trong vòng 72 tiếng",
+     "Sự kiện được tổ chức danh riêng cho chủ đầu tư, chi phí do chủ đầu tư chiu, được hạch toán riêng"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "fb-fb-175",
+    "no": 175,
+    "text": "Sự kiện của khách có 80 người, khách yêu cầu họp(kiểu lớp học) xong sẽ dùng luôn bữa tối tại ball room, không có thời gian để nghỉ vì khách vội, phải giải quyết như thế nào?",
+    "options": [
+     "Khách họp kiểu lớp học nên chỉ cần bố trí thêm ghế, công cụ dụng cụ để sẵn lên khay để bày lên, chỉ mất khoảng 15 phút",
+     "Cố gắng mời khách xuống dùng bữa ở nhà hàng, chỉ tốn chưa đến 5 phút đi lại",
+     "Chuẩn bị sẵn bàn ăn với đầy đủ công cụ dụng cụ trên bàn, khi khách họp xong chỉ cần dọn hết bàn họp và chuyển bàn ăn vào, chỉnh lại ghế",
+     "Sắp đặt phòng họp và phòng ăn ở 2 vách khác nhau của Ballroom, sau khi khách họp xong thì mời khách qua sử dụng luôn"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "fb-fb-176",
+    "no": 176,
+    "text": "Trong quá trình họp, khách dùng viết bi để vẽ lên bàn họp( khăn trắng), sẽ xử lý như thế nào?",
+    "options": [
+     "Khăn có thể giặt nên không có vấn đề gì, chỉ cần chuyển cho phòng giặt là ngay lập tức",
+     "Kiểm tra với phòng giặt là về việc tẩy rửa vết dơ, nếu tẩy được sẽ thông báo tính tiền khách chi phí giặt, nếu không sẽ tính phí đền khăn",
+     "Báo khách sẽ phải đền tiền khăn bàn",
+     "Báo an ninh giữ khách lại vì tội phá hoại đồ của khách sạn"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "fb-fb-177",
+    "no": 177,
+    "text": "Quy trình kiểm điếm các dịch vụ khách đã sử dụng và xác nhận lại với chủ tiệc và báo cáo có mấy bước ?",
+    "options": [
+     "4",
+     "5",
+     "3",
+     "2"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "fb-fb-178",
+    "no": 178,
+    "text": "Dđối với sắp xếp tiệc đứng các bàn cocktail cách nhau tối thiếu bao nhiêu mét ?",
+    "options": [
+     "1m",
+     "0.5m",
+     "1.5m",
+     "2m"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "fb-fb-179",
+    "no": 179,
+    "text": "Ly nước có dung tích tối thiểu là bao nhiêu để sắp xếp trên mặt bàn họp ?",
+    "options": [
+     "250ml",
+     "350ml",
+     "450ml",
+     "177ml"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "fb-fb-180",
+    "no": 180,
+    "text": "Khi sắp xếp kiểu phòng lớp học thì khoảng cách từ mép bàn của dãy đầu tiên cách sân khấu hoặc bàn chủ tọa tổi thiểu là bao nhiêu ?",
+    "options": [
+     "3m",
+     "2,5m",
+     "1,5m",
+     "2m"
+    ],
+    "answer": 3
+   }
+  ],
+  "group": "SBD PAT"
+ },
+ {
+  "id": "fb-kit",
+  "name": "FB - KIT",
+  "questions": [
+   {
+    "id": "fb-kit-1",
+    "no": 1,
+    "text": "Theo bạn nếu khi khách bị ngộ độc thực phẩm sẽ ảnh hưởng những gì đến công ty và bộ phận chúng ta?",
+    "options": [
+     "Ảnh hưởng đến kinh tế của công ty khi bồi thường và chi trả tiền viện phí cho khách.",
+     "Ảnh hướng đến hình ảnh, uy tín của công ty, có thể gây ra việc khủng hoảng về truyền thông, ảnh hưởng đến sức khỏe của khách hàng và công ty phải giải quyết mọi vấn đề về kinh tế, ảnh hưởng đến uy tín của bộ phận và sẽ mất khách",
+     "Ảnh hưởng đến các chế độ của bộ phận.",
+     "Ảnh hưởng đến hình ảnh của công ty."
+    ],
+    "answer": 1
+   },
+   {
+    "id": "fb-kit-2",
+    "no": 2,
+    "text": "Thực phẩm nấu chín được duy trì giữ nóng ở nhiệt độ bao nhiêu độ C là đúng theo tiêu chuẩn VSATTP?",
+    "options": [
+     "60-100 độ C",
+     "0-60 độ C",
+     "0-100 độ C",
+     "Ko có đáp án đúng"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "fb-kit-3",
+    "no": 3,
+    "text": "Quy định lưu mẫu sau bao nhiêu tiếng sẽ được hủy?",
+    "options": [
+     "8 tiếng",
+     "16 tiếng",
+     "24 tiếng",
+     "36 tiếng"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "fb-kit-4",
+    "no": 4,
+    "text": "Hộp lưu mẫu phải bằng chất liệu nào sau đây là đúng với quy định VSATTP?",
+    "options": [
+     "Bằng sắt",
+     "Bằng sứ",
+     "Bằng inox không rỉ",
+     "Bằng tô nhựa"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "fb-kit-5",
+    "no": 5,
+    "text": "Hộp lưu mẫu phải được sát trùng bằng các nào sau đây là đúng?",
+    "options": [
+     "Trụng qua nước sôi",
+     "Nướng trong lò để nguội",
+     "Nướng trong lò để nguội",
+     "Hấp nóng hoặc trụng qua nước sôi"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "fb-kit-6",
+    "no": 6,
+    "text": "Nhân viên cần chuẩn bị những gì khi lưu mẫu thức ăn?",
+    "options": [
+     "Găng tay,khẩu trang và hộp lưu mẫu inox được sát trùng",
+     "Khẩu trang và găng tay",
+     "Hộp lưu mẫu inox được sát trùng",
+     "Găng tay,khẩu trang và chén sứ lưu mẫu"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "fb-kit-7",
+    "no": 7,
+    "text": "Lưu mẫu sẽ được thực hiện khi phục vụ bao nhiêu khách trở lên?",
+    "options": [
+     "20 người",
+     "30 người",
+     "40 người",
+     "50 người"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "fb-kit-8",
+    "no": 8,
+    "text": "Hãy lựa chọn đáp án đúng cho móng tay của nhân viên bếp là gì?",
+    "options": [
+     "Cắt ngắn và được sơn màu trong suốt",
+     "Được để dài móng tay út",
+     "Móng tay không được dài quá 3mm",
+     "Móng tay cắt ngắn và không được sơn móng tay"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "fb-kit-9",
+    "no": 9,
+    "text": "Yêu cầu đối với tóc nữ giới sau đây cái nào đúng khi đi làm?",
+    "options": [
+     "Được buộc hoặc búi gọn vào kẹp lưới màu đen, dùng kẹp xước hoặc keo chải tóc để cố định các sợi tóc ngắn không búi được",
+     "Được nhuộm màu tối và cột cao",
+     "Tùy theo khuôn mặt mà có kiểu tóc phù hợp",
+     "Thả tóc theo tự nhiên"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "fb-kit-10",
+    "no": 10,
+    "text": "Các hành vi nào sau đây không được làm trong khu vực bếp?",
+    "options": [
+     "Không được hút thuốc trong khu vực Bếp",
+     "Không tụ tập nói chuyện, đùa giỡn, cười nói lớn tiếng trong khu vực Bếp và khu vực nhà hàng",
+     "Không ăn uống trong khu vực Bếp",
+     "Cả 3 đáp án trên"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "fb-kit-11",
+    "no": 11,
+    "text": "Những món nào sau đây dễ bị nhiểm khuẩn nhất?",
+    "options": [
+     "Các món xào",
+     "Các món nướng",
+     "Các món salad trộn",
+     "Các món canh"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "fb-kit-12",
+    "no": 12,
+    "text": "Doanh nghiệp bị ảnh hưởng như thế nào nếu để xẩy ra ngộ độc thực phẩm",
+    "options": [
+     "Giảm doanh thu công ty",
+     "Nhân viên Mất tinh thần làm việc",
+     "Sự Chỉ trích của báo giới và truyền thông",
+     "Tăng chi phí cho bảo hiểm"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "fb-kit-13",
+    "no": 13,
+    "text": "Có mấy loại ô nhiễm thực phẩm",
+    "options": [
+     "1",
+     "2",
+     "3",
+     "4"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "fb-kit-14",
+    "no": 14,
+    "text": "Ký sinh trùng là ô nhiễm gì",
+    "options": [
+     "Ô nhiễm sinh học",
+     "Ô nhiễm hóa học",
+     "Ô nhiễm vật lý",
+     "Ko có đáp án đúng"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "fb-kit-15",
+    "no": 15,
+    "text": "Vi khuẩn Salmonella có trong thực phẩm nào sau đây",
+    "options": [
+     "Trứng sống",
+     "Gia cầm sồng",
+     "Gia súc sống",
+     "Đáp án 1 và 2 là đúng"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "fb-kit-16",
+    "no": 16,
+    "text": "Vi khuẩn E Coli có ở đâu",
+    "options": [
+     "Trong trái cây",
+     "Trong phân động vật máu nóng",
+     "Trong hải sản",
+     "Ko có đáp án đúng"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "fb-kit-17",
+    "no": 17,
+    "text": "Vi khuẩn phát triển tốt ở dải nhiệt độ bao nhiêu",
+    "options": [
+     "1-50 độ C",
+     "1-80 độ C",
+     "4-60 độ C",
+     "65-100 độ C"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "fb-kit-18",
+    "no": 18,
+    "text": "Vius viêm gan B và C có lây qua đường ăn uống ko",
+    "options": [
+     "Có lây",
+     "ko lây",
+     "Chưa chắc",
+     "Ko có đáp án đúng"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "fb-kit-19",
+    "no": 19,
+    "text": "Ký sinh trùng bị tiêu diệt ở điều kiện nào",
+    "options": [
+     "Nhiệt độ cao",
+     "Cấp đông",
+     "Nhiệt độ cao và cấp đông",
+     "Ký sinh trùng ko bị tiêu diệt"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "fb-kit-20",
+    "no": 20,
+    "text": "Hành vi cần tránh trong khu vực chế biến thực phẩm",
+    "options": [
+     "Đồng phục chưa sạch sẽ",
+     "Thiếu đồ bảo hộ",
+     "Không có máy rửa tay",
+     "Hút thuốc"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "fb-kit-21",
+    "no": 21,
+    "text": "Cách rã đông bằng cách nào sau đây ko đúng với tiêu chuẩn VSATTP?",
+    "options": [
+     "Lò vi sóng",
+     "Nước sôi 100 độ",
+     "Ở nhiệt độ phòng",
+     "Trong tủ lạnh"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "fb-kit-22",
+    "no": 22,
+    "text": "Vi sinh vật bị kìm hãm tốc độ phát triển và sinh sản ở nhiệt độ nào sau đây?",
+    "options": [
+     "0-(-18) độ C",
+     "0-10 độ C",
+     "45-70 độ C",
+     "20-100 độ C"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "fb-kit-23",
+    "no": 23,
+    "text": "Thực phẩm cấp đông được giữ ở nhiệt độ nào là tốt nhất?",
+    "options": [
+     "Âm trên 18 độ C",
+     "Âm trên 5 độ C",
+     "Âm trên 10 độ C",
+     "Âm trên 15 độ C"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "fb-kit-24",
+    "no": 24,
+    "text": "Thực phẩm lạnh được giữ ở nhiệt độ nào là tốt nhất?",
+    "options": [
+     "Âm trên 18 độ C",
+     "Âm trên 5 độ C",
+     "Âm trên 10 độ C",
+     "Từ 0 đến 4 độ C"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "fb-kit-25",
+    "no": 25,
+    "text": "Quy định kiểm thực ba bước,đâu là đáp án đúng bước ba?",
+    "options": [
+     "Kiểm tra trước khi uống",
+     "Kiểm tra trước khi ăn",
+     "Kiểm tra trước khi làm",
+     "Kiểm tra trước khi chế biến"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "fb-kit-26",
+    "no": 26,
+    "text": "Khi thực phẩm đông đã sả một lần thì sẽ được bảo quản như thế nào?",
+    "options": [
+     "Được cấp đông lại",
+     "Không được cấp đông lại lần 2,bảo quản trong tủ mát",
+     "Phải sử dụng ngay",
+     "Không cần làm gì"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "fb-kit-27",
+    "no": 27,
+    "text": "Cách ghi date cho thực phẩm thế nào là đúng",
+    "options": [
+     "Có ngày tháng",
+     "Có tên sản phẩm",
+     "Có thời hạn hết date",
+     "Cả ba đáp án là đúng"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "fb-kit-28",
+    "no": 28,
+    "text": "Có mấy loại rác cơ bản",
+    "options": [
+     "1",
+     "2",
+     "3",
+     "4"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "fb-kit-29",
+    "no": 29,
+    "text": "Rửa tay đúng cách có mấy bước?",
+    "options": [
+     "2",
+     "3",
+     "4",
+     "5"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "fb-kit-30",
+    "no": 30,
+    "text": "Rã đông bằng lò vi sóng thì thực phẩm nên làm gì?",
+    "options": [
+     "Ko làm gì cả,cất tủ mát",
+     "Nên chế biến ngay",
+     "Được cấp đông lại",
+     "Không có đáp án nào đúng"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "fb-kit-31",
+    "no": 31,
+    "text": "Kho mát rau được để nhưng đồ nào sau đây?",
+    "options": [
+     "Thịt bò",
+     "Thịt gà",
+     "Hải sản",
+     "Các loại bơ sữa"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "fb-kit-32",
+    "no": 32,
+    "text": "Thực phẩm để trong kho được để như thế nào là đúng",
+    "options": [
+     "Để trên pallet,được sắp gon gàng",
+     "Để xuống sàn",
+     "Để đâu cũng được",
+     "Không có đáp án nào đúng"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "fb-kit-33",
+    "no": 33,
+    "text": "Nhiệt độ trong kho được theo dõi mấy lần trên ngày",
+    "options": [
+     "1 lần/1 ngày",
+     "2 lần/1 ngày",
+     "3 lần/1 ngày",
+     "4 lần/1 ngày"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "fb-kit-34",
+    "no": 34,
+    "text": "Dao và thớt xanh lá cây sử dụng cho thực phẩm nào",
+    "options": [
+     "Hải sản",
+     "Gia cầm",
+     "Gia súc",
+     "Rau củ,hoa quả"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "fb-kit-35",
+    "no": 35,
+    "text": "Dao và thớt xanh nước biển sử dụng cho thực phẩm nào",
+    "options": [
+     "Hải sản",
+     "Gia cầm",
+     "Gia súc",
+     "Rau củ,hoa quả"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "fb-kit-36",
+    "no": 36,
+    "text": "Dao và thớt vàng sử dụng cho thực phẩm nào",
+    "options": [
+     "Hải sản",
+     "Gia cầm",
+     "Gia súc",
+     "Rau củ,hoa quả"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "fb-kit-37",
+    "no": 37,
+    "text": "Dao và thớt đỏ sử dụng cho thực phẩm nào",
+    "options": [
+     "Hải sản",
+     "Gia cầm",
+     "Gia súc",
+     "Rau củ,hoa quả"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "fb-kit-38",
+    "no": 38,
+    "text": "Dao và thớt nâu sử dụng cho thực phẩm nào",
+    "options": [
+     "Thực phẩm chín",
+     "Gia cầm",
+     "Gia súc",
+     "Rau củ,hoa quả"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "fb-kit-39",
+    "no": 39,
+    "text": "Dao và thớt trắng sử dụng cho thực phẩm nào",
+    "options": [
+     "Bánh mì,bơ",
+     "Gia cầm",
+     "Gia súc",
+     "Rau củ,hoa quả"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "fb-kit-40",
+    "no": 40,
+    "text": "Kiểm thực 3 bước là những bước nào sau đây là đúng?",
+    "options": [
+     "Kiểm tra trước khi chế biến thức ăn-Ko cần Kiểm tra trong quá trình chế biến-Kiểm tra trước khi ăn",
+     "Kiểm tra trước khi chế biến thức ăn-Kiểm tra trong quá trình chế biến-Kiểm tra trước khi dọn",
+     "Kiểm tra trước khi vận chuyển thức ăn-Kiểm tra trong quá trình chế biến-Kiểm tra trước khi ăn",
+     "Kiểm tra trước khi chế biến thức ăn-Kiểm tra trong quá trình chế biến-Kiểm tra trước khi ăn"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "fb-kit-41",
+    "no": 41,
+    "text": "Nhiệt độ hấp là bao nhiêu độ là đạt?",
+    "options": [
+     "60 độ C",
+     "80 độ C",
+     "100 độ C",
+     "120 độ C"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "fb-kit-42",
+    "no": 42,
+    "text": "Muốn rau được xanh thì khi luộc xong phải làm gì?",
+    "options": [
+     "Ngâm nước nóng",
+     "Ngâm nước thường",
+     "Ngâm nước đá",
+     "Để rau tự nguội"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "fb-kit-43",
+    "no": 43,
+    "text": "Khi luộc rau thì cho rau vào chảo nước lúc nào là thích hợp nhất?",
+    "options": [
+     "Cho vào lúc nào cũng được",
+     "Cho vào khi nước còn lạnh",
+     "Cho vào khi nước còn ấm",
+     "Cho vào khi nước đang sôi"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "fb-kit-44",
+    "no": 44,
+    "text": "Thùng dùng để vận chuyển thực phẩm cần?",
+    "options": [
+     "Không có rêu mốc",
+     "đảm bảo vệ sinh, không bám dính bùn đất, không có rêu mốc, mùi hôi…",
+     "Bám bụi,bám đất và có mùi hôi",
+     "không bám dính bùn đất"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "fb-kit-45",
+    "no": 45,
+    "text": "Rã đông bằng nước thực phẩm cần được làm gì?",
+    "options": [
+     "Bọc trong bao bì kín nước",
+     "ko cần bọc gì cả",
+     "Được bọc trong túi đen",
+     "Được bọc trong tờ báo"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "fb-kit-46",
+    "no": 46,
+    "text": "Cách nhận rau xà lách như thế  nào là đúng?",
+    "options": [
+     "Không bị nát",
+     "Không bị héo",
+     "Không có dư lượng thuốc sâu",
+     "Cả 3 đáp án"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "fb-kit-47",
+    "no": 47,
+    "text": "Cách kiểm tra cá tươi như thế nào là đúng?",
+    "options": [
+     "Kiểm tra mắt cá",
+     "Kiểm tra mang cá",
+     "Kiểm tra độ đàn hồi của thịt",
+     "Cả 3 đáp án"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "fb-kit-48",
+    "no": 48,
+    "text": "Cách kiểm tra thịt lợn như thế nào là đúng?",
+    "options": [
+     "Kiểm tra mầu của thịt,tỷ lệ mỡ và thịt,kiểm tra xem có mùi hôi ko",
+     "Kiểm tra mầu là được",
+     "Kiểm tra tỷ lệ mỡ và thịt là được",
+     "Không có đáp án nào đúng"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "fb-kit-49",
+    "no": 49,
+    "text": "Thực phẩm có nguồn gốc xuất xứ ở nước nào thì ko được nhận(chỉ được nhận hàng của thương hiệu LEE KUM KI)",
+    "options": [
+     "Nhật",
+     "Hàn Quốc",
+     "Trung Quốc",
+     "Pháp"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "fb-kit-50",
+    "no": 50,
+    "text": "Nồng độ quỳ tím đạt để ngâm rau củ của dung dịch XY 12 là bao nhiêu ppm",
+    "options": [
+     "0-100 ppm",
+     "50-100 ppm",
+     "0-40 ppm",
+     "20-30ppm"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "fb-kit-51",
+    "no": 51,
+    "text": "Rau được ngâm trong dung dịch XY12 bao nhiêu phút",
+    "options": [
+     "6 phút",
+     "8 phút",
+     "10 phút",
+     "3-5 phút"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "fb-kit-52",
+    "no": 52,
+    "text": "Kho khô cần phải có…(điền tiếp vào dấu 3  chấm)",
+    "options": [
+     "Bin card",
+     "Thẻ xanh",
+     "Thẻ đỏ",
+     "Ko có gì cả"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "fb-kit-53",
+    "no": 53,
+    "text": "Thực phẩm chế biến sãn cần được bảo quản như thế nào?",
+    "options": [
+     "Bỏ trong tủ mát",
+     "Để bất cứ đâu cũng dc",
+     "Bảo quản nhiệt độ tủ mát hoặc tủ đông,kho đông",
+     "Ko có đáp án đúng"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "fb-kit-54",
+    "no": 54,
+    "text": "Sắp xếp thứ tự những thứ ưu tiên cần cất vào kho khi nhận hàng",
+    "options": [
+     "Bò-gà-rau-hải sản",
+     "Gà-bò-hải sản-rau",
+     "Hải sản-rau-bò gà",
+     "Hải sản-bò-gà-rau"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "fb-kit-55",
+    "no": 55,
+    "text": "Nhận rau cần thùng đựng mầu gì",
+    "options": [
+     "Thùng xanh nước biển cây",
+     "Thùng xanh lá cây",
+     "Thùng vàng",
+     "Thùng đỏ"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "fb-kit-56",
+    "no": 56,
+    "text": "Nhận hải sản cần thùng đựng mầu gì",
+    "options": [
+     "Thùng xanh nước biển cây",
+     "Thùng xanh lá cây",
+     "Thùng vàng",
+     "Thùng đỏ"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "fb-kit-57",
+    "no": 57,
+    "text": "Nhận gia súc cần thùng đựng mầu gì",
+    "options": [
+     "Thùng xanh nước biển cây",
+     "Thùng xanh lá cây",
+     "Thùng vàng",
+     "Thùng đỏ"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "fb-kit-58",
+    "no": 58,
+    "text": "Nhận gia cầm cần thùng đựng mầu gì",
+    "options": [
+     "Thùng xanh nước biển cây",
+     "Thùng xanh lá cây",
+     "Thùng vàng",
+     "Thùng đỏ"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "fb-kit-59",
+    "no": 59,
+    "text": "Có mấy cách rã đông thực phẩm?",
+    "options": [
+     "1",
+     "2",
+     "3",
+     "4"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "fb-kit-60",
+    "no": 60,
+    "text": "Rã đông thực phẩm trong tủ lạnh nhiệt độ yêu cầu là bao nhiêu?",
+    "options": [
+     "0-4 độ C",
+     "0- 10 độ C",
+     "0-8 độ C",
+     "0-16 độ C"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "fb-kit-61",
+    "no": 61,
+    "text": "Nhiệt độ phòng  từ 16°C - 22°C có thể bảo quản thực phẩm nào sau đây:",
+    "options": [
+     "Hải sản",
+     "Gia súc",
+     "Gia cầm",
+     "Trái cây"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "fb-kit-62",
+    "no": 62,
+    "text": "Nguyên tắc thực phẩm trong kho kho(FIFO) có nghĩa là gì?",
+    "options": [
+     "nguyên tắc nhập sau - xuất trước, nhập sau - xuất sau (FIFO)",
+     "nguyên tắc nhập trước - xuất trước, nhập sau - xuất sau (FIFO)",
+     "nguyên tắc nhập trước - xuất trước, nhập trước - xuất sau (FIFO)",
+     "nguyên tắc nhập trước - xuất trước, nhập sau - xuất trước (FIFO)"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "fb-kit-63",
+    "no": 63,
+    "text": "Tỷ lệ cắt hạt lựu lớn đâu là đúng",
+    "options": [
+     "0,6x0,6x0,6 cm",
+     "5x5x5 cm",
+     "1,9x1,9x1,9 cm",
+     "3x3x3 cm"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "fb-kit-64",
+    "no": 64,
+    "text": "Tỷ lệ cắt hạt lựu nhỏ đâu là đúng",
+    "options": [
+     "0,6x0,6x0,6 cm",
+     "2x2x2 cm",
+     "3x3x3 cm",
+     "4x4x4 cm"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "fb-kit-65",
+    "no": 65,
+    "text": "Tỷ lệ cắt hình que diêm đâu là đúng",
+    "options": [
+     "0,6x0,6x6 cm",
+     "2x2x6 cm",
+     "3x3x6 cm",
+     "4x4x6cm"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "fb-kit-66",
+    "no": 66,
+    "text": "Tỷ lệ cắt sợi nhỏ đâu là đúng",
+    "options": [
+     "4x4x6cm",
+     "2x2x6 cm",
+     "3x3x6 cm",
+     "0,1x0,1x6 cm"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "fb-kit-67",
+    "no": 67,
+    "text": "Cách nhận tôm tươi nào sau đây là đúng?",
+    "options": [
+     "Kiểm tra tôm xem đầu tôm có bị thâm đen ko",
+     "Kiểm tra xem chân tôm có dính đông sương ko",
+     "Kiểm tra xem đầu tôm có bị rớt ra ko,tôm săn chắc,đầu ko bị đen,ko bị nhớt",
+     "Kiểm tra xem tôm có săn chắc ko"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "fb-kit-68",
+    "no": 68,
+    "text": "Cách nhận mực tươi nào sau đây là đúng?",
+    "options": [
+     "Mầu sắc sáng bóng,thân mực săn chắc,có độ đàn hồi cao,mắt mực trong veo,ko có mùi hôi,ko chẩy nhớt,đầu và thân bị đứt",
+     "Mầu sắc sáng bóng,thân mực săn chắc,có độ đàn hồi cao,mắt mực trong veo,ko có mùi hôi,ko chẩy nhớt,đầu và thân ko bị đứt",
+     "Mầu sắc sáng bóng,thân mực săn chắc,có độ đàn hồi cao,mắt mực trong veo,có mùi hôi,ko bị chẩy nhớt,đầu và thân ko bị đứt",
+     "Mầu sắc sáng bóng,thân mực săn chắc,có độ đàn hồi cao,mắt mực trong veo,ko có mùi hôi,bị chẩy nhớt,đầu và thân ko bị đứt"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "fb-kit-69",
+    "no": 69,
+    "text": "Để phi lê 1 con cá hồi thì cần cắt bao nhiêu đường dao chính?",
+    "options": [
+     "4 cắt",
+     "5 cắt",
+     "6 cắt",
+     "7 cắt"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "fb-kit-70",
+    "no": 70,
+    "text": "Tomahawk steak là phần thịt ở bộ phận nào của con Bò",
+    "options": [
+     "Thịt Vai bò",
+     "Sườn bò",
+     "Đầu thăn ngoại có xương",
+     "Thịt mông bò"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "fb-kit-71",
+    "no": 71,
+    "text": "Sous vide là phương pháp nấu ăn như thế nào?",
+    "options": [
+     "Nấu nhanh",
+     "Nấu chậm",
+     "Nấu nhỏ lửa",
+     "Nấu to lửa"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "fb-kit-72",
+    "no": 72,
+    "text": "Thịt gà sẽ ko được kết hợp nấu với rau nào sau đây gây độc tố?",
+    "options": [
+     "Hành lá",
+     "Gừng",
+     "Lá chanh",
+     "Rau cải"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "fb-kit-73",
+    "no": 73,
+    "text": "Nhiệt độ kho lạnh bảo quản rau củ là bao nhiêu?",
+    "options": [
+     "2 - 8 độ C",
+     "-2 đến 2 độ C",
+     "-18 độ C",
+     "Chỉ duy trì mức 10 độ C"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "fb-kit-74",
+    "no": 74,
+    "text": "Thực phẩm nào sau đây được phép bỏ chung vào kho lạnh rau củ?",
+    "options": [
+     "Hải sản xả đông",
+     "Gạo",
+     "Hóa chất",
+     "Sữa chua"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "fb-kit-75",
+    "no": 75,
+    "text": "Nhiệt độ kho đông theo tiêu chuẩn là bao nhiêu?",
+    "options": [
+     "2 - 8 độ C",
+     "-2 đến 2 độ C",
+     "< -18 độ C",
+     "Chỉ duy trì mức - 3 độ C"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "fb-kit-76",
+    "no": 76,
+    "text": "Nhiệt độ tủ lạnh được theo dõi với tần suất bao nhiêu lần/ngày?",
+    "options": [
+     "3 lần/ngày",
+     "2 lần/ngày",
+     "1 lần/ngày",
+     "Thay đổi khi cần thiết"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "fb-kit-77",
+    "no": 77,
+    "text": "Nhiệt độ bảo quản kho khô là bao nhiêu?",
+    "options": [
+     "18 độ C",
+     "22 - 25 độ C",
+     "30 độ C",
+     "Chỉ cần thoáng mát"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "fb-kit-78",
+    "no": 78,
+    "text": "Tần suất vệ sinh kho khô là bao nhiêu lần/tuần?",
+    "options": [
+     "1 lần/tuần",
+     "Khi thấy bẩn và lộn xộn mới vệ sinh",
+     "Khi cấp trên yêu cầu mới dọn",
+     "4  lần/tuần"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "fb-kit-79",
+    "no": 79,
+    "text": "Những sản phẩm phải được ưu tiên dùng trước?",
+    "options": [
+     "Cần dùng loại nào thì mở loại đó",
+     "Những sản phẩm còn nguyên bao, gói",
+     "Chỉ mở những sản phẩm được giao chi thị",
+     "Những sản phẩm đã mở túi bao, gói"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "fb-kit-80",
+    "no": 80,
+    "text": "Khi cắt thịt gà chín sử dụng dao thớt màu gì là đúng?",
+    "options": [
+     "Màu vàng",
+     "Tiện thớt nào gần nhất sẽ dùng thớt đó",
+     "Không quan trọng màu sắc, chất liệu",
+     "Màu nâu"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "fb-kit-81",
+    "no": 81,
+    "text": "Việc lưu mẫu được thực hiện khi phục vụ từ bao nhiêu khách trở lên?",
+    "options": [
+     "Lúc nào cũng cần lưu",
+     "20 khách",
+     "30 khách",
+     "Số lượng khách dao động trong khoảng từ 30 đến 50 mới phải lưu mẫu"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "fb-kit-82",
+    "no": 82,
+    "text": "Định lượng yêu cầu theo tiêu chuẩn khi lưu mẫu thực phẩm là bao nhiêu?",
+    "options": [
+     "Không quy định cụ thể đối với thể rắn, \n150 ml đối với thể lỏng",
+     "100 gram đối với thể rắn, 150 ml đối với thể lỏng",
+     "100 gram đối với thể rắn, \nKhông quy định đối với thể lỏng",
+     "Quy định tùy thuộc vào Tổng bếp trưởng"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "fb-kit-83",
+    "no": 83,
+    "text": "Loại trang sức - phụ kiện nào nhân viên mang sau đây là đúng? (áp dụng cho cả nam và nữ)",
+    "options": [
+     "Không được mang phụ kiện gì",
+     "Được chọn 1 loại trang sức bất kỳ mà mình cảm thấy quan trọng nhất, có thể phục vụ cho quá trình làm việc",
+     "1 nhẫn cưới trơn và đồng hồ",
+     "Chỉ 1 nhẫn cưới trơn"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "fb-kit-84",
+    "no": 84,
+    "text": "Theo tiêu chuẩn thời gian lưu mẫu tối thiểu bao nhiêu lâu?",
+    "options": [
+     "Nếu mẫu thử có hiện tượng lạ, lập tức bỏ đi",
+     "Chỉ cần 12 giờ",
+     "Tùy thuộc vào từng thời điểm cụ thể",
+     "24 giờ"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "fb-kit-85",
+    "no": 85,
+    "text": "Nhiệt độ tủ đông theo tiêu chuẩn là bao nhiêu?",
+    "options": [
+     "< -10 độ C",
+     "Càng lạnh càng tốt",
+     "Không được điều chỉnh lên 0 độ C",
+     "< -5 độ C"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "fb-kit-86",
+    "no": 86,
+    "text": "Khi có trường hợp khách ngộ độc thực phẩm chúng ta cần xử lý mẫu thực phẩm lưu như thế nào ?",
+    "options": [
+     "Niêm phong lại toàn bộ các hộp lưu mẫu có yêu cầu",
+     "Niêm phong lại toàn bộ các hộp lưu mẫu có yêu cầu;\nToàn bộ các hộp mẫu sẽ chuyển vào tủ cấp đông (-10 đến -18°C) để bảo quản",
+     "Báo cáo Tổng quản lý để xin phương án xử lý phù hợp tùy vào mức độ nghiêm trọng của sự việc",
+     "Ghi chép mục ghi chú là có trường hợp ngộ độc và hủy mẫu như bình thường"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "fb-kit-87",
+    "no": 87,
+    "text": "Theo bạn rau củ luộc chín sử dụng dao thớt màu gì ?",
+    "options": [
+     "Xanh lá cây",
+     "Tiện thớt nào gần nhất sẽ dùng thớt đó",
+     "Thớt gỗ, dao trắng",
+     "Xanh nước biển"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "fb-kit-88",
+    "no": 88,
+    "text": "Hành động nào sau đây không phù hợp với tiêu chuẩn tác phong diện mạo đối với nhân viên bếp ?",
+    "options": [
+     "Nam được mang 1 đồng hồ, nữ được sơn bóng đối với móng tay",
+     "Nam: Tóc không chạm mắt/ tai/ vai và phủ cổ áo, không để tóc mai dài",
+     "Vệ sinh cá nhân sạch sẽ: Cơ thể/ răng miệng sạch, không mùi; móng tay sạch, dài tối đa 2mm, không sơn màu",
+     "Nhân viên Bếp: chỉ mang 01 nhẫn cưới (nhẫn trơn)"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "fb-kit-89",
+    "no": 89,
+    "text": "Các trường hợp nào sau đây là không đúng ?",
+    "options": [
+     "Rửa tay khi tiếp xúc với thực phẩm sống chuyển qua thực phẩm chín",
+     "Rửa tay khi tiếp xúc với hóa chất",
+     "Xử dụng bao tay khi tiếp xúc với thực phẩm chín",
+     "Xử dụng bao tay cầm nắm tủ lạnh sau đó cằm nắm thực phẩm chín"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "fb-kit-90",
+    "no": 90,
+    "text": "Hành động nào sau đây là sai ?",
+    "options": [
+     "Rửa tay sau đó lau khô bằng tạp dề",
+     "Rửa tay sau đó lau khô bằng giấy sử dụng 1 lần",
+     "Rửa tay sau đó làm khô bằng máy sấy",
+     "Rửa tay bằng cồn sát khuẩn 1 lần và để khô tự nhiên"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "fb-kit-91",
+    "no": 91,
+    "text": "Rửa tay đúng cách gồm bao nhiêu bước ?",
+    "options": [
+     "Không quan trọng bao nhiêu bước, chỉ cần rửa sạch sẽ",
+     "5",
+     "Có thể rút ngắn tùy ý",
+     "6"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "fb-kit-92",
+    "no": 92,
+    "text": "Nhiệt độ yêu cầu khi lưu mẫu là bao nhiêu ?",
+    "options": [
+     "0 - 4 độ C",
+     "Không quá lạnh dưới 0 độ C",
+     "Nhiệt độ phòng",
+     "-18 độ C"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "fb-kit-93",
+    "no": 93,
+    "text": "Khi bị vết thương chúng ta cần làm gì ?",
+    "options": [
+     "Dùng giấy thấm máu và tiếp tục làm việc",
+     "Dùng bọc thực phẩm để bọc vết cắt và tiếp tục làm việc",
+     "Băng kín bằng băng không thấm nước",
+     "Rửa vết thương dưới nước sạch sau đó tiếp tục làm việc"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "fb-kit-94",
+    "no": 94,
+    "text": "Thay dung dịch sát khuẩn ngâm dao thớt bao nhiêu lần một ngày là đúng ?",
+    "options": [
+     "1 lần/ngày",
+     "2 lần/ngày",
+     "3 lần/ngày",
+     "4 lần/ngày"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "fb-kit-95",
+    "no": 95,
+    "text": "Vùng nhiệt độ nguy hiểm của thực phẩm là bao nhiêu ?",
+    "options": [
+     "0 - 50 độ C",
+     "0 - 60 độ C",
+     "5 - 50 độ C",
+     "5 - 60 độ C"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "fb-kit-96",
+    "no": 96,
+    "text": "Kết quả kiểm nghiệm thực phẩm (món ăn sẵn sàng phục vụ khách hàng) được tiến hành ít nhất bao nhiêu tháng 1 lần ?",
+    "options": [
+     "3 tháng",
+     "6 tháng",
+     "9 tháng",
+     "12 tháng"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "fb-kit-97",
+    "no": 97,
+    "text": "Thịt bò đông lạnh bảo quản ở nhiệt độ bao nhiêu là đúng ?",
+    "options": [
+     "0 độ C",
+     "-5 độ C",
+     "-10 độ C",
+     "-18 độ C"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "fb-kit-98",
+    "no": 98,
+    "text": "Hành động nào sau đây không phù hợp với quy trình lưu mẫu?",
+    "options": [
+     "Sử dụng hộp inox có nắp đậy để lưu mẫu",
+     "Niêm phong lại toàn bộ các hộp lưu mẫu có yêu cầu",
+     "Các hộp lưu mẫu phải được bảo quản trong tủ lạnh nhiệt độ 0 - 4 độ C",
+     "Lưu mẫu chung với tủ bảo quản thực phẩm"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "fb-kit-99",
+    "no": 99,
+    "text": "Đâu là đáp án đúng nhất ?",
+    "options": [
+     "Lưu mẫu 200gr đối với mẫu thực phẩm rắn, 250ml đối với mẫu thực phẩm lỏng",
+     "Chỉ lưu mẫu thực phẩm rắn, thực phẩm lỏng chỉ lưu khi có yêu cầu",
+     "Lưu mẫu đúng, đủ số lượng: 150gr đối với mẫu thực phẩm rắn, 100ml đối với mẫu thực phẩm lỏng;",
+     "Lưu mẫu với số lượng vừa đủ hộp lưu mẫu"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "fb-kit-100",
+    "no": 100,
+    "text": "Tiêu chuẩn trang bị, đồng phục cho người đầu bếp theo đúng quy định gồm:",
+    "options": [
+     "Cá nhân tự trang bị sao cho phù hợp với điều kiện làm việc",
+     "Trừ các phụ kiện lớn, gây ảnh hưởng đến quá trình làm việc, chỉ cần trang bị đủ quần áo đồng phục, tạp dề, bảng tên là được",
+     "Quần áo, tạp dề, mũ, giày chống trơn trượt, khăn quấn cổ, bảng tên, đồng hồ, nhẫn cưới trơn (nếu có)",
+     "Quần áo, tạp dề, mũ, giày chống trơn trượt, khăn quấn cổ, bảng tên, nhẫn cưới trơn (nếu có)"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "fb-kit-101",
+    "no": 101,
+    "text": "Thực phẩm bảo quản trong kho khô như thế nào là đúng ?",
+    "options": [
+     "Chiều cao của tầng dưới cùng của kệ và tấm nâng phải cách mặt đất tối thiểu 15cm",
+     "Để ngang tầm với để tiện sử dụng",
+     "Chiều cao của tầng dưới cùng của kệ và tấm nâng phải cách mặt đất tối thiểu 5cm",
+     "Thực phẩm cho dưới sàn, nền nhà nếu kệ đã đầy"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "fb-kit-102",
+    "no": 102,
+    "text": "Khi chế sashimi chúng ta dùng thớt màu gì ?",
+    "options": [
+     "Nâu",
+     "Xanh nước biển",
+     "Tiện thớt nào gần nhất sẽ dùng thớt đó, chỉ cần đảm bảo vệ sinh",
+     "Thớt gỗ"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "fb-kit-103",
+    "no": 103,
+    "text": "Các loại thực phẩm nào sau đây được phép bảo quản chung trong kho rau",
+    "options": [
+     "Tôm đã luộc chín và bọc kín cho vào hộp",
+     "Mực đông lạnh",
+     "Thịt gà mới nhập về",
+     "Các loại thịt sau khi luộc chín"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "fb-kit-104",
+    "no": 104,
+    "text": "Các công cụ dụng cụ nào sau đây được sử dụng trong bảo quản lạnh/đông",
+    "options": [
+     "Thùng xốp, ca-tông, thùng nhựa xanh lá cây",
+     "Thùng nhựa xanh lá cây",
+     "Thùng xốp, thùng nhựa xanh lá cây",
+     "Các loại thùng có thể bảo quản"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "fb-kit-105",
+    "no": 105,
+    "text": "Thớt đỏ sử dụng cho các loại thịt đỏ. Vậy thịt đà điểu sử dụng thớt màu gì?",
+    "options": [
+     "Xanh",
+     "Đỏ",
+     "Vàng",
+     "Thớt nào cũng được"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "fb-kit-106",
+    "no": 106,
+    "text": "Phương pháp rã đông nào sau đây là tốt nhất?",
+    "options": [
+     "Rã đông trong tủ lạnh",
+     "Rã đông bằng lò vi sóng",
+     "Rã đông bằng nước",
+     "Rã đông ở nhiệt độ phòng"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "fb-kit-107",
+    "no": 107,
+    "text": "Nguyên tắc (FIFO) được hiểu như thế nào ?",
+    "options": [
+     "Nhập trước - xuất trước, nhập sau – xuất sau",
+     "Nhập trước - xuất sau, nhập sau - xuất trước",
+     "Thực phẩm tươi dùng trước",
+     "Thực phẩm cũ dùng sau"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "fb-kit-108",
+    "no": 108,
+    "text": "Tại sao không được phép cấp đông: cua, ghẹ nguyên liệu và các loại rau củ quả.",
+    "options": [
+     "Vì đây là nguyên liệu tươi sống",
+     "Vì xả đông các nguyên liệu trên rất khó",
+     "Vì nếu làm đông sẽ phá vỡ cấu trúc của nguyên liệu",
+     "Vì cấp thực phẩm này có thể mua thường xuyên"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "fb-kit-109",
+    "no": 109,
+    "text": "Đâu là phương pháp bảo quản sai quy trình ?",
+    "options": [
+     "Trái cây bảo quản chung với sữa",
+     "Sữa chua để nguyên thùng ca-tông bảo quản trong kho",
+     "Hải sản và thịt bảo quản riêng biệt",
+     "Thực phẩm bảo quản trong kho được bao bọc kín 2 đầu"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "fb-kit-110",
+    "no": 110,
+    "text": "Nhãn dán trên thực phẩm bảo quản cần các thông tin gì ?",
+    "options": [
+     "Tên sản phẩm, ngày nhập kho",
+     "Tên sản phảm, ngày nhập kho, ngày hết hạn",
+     "Tên sản phẩm, ngày hết hạng",
+     "Ngày hết hạng, trọng lượng sản phẩm"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "fb-kit-111",
+    "no": 111,
+    "text": "Đối với tủ lạnh, thực phẩm được đặt cách dàn lạnh bao nhiêu ?",
+    "options": [
+     "10cm",
+     "Tùy vào lượng thực phẩm để sắp xếp",
+     "5cm",
+     "Không có tiêu chuẩn cụ thể"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "fb-kit-112",
+    "no": 112,
+    "text": "Sắp xếp thực phẩm trong kho lạnh cách dàn lạnh tối thiểu ?",
+    "options": [
+     "Càng xa càng tốt",
+     "Trong khoảng 20cm, không được để quá xa, không đảm bảo khoảng cách để giữ lạnh",
+     "30cm",
+     "50cm"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "fb-kit-113",
+    "no": 113,
+    "text": "Thời gian tối đa áp dụng với phương pháp rã đông thực phẩm ở nhiệt độ phòng là bao nhiêu?",
+    "options": [
+     "Càng lâu càng tốt",
+     "4 giờ",
+     "12 giờ",
+     "8 giờ"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "fb-kit-114",
+    "no": 114,
+    "text": "Khi phát hiện kho bảo quản thực phẩm có nhiệt độ bất thường chúng ta phải làm gì?",
+    "options": [
+     "Theo dõi trong vòng 1 tuần rồi lên phương án xử lý",
+     "Báo ngay bộ phận kĩ thuật và lên phương án xử lý",
+     "Dọn hết thực phẩm sang kho khác và báo bộ phận kĩ thuật",
+     "Ghi chép vào biểu mẫu về tình trạng tủ bất thường"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "fb-kit-115",
+    "no": 115,
+    "text": "Phát biểu nào sau đây là đúng nhất ?",
+    "options": [
+     "Có thể bảo quản thịt & hải sản chung kho đối với hàng đông",
+     "Phải đảm bảo che đậy và tách riêng khu vực nếu bảo quản chung kho đối với thịt và hải sản",
+     "Tách riêng khu vực nếu bảo quản chung kho đối với thịt và hải sản",
+     "Hải sản được cho vào thùng xanh nước biển, thịt cho vào thùng đỏ và để riêng các kệ trong khu vực kho đông"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "fb-kit-116",
+    "no": 116,
+    "text": "Tủ bảo quản mẫu thực phẩm được lưu của các bếp phải đáp ứng điều kiện gì?",
+    "options": [
+     "Tủ  phải tách biệt không lưu chung với các thực phẩm khác, được vệ sinh sạch sẽ hàng ngày, nhiệt độ cho phép của tủ từ 0 độ đến 4 độ C",
+     "Tủ  phải tách biệt không lưu chung với các thực phẩm khác, được vệ sinh sạch sẽ hàng ngày",
+     "Chỉ cân duy trì nhiệt độ từ 0 độ đến 5 độ C là được",
+     "Là tủ mát do nhà cung cấp quy định là đáp ứng yêu cầu"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "fb-kit-117",
+    "no": 117,
+    "text": "Là bếp trưởng, anh/chị cần làm những những gì để hạn chế tối đa ngộ độc thực phẩm?",
+    "options": [
+     "Thường xuyên kiểm tra, đôn đốc nhắc nhở nhân viên tuân thủ các quy định về ATTP, kiểm tra nguyên liệu đầu vào và phương pháp bảo quản cho từng loại thực phẩm",
+     "Giao trách nhiệm cho các giám sát, phát hiện vi phạm lập biên bản gửi KSNB xử lý, phát tài liệu cho nhân viên học để đảm bảo ATVSTP",
+     "Thường xuyên ăn thử các thực phẩm trước khi phục vụ khách",
+     "Không sử dụng các loại thực phẩm đông lạnh, các loại rau ăn sống để phục vụ khách nhằm đảm bảo tránh ngộ độc thực phẩm"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "fb-kit-118",
+    "no": 118,
+    "text": "Lưu mẫu thực phẩm để làm gì?",
+    "options": [
+     "Lưu mẫu thực phẩm nhằm kết hợp ban ATVSTP xử lý các vấn đề liên quan đến ngộ độc thực phẩm theo quy định của Bộ Y tế",
+     "Lưu mẫu thực phẩm nhằm kiểm tra chất lượng món ăn do các nhân viên bếp chính thực hiện",
+     "Lưu mẫu thực phẩm nhằm phân loại các món ăn về chất lượng và số lượng.",
+     "Lưu mẫu thực phẩm nhằm hỗ trợ cho việc đối chiếu với khách hàng khi món ăn bị chê"
+    ],
+    "answer": 0
+   }
+  ],
+  "group": "SBD PAT"
+ },
+ {
+  "id": "fb-ke-toan-dinh-luong-bnc",
+  "name": "FB - Kế toán định lượng - BNC",
+  "questions": [
+   {
+    "id": "fb-ke-toan-dinh-luong-bnc-1",
+    "no": 1,
+    "text": "Khi xây dựng định lượng các món có sử dụng những vật liệu kèm theo như: ống hút, túi giấy hoặc ly giấy thì những chi phí này được tính vào đâu?",
+    "options": [
+     "Chi phí bếp",
+     "Chi phí nhà hàng",
+     "Chi phí ngân sách không tính cost",
+     "Chi phí cho công ty"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "fb-ke-toan-dinh-luong-bnc-2",
+    "no": 2,
+    "text": "Sau khi chốt số liệu cuối tháng trên hệ thống kế toán định lượng phải nộp những chứng từ bằng bản cứng gì cho Phòng Kế toán?",
+    "options": [
+     "Phiếu xuất kho",
+     "Phiếu điều chuyển",
+     "Phiếu xuất kho &\nPhiếu điều chuyển",
+     "Phiếu xuất kho,\nPhiếu điều chuyển và Biên bản kiểm kê"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "fb-ke-toan-dinh-luong-bnc-3",
+    "no": 3,
+    "text": "Để các loại rau quả không bị hư hỏng, Anh, Chị sẽ làm gì ?",
+    "options": [
+     "Các loại rau củ nhập trước xuất trước, các loại rau củ nhập sau xuất sau",
+     "Lựa các loại rau củ to dễ làm làm trước còn các loai rau củ nhỏ khó làm để khi nào rảnh rỗi làm sau",
+     "Các loại rau củ nhập trước xuất trước",
+     "Rau củ nào dễ thì làm trước, khó thì làm sau"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "fb-ke-toan-dinh-luong-bnc-4",
+    "no": 4,
+    "text": "Khoản tiền giảm trừ cho người mua hàng do hàng hóa bị kém phẩm chất, sai quy cách, lạc hậu thị hiếu được gọi là gì?",
+    "options": [
+     "Chiết khấu thương mại",
+     "Giảm giá hàng bán",
+     "Hàng bán bị trả lại",
+     "Giảm giá vốn hàng bán"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "fb-ke-toan-dinh-luong-bnc-5",
+    "no": 5,
+    "text": "Phương pháp hạch toán hàng tồn kho gồm các bước nào?",
+    "options": [
+     "Kiểm kê định kỳ",
+     "Kê khai thường xuyên",
+     "Kiểm kê định kỳ và kê khai thường xuyên",
+     "Kiểm kê định kỳ, kê khai thường xuyên và nhập trước xuất trước"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "fb-ke-toan-dinh-luong-bnc-6",
+    "no": 6,
+    "text": "Phương pháp nào không thuộc phương pháp tính giá hàng tồn kho theo chế độ kế toán hiện hành?",
+    "options": [
+     "Phương pháp nhập trước xuất trước",
+     "Phương pháp nhập sau xuất trước",
+     "Phương pháp thực tế đích danh",
+     "Phương pháp giá bán lẻ"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "fb-ke-toan-dinh-luong-bnc-7",
+    "no": 7,
+    "text": "Trong \"Quy định thể thức trình bày văn bản\" quy định tất cả văn bản được trình bày trên giấy khổ A4 với kích thước tiêu chuẩn như thế nào?",
+    "options": [
+     "210mm x 297mm",
+     "210mm x 294mm",
+     "210mm x 292mm",
+     "210mm x 290mm"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "fb-ke-toan-dinh-luong-bnc-8",
+    "no": 8,
+    "text": "Khi thấy bộ phận vẫn chuyển hàng không để thực phẩm hoặc rau củ vào ky sọt theo đúng quy đinh. Anh, chị sẽ làm gì ?",
+    "options": [
+     "Quan trọng là hàng không có vấn đề gì là được. Còn để vào hay không là chuyện của kho tổng",
+     "Không ý kiến vì không thuộc phạm vi công việc",
+     "Chụp hình báo cho giám đốc để lập biên bản phạt",
+     "Chụp hình báo cho giám sát trong ca và quản lý để nắm thông tin và có hướng xử lý thích hợp nhất"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "fb-ke-toan-dinh-luong-bnc-9",
+    "no": 9,
+    "text": "Trong \"Quy định quản lý, sử dụng điện thoại và các thiết bị viễn thông\" quy định thời gian cuộc gọi được giới hạn tối đa đối với 01 cuộc gọi (trừ trường hợp đặc biệt)?",
+    "options": [
+     "10 phút",
+     "15 phút",
+     "20 phút",
+     "25 phút"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "fb-ke-toan-dinh-luong-bnc-10",
+    "no": 10,
+    "text": "Công tác kiểm kê tài sản định kỳ của bộ phận theo qui định Công ty tổ chức bao nhiêu lần trong 1 năm?",
+    "options": [
+     "Một tháng một lần, vào cuối tháng và báo cáo cho Tổ quản lý tài sản, thuộc phòng kế toán.",
+     "2 lần trong 1 tháng, vào các ngày giữa và cuối tháng và gửi kết quả cho phòng kế toán.",
+     "Cứ 06 tháng một lần và gửi kết quả cho tổ quản lý tài sản của công ty.",
+     "Cứ 06 tháng một lần và lưu file lại"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "fb-ke-toan-dinh-luong-bnc-11",
+    "no": 11,
+    "text": "Nguyên tắc cơ bản của kế toán là gì?",
+    "options": [
+     "Thận trọng",
+     "Trọng yếu",
+     "Nhất quán, hoạt động liên tục, thận trọng, giá gốc, trọng yếu và phù hợp",
+     "Cơ sở dồn tích, nhất quán, hoạt động liên tục, thận trọng, giá gốc, trọng yếu và phù hợp"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "fb-ke-toan-dinh-luong-bnc-12",
+    "no": 12,
+    "text": "Trong các câu trả lời sau, câu trả lời nào là đúng nhất khi gọi hàng chợ cho các bếp?",
+    "options": [
+     "Kiểm tra lại hàng tồn kho, dựa vào tình hình lượng khách và xem xét lại đơn hàng chợ hàng ngày các bếp gửi để gọi hàng chợ cho chính xác. Tránh tình trạng hàng tồn kho nhiều và hết hạn sử dụng",
+     "Gọi theo đơn hàng mà các bếp yêu cầu",
+     "Nếu cảm thấy mặt hàng nào gọi ít, anh chị có thể tự gọi thêm phòng trường hợp thiếu hàng",
+     "Tự ý hủy đi những mặt hàng lẻ mà các bếp gọi"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "fb-ke-toan-dinh-luong-bnc-13",
+    "no": 13,
+    "text": "Chính sách miễn phí cho hướng dẫn viên và nhân viên điều hành với booking ăn dưới 5 khách là gì?",
+    "options": [
+     "Không miễn phí",
+     "Miễn phí vé ăn buffet",
+     "Miễn phí vé 1 suất ăn cơm nội bộ",
+     "Giảm 20% giá vé ăn buffet"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "fb-ke-toan-dinh-luong-bnc-14",
+    "no": 14,
+    "text": "Khi kiểm tra thấy tác phong của nhân viên bếp chưa đúng như không đeo bảng tên, không đội mũ bếp…. anh/chị xử lý như thế nào?",
+    "options": [
+     "Không quan tâm vì đã có phòng Kiểm soát nội bộ kiểm tra",
+     "Lập biên bản và chuyển xuống phòng Kiểm soát nội bộ",
+     "Báo bếp trưởng lập biên bản chuyển phòng Kiểm soát nội bộ. Vì các bạn đã được đào tạo về nội quy nên phải nghiêm túc thực hiện",
+     "Không cho nhân viên đó đi làm việc"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "fb-ke-toan-dinh-luong-bnc-15",
+    "no": 15,
+    "text": "Việc yêu cầu thực phẩm hàng ngày phải dựa trên những yếu tố cơ bản nào sau đây?",
+    "options": [
+     "Hàng tồn kho trong ngày của bếp",
+     "Số lượng khách booking sử dụng dịch vụ trong ngày mai",
+     "Cập nhật các đoàn khách và tiệc phát sinh nếu có",
+     "Hàng tồn kho, số lượng khách đặt ngày sau và các đoàn khách ngoại giao, tiệc Công ty"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "fb-ke-toan-dinh-luong-bnc-16",
+    "no": 16,
+    "text": "Khi lập phiếu điều chuyển nội bộ trên phần mềm Fast, người lập sẽ ở trạng thái nào trước khi chuyển vào sổ cái?",
+    "options": [
+     "Điều chuyển",
+     "Lập chứng từ",
+     "Duyệt bộ phận",
+     "Đã chọn vào sổ cái"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "fb-ke-toan-dinh-luong-bnc-17",
+    "no": 17,
+    "text": "Phần mềm nào sau đây đang được áp dụng ở các đơn vị để theo dõi quản lý số liệu và hàng tồn kho?",
+    "options": [
+     "FBO",
+     "Pixcel Point",
+     "POS",
+     "VGS"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "fb-ke-toan-dinh-luong-bnc-18",
+    "no": 18,
+    "text": "Có cần theo dõi và ghi nhật ký nhiệt độ kho đông kho mát hàng ngày không?",
+    "options": [
+     "Bắt buộc để đảm bảo kho được vận hành thông suốt và nhiệt độ kho luôn trong tiêu chuẩn quy định.",
+     "Bắt buộc để đảm bảo kho được vận hành thông suốt",
+     "Bằng kinh nghiệm khi thấy thực phẩm đảm bảo đông cứng là được",
+     "Không cần theo dõi vì hàng ngày đều nhập và xuất hàng cho các bếp."
+    ],
+    "answer": 0
+   },
+   {
+    "id": "fb-ke-toan-dinh-luong-bnc-19",
+    "no": 19,
+    "text": "Đối tượng nào sau đây cần phải tính giá thành phẩm nhập kho khi tính chi phí?",
+    "options": [
+     "Hàng nhập mua từ nhà cung cấp",
+     "Hàng mượn từ bên ngoài",
+     "Nguyên vật liệu nhập mua sau đó tự chế biến rồi tạo nên thành phẩm và đưa vào sử dụng",
+     "Hàng tồn kho lâu năm"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "fb-ke-toan-dinh-luong-bnc-20",
+    "no": 20,
+    "text": "Trong quá trình giao nhận hàng với Kho tổng nếu phát hiện hàng thực tế dư hoặc hư hỏng so với yêu cầu của bộ phận thì xử lý như thế nào?",
+    "options": [
+     "Tìm hiểu nguyên nhân sau đó đại diện bếp và bên giao hàng sẽ viết Phiếu trả hàng về lại Kho tổng rồi làm việc lại với nhà cung cấp nếu phát hiện lỗi",
+     "Hàng thừa nên cứ nhận mà không cần ký nhận",
+     "Trả hàng về và gạch trực tiếp lên chứng từ giao nhận hàng",
+     "Nhắc nhở kho và nhận hàng"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "fb-ke-toan-dinh-luong-bnc-21",
+    "no": 21,
+    "text": "Có cần ghi chép thẻ kho trong việc lưu giữ và bảo quản thực phẩm trong kho đông,mát?",
+    "options": [
+     "Bắt buộc ghi chép để theo dõi,cân đối hàng tồn và thời gian nhập xuất của các loại thực phẩm",
+     "Có thể ghi chép nếu hay quên hoặc không cần ghi nếu đã nhớ.",
+     "Chỉ cần ghi chép trong sổ sách của kế toán bếp là được.",
+     "Việc này không cần thiết vì hàng ngày đều nhập và xuất kho."
+    ],
+    "answer": 0
+   },
+   {
+    "id": "fb-ke-toan-dinh-luong-bnc-22",
+    "no": 22,
+    "text": "Khi nhận được mail về nhân sự bộ phận anh/chị hết hạn hợp đồng trong tháng, anh/chị phải làm những công việc gì?",
+    "options": [
+     "Triển khai cho các bếp",
+     "In mẫu đánh giá cho nhân viên",
+     "Triển khai và in mẫu đánh giá",
+     "Triển khai, in mẫu đánh giá cho quản lý đánh giá, rồi trình ký trưởng bộ phận và nộp cho phòng nhân sự"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "fb-ke-toan-dinh-luong-bnc-23",
+    "no": 23,
+    "text": "Muốn đánh giá bổ nhiệm thăng chức cho nhân viên bếp, anh/chị phải làm những công việc gì?",
+    "options": [
+     "Làm tờ trình tiến cử thăng chức",
+     "In mẫu đánh giá bổ nhiệm cho nhân viên tự đánh giá",
+     "Làm tờ trình đồng thời in mẫu đánh giá cho nhân viên tự đánh giá",
+     "Làm tờ trình đồng thời in mẫu đánh giá cho nhân viên tự đánh giá và làm tờ trình điều chỉnh mức thu nhập (nếu có) và trình ký rồi chuyển cho nhân sự"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "fb-ke-toan-dinh-luong-bnc-24",
+    "no": 24,
+    "text": "Khi có nhân sự mới nhận việc, anh/chị cần làm những công việc gì?",
+    "options": [
+     "Cập nhật danh sách nhân sự mới",
+     "Báo cơm cho nhân sự mới",
+     "Tiếp nhận nhân sự",
+     "Tiếp nhận, báo cơm và cập nhật vào danh sách theo dõi chấm công"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "fb-ke-toan-dinh-luong-bnc-25",
+    "no": 25,
+    "text": "Anh/chị sẽ làm gì khi chi phí tháng trước tăng cao?",
+    "options": [
+     "Kiểm kê lại chính xác hàng xuất ra hằng ngày, so lại với định lượng xem có hao hụt gì không",
+     "Dự tính chi phí thường xuyên hằng tuần",
+     "Theo dõi tình hình xuất, nhập hàng ở bếp hằng ngày",
+     "Kiểm kê lại chính xác hàng xuất ra so với định lượng, dự tính chi phí thường xuyên, theo dõi tình hình xuất nhập hàng hàng ngày"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "fb-ke-toan-dinh-luong-bnc-26",
+    "no": 26,
+    "text": "Khi có tiệc của công ty, bếp có nhiệm vụ phục vụ thức ăn, anh/chị sẽ làm những công việc gì?",
+    "options": [
+     "Theo định lượng của bếp trưởng để gọi hàng về",
+     "Tham gia hỗ trợ bếp",
+     "Sau tiệc, tính lại chi phí thực phát sinh và so với định lượng",
+     "Đặt hàng, hỗ trợ bếp, và tính chi phí sau tiệc"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "fb-ke-toan-dinh-luong-bnc-27",
+    "no": 27,
+    "text": "Việc kiểm kê báo cáo chi phí ,thực phẩm tồn theo định kỳ tháng là ngày nào?",
+    "options": [
+     "Ngày cuối tuần",
+     "Ngày đầu tuần vắng khách.",
+     "Ngày nào cũng được",
+     "Ngày cuối tháng"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "fb-ke-toan-dinh-luong-bnc-28",
+    "no": 28,
+    "text": "Anh/Chị đã ký hợp đồng vô thời hạn, khi nghỉ việc cần báo trước bao nhiêu ngày?",
+    "options": [
+     "30 ngày",
+     "35 ngày",
+     "40 ngày",
+     "45 ngày"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "fb-ke-toan-dinh-luong-bnc-29",
+    "no": 29,
+    "text": "Khi nhân viên chuyển từ bếp này qua bếp khác bạn phải làm thủ tục gì?",
+    "options": [
+     "Đánh giá hiệu quả công việc",
+     "Tờ trình điều chuyển",
+     "Đánh giá đề xuất",
+     "Phiếu điều chuyển bộ phận"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "fb-ke-toan-dinh-luong-bnc-30",
+    "no": 30,
+    "text": "Phần mềm FBO phần hàng Tồn kho có các loại chứng từ gì ?",
+    "options": [
+     "Phiếu xuất kho &\nPhiếu điều chuyển",
+     "Phiếu mua hàng trong nước & Phiếu nhập mua hàng nhập khẩu",
+     "Phiếu mua hàng trong nước",
+     "Phiếu nhập mua hàng nhập khẩu"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "fb-ke-toan-dinh-luong-bnc-31",
+    "no": 31,
+    "text": "Các báo cáo có trong phần hàng tồn kho gồm có tiêu đề báo cáo chính nào?",
+    "options": [
+     "Báo cáo hàng nhập\nBáo cáo hàng tồn\nBáo cáo hàng xuất",
+     "Báo cáo kết quả sản xuất kinh doanh\nBáo cáo hàng xuất\nBáo cáo hàng nhập",
+     "Báo cáo hàng tồn\nBáo cáo kết quả sản xuất kinh doanh",
+     "Báo cáo hàng xuất"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "fb-ke-toan-dinh-luong-bnc-32",
+    "no": 32,
+    "text": "Trên phiếu điều chuyển nội bộ, phiếu được ghi nhận khi có chữ ký của ai ở phần người nhận và người xuất hàng ?",
+    "options": [
+     "Nhân viên xuất hàng và nhân viên nhận hàng",
+     "Kế toán định lượng phụ trách các bếp chuyển và nhận hàng",
+     "Bếp trưởng hoặc giám sát bếp ký xuất hoặc nhận sau khi có sự xác nhận của nhân viên nhận hàng",
+     "Chỉ có Trưởng hoặc  Phó bộ phận"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "fb-ke-toan-dinh-luong-bnc-33",
+    "no": 33,
+    "text": "Nhân sự đi muộn hoặc về sớm 1 h/ngày phải được sự đồng ý và xác nhận của ai?",
+    "options": [
+     "Giám sát",
+     "Bếp trưởng",
+     "Trưởng ban/phòng/bộ phận",
+     "Giám đốc công ty"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "fb-ke-toan-dinh-luong-bnc-34",
+    "no": 34,
+    "text": "Khi phiếu mua hàng trên hệ thống đã được duyệt bởi trưởng bộ phận thì người nào có thể bỏ duyệt phiếu?",
+    "options": [
+     "Người lập phiếu mua hàng",
+     "Trưởng bộ phận",
+     "Kế toán mua hàng",
+     "Không thể bỏ duyệt được"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "fb-ke-toan-dinh-luong-bnc-35",
+    "no": 35,
+    "text": "Trên phần mềm FBO, khi tiến hành xuất kho chi phí tiệc ngoài kinh doanh sẽ xuất kho theo mã vụ việc nào?",
+    "options": [
+     "Mã vụ việc của công ty",
+     "Mã vụ việc của bếp",
+     "Mã vụ việc của nhà hàng và bếp",
+     "Mã vụ việc của kho tổng"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "fb-ke-toan-dinh-luong-bnc-36",
+    "no": 36,
+    "text": "Ưu điểm của phương pháp kê khai thường xuyên trong hạch toán hàng tồn kho là gì? Chọn một phương án trả lời đúng nhất?",
+    "options": [
+     "Giảm thời gian ghi chép",
+     "Giá trị hàng xuất kho tính được ở cuối kỳ",
+     "Giảm tình trạng sai sót trong việc ghi chép và quản lý",
+     "Có thể xác định giá trị hàng tồn kho vào bất cứ thời điểm nào, nắm bắt, quản lý hàng tồn kho thường xuyên và liên tục;  Giảm tình trạng sai sót trong việc ghi chép và quản lý"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "fb-ke-toan-dinh-luong-bnc-37",
+    "no": 37,
+    "text": "Khi kiểm tra đối chiếu captain order với phần mềm doanh thu, anh chị làm gì khi thấy có chênh lệch?",
+    "options": [
+     "Không cần báo lại KSNB, chỉ cần nhắc nhở nhân viên đã làm sai. Vì cùng là đồng nghiệp có thể cho qua.",
+     "Kiểm tra, đối chiếu lại các liên của bếp với các liên của nhà hàng",
+     "Thông báo cho bếp trưởng, kiểm tra đối chiếu lại với các liên của nhà hàng. Sau đó thông báo cho phòng KSNB kiểm tra và xử lý sai sót",
+     "Bắt nhân viên thu ngân với nhà hàng đền tiền"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "fb-ke-toan-dinh-luong-bnc-38",
+    "no": 38,
+    "text": "Khi bếp trưởng xây dựng định lượng quá nhiều so với thực tế, anh chị ứng xử như thế nào?",
+    "options": [
+     "Cứ làm theo định lượng của bếp trưởng vì đã biết được bếp trưởng đã biết mức cost được chi",
+     "Tự mình điều chỉnh nếu mình thấy không hợp lý",
+     "Đề nghị bếp trưởng xem lại để điều chỉnh cho hợp lý với giá cả và thực tế",
+     "Báo với phòng KSNB"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "fb-ke-toan-dinh-luong-bnc-39",
+    "no": 39,
+    "text": "Khi bếp trưởng lập biên bản nhân viên không đúng, nhân viên tỏ vẻ bất bình, bạn nên xử lý như thế nào?",
+    "options": [
+     "Không tham gia vào, vì sếp nói phải nghe theo không nên chống đối",
+     "Tìm hiểu lại sự việc, giải thích cho bếp trưởng để điều chỉnh lại hoặc tìm phương án giải quyết tốt hơn",
+     "Luôn phải bảo vệ ý kiến của sếp, chỉ trích, nhắc nhở  nhân viên bị lập biên bản, yêu cầu họ phải làm theo",
+     "Báo với phòng KSNB"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "fb-ke-toan-dinh-luong-bnc-40",
+    "no": 40,
+    "text": "Để tránh hàng tồn kho lâu ngày gây giảm chất lượng hàng hóa thì chúng ta nên sử dụng như thế nào cho hợp lý?",
+    "options": [
+     "Hàng nào ở vị trí dễ lấy hơn thì dùng trước",
+     "Hàng nào nhập kho trước thì xuất dùng trước",
+     "Hàng rau củ và đông lạnh dùng trước còn hàng khô dùng sau",
+     "Hàng nào cũng như nhau vì hạn sử dụng lâu"
+    ],
+    "answer": 1
+   }
+  ],
+  "group": "SBD PAT"
+ },
+ {
+  "id": "fb-qlat",
+  "name": "FB - QLAT",
+  "questions": [
+   {
+    "id": "fb-qlat-1",
+    "no": 1,
+    "text": "Một nhân viên tác phong nghiêm túc bao gồm những yếu tố nào sau đây?",
+    "options": [
+     "Đồng phục, đầu tóc, gương mặt, vệ sinh cá nhân, trang sức",
+     "Giày dép, quần áo, mũ nón, đồng hồ",
+     "Đầu tóc, trang điểm, chiều cao, cân nặng",
+     "Giọng nói, cách đi đứng, thái độ làm việc"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "fb-qlat-2",
+    "no": 2,
+    "text": "Theo chính sách về hình ảnh chuẩn mực của nhân viên thì móng tay nhân viên được dài tối đa bao nhiêu?",
+    "options": [
+     "Không có quy định",
+     "2 mm",
+     "3 mm",
+     "Càng ngắn càng tốt"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "fb-qlat-3",
+    "no": 3,
+    "text": "Hành vi nào sai đối với việc bảo mật thông tin khách hàng?",
+    "options": [
+     "Không thu thập lưu trữ thông tin cá nhân của khách hàng",
+     "Không hợp tác với bên ngoài để tìn kiếm thông tin cá nhân của khách hàng",
+     "Chỉ tiết lộ thông tin di chuyển của khách hàng",
+     "Tiết lộ thông tin cá nhân của khách hàng, đối tác"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "fb-qlat-4",
+    "no": 4,
+    "text": "Thái độ cần điều chỉnh khi tiếp nhận yêu cầu hoặc giải đáp thông tin của khách hàng?",
+    "options": [
+     "Giải đáp mọi yêu cầu thắc mắc của khách hàng",
+     "Yêu cầu khách hàng đọc ký hưỡng dẫn trước khi trả lời",
+     "Nói \" Không \", \" Không biết \" với khách hàng",
+     "Lắng nghe và phối họp với các phòng khác để giải quyết vấn đề của khách hàng"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "fb-qlat-5",
+    "no": 5,
+    "text": "Cách xử lý tiếp nhận yêu cầu của khách hàng?",
+    "options": [
+     "Chuyển cho bộ phận liên quan đến yêu cầu của khách hàng",
+     "Xử lý không triệt để, trọn vẹn các yêu cầu của khách hàng",
+     "Làm rõ, xác nhận yêu cầu của khách hàng trước khi xử lý",
+     "Đợi đến gần hết thời gian cho phép theo quy định."
+    ],
+    "answer": 2
+   },
+   {
+    "id": "fb-qlat-6",
+    "no": 6,
+    "text": "Vì sao chúng ta cần sắp xếp thời gian để đào tạo cho nhân viên?",
+    "options": [
+     "Tránh việc nhân viên làm sai, bị cán bộ quản lý lập biên bản nên chán nản, nghỉ việc, phải tuyển mới",
+     "Để cán bộ quản lý có đủ chỉ tiêu giờ dạy, cán bộ nhân viên đủ chỉ tiêu giờ học",
+     "Để nhân viên có thêm giờ làm việc khi không có khách",
+     "Để cán bộ lãnh đạo rèn luyện kỹ năng giảng dạy"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "fb-qlat-7",
+    "no": 7,
+    "text": "Vì sao cần lựa chọn hình thức đào tạo phù hợp cho các cấp độ nhận thức khác nhau?",
+    "options": [
+     "Để có nội dung đào tạo tương ứng với từng trình độ của các đối tượng khác nhau",
+     "Để tránh nhàm chán cho các đối tượng học viên",
+     "Để tạo cảm hứng cho học viên",
+     "Để lập nhiều lớp học cho nhiều học viên"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "fb-qlat-8",
+    "no": 8,
+    "text": "FIFO là viết tắt của từ gì?",
+    "options": [
+     "Final in first out",
+     "First in first out",
+     "Final in final out",
+     "First in final out"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "fb-qlat-9",
+    "no": 9,
+    "text": "FEFO là viết tắt của từ gì?",
+    "options": [
+     "First end first out",
+     "First expired final out",
+     "First expired first out",
+     "Final expired final out"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "fb-qlat-10",
+    "no": 10,
+    "text": "Yoko Onsen Quang Hanh là cơ sở kinh doanh của Sungroup trong lĩnh vực gì?",
+    "options": [
+     "Vui chơi giải trí",
+     "Bất động sản",
+     "Cáp treo",
+     "Nghỉ dưỡng chuẩn Nhật, suối khoáng"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "fb-qlat-11",
+    "no": 11,
+    "text": "Premier Village Hạ Long Bay Resort là cơ sở kinh doanh của Sungroup thuộc tập đoàn quản lý nào?",
+    "options": [
+     "Trực thuộc SHG quản lý",
+     "Accor",
+     "IHG",
+     "Hyatt"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "fb-qlat-12",
+    "no": 12,
+    "text": "Khi gặp vấn đề về điện (bóng đèn, điều hòa…) cần liên hệ với ai?",
+    "options": [
+     "PA (Vệ sinh công cộng)",
+     "Kỹ thuật",
+     "Quản lý trực tiếp",
+     "Bất cứ ai có thể khắc phục được vì tình huống khẩn cấp, không gọi được cho bộ phận chuyên trách"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "fb-qlat-13",
+    "no": 13,
+    "text": "Một ca làm việc thẳng 8 tiếng theo quy định cần chấm vân tay mấy lần?",
+    "options": [
+     "Đi làm theo phân ca, không chấm vân tay vẫn được chấm công",
+     "1 lần (khi vào ca hoặc khi hết ca)",
+     "2 lần (khi vào ca và khi hết ca)",
+     "Không đáp án nào chính xác"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "fb-qlat-14",
+    "no": 14,
+    "text": "Khi nhận được điều động/sắp xếp công việc từ bộ phận khác (cấp quản lý) cần làm gì?",
+    "options": [
+     "Nghe theo vô điều kiện vì người điều động ngang cấp bậc với quản lý trực tiếp",
+     "Nghe theo vì chắc chắn cấp quản lý đã trao đổi với nhau và có sự đồng thuận nên mới điều động công việc của mình",
+     "Trả lời đã nhận thông tin và lập tức báo cáo lại với quản lý trực tiếp, nghe sắp xếp công việc từ họ",
+     "Nhất quyết không nghe theo, yêu cầu người điều động phải có xác nhận của quản lý trực tiếp hoặc Trưởng bộ phận"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "fb-qlat-15",
+    "no": 15,
+    "text": "Theo bạn nếu khi khách bị ngộ độc thực phẩm sẽ ảnh hưởng những gì đến công ty và bộ phận chúng ta?",
+    "options": [
+     "Ảnh hưởng đến kinh tế của công ty khi bồi thường và chi trả tiền viện phí cho khách.",
+     "Ảnh hướng đến hình ảnh, uy tín của công ty, có thể gây ra việc khủng hoảng về truyền thông, ảnh hưởng đến sức khỏe của khách hàng và công ty phải giải quyết mọi vấn đề về kinh tế, ảnh hưởng đến uy tín của bộ phận và sẽ mất khách",
+     "Ảnh hưởng đến các chế độ của bộ phận.",
+     "Ảnh hưởng đến hình ảnh của công ty."
+    ],
+    "answer": 1
+   },
+   {
+    "id": "fb-qlat-16",
+    "no": 16,
+    "text": "Hộp lưu mẫu phải bằng chất liệu nào sau đây là đúng với quy định VSATTP?",
+    "options": [
+     "Bằng sắt",
+     "Bằng sứ",
+     "Bằng inox không rỉ",
+     "Bằng tô nhựa"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "fb-qlat-17",
+    "no": 17,
+    "text": "Hộp lưu mẫu phải được sát trùng bằng các nào sau đây là đúng?",
+    "options": [
+     "Trụng qua nước sôi",
+     "Nướng trong lò để nguội",
+     "Nướng trong lò để nguội",
+     "Hấp nóng hoặc trụng qua nước sôi"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "fb-qlat-18",
+    "no": 18,
+    "text": "Nhân viên cần chuẩn bị những gì khi lưu mẫu thức ăn?",
+    "options": [
+     "Găng tay,khẩu trang và hộp lưu mẫu inox được sát trùng",
+     "Khẩu trang và găng tay",
+     "Hộp lưu mẫu inox được sát trùng",
+     "Găng tay,khẩu trang và chén sứ lưu mẫu"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "fb-qlat-19",
+    "no": 19,
+    "text": "Lưu mẫu sẽ được thực hiện khi phục vụ bao nhiêu khách trở lên?",
+    "options": [
+     "20 người",
+     "30 người",
+     "40 người",
+     "50 người"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "fb-qlat-20",
+    "no": 20,
+    "text": "Các hành vi nào sau đây không được làm trong khu vực bếp?",
+    "options": [
+     "Không được hút thuốc trong khu vực Bếp",
+     "Không tụ tập nói chuyện, đùa giỡn, cười nói lớn tiếng trong khu vực Bếp và khu vực nhà hàng",
+     "Không ăn uống trong khu vực Bếp",
+     "Cả 3 đáp án trên"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "fb-qlat-21",
+    "no": 21,
+    "text": "Nhiệt độ trong kho được theo dõi tốt nhất bằng cách",
+    "options": [
+     "Cảm nhận theo thân nhiệt lúc vào kho",
+     "Dùng súng bắn nhiệt bắn vào bên trong kho và 1 lần/ngày",
+     "3 lần/1 ngày và ghi lại số liệu trên bảng điện tử",
+     "Sử dụng ghim nhiệt kế để đo tâm nhiệt thực phẩm trong kho và 2 lần/ngày"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "fb-qlat-22",
+    "no": 22,
+    "text": "Thực phẩm nấu chín được duy trì giữ nóng ở nhiệt độ bao nhiêu độ C là đúng theo tiêu chuẩn VSATTP?",
+    "options": [
+     "60-100 độ C",
+     "Trên 100 độ C",
+     "60 độ C",
+     "Ko có đáp án đúng"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "fb-qlat-23",
+    "no": 23,
+    "text": "Quy định lưu mẫu sau bao nhiêu tiếng sẽ được hủy?",
+    "options": [
+     "8 tiếng",
+     "16 tiếng",
+     "24 tiếng",
+     "Khi có yêu cầu từ Tổng Bếp Trưởng"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "fb-qlat-24",
+    "no": 24,
+    "text": "Cách rã đông nào tốt nhất ?",
+    "options": [
+     "Bằng lò vi sóng",
+     "Trong tủ mát",
+     "Dưới vòi nước chảy",
+     "Nhiệt độ phòng"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "fb-qlat-25",
+    "no": 25,
+    "text": "Loại thực phẩm nào sau đây không nên bảo quản lạnh",
+    "options": [
+     "Cà chua",
+     "Rau thơm lá nhỏ",
+     "Sữa tươi tiệt trùng",
+     "Khoai tây"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "fb-qlat-26",
+    "no": 26,
+    "text": "Cặp Dao Thớt nào sau đây không đúng quy định",
+    "options": [
+     "Dao Thớt Nâu cho Cá Sashimi",
+     "Dao Thớt Trắng cho Bánh Ngọt",
+     "Dao đen Thớt gỗ cho Bánh mì",
+     "Dao thớt xanh lá cho rau củ luộc"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "fb-qlat-27",
+    "no": 27,
+    "text": "Sọt đựng màu nào sử dụng cho các thực phẩm từ bơ sữa",
+    "options": [
+     "Màu Xanh",
+     "Màu Vàng",
+     "Màu Đỏ",
+     "Màu Xanh Dương"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "fb-qlat-28",
+    "no": 28,
+    "text": "Thực phẩm trên quầy buffet tối đa bao nhiêu giờ thì sẽ phải thay mới",
+    "options": [
+     "2 giờ",
+     "3 giờ",
+     "4 giờ",
+     "5 giờ"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "fb-qlat-29",
+    "no": 29,
+    "text": "Bồn rửa tay nào phù hợp cho khu vực bếp",
+    "options": [
+     "Bồn rửa cảm ứng",
+     "Bồn rửa tay vặn",
+     "Bồn rửa chân đạp",
+     "Bồn rửa nút nhấn"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "fb-qlat-30",
+    "no": 30,
+    "text": "Quy tắc bếp 1 chiều là gì",
+    "options": [
+     "Vào 1 đường và ra một đường khác",
+     "Ra vào cùng 1 đường",
+     "Vào 1 đường và ra từ nhiều đường khác nhau",
+     "Không có quy tắc bếp 1 chiều"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "fb-qlat-31",
+    "no": 31,
+    "text": "Quy định về kiểm soát VSATTP nào đang được áp dụng và triển khai tại các cơ sở của SG",
+    "options": [
+     "HACCP",
+     "ISO",
+     "quy định VSATTP Việt nam",
+     "Chưa áp dụng"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "fb-qlat-32",
+    "no": 32,
+    "text": "Nếu nhân viên quan sát thấy một khách hàng chưa đủ tuổi uống những thức uống có cồn, cách xử lý sẽ như thế nào?",
+    "options": [
+     "Gọi an ninh xử lý",
+     "Lờ đi, khách ở trong khách sạn nên chỉ có khách và nhân viên biết, tăng doanh thu cho khách sạn",
+     "Báo cho quản lý",
+     "Thông báo với khách hàng đó về độ tuổi được cho phép uống rượu bia, ngừng việc tiêu thụ của khách và dẹp đi thức uống đó"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "fb-qlat-33",
+    "no": 33,
+    "text": "Tách đơn đặt món trên máy POS áp dụng trong trường hợp nào?",
+    "options": [
+     "Vào nhầm món cần tách món để đúng tiền khách hàng phải thanh toán",
+     "Nhằm mục đích giảm giá trị đơn đặt món",
+     "Nhiều khách chung bàn cần thanh toán riêng, yêu cầu tách đơn đặt món",
+     "Nhằm mục đích tăng giá trí đơn đặt món"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "fb-qlat-34",
+    "no": 34,
+    "text": "Khi khách hàng trả bằng tiền mặt, việc thanh toán hóa đơn phải được xử lý trong bao nhiêu lâu?",
+    "options": [
+     "60 giây",
+     "5 phút",
+     "3 phút",
+     "Không có quy định cụ thể thời gian"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "fb-qlat-35",
+    "no": 35,
+    "text": "Tại sao phải xác nhận nguyên nhân và người gây ra đổ vỡ ccdc?",
+    "options": [
+     "Để bắt đền người gây ra bể vỡ",
+     "Để có hướng xử lý phù hợp, nếu là khách thì phải xác định giá trị đồ bể vỡ để tính phí nếu món đồ có giá trị lớn. \nNếu là nhân viên thì để kiếm soát, nhắc nhở, đưa biện pháp kỉ luật thích hợp nếu gây bể vỡ nhiều lần.",
+     "Để sau khi xác định nguyên nhân bể vỡ, nếu cố ý thì sẽ tính tiền cho khách. Nếu là nhân viên sẽ phạt nặng.",
+     "Để làm biên bản tường trình, cảnh cáo người vi phạm."
+    ],
+    "answer": 1
+   },
+   {
+    "id": "fb-qlat-36",
+    "no": 36,
+    "text": "Nhiệt độ bảo quản thực phẩm lạnh/ đông là?",
+    "options": [
+     "- Thực phẩm cấp đông được giữ ở nhiệt độ ≤-50 ° C\n- Thực phẩm lạnh được giữ ở nhiệt độ ≤4 ° C",
+     "- Thực phẩm cấp đông được giữ ở nhiệt độ ≤-18 ° C\n- Thực phẩm lạnh được giữ ở nhiệt độ ≤15° C",
+     "- Thực phẩm cấp đông được giữ ở nhiệt độ ≤-18 ° C\n- Thực phẩm lạnh được giữ ở nhiệt độ ≤4 ° C",
+     "- Thực phẩm cấp đông được giữ ở nhiệt độ ≤-18 ° C\n- Thực phẩm lạnh được giữ ở nhiệt độ ≤0 ° C"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "fb-qlat-37",
+    "no": 37,
+    "text": "Nhiệt độ lưu mẫu thức ăn theo quy định là bao nhiêu?",
+    "options": [
+     "Nhiệt độ phòng(16-18oC)",
+     "Nhiệt độ bảo quản mẫu lưu từ -18\noC đến 0oC",
+     "Nhiệt độ bảo quản mẫu lưu từ -10\noC đến 0oC",
+     "Nhiệt độ bảo quản mẫu lưu từ 2\noC đến 8oC"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "fb-qlat-38",
+    "no": 38,
+    "text": "Thời gian lưu mẫu thức ăn theo quy định là bao nhiêu lâu?",
+    "options": [
+     "Ít nhất là 24 giờ kể từ khi lấy mẫu.",
+     "Ít nhất là 12 giờ kể từ khi lấy mẫu.",
+     "Ít nhất là 48 giờ kể từ khi lấy mẫu.",
+     "Tối đa là 24 giờ kể từ khi lấy mẫu."
+    ],
+    "answer": 0
+   },
+   {
+    "id": "fb-qlat-39",
+    "no": 39,
+    "text": "Quy định lưu trữ hàng hóa trong kho?",
+    "options": [
+     "Tất cả thực phẩm được lưu trữ trên sàn và tường để có đủ không gian giữa nguyên liệu và tường để thực hiện các hoạt động kiểm soát và kiểm soát dịch hại.",
+     "Tất cả thực phẩm được lưu trữ trên pallet đặt sát sàn và tường để thực hiện các hoạt động kiểm soát và kiểm soát dịch hại.",
+     "Tất cả thực phẩm được lưu trữ trên pallet cách xa sàn và tường để có đủ không gian giữa nguyên liệu và tường để thực hiện các hoạt động kiểm soát và kiểm soát dịch hại.",
+     "Tất cả thực phẩm được lưu trữ trên pallet cách xa sàn và đặt sát tường để thực hiện các hoạt động kiểm soát dịch hại."
+    ],
+    "answer": 2
+   },
+   {
+    "id": "fb-qlat-40",
+    "no": 40,
+    "text": "Nhiệt độ lưu trữ thức ăn theo quy định là bao nhiêu?",
+    "options": [
+     "- Thực phẩm đông lạnh được giữ ở nhiệt độ ≤-8 ° C và không được cấp đông lại\n- Thực phẩm lạnh được giữ ở nhiệt độ ≤0 ° C\n- Thức ăn nóng được giữ ở nhiệt độ ≥63 ° C",
+     "- Thực phẩm đông lạnh được giữ ở nhiệt độ ≤-18 ° C và không được cấp đông lại\n- Thực phẩm lạnh được giữ ở nhiệt độ ≤4 ° C\n- Thức ăn nóng được giữ ở nhiệt độ ≥63 ° C",
+     "- Thực phẩm đông lạnh được giữ ở nhiệt độ ≤-18 ° C và không được cấp đông lại\n- Thực phẩm lạnh được giữ ở nhiệt độ ≤0 ° C\n- Thức ăn nóng được giữ ở nhiệt độ ≥80 ° C",
+     "- Thực phẩm đông lạnh được giữ ở nhiệt độ ≤-28 ° C và không được cấp đông lại\n- Thực phẩm lạnh được giữ ở nhiệt độ ≤4 ° C\n- Thức ăn nóng được giữ ở nhiệt độ ≥70 ° C"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "fb-qlat-41",
+    "no": 41,
+    "text": "Yêu cầu đối với hộp lưu mẫu thức ăn là gì?",
+    "options": [
+     "Dụng cụ lưu mẫu phải có nắp đậy kín, chứa được ít nhất 100g đối với thức\năn khô, đặc hoặc 150ml đối với thức ăn lỏng.",
+     "Dụng cụ lưu mẫu phải để hở, chứa được ít nhất 100g đối với thức ăn khô, đặc hoặc 150ml đối với thức ăn lỏng.",
+     "Dụng cụ lưu mẫu phải có nắp đậy kín, chứa được ít nhất 200g đối với thức\năn khô, đặc hoặc 250ml đối với thức ăn lỏng.",
+     "Dụng cụ lưu mẫu phải để hở nhìn thấy được, chứa được ít nhất 150g đối với thức\năn khô, đặc hoặc 150ml đối với thức ăn lỏng."
+    ],
+    "answer": 0
+   },
+   {
+    "id": "fb-qlat-42",
+    "no": 42,
+    "text": "Những món nào sau đây dễ bị nhiểm khuẩn nhất?",
+    "options": [
+     "Các món xào",
+     "Các món nướng",
+     "Các món salad trộn",
+     "Các món canh"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "fb-qlat-43",
+    "no": 43,
+    "text": "Doanh nghiệp bị ảnh hưởng như thế nào nếu để xẩy ra ngộ độc thực phẩm",
+    "options": [
+     "Giảm doanh thu công ty",
+     "Nhân viên Mất tinh thần làm việc",
+     "Sự Chỉ trích của báo giới và truyền thông",
+     "Tăng chi phí cho bảo hiểm"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "fb-qlat-44",
+    "no": 44,
+    "text": "Ký sinh trùng là ô nhiễm gì",
+    "options": [
+     "Ô nhiễm sinh học",
+     "Ô nhiễm hóa học",
+     "Ô nhiễm vật lý",
+     "Ko có đáp án đúng"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "fb-qlat-45",
+    "no": 45,
+    "text": "Vius viêm gan B và C có lây qua đường ăn uống ko",
+    "options": [
+     "Có lây",
+     "ko lây",
+     "Chưa chắc",
+     "Ko có đáp án đúng"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "fb-qlat-46",
+    "no": 46,
+    "text": "Hành vi cần tránh trong khu vực chế biến thực phẩm",
+    "options": [
+     "Đồng phục chưa sạch sẽ",
+     "Thiếu đồ bảo hộ",
+     "Không có máy rửa tay",
+     "Hút thuốc"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "fb-qlat-47",
+    "no": 47,
+    "text": "Vi sinh vật bị kìm hãm tốc độ phát triển và sinh sản ở nhiệt độ nào sau đây?",
+    "options": [
+     "0-(-18) độ C",
+     "0-10 độ C",
+     "45-70 độ C",
+     "20-100 độ C"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "fb-qlat-48",
+    "no": 48,
+    "text": "Thực phẩm lạnh được giữ ở nhiệt độ nào là tốt nhất?",
+    "options": [
+     "Âm trên 18 độ C",
+     "Âm trên 5 độ C",
+     "Âm trên 10 độ C",
+     "Từ 0 đến 4 độ C"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "fb-qlat-49",
+    "no": 49,
+    "text": "Quy định kiểm thực ba bước,đâu là đáp án đúng bước ba?",
+    "options": [
+     "Kiểm tra trước khi uống",
+     "Kiểm tra trước khi ăn",
+     "Kiểm tra trước khi làm",
+     "Kiểm tra trước khi chế biến"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "fb-qlat-50",
+    "no": 50,
+    "text": "Cách ghi date cho thực phẩm thế nào là đúng",
+    "options": [
+     "Có ngày tháng",
+     "Có tên sản phẩm",
+     "Có thời hạn hết date",
+     "Cả ba đáp án là đúng"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "fb-qlat-51",
+    "no": 51,
+    "text": "Rửa tay đúng cách có mấy bước?",
+    "options": [
+     "2",
+     "3",
+     "4",
+     "5"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "fb-qlat-52",
+    "no": 52,
+    "text": "Quy trình kiểm soát bể vỡ bao gồm những bước?",
+    "options": [
+     "1.  Báo nhân viên vệ sinh công cộng:\nvệ sinh công cộng xuống Nhà hàng\n 2. Thu gom lại đồ đổ vỡ\n3. Xác nhận nguyên nhân và người gây ra đổ vỡ\n4. Cho người gây ra đổ vỡ ký xác nhận (Áp dụng với nhân viên)",
+     "1.  Báo nhân viên vệ sinh công cộng:\nvệ sinh công cộng xuống Nhà hàng\n 2. Thu gom lại đồ đổ vỡ\n3. Xác nhận nguyên nhân và người gây ra đổ vỡ\n4. Cho người gây ra đổ vỡ ký xác nhận (Áp dụng với nhân viên)\n5. Tổng hợp báo cáo đổ vỡ",
+     "1.  Báo nhân viên vệ sinh công cộng:\nvệ sinh công cộng xuống Nhà hàng\n2. Thu gom lại đồ đổ vỡ\n3. Tổng hợp báo cáo đổ vỡ",
+     "1. Xác nhận nguyên nhân và người gây ra đổ vỡ\n2. Cho người gây ra đổ vỡ ký xác nhận (Áp dụng với nhân viên)\n3. Tổng hợp báo cáo đổ vỡ"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "fb-qlat-53",
+    "no": 53,
+    "text": "Nhân viên phục vụ nên xử lý trường hợp món ăn, thức uống phục vụ sai, khách hàng trả lại như thế nào?",
+    "options": [
+     "Nói chuyện với khách hàng, xin lỗi khách và hứa lần sau sẽ không lặp lại lỗi",
+     "Thông báo cho quản lý để xử lý",
+     "Nhờ pha chế/bếp làm lại, làm món khách đền cho khách",
+     "Làm việc với pha chế/bếp để rõ trách nhiệm, cá nhân có lỗi sẽ bỏ tiền ra đền cho khách"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "fb-qlat-54",
+    "no": 54,
+    "text": "Những điều nào nằm trong 10 nguyên tắc vàng của F&B?",
+    "options": [
+     "Luôn tươi cười; Luôn luôn giả định suy đoán vấn đề.",
+     "Hãy là 1 chuyên gia; Luôn cố gắng làm việc độc lập",
+     "Luôn luôn nghiêm túc; Theo sát vấn đề tới cùng",
+     "Luôn có sự chuẩn bị; Đừng bao giờ nói KHÔNG với những yêu cầu hợp lý"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "fb-qlat-55",
+    "no": 55,
+    "text": "Bạn hiểu City ledger như thế nào?",
+    "options": [
+     "Hình thức thanh toán theo dạng công nợ đối với các đối tác",
+     "Là 1 dạng thanh toán với số phòng ảo cố định cho nhiều đối tượng khách hàng khác nhau",
+     "Hình thức xử lý hóa đơn bằng cách charge chi phí giá vốn về khách sạn",
+     "Là tên 1 thành phố"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "fb-qlat-56",
+    "no": 56,
+    "text": "Các chất độc có sẵn trong thực phẩm như ở mầm khoai tây, sắn, măng, nấm độc, cá nóc, cóc, nhuyễn thể hai mảnh vỏ,… thuộc nhóm mối nguy nào?",
+    "options": [
+     "Mối nguy sinh học",
+     "Mối nguy hiểm rất cao",
+     "Mối nguy vi khuẩn",
+     "Mối nguy hóa học"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "fb-qlat-57",
+    "no": 57,
+    "text": "Khi nào thì đưa dịch vụ thanh toán về mục miscellaneous?",
+    "options": [
+     "Khi có yêu cầu từ bộ phận kinh doanh",
+     "Khi có yêu cầu từ bộ phận kế toán",
+     "Khi dịch vụ khách sử dụng không nằm trong bất kì nhóm nào có sẵn(food, beverage, rental equipment, room rental…)",
+     "Khi có yêu cầu từ bộ phận lễ tân hoặc văn phòng Tổng quản lý"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "fb-qlat-58",
+    "no": 58,
+    "text": "Triệu chứng nào sau đây là triệu chứng của ngộ độc thực phẩm?",
+    "options": [
+     "Chảy máu dạ dày, đi ngoài ra máu, nôn, sốt",
+     "Buồn nôn, đau bụng, tiêu chảy",
+     "Đau đầu, ăn không ngon, đau bụng",
+     "Buồn nôn, đau bụng, tiêu chảy, sốt, đau đầu, ăn không ngon"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "fb-qlat-59",
+    "no": 59,
+    "text": "Quy trình kiểm kê hàng tồn kho gồm các bươc?",
+    "options": [
+     "1. Tổng hợp danh mục kiểm kê\n2. Chuẩn bị các thiết bị, nhân lực kiểm kê\n3. Áp dụng các phương pháp kiểm kê(Cân, đo, đếm)\n4. Tiến hành kiểm kê, kí biên bản kiểm kê",
+     "1. Tổng hợp danh mục kiểm kê\n2. Chuẩn bị các thiết bị, nhân lực kiểm kê\n3. Áp dụng các phương pháp kiểm kê(Cân, đo, đếm)",
+     "1. Tổng hợp danh mục kiểm kê\n2. Tiến hành kiểm kê, kí biên bản kiểm kê",
+     "1. Chuẩn bị các thiết bị, nhân lực kiểm kê\n2. Áp dụng các phương pháp kiểm kê(Cân, đo, đếm)\n3. Tiến hành kiểm kê, kí biên bản kiểm kê"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "fb-qlat-60",
+    "no": 60,
+    "text": "Bước thu gom đồ bể vỡ trong quy trình kiểm soát hàng bể vỡ gồm?",
+    "options": [
+     "- Dùng khăn ăn thu gom đồ bể vỡ\n- Đưa biên bản bể vỡ cho nhân viên kí\n- Đặt đồ bể vỡ vào thùng nhựa có dán nhãn phân loại",
+     "- Thu gom những mảnh đổ vỡ lớn (lưu ý không được dùng tay không để nhặt)\n- Gom đồ đổ vỡ lại\n- Dùng plastic gói từng đồ đổ vỡ lại theo từng chủng loại riêng biệt\n- Vất đồ bể vỡ vào thùng rác theo quy định",
+     "- Thu gom những mảnh đổ vỡ lớn (lưu ý không được dùng tay không để nhặt)\n- Gom đồ đổ vỡ lại\n- Dùng plastic gói từng đồ đổ vỡ lại theo từng chủng loại riêng biệt\n- Đặt đồ đổ vỡ vô thùng nhựa được dán nhẵn phân loại",
+     "- Thu gom những mảnh đổ vỡ lớn (lưu ý không được dùng tay không để nhặt)\n- Vất đồ bể vỡ vào thùng rác theo quy định"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "fb-qlat-61",
+    "no": 61,
+    "text": "Có mấy loại ô nhiễm thực phẩm",
+    "options": [
+     "1",
+     "2",
+     "3",
+     "4"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "fb-qlat-62",
+    "no": 62,
+    "text": "Vi khuẩn Salmonella có trong thực phẩm nào sau đây",
+    "options": [
+     "Trứng sống",
+     "Gia cầm sồng",
+     "Gia súc sống",
+     "Đáp án 1 và 2 là đúng"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "fb-qlat-63",
+    "no": 63,
+    "text": "Vi khuẩn E Coli có ở đâu",
+    "options": [
+     "Trong trái cây",
+     "Trong phân động vật máu nóng",
+     "Trong hải sản",
+     "Ko có đáp án đúng"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "fb-qlat-64",
+    "no": 64,
+    "text": "Vi khuẩn phát triển tốt ở dải nhiệt độ bao nhiêu",
+    "options": [
+     "1-50 độ C",
+     "1-80 độ C",
+     "4-60 độ C",
+     "65-100 độ C"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "fb-qlat-65",
+    "no": 65,
+    "text": "Ký sinh trùng bị tiêu diệt ở điều kiện nào",
+    "options": [
+     "Nhiệt độ cao",
+     "Cấp đông",
+     "Nhiệt độ cao và cấp đông",
+     "Ký sinh trùng ko bị tiêu diệt"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "fb-qlat-66",
+    "no": 66,
+    "text": "Cách rã đông bằng cách nào sau đây ko đúng với tiêu chuẩn VSATTP?",
+    "options": [
+     "Lò vi sóng",
+     "Nước sôi 100 độ",
+     "Ở nhiệt độ phòng",
+     "Trong tủ lạnh"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "fb-qlat-67",
+    "no": 67,
+    "text": "Thực phẩm cấp đông được giữ ở nhiệt độ nào là tốt nhất?",
+    "options": [
+     "Âm trên 18 độ C",
+     "Âm trên 5 độ C",
+     "Âm trên 10 độ C",
+     "Âm trên 15 độ C"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "fb-qlat-68",
+    "no": 68,
+    "text": "Khi thực phẩm đông đã sả một lần thì sẽ được bảo quản như thế nào?",
+    "options": [
+     "Được cấp đông lại",
+     "Không được cấp đông lại lần 2,bảo quản trong tủ mát",
+     "Phải sử dụng ngay",
+     "Không cần làm gì"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "fb-qlat-69",
+    "no": 69,
+    "text": "Có mấy loại rác cơ bản",
+    "options": [
+     "1",
+     "2",
+     "3",
+     "4"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "fb-qlat-70",
+    "no": 70,
+    "text": "Kiểm thực 3 bước là những bước nào sau đây là đúng?",
+    "options": [
+     "Kiểm tra trước khi chế biến thức ăn-Ko cần Kiểm tra trong quá trình chế biến-Kiểm tra trước khi ăn",
+     "Kiểm tra trước khi chế biến thức ăn-Kiểm tra trong quá trình chế biến-Kiểm tra trước khi dọn",
+     "Kiểm tra trước khi vận chuyển thức ăn-Kiểm tra trong quá trình chế biến-Kiểm tra trước khi ăn",
+     "Kiểm tra trước khi chế biến thức ăn-Kiểm tra trong quá trình chế biến-Kiểm tra trước khi ăn"
+    ],
+    "answer": 3
+   }
+  ],
+  "group": "SBD PAT"
+ },
+ {
+  "id": "fb-tap-vu-bep-bnc",
+  "name": "FB - Tạp vụ Bếp - BNC",
+  "questions": [
+   {
+    "id": "fb-tap-vu-bep-bnc-1",
+    "no": 1,
+    "text": "Có bao nhiêu tên hãng máy rửa chén?",
+    "options": [
+     "Meiko,Dolphin, Fagor ,Zanussi",
+     "Meiko,Dolphin, máy băng chuyền,máy đơn",
+     "Máy 1 hộc và máy băng chuyền",
+     "Meiko,Dolphin, Fagor"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "fb-tap-vu-bep-bnc-2",
+    "no": 2,
+    "text": "Nhân viên tạp vụ là người cuối cung lau dọn Buffet,phát hiện thức ăn vẫn còn ở trên quầy,lúc này bạn làm gì?",
+    "options": [
+     "Việc của nhân viên bếp",
+     "Mang đổ thùng rác",
+     "Báo ngay với nhân viên bếp tại đó",
+     "Báo với trưởng bộ phận"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "fb-tap-vu-bep-bnc-3",
+    "no": 3,
+    "text": "Quy trình vệ sinh lò chiên dầu bằng điện như thế nào?",
+    "options": [
+     "Lọc dầu rồi lau chùi với xà phòng",
+     "Lọc dầu ,dùng Break up để vệ sinh",
+     "Tắt nguồn điện ,lọc dầu ,mang lưới lọc đi ngâm",
+     "Tắt nguồn điện.\nĐể nguội,lọc dầu,tháo chi tiết.\nVệ sinh với Break up và rửa lại nước sạch"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "fb-tap-vu-bep-bnc-4",
+    "no": 4,
+    "text": "Anh/chị làm gì khi kết thúc ca làm việc?",
+    "options": [
+     "Tắt các nguồn điện và kiểm tra mọi thứ",
+     "Thay rác và vệ sinh cống rãnh",
+     "Xúc máy rửa chén,vệ sinh sàn nhà",
+     "Dọn dẹp khu vực làm việc"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "fb-tap-vu-bep-bnc-5",
+    "no": 5,
+    "text": "Khi nào vệ sinh định kỳ các loại CCDC bằng tre?",
+    "options": [
+     "Sau khi dùng",
+     "Bị nổi móc",
+     "Tuần 1 lần",
+     "1 tháng 1 lần"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "fb-tap-vu-bep-bnc-6",
+    "no": 6,
+    "text": "Cách vệ sinh lò nướng mặt phẳng tròn bằng điện Tepandine theo các bước nào?",
+    "options": [
+     "Xịt Optimum 282 ngâm 15 phút sau đó lau chùi",
+     "Dùng vật nhọn để cào vết bẩn trên bề mặt",
+     "Làm ấm bề mặt,xịt 282 ngâm rồi vệ sinh",
+     "Tắt nguồn điện.\nĐể ấm bề mặt,xịt 282 ngâm 15 phút sau đó lau chùi dễ dàng."
+    ],
+    "answer": 3
+   },
+   {
+    "id": "fb-tap-vu-bep-bnc-7",
+    "no": 7,
+    "text": "Anh /chị cần làm gì khi lưới lọc của bồn rửa đã không còn nữa?",
+    "options": [
+     "Báo với bảo trì",
+     "Đi tìm nó",
+     "Có thể thay thế bằng tấm lọc rác khác.\nTuyệt đối không để  rác rơi xuống đường ống",
+     "Báo trưởng bộ phận"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "fb-tap-vu-bep-bnc-8",
+    "no": 8,
+    "text": "Bạn có biết nguyên nhân CCDC sau khi rửa phải được cách ly với mặt đất?",
+    "options": [
+     "Gọn gàng",
+     "Trách vi khuẩn xâm nhập lây nhiễm chéo",
+     "Yêu cầu của cấp trên",
+     "Dễ dàng di chuyển"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "fb-tap-vu-bep-bnc-9",
+    "no": 9,
+    "text": "Các loại thớt được ngâm tẩy khuẩn với loại hóa chất nào sau đây?",
+    "options": [
+     "Diversoy CX",
+     "Dual dip và Diversoy",
+     "Suma J512",
+     "Optimum 282"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "fb-tap-vu-bep-bnc-10",
+    "no": 10,
+    "text": "Có bao nhiêu loại thiết bị vệ sinh mà anh /chị đang sử dụng?",
+    "options": [
+     "máy đánh sàn,máy hút nước",
+     "Máy thổi gió,máy xịt nước",
+     "Máy đánh sàn",
+     "Máy đánh sàn,máy xịt nước,máy thổi gió ,máy hút bụi"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "fb-tap-vu-bep-bnc-11",
+    "no": 11,
+    "text": "Hóa chất Suma Break up được sử dụng hiệu quả cao nhất khi vệ sinh là gì ?",
+    "options": [
+     "Lấy từ máy pha sẵn",
+     "Vệ sinh sàn nhà",
+     "Hòa với nước Ấm 60 độ C",
+     "Vệ sinh kho rác"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "fb-tap-vu-bep-bnc-12",
+    "no": 12,
+    "text": "Phần cuối của máy rửa chén băng chuyền có cái Cần gạt bằng Inox được nối với bộ điều khiển điện dùng để làm gì?",
+    "options": [
+     "Cản Rack rửa",
+     "Là cảm biến tự động để ngưng Rack rửa",
+     "Không thấy hoạt động",
+     "Dùng để ngăn Rack đĩa"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "fb-tap-vu-bep-bnc-13",
+    "no": 13,
+    "text": "Khi  chén đĩa được rửa bằng máy rửa chén thực hiện theo quy trình nào?",
+    "options": [
+     "Bỏ chén đĩa vô Rack sau đó đưa vô máy",
+     "Ngâm với Sunlight,cho lên Rack đẩy vô máy",
+     "Xịt rửa sơ bộ.\nRửa bằng hóa chất rửa trong máy.\nTráng khô qua hóa chất trong máy.",
+     "Sắp xếp theo từng loại vô rack rồi cho vô máy"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "fb-tap-vu-bep-bnc-14",
+    "no": 14,
+    "text": "Suma  J512 có công dụng gì?",
+    "options": [
+     "lau công Buffet",
+     "khử trùng",
+     "tẩy dầu mỡ",
+     "khử trùng các bề mặt tiếp xúc với thực phẩm"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "fb-tap-vu-bep-bnc-15",
+    "no": 15,
+    "text": "Hóa chất Chlorine B có tác dụng như thế nào?",
+    "options": [
+     "Khử trùng nước cấp",
+     "Vệ sinh ccdc sau khi sử dụng",
+     "Xử lý nước bể bơi",
+     "Sát khuẩn cực mạnh với mục đích khử trùng và tẩy trắng"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "fb-tap-vu-bep-bnc-16",
+    "no": 16,
+    "text": "Hành lang khu vực giữa bếp và nhà hàng có rất nhiều xe đẩy,ky nhựa lẫn lộn bạn sẽ làm gì?",
+    "options": [
+     "sắp xếp ky nhựa gọn gàng",
+     "gọi người liên quan đến làm",
+     "báo cáo cấp trên",
+     "Thực hiện quy trình 5S"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "fb-tap-vu-bep-bnc-17",
+    "no": 17,
+    "text": "Hóa chất rửa rau củ quả tên là gì?",
+    "options": [
+     "Dualdip",
+     "Suma Eden",
+     "Diversoy CX",
+     "Spectrum"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "fb-tap-vu-bep-bnc-18",
+    "no": 18,
+    "text": "Anh /chị sẽ làm gì khi nhân viên bếp yêu cầu cung cấp ccdc?",
+    "options": [
+     "Báo trưởng bộ phận",
+     "cấp ngay",
+     "không biết làm gì",
+     "Ccdc xuất kho phải có phiếu yêu cầu cấp phát"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "fb-tap-vu-bep-bnc-19",
+    "no": 19,
+    "text": "Bộ phận tạp vụ bếp có vai trò như thế nào ?",
+    "options": [
+     "Rửa chén đĩa và xoong nồi",
+     "Vệ sinh nhà bếp",
+     "Cung cấp các dịch vụ nội bộ cho bếp và F & B.\nĐảm bảo công tác vệ sinh.",
+     "Chuẩn bị tiệc và dọn dẹp sau tiệc"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "fb-tap-vu-bep-bnc-20",
+    "no": 20,
+    "text": "Bạn sẽ làm gì khi sàn nhà bị đỗ nước ?",
+    "options": [
+     "Làm xong việc đang dỡ dang rồi lau nước",
+     "Hôm nay được phân công vận chuyển hàng , lau nhà không phải việc của mình",
+     "Gạt nước và lau khô ngay tránh trơn trượt",
+     "Đi gọi người được phân công làm việc đó"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "fb-tap-vu-bep-bnc-21",
+    "no": 21,
+    "text": "Tủ lạnh được vệ sinh khử trùng bằng loại hóa chất để đảm bảo ATVSTP",
+    "options": [
+     "Inox",
+     "Optimum 282",
+     "Diversoy CX",
+     "Sunlight"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "fb-tap-vu-bep-bnc-22",
+    "no": 22,
+    "text": "Hóa chất diệt khuẩn Suma J512 có tác dụng ngăn ngừa vi khuẩn xâm nhập trong bao nhiêu giờ đồng hồ",
+    "options": [
+     "3h",
+     "4h",
+     "5h",
+     "1h"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "fb-tap-vu-bep-bnc-23",
+    "no": 23,
+    "text": "Vệ sinh kho đông,kho mát bằng cách nào sau đây ?",
+    "options": [
+     "Dùng máy đánh sàn để vệ sinh",
+     "Dùng nước nóng và hóa chất lau sàn để vệ sinh",
+     "Tắt nguồn điện \nDùng nước nóng xả đá đông  và hóa chất lau sàn để vệ sinh",
+     "Chà rửa với Sunlight hàng ngày"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "fb-tap-vu-bep-bnc-24",
+    "no": 24,
+    "text": "Khu vực Buffet cần lau chùi theo bước nào ?",
+    "options": [
+     "Lau chùi nồi hâm nóng thức ăn và hóc đựng đá",
+     "Lau chùi các bếp điện, chân kê, đèn hâm nóng",
+     "Lau chùi các bình thủy tinh trang trí và đồ tre",
+     "Vệ sinh tất cả ccdc và bề mặt quầy Buffet với hóa chất Suma J512.\nĐổ nước vào chafingdish\nĐổ đá vào các hộc Salad"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "fb-tap-vu-bep-bnc-25",
+    "no": 25,
+    "text": "Khách Buffet đông ,nhân viên tạp vụ có nên hỗ trợ đẩy chén đĩa dơ vào để rửa không",
+    "options": [
+     "Được phép",
+     "Chỉ cho nhân viên nhà hàng, nhân viên bếp , tạp vụ thì không được",
+     "Được phép khi có sự chỉ đạo của cấp trên",
+     "không được ra khu vực Bufet"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "fb-tap-vu-bep-bnc-26",
+    "no": 26,
+    "text": "Tiết kiệm nước nhằm mục đích gì?",
+    "options": [
+     "Nguồn nước đang khan hiếm",
+     "Giảm thiểu chi phí kinh doanh",
+     "Góp phần bảo vệ tài nguyên môi trường.",
+     "Giảm thiểu chi phí kinh doanh\n Nguồn nước đang khan hiếm\nGóp phần bảo vệ tài nguyên môi trường."
+    ],
+    "answer": 3
+   },
+   {
+    "id": "fb-tap-vu-bep-bnc-27",
+    "no": 27,
+    "text": "Nhiệt độ của máy rửa chén như thế nào là đúng ?",
+    "options": [
+     "Rửa 50 - 65 độ C , tráng 82 - 86 độ C",
+     "Rửa 55 - 65 độ C , tráng 76 - 82 độ C",
+     "Rửa 50 - 65 độ C , tráng 82 - 86 độ C",
+     "Rửa 55 - 65 độ C , tráng 82 - 86 độ C"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "fb-tap-vu-bep-bnc-28",
+    "no": 28,
+    "text": "Vệ sinh lò nướng phẳng theo cách nào sau đây là đúng ?",
+    "options": [
+     "Phun Otimum 282 lên bề mặt, 15 phút sau đó lau chùi",
+     "Phun Otimum 282 lên bề mặt đang ấm.\n15 phút sau vệ sinh bằng xẻng xủi inox và lau lại bằng nước sạch.",
+     "Dùng miếng cọ sắt để vệ sinh",
+     "Làm nóng lò nướng sau đó xịt hóa chất rồi vệ sinh"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "fb-tap-vu-bep-bnc-29",
+    "no": 29,
+    "text": "Máy rửa chén được vận hành đúng theo cách nào ?",
+    "options": [
+     "Bật công tất nguồn, mở cửa máy và đổ nước nóng, sau đó sử dụng",
+     "Vệ sinh sau khi sử dụng",
+     "Bật công tất nguồn, đổ nước nóng và chờ đủ nhiệt thì sử dụng",
+     "Bật công tất nguồn\n Bấm nút khởi động\n Máy tự bơm nước và hóa chất khi đủ nhiệt độ thì sử dụng"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "fb-tap-vu-bep-bnc-30",
+    "no": 30,
+    "text": "Dàn hút khói được vệ sinh theo cách nào sau đây ?",
+    "options": [
+     "Lau chùi bên trong và bên ngoài dàn hút",
+     "Lấy lọc dầu xuống để vệ sinh",
+     "Tháo các tấm chắn xuống xịt rửa bằng Break up HD, sau đó lắp lại",
+     "tháo tấm chắn cho vào máy rửa"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "fb-tap-vu-bep-bnc-31",
+    "no": 31,
+    "text": "Khay Inox bị bẩn do nướng cháy thì vệ sinh bằng cách nào ?",
+    "options": [
+     "Lấy bàn chải sắt cọ sạch và rửa bằng nước",
+     "Ngâm với hóa chất Optimum 282 khoảng 30 phút, cọ sạch vết bẩn, rửa lại bằng nước sạch",
+     "Làm ấm nó lên, phun Optimum 282, cọ sạch vết bẩn, rửa lại bằng nước sạch",
+     "Ngâm với Sunlight"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "fb-tap-vu-bep-bnc-32",
+    "no": 32,
+    "text": "Hóa chất Divoklens dùng để làm gì ?",
+    "options": [
+     "Rửa bằng tay",
+     "Rửa tay",
+     "Lau chùi tường bếp",
+     "Rửa soong nồi"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "fb-tap-vu-bep-bnc-33",
+    "no": 33,
+    "text": "Hóa chất Suma Inox dùng để đánh bóng những gì ?",
+    "options": [
+     "Tất cả các CCDC có bề mặt Inox",
+     "Nồi hâm nóng thức ăn, xe đẩy, chân bàn Inox, cửa Inox",
+     "Tất cả các bề mặt Inox không tiếp xúc với thực phẩm",
+     "thang máy,tủ lạnh"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "fb-tap-vu-bep-bnc-34",
+    "no": 34,
+    "text": "Hóa chất Suma Break up có tác dụng gì ?",
+    "options": [
+     "Lau chùi sàn nhà",
+     "Lau chùi dàn hút khói",
+     "Pha loãng và ngâm tẩy rửa các dụng cụ dầu mỡ",
+     "tẩy dầu mỡ"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "fb-tap-vu-bep-bnc-35",
+    "no": 35,
+    "text": "Tại sao chúng ta phải phân loại đũa, muỗng, chén, đĩa theo kích cỡ",
+    "options": [
+     "Tránh nguy cơ đũa bị gãy",
+     "Tránh tình trạng đĩa to chồng lên đĩa nhỏ",
+     "Ngăn chặn nguy cơ đỗ vỡ",
+     "Gọn gàng"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "fb-tap-vu-bep-bnc-36",
+    "no": 36,
+    "text": "Cồn sát trùng cho nhân viên bếp có tên gì?",
+    "options": [
+     "SU 394",
+     "Sortcare",
+     "Divoklens",
+     "Cồn sát trùng"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "fb-tap-vu-bep-bnc-37",
+    "no": 37,
+    "text": "Để tẩy trắng các vết vàng ố bám trên chén đĩa bằng cách nào sau đây ?",
+    "options": [
+     "Dùng Sunlight và miếng chà mềm để vệ sinh",
+     "Ngâm với Divessoy CX sau đó cho vào máy rửa.",
+     "Ngâm với Dual Dip rồi chà sạch sau đó cho vào máy rửa",
+     "Ngâm với Sunlight"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "fb-tap-vu-bep-bnc-38",
+    "no": 38,
+    "text": "Anh, Chị phải báo cáo công việc như thế nào là đúng trình tự ?",
+    "options": [
+     "Bếp trưởng, tổ trưởng tạp vụ, giám sát tạp vụ",
+     "Bếp trưởng, giám sát tạp vụ, tổ trưởng tạp vụ",
+     "Tổ trưởng tạp vụ, quản lý tạp vụ, Bếp phó, Bếp trưởng",
+     "Giám sát tạp vụ, tổ trưởng tạp vụ, Bếp trưởng"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "fb-tap-vu-bep-bnc-39",
+    "no": 39,
+    "text": "Cách bảo quản máy rửa chén nào đúng?",
+    "options": [
+     "Vệ sinh lưới lọc rác và tấm chắn",
+     "Vệ sinh các thanh rửa và thanh tráng",
+     "Xả nước và tắt nguồn điện",
+     "Tắt nguồn điện sau khi dùng,vệ sinh từng chi tiết"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "fb-tap-vu-bep-bnc-40",
+    "no": 40,
+    "text": "Thớt sau khi vệ sinh sắp đặt như thế nào là đúng ?",
+    "options": [
+     "Sắp nằm dọc",
+     "Sắp chồng lên nhau",
+     "Sắp thẳng đứng lên kệ",
+     "Sắp thẳng đứng lên giá để thớt"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "fb-tap-vu-bep-bnc-41",
+    "no": 41,
+    "text": "Vận chuyển xe đẩy hàng 1 cách an toàn theo cách nào là đúng ?",
+    "options": [
+     "Dùng 2 tay",
+     "Cần 2 người",
+     "Dùng 2 tay và quan sát kỹ",
+     "Tránh va chạm"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "fb-tap-vu-bep-bnc-42",
+    "no": 42,
+    "text": "Cách vệ sinh lò nướng đa năng như thế nào là đúng ?",
+    "options": [
+     "Phun Otimum 282 lên bề mặt, 15 phút sau vệ sinh",
+     "Mang đồ bảo hộ, tắt lò, để nguội 50 độ C, phun hóa chất lên 15 phút, sau đó chà sạch bên trong, rửa lại nước sạch",
+     "Lấy các giá đỡ ra cho vào bồn để vệ sinh",
+     "Cọ rửa bằng miếng sắt"
+    ],
+    "answer": 1
+   }
+  ],
+  "group": "SBD PAT"
+ },
+ {
+  "id": "fb-tap-vu-nha-hang-bnc",
+  "name": "FB - Tạp vụ nhà hàng - BNC",
+  "questions": [
+   {
+    "id": "fb-tap-vu-nha-hang-bnc-1",
+    "no": 1,
+    "text": "Dung dịch chai xịt GIFT 580ml, dùng để làm gì?",
+    "options": [
+     "Tẩy ố",
+     "Vệ sinh kính",
+     "Lau sàn",
+     "Đánh sàn"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "fb-tap-vu-nha-hang-bnc-2",
+    "no": 2,
+    "text": "Hóa chất Suma Break Up HD dùng để làm gì ?",
+    "options": [
+     "Tẩy rửa,vệ sinh sàn dầu mỡ",
+     "Tẩy ố",
+     "Khử mùi",
+     "Lau inox"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "fb-tap-vu-nha-hang-bnc-3",
+    "no": 3,
+    "text": "Hóa chất Shine-up dùng để làm gì ?",
+    "options": [
+     "Vệ sinh,bảo dưỡng & đánh bóng gỗ",
+     "Đánh sàn",
+     "Lau nhà",
+     "Lau inox"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "fb-tap-vu-nha-hang-bnc-4",
+    "no": 4,
+    "text": "Hóa chất  3M  stainless Steel Cleaner & polish dùng để làm gì?",
+    "options": [
+     "Tẩy ố vàng",
+     "Vệ sinh, đánh bóng inox",
+     "Lau sàn",
+     "Khử mùi"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "fb-tap-vu-nha-hang-bnc-5",
+    "no": 5,
+    "text": "Hóa chất Crew (Crew Lime and Scale Remover) dùng để làm gì ?",
+    "options": [
+     "Lau sàn gổ",
+     "Lau sàn gạch men",
+     "Tẩy rửa,vệ sinh bồn cầu",
+     "Lau inox"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "fb-tap-vu-nha-hang-bnc-6",
+    "no": 6,
+    "text": "Đâu là dung dịch rửa tay đang sử dụng tại nhà vệ sinh?",
+    "options": [
+     "Freedom",
+     "3M-8H",
+     "Rotocare 500",
+     "Spectrum DC"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "fb-tap-vu-nha-hang-bnc-7",
+    "no": 7,
+    "text": "Hóa chất Freedom dùng để làm gì?",
+    "options": [
+     "Lau sàn gổ",
+     "Lau bồn cầu",
+     "Lau sàn nhà",
+     "Bóc/Tẩy sàn"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "fb-tap-vu-nha-hang-bnc-8",
+    "no": 8,
+    "text": "Tinh dầu sử dụng trong Toilet, dùng để làm gì ?",
+    "options": [
+     "Rửa tay",
+     "Khử mùi, tạo hương",
+     "Lau sàn",
+     "Đánh bóng inox"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "fb-tap-vu-nha-hang-bnc-9",
+    "no": 9,
+    "text": "Hóa chất JUMBO A102 dùng để làm gì?",
+    "options": [
+     "Lau inox",
+     "Lau sàn gỗ",
+     "Tẩy xi măng, vữa , mốc",
+     "Đánh bóng inox"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "fb-tap-vu-nha-hang-bnc-10",
+    "no": 10,
+    "text": "Đâu là màu của hóa chất JUMBO A102?",
+    "options": [
+     "Xanh",
+     "Đỏ",
+     "Hồng",
+     "Trong suốt"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "fb-tap-vu-nha-hang-bnc-11",
+    "no": 11,
+    "text": "Đâu là bộ công cụ để vệ sinh gương cơ bản cần có?",
+    "options": [
+     "Cây móp nước, khăn khô, hóa chất vệ sinh kính",
+     "Cây Dust,cây sũi, lông thỏ, hóa chất vệ sinh kính",
+     "Cây gạt kính",
+     "Bộ gạt kính, bông thỏ. Khăn khô, hóa chất vệ sinh kính"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "fb-tap-vu-nha-hang-bnc-12",
+    "no": 12,
+    "text": "Khi lau sàn nhà, lau thế nào là KHÔNG đúng?",
+    "options": [
+     "Lau từng khu, có thể từ trái sang phải",
+     "Lau từng khu, có thể di chuyển mop theo hình số 8",
+     "Lau từ ngoài vào trong, từ dưới lên trên và nơi bẩn trước, sạch sau.",
+     "Lau từng khu, có thể từ phải sang trái"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "fb-tap-vu-nha-hang-bnc-13",
+    "no": 13,
+    "text": "Khi lau sàn nhà (nhiều dầu mỡ) bạn có thể sẽ sử dụng hóa chất nào sau đây?",
+    "options": [
+     "Suma Beark Up HD",
+     "Emerel",
+     "Crew",
+     "Jumbo A102"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "fb-tap-vu-nha-hang-bnc-14",
+    "no": 14,
+    "text": "Trong lúc quét rác bạn vô tình quét phải chân Khách đang dùng dịch vụ ẩm thực, sau đó Khách hàng trách móc và phàn nàn trực tiếp. Nếu bạn gặp phải tình huống trên bạn nên cư xử như thế nào?",
+    "options": [
+     "Tỏ thái độ lắng nghe và nhận trách nhiệm,xin lỗi Khách hàng chân thành vì sự cố bất tiện,cám ơn và chúc ngon miệng nếu khi được Khách hàng chấp nhận hoặc báo lại cho quản lý sự việc khi Khách hàng chưa hài lòng.",
+     "Tranh cãi và tìm những lý do để biện hộ với Khách, tránh thiệt hại danh tiếng.",
+     "Lập tức rời đi, tránh tiếp tục để Khách hàng nhìn thấy mình gây tâm lý ức chế đến với họ.",
+     "Va vấp trong hoạt động kinh doanh khi lượt Khách sử dụng dịch vụ quá lớn là điều hết sức bình thường, không nên lưu tâm."
+    ],
+    "answer": 0
+   },
+   {
+    "id": "fb-tap-vu-nha-hang-bnc-15",
+    "no": 15,
+    "text": "Hoàn thành tất cả công việc vệ sinh tổng thể nhà hàng trước lúc phục vụ khách ăn trưa lúc mấy giờ?",
+    "options": [
+     "10h30",
+     "11h",
+     "9h30",
+     "10h00"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "fb-tap-vu-nha-hang-bnc-16",
+    "no": 16,
+    "text": "Khi bị hóa chất rơi vào mắt bạn phải làm gì?",
+    "options": [
+     "Ngay lập tức rửa lại nhiều lần bằng nước sạch, báo lại giám sát/quản lý, yêu cầu y tế kiểm tra.",
+     "Dụi tay ngay vào mắt và thổi mạnh vào mắt",
+     "Nhắm mắt lại trong vòng 10s",
+     "Dụi tay ngay lập tức và rửa lại bằng nước sạch."
+    ],
+    "answer": 0
+   },
+   {
+    "id": "fb-tap-vu-nha-hang-bnc-17",
+    "no": 17,
+    "text": "Quy trình vệ sinh phòng Toilet tại tổ tạp vụ Nhà Hàng gồm bao nhiêu bước?",
+    "options": [
+     "11",
+     "12",
+     "13",
+     "14"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "fb-tap-vu-nha-hang-bnc-18",
+    "no": 18,
+    "text": "Khi lau tường gỗ bạn sử dụng hóa chất nào dưới đây? Pha tỉ lệ bao nhiêu?",
+    "options": [
+     "Hóa chất Shine-up và dùng nguyên chất",
+     "Hóa chat CLASS tỉ lệ 1/50",
+     "Hóa chất UREX tỉ lệ 1/10",
+     "Hóa chất STEEL BPITE tỉ lệ 1/5"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "fb-tap-vu-nha-hang-bnc-19",
+    "no": 19,
+    "text": "Hóa chất SPECTRUM DC có tính năng gì?",
+    "options": [
+     "Sát khuẩn, khử mùi sàn nhà, nhà vệ sinh…",
+     "Đánh sàn và tẩy bong các lớp đá vôi bám trên sàn",
+     "Có tinh năng làm bóng kim loại",
+     "Đánh bóng đá"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "fb-tap-vu-nha-hang-bnc-20",
+    "no": 20,
+    "text": "Có một khách nước ngoài vào nhà hàng. Khách đến hỏi bạn một điều gì đó, nhưng bạn không hiểu ngoại ngữ. Trong tình huống này bạn phải làm như thế nào?",
+    "options": [
+     "Tìm sự giúp đỡ ngay của đồng nghiệp (lễ tân,các bạn nhà hàng,bất kì đồng nghiệp có thể giao tiếp…) không để Khách hàng không tìm được sự giúp đỡ",
+     "Hảy đừng trả lời nếu bạn không hiểu ngoại ngữ.",
+     "Hảy chỉ hướng vào Toilet",
+     "Xin lỗi khách"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "fb-tap-vu-nha-hang-bnc-21",
+    "no": 21,
+    "text": "Trong lúc làm vệ sinh tại khu vực nhà hàng nếu phát hiện một túi xách khách để quên trong khu vực nhà vệ sinh Anh/Chị sẽ nên làm gì?",
+    "options": [
+     "Đứng giữ nguyên vị trí bảo vệ tài sản cho đến khi chủ nhân quay trở lại nhận.",
+     "Đi gọi An ninh ngay lập tức",
+     "Chủ động mở ví, kiểm tra tài sản túi xách ngay lập tức.",
+     "Báo cáo với Cấp trên ngay lập tức sự việc, để Cấp trên thông báo cho các bộ phận khác nắm thông tin, hỗ trợ."
+    ],
+    "answer": 3
+   },
+   {
+    "id": "fb-tap-vu-nha-hang-bnc-22",
+    "no": 22,
+    "text": "Theo Anh/Chị  để công tác vệ sinh ngày tốt hơn, sạch sẽ hơn cũng như Khu Du Lịch ngày càng tốt hơn trong mắt du khách, là một nhân viên vệ sinh bạn KHÔNG nên làm gì?",
+    "options": [
+     "Có ý thức cao trong công việc, biết quan sát, nhanh nhẹn chấp nhận khó khăn",
+     "Có niềm đam mê,yếu thích trong công việc của mình. Tác phong diện mạo chuyên nghiệp",
+     "Luôn luôn tự giác, trách nhiệm, nâng cao khả năng rèn luyện phát triển chuyên môn và đạo đức.",
+     "Trong công việc vệ sinh,duy nhất chỉ cần làm tốt phần \"mặt tiền\""
+    ],
+    "answer": 3
+   },
+   {
+    "id": "fb-tap-vu-nha-hang-bnc-23",
+    "no": 23,
+    "text": "Quy định trang phục đối với nhân viên vệ sinh là:",
+    "options": [
+     "Thích mặt gì mặc , không cần đúng đồng phục qui định",
+     "Mặc áo đồng phục , còn quần thì mặc quần jean, kaki tùy thích",
+     "Mặc đúng đồng phục được công ty cấp phát, gọn gàng và sạch sẽ.",
+     "Mang dép lê , mặc áo quần thoải mái, mát mẻ"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "fb-tap-vu-nha-hang-bnc-24",
+    "no": 24,
+    "text": "Bắt đầu ca làm việc mới, Anh/ Chị KHÔNG làm gì?",
+    "options": [
+     "Họp brifieng đầu ca",
+     "Nhận phân chia khu vực làm việc",
+     "Giao nhận chìa khóa, CCDC",
+     "Chuẩn bị đồ ăn sáng"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "fb-tap-vu-nha-hang-bnc-25",
+    "no": 25,
+    "text": "Điều quan trọng nhất trong mỗi ca làm việc của Anh/ Chị là?",
+    "options": [
+     "Đảm bảo chất lượng vệ sinh khu vực được phân công , đảm bảo chất lượng dịch vụ tốt nhất đến Du khách",
+     "Đi làm và ra về đúng giờ.",
+     "Chuẩn bị đầy đủ công cụ dụng cụ trong ca làm việc",
+     "Được Khách hàng Tip"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "fb-tap-vu-nha-hang-bnc-26",
+    "no": 26,
+    "text": "Khi Khách vô ý làm rơi thức ăn xuống sàn, thì hành động xử lý nào sau đây của anh/ chị là đúng?",
+    "options": [
+     "Hảy làm công việc khác",
+     "Lập tức có mặt và dọn sạch sẽ thức ăn sàn nhà",
+     "Lập tức có mặt và dọn sạch sẽ thức ăn sàn nhà dưới sự cho phép của khách.",
+     "Nhờ khách dọn hộ mình"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "fb-tap-vu-nha-hang-bnc-27",
+    "no": 27,
+    "text": "Khi đang làm việc chổi quét nhà bị hỏng không sử dụng được Anh/ Chị sẽ làm gì là đúng nhất?",
+    "options": [
+     "Cho vào sọt rác dùng chổi mới để tiếp tục công việc",
+     "Cho vào kho dùng chổi mới để tiếp tục công việc",
+     "Dừng công việc",
+     "Cho vào kho (thùng đựng công cụ, dụng cụ hỏng) ghi chép vào sổ giao cao, đồng thời liên hệ với người quản kho để nhận lại chổi mới ngay,tiếp tục công việc"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "fb-tap-vu-nha-hang-bnc-28",
+    "no": 28,
+    "text": "Khi được điều động đột xuất qua khu vực làm việc mới thì Anh / Chị sẽ làm gì?",
+    "options": [
+     "Tỏ vẻ khó chịu, không thực hiện theo",
+     "Đồng ý và đi ngay lập tức",
+     "Kì kèo, nhờ người khác đi hộ",
+     "Bàn giao lại khu vực đó cho nhân viên được phân công, vui vẻ nhanh chóng qua khu vực mới để nhận nhiệm vụ"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "fb-tap-vu-nha-hang-bnc-29",
+    "no": 29,
+    "text": "Quy trình làm sạch sàn nhà bằng máy bắn sàn theo quy trình nào?",
+    "options": [
+     "Chuẩn bị máy móc và CCDC -> Kiểm tra máy móc và nguồn điện -> Thực hiện công tác bắn sàn -> Vệ sinh máy - > Kiểm tra tổng thể lần cuối.",
+     "Chuẩn bị máy móc và CCDC-> Thực hiện việc bắn sàn",
+     "Kiểm tra máy móc và nguồn điện-> Chuẩn bị máy móc và CCDC -> Thực hiện công tác bắn sàn",
+     "Thực hiện công tác bắn sàn -> vệ sinh máy"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "fb-tap-vu-nha-hang-bnc-30",
+    "no": 30,
+    "text": "Hóa chất lau kính Gift khi sử dụng vệ sinh kính, thông thường có hòa chung với các dung dịch khác hay không. Nếu có tỉ lệ là bao nhiêu?",
+    "options": [
+     "Có, tỉ lệ 1:1",
+     "Có, tỉ lệ 1:2",
+     "Có, tỉ lệ 1:5",
+     "Không hòa chung với dung dịch khác"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "fb-tap-vu-nha-hang-bnc-31",
+    "no": 31,
+    "text": "Để thực hiện công tác bắn sàn chúng ta cần những công cụ chính nào ?",
+    "options": [
+     "máy bắn nước, dây ống dẫn nước, dây điện",
+     "dây ống nhựa dẻo, hóa chất lau sàn",
+     "Dây ống nhựa dẻo, chổi cước, hóa chất",
+     "dây điện, chổi cước"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "fb-tap-vu-nha-hang-bnc-32",
+    "no": 32,
+    "text": "Hóa chất số 3M-8H có được sử dụng để lau sàn không?",
+    "options": [
+     "Có, vì là hóa chất đa năng",
+     "Không",
+     "Có, nếu vào mùa đông",
+     "Có, nếu vào mùa hè"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "fb-tap-vu-nha-hang-bnc-33",
+    "no": 33,
+    "text": "Khi muốn sử dụng máy phun rửa áp lực nước, bạn KHÔNG cần phải làm gì?",
+    "options": [
+     "Kiểm tra tổng thể máy",
+     "Kiểm tra nguồn điện",
+     "Kiểm tra nguồn nước",
+     "Kiểm tra pad đánh sàn"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "fb-tap-vu-nha-hang-bnc-34",
+    "no": 34,
+    "text": "Khi gặp vấn đề chuyên môn và vấn đề khác trong ca làm việc không xử lý được Anh / Chị liên hệ ai để giải quyết?",
+    "options": [
+     "Phó/Trưởng bộ phận nhà hàng",
+     "Phó Giám Đốc/Giám đốc khối ẩm thực",
+     "Tổ trưởng/Giám sát/ Quản lý tạp vụ Nhà hàng",
+     "Giám sát/Quản lý Nhà Hàng"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "fb-tap-vu-nha-hang-bnc-35",
+    "no": 35,
+    "text": "Pad đánh sàn có bao nhiêu loại, mà hiện Tạp vụ Nhà hàng đang sử dụng?",
+    "options": [
+     "1",
+     "2",
+     "3",
+     "4"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "fb-tap-vu-nha-hang-bnc-36",
+    "no": 36,
+    "text": "Để đánh sàn vết bẩn cứng đầu trên sàn gạch, bạn dùng loại pad nào cho kết quả tối ưu?",
+    "options": [
+     "Trắng",
+     "Đen",
+     "Đỏ",
+     "Xanh"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "fb-tap-vu-nha-hang-bnc-37",
+    "no": 37,
+    "text": "Một trong các nguyên tắc khi làm vệ sinh là?",
+    "options": [
+     "Làm theo quy tắc bàn tay phải",
+     "Từ trên xuống dưới, trong ra ngoài, nơi sạch trước bẩn sau và làm từng khu",
+     "Theo quy tắt đồng hồ",
+     "Theo quy tắt bàn tay trái"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "fb-tap-vu-nha-hang-bnc-38",
+    "no": 38,
+    "text": "Để tẩy rửa vết rỉ sét trên vòi inox bạn sẽ dùng hóa chất nào?",
+    "options": [
+     "Suma break up HD",
+     "Jumbo",
+     "Shine up",
+     "Emerel"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "fb-tap-vu-nha-hang-bnc-39",
+    "no": 39,
+    "text": "Sau khi thực hiện đánh sàn khu vực bên trong nhà xong thì KHÔNG nên làm gì?",
+    "options": [
+     "Lau khô",
+     "Kiểm tra lần cuối, đảm bảo sạch và khô",
+     "Vệ sinh máy đưa vào lại kho bảo quản",
+     "Thực hiện phun rửa áp lực nước lần 2"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "fb-tap-vu-nha-hang-bnc-40",
+    "no": 40,
+    "text": "Cánh cửa sắt bị dơ Anh/Chị dùng hóa chất nào để vệ sinh là SAI?",
+    "options": [
+     "3M-8H",
+     "Các dung dịch có độ pH = 7",
+     "Forward DC",
+     "Crew"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "fb-tap-vu-nha-hang-bnc-41",
+    "no": 41,
+    "text": "Hóa chất nào dưới đây có tính đa năng?",
+    "options": [
+     "Jumbo",
+     "3M-8H",
+     "Shine up",
+     "Crew"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "fb-tap-vu-nha-hang-bnc-42",
+    "no": 42,
+    "text": "Hóa chất Emerel là hóa chất dạng gì?",
+    "options": [
+     "Dạng kem, màu trắng",
+     "Dạng kem, màu đen",
+     "Dạng kem, màu vàng",
+     "Dạng kem, màu tím"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "fb-tap-vu-nha-hang-bnc-43",
+    "no": 43,
+    "text": "Anh/Chị cần sẽ làm gì khi thấy khách nôn ói trong bồn rửa mặt tại khu vực của mình?",
+    "options": [
+     "Hảy phàn nàn để Khách rút kinh nghiệm",
+     "Yêu cầu Khách cần thực hiện dọn dẹp sạch sẽ",
+     "Dọn sạch bồn rửa và hỏi thăm sức khỏe của khách với thái độ ân cần niềm nở , báo Cấp trên gọi y tế kiểm tra nếu cần.",
+     "Yêu cầu Khách rời khỏi khu vực này"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "fb-tap-vu-nha-hang-bnc-44",
+    "no": 44,
+    "text": "Sau khi vệ sinh sạch Toilet ta có dùng hóa chất gì để khử mùi hôi, khử trùng?",
+    "options": [
+     "Crew",
+     "Emerel",
+     "Shine up",
+     "Spectrum DC"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "fb-tap-vu-nha-hang-bnc-45",
+    "no": 45,
+    "text": "Khi đang làm vệ sinh trong nhà hàng có khách báo mất tài sản trong khu vực,bạn sẽ làm gì?",
+    "options": [
+     "Tiếp nhận thông tin và báo cáo với giám sát, quản lí Nhà hàng hoặc Cấp trên có thể giúp, ngay.",
+     "Hảy rời vị trí ngay vì bạn không thể giúp điều này.",
+     "Tiếp nhận thông tin nhưng không báo cáo với Cấp trên.",
+     "Rời vị trí và chủ động một mình cùng Khách đi tìm tài sản."
+    ],
+    "answer": 0
+   },
+   {
+    "id": "fb-tap-vu-nha-hang-bnc-46",
+    "no": 46,
+    "text": "Trong ca làm việc bạn được phân công một nhà hàng nhưng nhà hàng bạn làm rất ít khách nhưng nhà hàng bên cạnh rất đông khách và đồng nghiệp của bạn dọn vệ sinh không kịp bạn sẽ làm gì?",
+    "options": [
+     "Làm ngơ như không thấy gì",
+     "Báo cáo với Giám sát/Quản lý nhà hàng đang phụ trách, rời vị trí tham gia hỗ trợ nhà hàng bên cạnh",
+     "Ngồi chơi tám chuyện với nhân viên nhà hàng",
+     "Rời vị trí và chủ động hỗ trợ đồng nghiệp ngay"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "fb-tap-vu-nha-hang-bnc-47",
+    "no": 47,
+    "text": "Khi nhìn thấy đồng nghiệp lấy cắp tài sản của khách bạn sẽ làm gì?",
+    "options": [
+     "Khuyên đồng nghiệp trung thực, trả lại tài sản cho khách. Báo cáo sự việc cho cấp trên",
+     "Làm ngơ bỏ đi",
+     "Ủng hộ đồng nghiệp",
+     "Yêu cầu chia nhau"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "fb-tap-vu-nha-hang-bnc-48",
+    "no": 48,
+    "text": "Trong lúc vệ sinh thang cuốn bạn thấy một người rất lớn tuổi ,khó di chuyển trên thang cuốn bạn sẽ làm gì?",
+    "options": [
+     "Nên tiếp tục làm việc của mình",
+     "Hảy rời vị trí đó ngay",
+     "Quan sát và tiến đến giúp đỡ khách bước lên thang cuốn(nếu có thể) hoặc gọi giúp đỡ, dẫn khách đi hết thang cuốn đến lúc an toàn chào tạm biệt khách và tiếp tục thực hiện công việc của mình",
+     "Báo Giám sát/Quản lý"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "fb-tap-vu-nha-hang-bnc-49",
+    "no": 49,
+    "text": "Khi bị cấp trên nhắc nhở vì chưa hoàn thành công việc được giao bạn sẽ làm gì?",
+    "options": [
+     "Hảy xem đó là chuyện bình thường trong công việc",
+     "Lắng nghe, xin lỗi thiếu sót trong công việc, cam kết sẽ không tái diễn và nhờ cấp trên tư vấn cách làm hiệu quả nhất",
+     "Không quan tâm vì ai cũng như mình",
+     "Hảy tìm cho mình 1 lý do để đấu tranh"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "fb-tap-vu-nha-hang-bnc-50",
+    "no": 50,
+    "text": "Đang dọn vệ sinh trong nhà hàng Anh/Chị vô tình thấy điện thoại của khách quên, hành động xử lý nào của anh/ chị là đúng?",
+    "options": [
+     "Hảy nhận lấy và sử dụng cho riêng mình.",
+     "Hảy im lặng và rời vị trí đó ngay vì bạn sẽ phải bị hiểu lầm ăn cắp",
+     "Theo dõi thiết bị và báo cáo sự việc ngay lập tức cho Giám sát, Quản lí Nhà hàng, Cấp trên có thể hỗ trợ.",
+     "Chủ động chạy quanh các khu vực để tìm chủ nhân"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "fb-tap-vu-nha-hang-bnc-51",
+    "no": 51,
+    "text": "Khi bạn bị ốm đau đột xuất không thể đi làm được ngày hôm đó, bạn sẽ làm gì?",
+    "options": [
+     "Nghỉ và hôm sau lên báo",
+     "Nghỉ vài ngày đến khi khỏe",
+     "Báo cáo ngay cho Tổ trưởng/Giám sát/Quản lý tạp vụ và trình giấy ốm khi đi làm lại",
+     "Báo cho Phó/Trưởng bộ phận Nhà Hàng"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "fb-tap-vu-nha-hang-bnc-52",
+    "no": 52,
+    "text": "Hằng ngày, bạn cần làm việc theo file nào?",
+    "options": [
+     "Bảng mô tả , phân chia công việc hằng ngày.",
+     "Bảng mô tả , bố trí công việc định kỳ trong tháng",
+     "Bảng mô tả, bố trí kho",
+     "Bảng theo dõi năng suất làm việc"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "fb-tap-vu-nha-hang-bnc-53",
+    "no": 53,
+    "text": "Sử dụng hóa chất đúng cách và hiệu quả phải làm theo các yếu tố nào?",
+    "options": [
+     "Đúng nhiệt độ",
+     "Đúng thời gian",
+     "Đúng thời tiết",
+     "Sử dụng đúng nồng độ và tỷ lệ do nhà sản xuất đưa ra, được Quản lý niêm yết"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "fb-tap-vu-nha-hang-bnc-54",
+    "no": 54,
+    "text": "Trong trường hợp lau chùi cửa kính mà không có hóa chất chuyên dụng cho kính, bạn có thể dùng?",
+    "options": [
+     "Bất kì dung dịch, hóa chất có tính đa năng (pH 6 đến 8)",
+     "Crew",
+     "Shine up",
+     "Emerel"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "fb-tap-vu-nha-hang-bnc-55",
+    "no": 55,
+    "text": "Loại hóa chất nào không được tiếp xúc với thực phẩm?",
+    "options": [
+     "Crew",
+     "Shine up",
+     "Jumbo",
+     "Tất cả các loại dung dịch/hóa chất tẩy rửa đều không được tiếp xúc"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "fb-tap-vu-nha-hang-bnc-56",
+    "no": 56,
+    "text": "Vào các mùa cao điểm, rác thải trong các thùng tại từng khu vực kinh doanh được tiến hành ra sao?",
+    "options": [
+     "Hảy để đầy rồi thay luôn",
+     "Hảy thay mới và để rác cũ ở đó",
+     "Thay bao mới khi đầy 2/3 thùng. Tập kết rác tại kho rác đúng quy định",
+     "Báo cáo cấp trên"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "fb-tap-vu-nha-hang-bnc-57",
+    "no": 57,
+    "text": "Hóa chất, dung dịch có tính axit có được sử dụng cho vật liệu kim loại không và vì sao?",
+    "options": [
+     "Không, vì có tính ăn mòn",
+     "Không, vì có tính kiềm",
+     "Không, vì có tính bazo",
+     "Được, vì có tính axit"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "fb-tap-vu-nha-hang-bnc-58",
+    "no": 58,
+    "text": "Kí hiệu đầu sọ có chữ T+ là nhãn cảnh báo gì?",
+    "options": [
+     "Chất ăn mòn",
+     "Chất độc với môi trường",
+     "Chất dễ cháy",
+     "Chất rất độc"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "fb-tap-vu-nha-hang-bnc-59",
+    "no": 59,
+    "text": "Sử dụng các loại đèn xông tinh dầu, hiện tại để làm gì?",
+    "options": [
+     "Để trang trí cho nhà hàng",
+     "Triệt khuẩn",
+     "Để sử dụng kết hợp với tinh dầu để khử mùi, tạo không gian dể chịu, thơm mát",
+     "Đúng theo yêu cầu Cấp trên"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "fb-tap-vu-nha-hang-bnc-60",
+    "no": 60,
+    "text": "Trong quy trình làm vệ sinh phòng toilet, bước đầu tiên là gì?",
+    "options": [
+     "Quét sàn",
+     "Lau sàn",
+     "Đánh sàn",
+     "Gõ cửa, treo bảng báo đang làm vệ sinh"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "fb-tap-vu-nha-hang-bnc-61",
+    "no": 61,
+    "text": "Trong các tất cả quy trình làm vệ sinh, bước cuối cùng trong tất cả rất quan trọng đó là gì?",
+    "options": [
+     "Tắt điện, tiết kiệm điện năng tiêu thụ",
+     "Báo cáo với cấp trên tình trạng hoàn thành",
+     "Kiểm tra tổng thể lần cuối",
+     "Khử mùi, tạo hương"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "fb-tap-vu-nha-hang-bnc-62",
+    "no": 62,
+    "text": "Nếu bạn sơ ý làm vỡ một cái ly, hành động xử lí nào sau đây là đúng?",
+    "options": [
+     "Giữ im lặng để tránh quản lý biết.",
+     "Tự đền tiền, báo thu ngân post phí bể vỡ xem như là khách làm vỡ, xem như không có chuyện gì",
+     "Bỏ vào sọt rác",
+     "Báo giám sát làm biên bản báo cáo bể vỡ,  gom bỏ vào sọt đựng CCDC bể vỡ"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "fb-tap-vu-nha-hang-bnc-63",
+    "no": 63,
+    "text": "Trường hợp khách hàng bị mất tài sản trong Công ty và gặp anh chị để giải quyết, anh chị sẽ làm gì?",
+    "options": [
+     "Lấy thông tin, cho khách điền thông tin vào phiếu kê khai tài sản bị mất, liên hệ với các bộ phận để xác minh, nếu chưa tìm được tài sản thì ghi nhận lại và báo khách thời gian phản hồi để trả lời kết quả sau đó",
+     "Phụ khách đi tìm ở các khu vực khách đã đi qua",
+     "Hướng dẫn khách tìm đến phòng KTKS nội bộ để ghi nhận thông tin",
+     "Tỏ ra thông cảm và liên hệ các bộ phận để xác minh và phản hồi cho khách tình hình"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "fb-tap-vu-nha-hang-bnc-64",
+    "no": 64,
+    "text": "Một nhân viên tác phong nghiêm túc bao gồm những yếu tố nào sau đây?",
+    "options": [
+     "Đồng phục, đầu tóc, gương mặt, vệ sinh cá nhân, trang sức",
+     "Giày dép, quần áo, mũ nón, đồng hồ",
+     "Đầu tóc, trang điểm, chiều cao, cân nặng",
+     "Giọng nói, cách đi đứng, thái độ làm việc"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "fb-tap-vu-nha-hang-bnc-65",
+    "no": 65,
+    "text": "Hành vi nào sai đối với việc bảo mật thông tin khách hàng?",
+    "options": [
+     "Không thu thập lưu trữ thông tin cá nhân của khách hàng",
+     "Không hợp tác với bên ngoài để tìn kiếm thông tin cá nhân của khách hàng",
+     "Chỉ tiết lộ thông tin di chuyển của khách hàng",
+     "Tiết lộ thông tin cá nhân của khách hàng, đối tác"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "fb-tap-vu-nha-hang-bnc-66",
+    "no": 66,
+    "text": "Trong trường hợp khách cần sự giúp đỡ của nhân viên y tế, anh/chị sẽ làm gì?",
+    "options": [
+     "Chỉ đường cho khách đến phòng Y tế. Xem như chưa biết gì",
+     "Gọi nhân viên An Ninh đến dẫn khách đi",
+     "Bàn giao lại cho nhân viên gần nhất, anh/chị đang bận xử lý công việc dang dở",
+     "Hỏi thăm tình hình như thế nào và thể hiện sự thông cảm, sau đó tùy tình trạng của khách để xử lý gọi điện cho nhân viên y tế đến, hoặc dẫn khách đến phòng y tế gần nhất hay gọi người hỗ trợ"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "fb-tap-vu-nha-hang-bnc-67",
+    "no": 67,
+    "text": "Pole 1,2m là gì?",
+    "options": [
+     "Cây nối dài lau kính có kích thước 1,2m",
+     "Mop lau sàn có kích thức 1,2m",
+     "Than chữ A có chiều dài 1,2m",
+     "Cần hút nước"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "fb-tap-vu-nha-hang-bnc-68",
+    "no": 68,
+    "text": "BDS 43/150C là thiết bị gì?",
+    "options": [
+     "Máy đánh sàn đơn Karcher",
+     "Máy hút nước Hiclean",
+     "Máy áp lực nước Karcher",
+     "Máy hơi nước nóng Karcher"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "fb-tap-vu-nha-hang-bnc-69",
+    "no": 69,
+    "text": "Quy cách bao rác đang sử dụng cho Buffet là gì?",
+    "options": [
+     "60x80 không quai",
+     "60x80 có quai",
+     "75x100 có quai",
+     "45x85 không quai"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "fb-tap-vu-nha-hang-bnc-70",
+    "no": 70,
+    "text": "Quy cách bao rác đang sử dụng cho Alacarte là gì?",
+    "options": [
+     "60x80 không quai",
+     "75x100 có quai",
+     "75x100 không quai",
+     "45x85 không quai"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "fb-tap-vu-nha-hang-bnc-71",
+    "no": 71,
+    "text": "Extra foam (5l/Can) là dung dịch gì?",
+    "options": [
+     "Chế phẩm giặt thảm",
+     "Hóa chất tẩy rỉ sét",
+     "Dung dịch vệ sinh sát khuẩn",
+     "Dung dịch tẩy đốm"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "fb-tap-vu-nha-hang-bnc-72",
+    "no": 72,
+    "text": "Stein ext (5l/Can) là dung dịch gì?",
+    "options": [
+     "Dung dịch tẩy kẹo cao su",
+     "Hóa chất tẩy vết trà, cafe",
+     "Chế phẩm giặt thảm",
+     "Dung dịch tẩy đốm trên vải"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "fb-tap-vu-nha-hang-bnc-73",
+    "no": 73,
+    "text": "Khi kết hợp Extra foam và Stein ext trong quá trình xử lí ghế sofa, tỉ lệ pha 2 dung dịch là như thế nào?",
+    "options": [
+     "3 Extra foam : 1 Stein ext",
+     "5 Extra foam : 1 Stein ext",
+     "1 Extra foam : 1 Stein ext",
+     "2 Extra foam : 1 Stein ext"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "fb-tap-vu-nha-hang-bnc-74",
+    "no": 74,
+    "text": "Sử dụng pad đánh sàn có số inch bao nhiêu cho máy đánh sàn đơn Karcher 43/150c?",
+    "options": [
+     "16",
+     "18",
+     "20",
+     "21"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "fb-tap-vu-nha-hang-bnc-75",
+    "no": 75,
+    "text": "Một trong những lưu ý đối với vệ sinh thang máy?",
+    "options": [
+     "Không sử dụng CCDC, vật liệu thô ráp hoặc sắt nhọn",
+     "Cần dụng hóa chất có tính axit cao",
+     "Cần dụng CCDC,vật liệu thô ráp tạo mài mòn",
+     "Sử dụng pad đỏ kết hợp"
+    ],
+    "answer": 0
+   }
+  ],
+  "group": "SBD PAT"
+ },
+ {
+  "id": "fb-xuong-xuc-xich",
+  "name": "FB - Xưởng Xúc Xích",
+  "questions": [
+   {
+    "id": "fb-xuong-xuc-xich-1",
+    "no": 1,
+    "text": "Trong quy trình sản xuất xúc xích, công đoạn nào có khả năng tiềm ẩn mối nguy hóa học?",
+    "options": [
+     "Tiếp nhận nguyên liệu",
+     "Xay nhuyễn",
+     "Nhồi xúc xích",
+     "Đóng gói"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "fb-xuong-xuc-xich-2",
+    "no": 2,
+    "text": "Để đảm bảo sản phẩm sau gia nhiệt được chín hoàn toàn, cần kiểm soát điều gì?",
+    "options": [
+     "Nhiệt kế đo nhiệt độ tâm phải cắm vào chính tâm sản phẩm có kích thước lớn nhất",
+     "Khi máy báo chương trình kết thúc, dùng nhiệt kế đo nhiệt độ tâm kiểm tra các vị trí còn lại của các sản phẩm còn lại xem nhiệt độ tâm có đạt không?",
+     "Cắm nhiệt kế đo nhiệt độ tâm vào vị trí nhiệt thấp nhất trong lò",
+     "Chỉ cần đo nhiệt độ lò đạt theo quy định"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "fb-xuong-xuc-xich-3",
+    "no": 3,
+    "text": "Khi vệ sinh máy đóng gói hút chân không, có điểm gì khác so với những thiết bị khác?",
+    "options": [
+     "Dùmg nước để vệ sinh",
+     "Không cần vệ sinh",
+     "Dùng hóa chất clorin, cồn để khử khuẩn( dạng bình xịt)",
+     "Chỉ vệ sinh 1 tuần/lần"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "fb-xuong-xuc-xich-4",
+    "no": 4,
+    "text": "Việc bảo quản thực phẩm nhằm mục đích gì?",
+    "options": [
+     "Nhằm kéo dài thời hạn sử dụng của thực phẩm",
+     "Nhằm làm tăng chất dinh dưỡng của thực phẩm",
+     "Nhằm giúp sản phẩm đẹp hơn",
+     "Nhằm tăng khối lượng của sản phẩm"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "fb-xuong-xuc-xich-5",
+    "no": 5,
+    "text": "Người trực tiếp sản xuất thực phẩm đang mắc các bệnh viêm nhiễm trùng cấp tính có được tiếp tục làm việc hay không?",
+    "options": [
+     "Vẫn làm việc bình thường  chỉ cần đi găng tay, đeo khẩu trang",
+     "Nghỉ việc và chữa bệnh khi nào khỏi thì tiếp tục làm việc",
+     "Vẫn làm việc bình thường",
+     "Luân chuyển sang các bộ phận khác."
+    ],
+    "answer": 1
+   },
+   {
+    "id": "fb-xuong-xuc-xich-6",
+    "no": 6,
+    "text": "Cách vệ sinh bao tay cao su, tạp dề (yếm) vào đầu ca sản xuất là như thế nào?",
+    "options": [
+     "Rửa nước sạch",
+     "Nhúng tay có mang bao tay vào dung dịch Chlorine có nồng độ 10¸ 15 ppm. Đối với yếm thì dội nước Chlorine 10¸ 15 ppm lên mặt ngoài",
+     "Rửa lại bằng nước sạch cho hết Chlorine",
+     "Bước 1: Rửa nước sạch.\nBước 2: Nhúng tay có mang bao tay vào dung dịch Chlorine có nồng độ 10¸ 15 ppm. Đối với yếm thì dội nước Chlorine 10¸ 15 ppm lên mặt ngoài.\nBước 3: Rửa lại bằng nước sạch cho hết Chlorine"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "fb-xuong-xuc-xich-7",
+    "no": 7,
+    "text": "Vào đầu ca sản xuất các dụng cụ chứa đựng tại khu vực thịt sống như: thau, ky sọt, thớt, xô nhựa, bồn rửa, giá cân, bàn, xe, thanh treo xúc xích … được vệ sinh như thế nào?",
+    "options": [
+     "Rửa nước sạch",
+     "Dùng dung dịch Chlorine có nồng độ 100¸ 200 ppm để khử trùng đều khắp mặt trong và mặt ngoài tất cả dụng cụ",
+     "Rửa lại bằng nước sạch cho hết Chlorine",
+     "Bước 1: Rửa nước sạch.\nBước 2: Dùng dung dịch Chlorine có nồng độ 100 ¸ 200 ppm để khử trùng đều khắp mặt trong và mặt ngoài tất cả dụng cụ.\nBước 3: Rửa lại bằng nước sạch cho hết Chlorine"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "fb-xuong-xuc-xich-8",
+    "no": 8,
+    "text": "Dung dịch clorin dùng để vệ sinh bao tay, yếm (tạp dề) có nồng độ là bao nhiêu?",
+    "options": [
+     "1 ppm",
+     "10,15 ppm",
+     "50 ppm",
+     "100, 200 ppm"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "fb-xuong-xuc-xich-9",
+    "no": 9,
+    "text": "Theo quy định vệ sinh các bề mặt tiếp xúc sản phẩm, tần suất vệ sinh tường, trần, các cửa, đèn diệt côn trùng… được quy định bao lâu 1 lần?",
+    "options": [
+     "1 ngày/ lần",
+     "1 tuần/lần",
+     "2 lần/tháng",
+     "1 lần/tháng"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "fb-xuong-xuc-xich-10",
+    "no": 10,
+    "text": "Máy xay thô hiện nay xay được bao nhiêu kích thước ?",
+    "options": [
+     "1",
+     "2",
+     "3",
+     "4"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "fb-xuong-xuc-xich-11",
+    "no": 11,
+    "text": "Số cây tự động trong một lần gạt cần khỏi động của máy nhồi xúc xích là bao nhiêu?",
+    "options": [
+     "60 cây",
+     "70 cây",
+     "80 cây",
+     "90 cây"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "fb-xuong-xuc-xich-12",
+    "no": 12,
+    "text": "Khi nhồi xúc xích bằng vỏ collagen thì phải dùng loại nắp ron màu gì?",
+    "options": [
+     "Không quy định",
+     "Màu trắng",
+     "Màu xanh",
+     "Màu đỏ"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "fb-xuong-xuc-xich-13",
+    "no": 13,
+    "text": "Nhiệt độ thịt xay thô dùng để đảo trộn khi xay nhuyễn là bao nhiêu?",
+    "options": [
+     "0-3 độ C",
+     "< 0 độ C",
+     "< -18 độ C",
+     "> 5 độ C"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "fb-xuong-xuc-xich-14",
+    "no": 14,
+    "text": "Khi sử dụng máy tiêm gia vị  VAKONA cần chú ý điều gì? Chọn phương án đúng.",
+    "options": [
+     "Vệ sinh sạch sẽ đường ống sau khi sử dụng bằng nước ấm 40-45 độ",
+     "Khi chạy đầu hút của bơm luôn ngập trong nước",
+     "Khi ngưng sử dụng cần phải ngắt công tắc bơm",
+     "Vệ sinh sạch sẽ đường ống sau khi sử dụng bằng nước ấm 40-45 độ\nKhi chạy đầu hút của bơm luôn ngập trong nước\nKhi ngưng sử dụng cần phải ngắt công tắc bơm"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "fb-xuong-xuc-xich-15",
+    "no": 15,
+    "text": "Vì sao phải đội mũ trùm tóc khi vào xưởng?",
+    "options": [
+     "Tránh rơi tóc vào thực phẩm",
+     "Tránh thực phẩm làm bẩn tóc",
+     "Để cho đẹp",
+     "Đội hay không cũng không ảnh hưởng"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "fb-xuong-xuc-xich-16",
+    "no": 16,
+    "text": "Khi cho thịt xay thô vào để trộn tại máy xay chảo thì phải chạy chế độ dao và chảo như thế nào?",
+    "options": [
+     "Dao II và chảo II",
+     "Dao I+ chảo I",
+     "Đảo chiều dao II và chảo II",
+     "Đảo chiều dao I và chảo I"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "fb-xuong-xuc-xich-17",
+    "no": 17,
+    "text": "Đồ BHLĐ được mặc tại khu vực nào?",
+    "options": [
+     "Chỉ được mang trong khu vực xưởng",
+     "Được mang trong khu vực xưởng và bên ngoài khu vực xung quanh xưởng",
+     "Được mang làm việc và khi đi vệ sinh",
+     "Không quy định, muốn mang đi đâu cũng được"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "fb-xuong-xuc-xich-18",
+    "no": 18,
+    "text": "Hóa chất dùng để khử trùng nền, cống trong xưởng là gì?",
+    "options": [
+     "Clorin",
+     "Calgonit NF 489",
+     "Hóa chất tẩy dầu mỡ",
+     "Xà phòng"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "fb-xuong-xuc-xich-19",
+    "no": 19,
+    "text": "Các bước để vệ sinh sọt đựng đồ, mặt bàn đóng gói theo đúng cách là như thế nào? Chọn phương án đúng.",
+    "options": [
+     "Rửa bằng nước sạchàrửa bằng xà phòng àrửa lại bằng nước sạch à nhúng xịt chlorine 50pp à rửa lại bằng nước sạch",
+     "Rửa bằng nước sạchàrửa bằng xà phòngànhúng xịt chlorine 50ppmàrửa lại bằng nước sạch",
+     "Rửa bằng nước sạchàrửa bằng xà phòngànhúng xịt chlorine 100-200ppmàrửa lại bằng nước sạch",
+     "Rửa bằng nước sạchàrửa bằng xà phòngàrửa lại bằng nước sạch"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "fb-xuong-xuc-xich-20",
+    "no": 20,
+    "text": "Để đảm bảo an toàn khi sử dụng máy cưa thịt cần chú ý điều gì? Chọn phương án đúng.",
+    "options": [
+     "Chỉ cắt thịt đông",
+     "Khi sử dụng phải đeo găng tay bảo hộ",
+     "Tắt máy sau khi sử dụng",
+     "Chỉ cắt thịt đông\nKhi sử dụng phải đeo găng tay bảo hộ\nTắt máy sau khi sử dụng"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "fb-xuong-xuc-xich-21",
+    "no": 21,
+    "text": "Các bước để vệ sinh kho nguyên liệu theo đúng cách là như thế nào?",
+    "options": [
+     "Xả đáàvệ sinh nền àchà rửa bằng xà phòngàtạt chlorine khử trùng nồng độ 100-200 ppm à rửa lại bằng nước sạch",
+     "Xả đáàvệ sinh nền àchà rửa bằng xà phòngàtạt chlorine khử trùng nồng độ 100-150 ppm àcào sạch",
+     "Xả đáà tạt chlorine khử trùng nồng độ 100-200 ppmà rửa lại bằng nước sạch",
+     "Chà rửa bằng xà phòngàtạt chlorine khử trùng nồng độ 100-200 ppm à rửa lại bằng nước sạch"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "fb-xuong-xuc-xich-22",
+    "no": 22,
+    "text": "Chất tẩy rửa và khử trùng phải đáp ứng đầy đủ những yêu cầu nào? Chọn phương án đúng.",
+    "options": [
+     "Bảo quản riêng biệt trong kho thông thoáng, có khóa",
+     "Trên các thùng chứa phải ghi rõ bằng tiếng Việt tên chất tẩy rửa và khử trùng",
+     "Được phép sử dụng, được đựng trong thùng chứa kín",
+     "Bảo quản riêng biệt trong kho thông thoáng, có khóa. Trên các thùng chứa phải ghi rõ bằng tiếng Việt tên chất tẩy rửa và khử trùng. Được phép sử dụng, được đựng trong thùng chứa kín"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "fb-xuong-xuc-xich-23",
+    "no": 23,
+    "text": "Nguyên nhân khiến xông khói xúc xích không đều là do đâu?",
+    "options": [
+     "Vỏ xúc xích chưa được sấy khô",
+     "sấy không dủ nhiệt độ",
+     "Xúc xích chưa được nấu chín",
+     "Công đoạn làm nóng không đạt nhiệt độ"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "fb-xuong-xuc-xich-24",
+    "no": 24,
+    "text": "Hiện nay sản phẩm xúc xích gà 80 gam đang dùng loại vỏ xúc xích nào?",
+    "options": [
+     "Vỏ collagen size 28/50",
+     "Vỏ collagen size 26/50",
+     "Vỏ ruột heo",
+     "Vỏ ruột cừu"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "fb-xuong-xuc-xich-25",
+    "no": 25,
+    "text": "Cách kiểm tra khối nhũ tương thịt sau khi xay nhuyễn đã đạt chưa, ta làm như thế nào?",
+    "options": [
+     "Dùng tay kiểm tra độ dính của thịt và nhìn độ bóng sáng của khối nhũ",
+     "Xay đủ thời gian là đạt",
+     "Cho đủ phụ gia, gia vị sẽ đạt",
+     "Thịt được xay mịn là đạt"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "fb-xuong-xuc-xich-26",
+    "no": 26,
+    "text": "Quy định 1 mẻ xay nhuyễn tại máy chảo Bowl Cutter tối đa là bao nhiêu kg/ mẻ",
+    "options": [
+     "15 kg/mẻ",
+     "20 kg/mẻ",
+     "30 kg/mẻ",
+     "20 kg/mẻ"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "fb-xuong-xuc-xich-27",
+    "no": 27,
+    "text": "Xúc xích gà 130 gam hiện nay dùng vỏ loại nào?",
+    "options": [
+     "Vỏ ruột heo",
+     "Vỏ collagen size 26",
+     "Vỏ collagen size 28",
+     "Vỏ ruột cừu"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "fb-xuong-xuc-xich-28",
+    "no": 28,
+    "text": "Khi gặp trường hợp: hỗn hợp nhũ tương thịt xay ra không đạt, bạn sẽ xử lý như thế nào?",
+    "options": [
+     "Báo cho giám sát xưởng hoặc phụ trách xưởng biết để đưa ra hướng xử lý",
+     "Vẫn tiếp tục chạy bình thường",
+     "Tự xử lý",
+     "Hủy mẻ đó"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "fb-xuong-xuc-xich-29",
+    "no": 29,
+    "text": "Ức gà dùng để làm xúc xích gà được xay thô với kích thước bao nhiêu?",
+    "options": [
+     "5 mm",
+     "3 mm",
+     "8  mm",
+     "13 mm"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "fb-xuong-xuc-xich-30",
+    "no": 30,
+    "text": "Quy cách đóng gói của xúc xích tại xưởng hiện nay được quy định bao nhiêu cây/ gói?",
+    "options": [
+     "5 cây/gói",
+     "8 cây/gói",
+     "10 cây/gói",
+     "Không quy định"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "fb-xuong-xuc-xich-31",
+    "no": 31,
+    "text": "Sơ chế gà tại xưởng được thực hiện như thế nào?",
+    "options": [
+     "Rửa sạch",
+     "Rửa sạch, làm sạch lông, mỡ, nội tạng còn sót lại",
+     "Làm sạch lông",
+     "Làm sạch nội tạng"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "fb-xuong-xuc-xich-32",
+    "no": 32,
+    "text": "Thành phần chính của xúc xích bò là gì?",
+    "options": [
+     "Thịt bò",
+     "Thịt gà",
+     "Thịt heo",
+     "Thịt cá"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "fb-xuong-xuc-xich-33",
+    "no": 33,
+    "text": "Thời gian để massa một mẻ Ham là bao nhiêu?",
+    "options": [
+     "4h",
+     "5h",
+     "6h",
+     "7h"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "fb-xuong-xuc-xich-34",
+    "no": 34,
+    "text": "Khối lượng của một sản phẩm ham khi khồi máy nhồi là bao nhiêu?",
+    "options": [
+     "3,2kg",
+     "3,5kg",
+     "3,7kg",
+     "3,9kg"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "fb-xuong-xuc-xich-35",
+    "no": 35,
+    "text": "Tỉ lệ da của sản phẩm chả da là bao nhiêu %?",
+    "options": [
+     "0.1",
+     "0.2",
+     "0.3",
+     "0.4"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "fb-xuong-xuc-xich-36",
+    "no": 36,
+    "text": "Tỉ lệ bơm tiêm của dung dịch gia vị của sản phẩm giò heo xông khói là bao nhiêu % ?",
+    "options": [
+     "0.1",
+     "0.2",
+     "0.3",
+     "0.4"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "fb-xuong-xuc-xich-37",
+    "no": 37,
+    "text": "Nạc vai được xay thô để làm xúc xích gà được xay với kích thước bao nhiêu?",
+    "options": [
+     "3 mm",
+     "5 mm",
+     "8  mm",
+     "13 mm"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "fb-xuong-xuc-xich-38",
+    "no": 38,
+    "text": "Quy trình sản xuất Ham?",
+    "options": [
+     "Tiếp nhận, bảo quản nguyên liệu=> Sơ chế nguyên liệu=>Tẩm ướp=>Nhồi, định hình khuôn=>Gia nhiệt=>Làm nguội, đóng gói=> Bảo quản",
+     "Tiếp nhận, bảo quản nguyên liệu=>Tẩm ướp=>Gia nhiệt=>Làm nguội, đóng gói=> Bảo quản",
+     "Sơ chế nguyên liệu=>Tẩm ướp=>Nhồi, định hình khuôn=>Gia nhiệt=>Làm nguội, đóng gói=> Bảo quản",
+     "Sơ chế nguyên liệu=>Tẩm ướp=>Gia nhiệt=>Làm nguội, đóng gói=> Bảo quản"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "fb-xuong-xuc-xich-39",
+    "no": 39,
+    "text": "Sơ chế nguyên liệu thịt để sản xuất\n Ham thao tác như thế nào?",
+    "options": [
+     "Tiến hành lọc hết phần mỡ và gân",
+     "Lấy phần thịt nạc",
+     "Cắt miếng khoảng 3x3x3cm",
+     "Tất cả đều đúng"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "fb-xuong-xuc-xich-40",
+    "no": 40,
+    "text": "Hiện nay sản phẩm Ham đang dùng loại vỏ xúc xích  nào?",
+    "options": [
+     "Vỏ bọc xúc xích biga-3, 1000m/cuộn",
+     "Vỏ xúc xích-MRB 190/1000 Clear in reel",
+     "Vỏ xúc xích từ ruột heo/lợn cỡ 26/28",
+     "Vỏ xúc xích collagen cỡ 28/50"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "fb-xuong-xuc-xich-41",
+    "no": 41,
+    "text": "Nhiệt độ tâm sản phẩm chả da phải đạt bao nhiêu thì chín?",
+    "options": [
+     "70 độ C",
+     "75 độ C",
+     "76 độ C",
+     "77 độ C"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "fb-xuong-xuc-xich-42",
+    "no": 42,
+    "text": "Xúc xích ra có xoắn được hay không (tạo hình từng cây theo khối lượng) thì phải điều chỉnh chi tiết nào của máy nhồi?",
+    "options": [
+     "Khoảng cách của con lăn",
+     "Độ chặt của nắp vặn",
+     "Sự đồng bộ về size của thanh nhồi và nắp vặn",
+     "Do điều chỉnh tốc độ nhồi"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "fb-xuong-xuc-xich-43",
+    "no": 43,
+    "text": "Nhiệt độ bảo quản đối với mặt hàng thịt đông lạnh là?",
+    "options": [
+     "(-18) - (-20) độ C",
+     "0-5 độ C",
+     "(-10)  -  (-5) độ C",
+     "5-10 độ C"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "fb-xuong-xuc-xich-44",
+    "no": 44,
+    "text": "Mục đích cho tinh bột vào Xúc xích là gì? Chọn phương án đúng.",
+    "options": [
+     "Tạo gel, gia tăng khả năng kết dính, tạo sự đàn hồi cho xúc xích",
+     "Giảm giá thành sản phẩm",
+     "Hấp thụ nước, ngăn chặn quá trình tách nước khi gia nhiệt",
+     "Tạo gel, gia tăng khả năng kết dính, tạo sự đàn hồi cho xúc xích. Hấp thụ nước, ngăn chặn quá trình tách nước khi gia nhiệt. Giảm giá thành sản phẩm"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "fb-xuong-xuc-xich-45",
+    "no": 45,
+    "text": "Thăn heo xông khói được sản xuất từ phần nguyên liệu nào của thịt heo?",
+    "options": [
+     "Thịt mông heo",
+     "Thịt thăn lưng heo",
+     "Thịt ba chỉ heo",
+     "Thịt nạc vai heo"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "fb-xuong-xuc-xich-46",
+    "no": 46,
+    "text": "Quy định 1 mẻ ức gà dùng để tẩm ướp máy VAKONA tối đa là bao nhiêu kg/ mẻ?",
+    "options": [
+     "40 kg",
+     "50 kg",
+     "55 kg",
+     "60 kg"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "fb-xuong-xuc-xich-47",
+    "no": 47,
+    "text": "Nhiệt độ tâm sản phẩm giò heo xông khói, bê xông khói phải đạt bao nhiêu thì chín?",
+    "options": [
+     "67 độ C",
+     "68 độ C",
+     "69 độ C",
+     "70 độ C"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "fb-xuong-xuc-xich-48",
+    "no": 48,
+    "text": "Quy định an toàn khi sử dụng máy xay thịt K+G?",
+    "options": [
+     "Lắp các linh kiện máy theo đúng thứ tự quy định",
+     "Không để các vật cứng hoặc kim loại rơi vào lúc đang xay",
+     "Được phép sử dụng tay trực tiếp đẩy nguyên liệu vào ống dẫn liệu",
+     "A & B đều đúng"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "fb-xuong-xuc-xich-49",
+    "no": 49,
+    "text": "Mục đích sử dụng của máy \nhút chân không",
+    "options": [
+     "Loại bỏ oxy từ trong bao bì chứa sản phẩm",
+     "Loại bỏ oxy từ trong bao bì chứa sản phẩm, kéo dài thời hạn sử dụng của thực phẩm, giảm khối lượng, kích thước sản phẩm sau khi đóng gói",
+     "Giảm khối lượng, kích thước sản phẩm sau khi đóng gói",
+     "Kéo dài thời hạn sử dụng của thực phẩm"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "fb-xuong-xuc-xich-50",
+    "no": 50,
+    "text": "Tỉ lệ thịt bò của sản phẩm xúc xích bò là bao nhiêu %?",
+    "options": [
+     "0.1",
+     "0.2",
+     "0.3",
+     "0.4"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "fb-xuong-xuc-xich-51",
+    "no": 51,
+    "text": "Nguyên nhân gây ngộ độc thực phẩm? Chọn phương án đúng.",
+    "options": [
+     "Do dùng thực phẩm không đúng quy cách (trọng lượng)",
+     "Do chế biến thức ăn không đảm bảo vệ sinh và thức ăn chưa được nấu chín",
+     "Do ăn quá no",
+     "Do người chế biến không tham gia tập huấn kiến thức ATVSTP"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "fb-xuong-xuc-xich-52",
+    "no": 52,
+    "text": "Những hành vi nào bị cấm khi vào khu vực sản xuất?",
+    "options": [
+     "Khạc nhổ",
+     "Rửa tay",
+     "Mang ủng",
+     "Đeo khẩu trang"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "fb-xuong-xuc-xich-53",
+    "no": 53,
+    "text": "Cách nào sau đây được dùng để tiêu diệt hầu hết vi sinh vật gây bệnh?",
+    "options": [
+     "Sử dụng ở nhiệt độ cao > 65 độ C",
+     "Sử dụng nhiệt độ tử -12 đến (-15) độ C",
+     "Sử dụng từ 0-4 độ C",
+     "Sử dụng nhiệt độ từ 4-60 độ C"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "fb-xuong-xuc-xich-54",
+    "no": 54,
+    "text": "Mục đích của công đoạn gia nhiệt, xông khói?",
+    "options": [
+     "Làm chín sản phẩm",
+     "Tạo cho sản phẩm có hương vị đặc trưng",
+     "Tiêu diệt vi sinh vật",
+     "Làm chín sản phẩm, tạo cho sản phẩm có hương vị đặc trưng, tiêu diệt vi sinh vật"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "fb-xuong-xuc-xich-56",
+    "no": 56,
+    "text": "Hóa chất dùng để vệ sinh chất bẩn trong lò hun khói là gì?",
+    "options": [
+     "Clorin",
+     "Calgonit NF 489",
+     "Hóa chất tẩy dầu mỡ",
+     "Xà phòng"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "fb-xuong-xuc-xich-57",
+    "no": 57,
+    "text": "Sơ chế thịt giò heo lẫn mông được thực hiện như thế nào?",
+    "options": [
+     "Tiến hành lọc hết phần mỡ và gân",
+     "Lấy phần thịt nạc",
+     "Loại bỏ da",
+     "Kiểm tra bề mặt nguyên liệu, cạo sạch lông vụn, cắt bỏ phần thịt thừa không đồng khối"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "fb-xuong-xuc-xich-58",
+    "no": 58,
+    "text": "Mục đích công đoạn nhồi xúc xích?",
+    "options": [
+     "Định hình sản phẩm theo kích thước yêu cầu",
+     "Tạo độ đồng nhất về kích thước sản phẩm",
+     "A & B đều đúng",
+     "A & B đều sai"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "fb-xuong-xuc-xich-59",
+    "no": 59,
+    "text": "Nồng độ cồn dùng để sát trùng tay nhân viên và CCDC là bao nhiêu?",
+    "options": [
+     "40 độ",
+     "60 độ",
+     "70 độ",
+     "90 độ"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "fb-xuong-xuc-xich-60",
+    "no": 60,
+    "text": "Hạn sử dụng trên các sản phẩm sản xuất tại xưởng sản xuất xúc xích có thời hạn bảo quản bao nhiêu lâu với nhiệt độ bảo quản -18c?",
+    "options": [
+     "3",
+     "4",
+     "5",
+     "6"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "fb-xuong-xuc-xich-61",
+    "no": 61,
+    "text": "Nhân viên có biểu hiện nào sau đây không được tiếp xúc với thực phẩm, bề mặt tiếp xúc với thực phẩm hoặc vật liệu đóng gói thực phẩm?",
+    "options": [
+     "Nhân viên bị ốm",
+     "Nhân viên có vết thương hởi(mụn nhọt, đứt tay, vết thương bị nhiễm trùng)",
+     "Nhân viên có biểu hiện nhiễm vi sinh vật bất kỳ nguồn bất thường khác",
+     "Tất cả đều đúng"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "fb-xuong-xuc-xich-62",
+    "no": 62,
+    "text": "Quy định rửa tay như thế nào để giảm thiểu nguy cơ nhiễm bẩn sản phẩm thực phẩm?",
+    "options": [
+     "Trước khi bắt đầu làm việc, sau mỗi lần nghỉ làm, sau khi đi vệ sinh, sau khi thu gom rác và bất kỳ lúc nào khi tay có thể bị nhiễm bẩn",
+     "Sau khi đi vệ sinh",
+     "Sau khi thu gom rác",
+     "Trước khi bắt đầu làm việc và sau mỗi lần nghỉ làm"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "fb-xuong-xuc-xich-63",
+    "no": 63,
+    "text": "Quy trình rửa tay thường quy gồm mấy bước?",
+    "options": [
+     "4",
+     "5",
+     "6",
+     "7"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "fb-xuong-xuc-xich-64",
+    "no": 64,
+    "text": "Khi vận chuyển phân phối thực phẩm cần chú ý những gì?",
+    "options": [
+     "Chỉ dùng trang thiết bị chuyên dùng để vận chuyển, che đậy và bao gói an toàn, đảm bảo nhiệt độ an toàn cho từng loại thực phẩm.",
+     "Không vận chuyển cùng hàng hóa độc hại",
+     "Đảm bảo đúng thời gian vận chuyển",
+     "Tất cả đều đúng"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "fb-xuong-xuc-xich-65",
+    "no": 65,
+    "text": "Tất cả nhân viên tuân thủ việc mặc quần áo bảo hộ lao động để?",
+    "options": [
+     "Tiết kiệm chi phí cho trang phục cá nhân",
+     "Tạo hình ảnh cho công ty",
+     "Để tránh nhiễm bẩn vào thực phẩm, bề mặt tiếp xúc với thực phẩm hoặc vật liệu đóng gói thực phẩm",
+     "Để phân biệt với nhân viên khối văn phòng"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "fb-xuong-xuc-xich-66",
+    "no": 66,
+    "text": "Yêu cầu thực phẩm đông lạnh được bảo quản ở nhiệt độ thích hợp là?",
+    "options": [
+     "Thực phẩm đông lạnh được lưu giữ ở nhiệt độ dưới (-10) °C",
+     "Thực phẩm đông lạnh được lưu giữ ở nhiệt độ dưới (-15) °C",
+     "Thực phẩm đông lạnh được lưu giữ ở nhiệt độ dưới 0 °C",
+     "Thực phẩm đông lạnh được lưu giữ ở nhiệt độ dưới (-5) °C"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "fb-xuong-xuc-xich-67",
+    "no": 67,
+    "text": "Yêu cầu thực phẩm lạnh được bảo quản ở nhiệt độ thích hợp là?",
+    "options": [
+     "Thực phẩm lạnh được lưu giữ ở nhiệt độ <= 0 °C",
+     "Thực phẩm lạnh được lưu giữ ở nhiệt độ <= 2 °C",
+     "Thực phẩm lạnh được lưu giữ ở nhiệt độ <= 5 °C",
+     "Thực phẩm lạnh được lưu giữ ở nhiệt độ <= 6 °C"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "fb-xuong-xuc-xich-68",
+    "no": 68,
+    "text": "Giấy chứng nhận cơ sở đủ điều kiện an toàn thực phẩm có giá trị trong thời hạn bao nhiêu năm?",
+    "options": [
+     "1 năm",
+     "2 năm",
+     "3 năm",
+     "4 năm"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "fb-xuong-xuc-xich-69",
+    "no": 69,
+    "text": "Có những mối nguy ô nhiễm thực phẩm nào sau đây?",
+    "options": [
+     "Hóa học",
+     "Sinh học",
+     "Vật lý",
+     "Cả 3 mối nguy trên"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "fb-xuong-xuc-xich-70",
+    "no": 70,
+    "text": "Chủ cơ sở và người trực tiếp kinh doanh thực phẩm phải thực hiện khám sức khỏe?",
+    "options": [
+     "Định kỳ ít nhất 2 lần /năm",
+     "Định kỳ ít nhất 1 lần /năm",
+     "Chỉ thực hiện theo yêu cầu của đoàn kiểm tra",
+     "Định kỳ ít nhất 3 lần /năm"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "fb-xuong-xuc-xich-71",
+    "no": 71,
+    "text": "Chủ cơ sở và người trực tiếp\n kinh doanh thực phẩm phải đáp ứng yêu cầu nào sau đây:",
+    "options": [
+     "Phải có Giấy xác nhận kiến thức về an toàn thực phẩm",
+     "Phải có Giấy xác nhận đủ sức khỏe",
+     "Cả 2 trường hợp trên đều đúng",
+     "Cả 2 trường hợp trên đều sai"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "fb-xuong-xuc-xich-72",
+    "no": 72,
+    "text": "Quy định về vị trí đặt bẫy, đèn diệt côn trùng như thế nào là đúng?",
+    "options": [
+     "Phù hợp với sơ đồ, được bảo dưỡng và ở tình trạng tốt",
+     "Phù hợp với sơ đồ, không cần bão dưỡng và có thể hỏng không quá 3 lần/năm",
+     "Không có đáp án đúng",
+     "Cả 2 đáp án đều sai"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "fb-xuong-xuc-xich-73",
+    "no": 73,
+    "text": "Quy định sàn như thế nào được đánh giá đang trong tình trạng tốt?",
+    "options": [
+     "Sàn phải có bề mặt cứng phù hợp với yêu cầu của quy trình",
+     "Sàn phải chịu được các vật liệu và phương pháp làm sạch",
+     "Sàn phải bằng phẳng, không thấm nước, được bảo dưỡng sửa chữa tốt và vệ sinh thuận lợi.",
+     "Cả 3 đáp án trên đều đúng"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "fb-xuong-xuc-xich-74",
+    "no": 74,
+    "text": "Vì sao heo mảnh thường được treo khi bảo quản cũng như vận chuyển, không xếp chồng",
+    "options": [
+     "Cả 3 đáp án trên đều đúng",
+     "Hạn chế tiếp xúc với các bề mặt khác, tránh nhiệm vi khuẩn và vật thể lạ (đất cát)",
+     "Để nhiệt độ lạnh tiếp xúc đều, thịt sẽ được lạnh đều",
+     "Tránh động nước"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "fb-xuong-xuc-xich-75",
+    "no": 75,
+    "text": "Phụ phẩm trong pha lóc thịt heo sau khi sơ chế bao gồm những phần gì?",
+    "options": [
+     "Hạch",
+     "Thị bị bầm",
+     "Thịt vụn",
+     "Đáp án A, B"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "fb-xuong-xuc-xich-76",
+    "no": 76,
+    "text": "Câu 8:  Một số nguyên  nhân dẫn đến thịt bị chín",
+    "options": [
+     "Lợn bị nóng do di chuyển nhiều khi giết ngay sẽ bị chín thịt",
+     "Do giết mổ: quá trình dội nước nóng quá lâu vào lợn",
+     "Do vận chuyển: nhiệt độ xe không đảm bảo, các mảnh lợn ma sát nhau",
+     "Cả 3 đáp án trên"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "fb-xuong-xuc-xich-77",
+    "no": 77,
+    "text": "Nguyên liệu tẩm ướp gà rán là gà?",
+    "options": [
+     "9P",
+     "10P",
+     "6P",
+     "4P"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "fb-xuong-xuc-xich-78",
+    "no": 78,
+    "text": "Gà Popcorn làm từ nguyên liệu gì?",
+    "options": [
+     "Đùi tỏi",
+     "Cánh gà",
+     "Ức gà nguyên miếng",
+     "Da gà"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "fb-xuong-xuc-xich-79",
+    "no": 79,
+    "text": "Quy cách đóng gói gà rán Morin 1 gói gồm bao nhiêu miếng?",
+    "options": [
+     "25",
+     "26",
+     "27",
+     "28"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "fb-xuong-xuc-xich-80",
+    "no": 80,
+    "text": "1 gói gà rán Morin xuất kèm bao nhiêu kg Bột Food Coat?",
+    "options": [
+     "0.5 Kg",
+     "1 Kg",
+     "0.8 Kg",
+     "1.5 Kg"
+    ],
+    "answer": 1
+   }
+  ],
+  "group": "SBD PAT"
+ },
+ {
+  "id": "fb-am-thuc-bnc",
+  "name": "FB - Ẩm thực - BNC",
+  "questions": [
+   {
+    "id": "fb-am-thuc-bnc-1",
+    "no": 1,
+    "text": "Nếu bạn sơ ý làm vỡ một cái ly, hành động xử lí nào sau đây là đúng?",
+    "options": [
+     "Giữ im lặng để tránh quản lý biết.",
+     "Tự đền tiền, báo thu ngân post phí bể vỡ xem như là khách làm vỡ, xem như không có chuyện gì",
+     "Bỏ vào sọt rác",
+     "Báo giám sát làm biên bản báo cáo bể vỡ,  gom bỏ vào sọt đựng CCDC bể vỡ"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "fb-am-thuc-bnc-2",
+    "no": 2,
+    "text": "Trường hợp khách hàng bị mất tài sản trong Công ty và gặp anh chị để giải quyết, anh chị sẽ làm gì?",
+    "options": [
+     "Lấy thông tin, cho khách điền thông tin vào phiếu kê khai tài sản bị mất, liên hệ với các bộ phận để xác minh, nếu chưa tìm được tài sản thì ghi nhận lại và báo khách thời gian phản hồi để trả lời kết quả sau đó",
+     "Phụ khách đi tìm ở các khu vực khách đã đi qua",
+     "Hướng dẫn khách tìm đến phòng KTKS nội bộ để ghi nhận thông tin",
+     "Tỏ ra thông cảm và liên hệ các bộ phận để xác minh và phản hồi cho khách tình hình"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "fb-am-thuc-bnc-3",
+    "no": 3,
+    "text": "Khi khách để quên đồ anh chị xử lý như thế nào?",
+    "options": [
+     "+++++++++",
+     "Nhân viên sau 10 phút không có khách nhận lại lập biên bản tài sản thất lạc, sau đó giao tài sản nhặt được cho trưởng bộ phận giữ, đến cuối ca làm việc không có khách nhận TBP, quản lý giao lại cho KTKS nội bộ giữ",
+     "Giữ nguyên vị trí vật dụng để quên, và quan sát từ xa",
+     "Coi như không biết."
+    ],
+    "answer": 1
+   },
+   {
+    "id": "fb-am-thuc-bnc-4",
+    "no": 4,
+    "text": "Một nhân viên tác phong nghiêm túc bao gồm những yếu tố nào sau đây?",
+    "options": [
+     "Đồng phục, đầu tóc, gương mặt, vệ sinh cá nhân, trang sức",
+     "Giày dép, quần áo, mũ nón, đồng hồ",
+     "Đầu tóc, trang điểm, chiều cao, cân nặng",
+     "Giọng nói, cách đi đứng, thái độ làm việc"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "fb-am-thuc-bnc-5",
+    "no": 5,
+    "text": "Hành vi nào sai đối với việc bảo mật thông tin khách hàng?",
+    "options": [
+     "Không thu thập lưu trữ thông tin cá nhân của khách hàng",
+     "Không hợp tác với bên ngoài để tìn kiếm thông tin cá nhân của khách hàng",
+     "Chỉ tiết lộ thông tin di chuyển của khách hàng",
+     "Tiết lộ thông tin cá nhân của khách hàng, đối tác"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "fb-am-thuc-bnc-6",
+    "no": 6,
+    "text": "FIFO là viết tắt của từ gì?",
+    "options": [
+     "Final in first out",
+     "First in first out",
+     "Final in final out",
+     "First in final out"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "fb-am-thuc-bnc-7",
+    "no": 7,
+    "text": "Khi gặp vấn đề về điện (bóng đèn, điều hòa…) cần liên hệ với ai?",
+    "options": [
+     "PA (Vệ sinh công cộng)",
+     "Kỹ thuật",
+     "Quản lý trực tiếp",
+     "Bất cứ ai có thể khắc phục được vì tình huống khẩn cấp, không gọi được cho bộ phận chuyên trách"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "fb-am-thuc-bnc-8",
+    "no": 8,
+    "text": "Nhiệt độ lưu mẫu thức ăn theo quy định là bao nhiêu?",
+    "options": [
+     "Nhiệt độ phòng(16-18oC)",
+     "Nhiệt độ bảo quản mẫu lưu từ -18\noC đến 0oC",
+     "Nhiệt độ bảo quản mẫu lưu từ -10\noC đến 0oC",
+     "Nhiệt độ bảo quản mẫu lưu từ 2\noC đến 8oC"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "fb-am-thuc-bnc-9",
+    "no": 9,
+    "text": "Thời gian lưu mẫu thức ăn theo quy định là bao nhiêu lâu?",
+    "options": [
+     "Ít nhất là 24 giờ kể từ khi lấy mẫu.",
+     "Ít nhất là 12 giờ kể từ khi lấy mẫu.",
+     "Ít nhất là 48 giờ kể từ khi lấy mẫu.",
+     "Tối đa là 24 giờ kể từ khi lấy mẫu."
+    ],
+    "answer": 0
+   },
+   {
+    "id": "fb-am-thuc-bnc-10",
+    "no": 10,
+    "text": "Quy định lưu trữ hàng hóa trong kho?",
+    "options": [
+     "Tất cả thực phẩm được lưu trữ trên sàn và tường để có đủ không gian giữa nguyên liệu và tường để thực hiện các hoạt động kiểm soát và kiểm soát dịch hại.",
+     "Tất cả thực phẩm được lưu trữ trên pallet đặt sát sàn và tường để thực hiện các hoạt động kiểm soát và kiểm soát dịch hại.",
+     "Tất cả thực phẩm được lưu trữ trên pallet cách xa sàn và tường để có đủ không gian giữa nguyên liệu và tường để thực hiện các hoạt động kiểm soát và kiểm soát dịch hại.",
+     "Tất cả thực phẩm được lưu trữ trên pallet cách xa sàn và đặt sát tường để thực hiện các hoạt động kiểm soát dịch hại."
+    ],
+    "answer": 2
+   },
+   {
+    "id": "fb-am-thuc-bnc-11",
+    "no": 11,
+    "text": "Nhiệt độ lưu trữ thức ăn theo quy định là bao nhiêu?",
+    "options": [
+     "- Thực phẩm đông lạnh được giữ ở nhiệt độ ≤-8 ° C và không được cấp đông lại\n- Thực phẩm lạnh được giữ ở nhiệt độ ≤0 ° C\n- Thức ăn nóng được giữ ở nhiệt độ ≥63 ° C",
+     "- Thực phẩm đông lạnh được giữ ở nhiệt độ ≤-18 ° C và không được cấp đông lại\n- Thực phẩm lạnh được giữ ở nhiệt độ ≤4 ° C\n- Thức ăn nóng được giữ ở nhiệt độ ≥63 ° C",
+     "- Thực phẩm đông lạnh được giữ ở nhiệt độ ≤-18 ° C và không được cấp đông lại\n- Thực phẩm lạnh được giữ ở nhiệt độ ≤0 ° C\n- Thức ăn nóng được giữ ở nhiệt độ ≥80 ° C",
+     "- Thực phẩm đông lạnh được giữ ở nhiệt độ ≤-28 ° C và không được cấp đông lại\n- Thực phẩm lạnh được giữ ở nhiệt độ ≤4 ° C\n- Thức ăn nóng được giữ ở nhiệt độ ≥70 ° C"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "fb-am-thuc-bnc-12",
+    "no": 12,
+    "text": "Yêu cầu đối với hộp lưu mẫu thức ăn là gì?",
+    "options": [
+     "Dụng cụ lưu mẫu phải có nắp đậy kín, chứa được ít nhất 100g đối với thức ăn khô, đặc hoặc 150ml đối với thức ăn lỏng.",
+     "Dụng cụ lưu mẫu phải để hở, chứa được ít nhất 100g đối với thức ăn khô, đặc hoặc 150ml đối với thức ăn lỏng.",
+     "Dụng cụ lưu mẫu phải có nắp đậy kín, chứa được ít nhất 200g đối với thức\năn khô, đặc hoặc 250ml đối với thức ăn lỏng.",
+     "Dụng cụ lưu mẫu phải để hở nhìn thấy được, chứa được ít nhất 150g đối với thức ăn khô, đặc hoặc 150ml đối với thức ăn lỏng."
+    ],
+    "answer": 0
+   },
+   {
+    "id": "fb-am-thuc-bnc-13",
+    "no": 13,
+    "text": "Anh chị hãy chọn phương án xử lý khách than phiền đúng nhất sau đây mà anh chị đã được học?",
+    "options": [
+     "Lắng nghe và báo cáo",
+     "Lắng nghe, giải quyết, phản hồi và kiểm tra",
+     "Lắng nghe, phản hồi, kiểm tra và giải quyết",
+     "Giải quyết, phản hồi, kiểm tra và lắng nghe khách"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "fb-am-thuc-bnc-14",
+    "no": 14,
+    "text": "Bước đầu tiên trong quy trình phục vụ là gì?",
+    "options": [
+     "Lấy order",
+     "Phục vụ thức ăn",
+     "Phục vụ thức uống",
+     "Chào đón khách"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "fb-am-thuc-bnc-15",
+    "no": 15,
+    "text": "Ý kiến nào sau đây là sai trong nguyên tắc sắp xếp hàng hóa?",
+    "options": [
+     "Hàng hóa phải được phân loại và sắp xếp theo đúng chủng loại",
+     "Hàng hóa phải được kiểm đếm cho đúng số lượng như ban đầu xuất kho",
+     "Tuân thủ nguyên tắc phòng cháy chữa cháy khi sắp xếp kho (hành lang cứu hỏa và độ cao trần…)",
+     "Dồn tất cả vào chung 1 kho, càng nhiều càng tốt, sắp xếp sau"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "fb-am-thuc-bnc-16",
+    "no": 16,
+    "text": "Anh/chị đã để vượt thời gian qui định về thời hạn hoàn thành công việc được giao anh/chị sẽ làm gì và xử lý như thế nào tình huống này?",
+    "options": [
+     "Báo cáo cấp trên đã quên và chịu phạt",
+     "Báo cáo cấp trên đã chưa thể hoàn thành được công việc và cần sự cố vấn hướng dẫn thêm của cấp trên để hoàn thành công việc trễ thêm một thời gian",
+     "Xin lỗi cấp trên đã trễ hẹn và xin cố vấn và hướng dẫn thêm do tính chất công việc khó chưa thể hoàn thành đúng hạn",
+     "Báo cáo cho cấp trên nguyên nhân từ việc không hoàn thành thời hạn công việc được giao theo deadline. Xin ý kiến của sếp chỉ đạo & và chịu hoàn toàn trách nhiệm"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "fb-am-thuc-bnc-17",
+    "no": 17,
+    "text": "Khi khách đang uống trà khách xin thêm một xíu đường để pha thêm vào trà là nhân viên phục vụ em sẽ làm gì?",
+    "options": [
+     "Báo không có",
+     "Vui vẻ báo khách đợi trong giây lát sẽ phục vụ khách ngay",
+     "Báo cho quản lý",
+     "Yêu cầu tính thêm tiền mới phục vụ"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "fb-am-thuc-bnc-18",
+    "no": 18,
+    "text": "Nhân viên bị đau đột xuất và gọi điện báo nghỉ 3 ngày không thể đi làm, anh/chị sẽ giải quyết như thế nào?",
+    "options": [
+     "Không thể giải quyết và báo Giám Đốc giải quyết",
+     "Báo cho cấp trên trực tiếp giải quyết hộ, xin hỗ trợ vì thiếu nhân sự",
+     "Lắng nghe sự việc, đồng ý, yêu cầu nhân viên nộp giấy báo bệnh sau khi làm lại, báo cáo sự việc ngay lập tức cho quản lý trực tiếp và xin hỗ trợ nếu cần thiết",
+     "Yêu cầu nhân viên phải đến nhà hàng, nếu nhân viên thực sự bị ốm thì mới cho về nghỉ"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "fb-am-thuc-bnc-19",
+    "no": 19,
+    "text": "Khách gọi bạn lại để đưa cho bạn 1 cái ly bị mẻ và tỏ thái độ cực kỳ tức giận. Bạn sẽ xử lý như thế nào?",
+    "options": [
+     "Bạn tỏ vẻ nghi ngờ rằng khách đã làm hỏng ly và đổ lỗi cho nhà hàng để tránh bị đền bù cái ly. Bạn đôi co, tranh cải với khách giữa nhà hàng",
+     "Bạn lấy ngay ly mới thay cho khách và xem như chưa có chuyện gì xảy ra",
+     "Bạn xác định được độ nguy hiểm của việc này và lý do tức giận của khách. Ngay lập tức bạn thể hiện thái độ chân thành và xin lỗi mong khách thông cảm. Xin phép khách để thay ngay ly mới. Báo quản lý để follow up",
+     "Thấy thái độ của khách cực kỳ tức giận nên bạn gọi ngay quản lý đến để giải quyết vấn đề"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "fb-am-thuc-bnc-20",
+    "no": 20,
+    "text": "Khi nhà hàng anh chị đang phục vụ khách nhà hàng hết chỗ ngồi và không đủ nhân sự phục vụ khách. Anh chị thực hiện các bước nào sau đây?",
+    "options": [
+     "Xin người hỗ trợ để dọn bàn và phục vụ khách",
+     "Thông báo với khách việc tạm thời ngưng nhận khách và ngưng phục vụ khách",
+     "Không đón khách mới và ngưng bán hàng",
+     "Thông báo thu ngân và nhân viên tạm thời ngưng nhận khách, không bán thêm cho khách mới, giải quyết hết các tồn đọng, gọi thêm nhân viên hỗ trợ"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "fb-am-thuc-bnc-21",
+    "no": 21,
+    "text": "Khi nhân viên bạn mắc lỗi khi phục vụ và làm khách rất không hài lòng. Bạn sẽ xử lý nhân viên đó như thế nào trong lúc sự việc đang cần người xử lý?",
+    "options": [
+     "Bạn lắng nghe báo cáo từ nhân viên về sự việc. Lắng nghe lời phàn nàn từ khách. Bạn phân định được sự việc và tìm hướng giải quyết để đảm bảo khách hài lòng và nhân viên bạn được học hỏi, nhận ra cái sai",
+     "Bạn lắng nghe báo cáo của nhân viên. Lắng nghe lời phàn nàn của khách. Bạn ra sức bảo vệ nhân viên trước mặt khách rằng đó không phải lỗi của nhân viên mà là lỗi của khách. Bạn muốn làm hài lòng nhân viên cấp dưới vì bạn hoàn tin tưởng nhân viên đã được đào tạo rất tốt từ bạn",
+     "Bạn lắng nghe báo cáo của nhân viên. Lắng nghe phàn nàn từ khách. Bạn gọi nhân viên đến để quát mắng nhân viên trước mặt khách để làm dịu đi sự tức giận của khách. Yêu cầu nhân viên xin lỗi khách và hứa sẽ không tái phạm để làm ảnh hưởng đến uy tín của nhà hàng",
+     "Bạn lắng nghe báo cáo của nhân viên về sự việc. Bạn yêu cầu nhân viên tự giải quyết hoặc gọi ai đó giải quyết. Bạn đang bận việc khác quan trọng hơn"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "fb-am-thuc-bnc-22",
+    "no": 22,
+    "text": "Trong trường hợp khách cần sự giúp đỡ của nhân viên y tế, anh/chị sẽ làm gì?",
+    "options": [
+     "Chỉ đường cho khách đến phòng Y tế. Xem như chưa biết gì",
+     "Gọi nhân viên An Ninh đến dẫn khách đi",
+     "Bàn giao lại cho nhân viên gần nhất, anh/chị đang bận xử lý công việc dang dở",
+     "Hỏi thăm tình hình như thế nào và thể hiện sự thông cảm, sau đó tùy tình trạng của khách để xử lý gọi điện cho nhân viên y tế đến, hoặc dẫn khách đến phòng y tế gần nhất hay gọi người hỗ trợ"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "fb-am-thuc-bnc-23",
+    "no": 23,
+    "text": "Nhân viên anh/chị báo một mặt hàng tại điểm kinh doanh vừa bán hết, anh/chị xử lý như thế nào để đảm bảo hàng kinh doanh?",
+    "options": [
+     "Tìm nhà hàng khác để điều chuyển, nếu nhà hàng khác cũng hết, thì tiến hành làm lại thực đơn mới để khách không hỏi món này",
+     "Tìm hiểu xem có nhà hàng hoặc kho tổng có còn hàng không, nếu có thì điều chuyển về bán, nếu không có thì thông báo cho nhân viên biết mặt hàng đã hết để tất cả nhân viên nắm được và trả lời cho khách hàng biết để tránh than phiền xảy ra",
+     "Phản ảnh vấn đề lên cấp trên và kho không PR kịp thời hàng hóa cho nhà hàng, tìm hiểu xem có nhà hàng nào còn, nếu có thì điều chuyển về bán, nếu không có thì thông báo cho nhân viên biết mặt hàng đã hết trong ngày để trả lời cho khách hàng biết để tránh than phiền xảy ra",
+     "Phản ảnh vấn đề lên cấp trên và kho không PR kịp thời hàng hóa cho nhà hàng, tìm nhà hàng khác để điều chuyển, nếu nhà hàng khác cũng hết, thì tiến hành làm lại thực đơn mới để khách không hỏi món này"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "fb-am-thuc-bnc-24",
+    "no": 24,
+    "text": "Theo anh/chị dựa vào tiêu chí nào sau đây để đánh giá năng lực của một nhân viên?",
+    "options": [
+     "Sự trung thành, niềm đam mê công việc, sự nhanh nhẹn hoạt bát, không mắc lỗi trong quá trình phục vụ",
+     "Nhanh nhẹn, hoạt bát, đoàn kết, năng động trong quá trình phục vụ, kỹ lưỡng trong chăm sóc khách và hoàn thiện các kỹ năng mềm và nắm vững qui trình phục vụ, ít khi mắc các lỗi cơ bản",
+     "Tinh thần đoàn kết, trung thành và không mắc lỗi trong quá trình phục vụ, biết trên biết dưới",
+     "Phục vụ ân cần, chu đáo, có tính cầu tiến, có phát huy sáng tạo, trung thành"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "fb-am-thuc-bnc-25",
+    "no": 25,
+    "text": "Nhân viên anh/ chị đánh nhau với nhân viên bộ phận khác trong giờ làm việc anh/chị sẽ làm gì?",
+    "options": [
+     "Can ngăn không để tiếp tục đánh nhau và báo với nhân viên an ninh hỗ trợ, lập biên bản sự việc, họp kiểm điểm và xử lý theo qui định công ty",
+     "Thông báo với Phòng An ninh và Giám Đốc công ty về sự việc",
+     "Gọi hỗ trợ can ngăn và tìm hiểu sự việc, giải quyết giảng hòa để nhân viên quay lại vị trí làm việc",
+     "Gọi hỗ trợ từ nhân viên an ninh, can ngăn ngay, lập biên bản ghi nhận sự việc, báo cáo lên quản lý trực tiếp về sự việc và cách giải quyết, hậu quả sự việc"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "fb-am-thuc-bnc-26",
+    "no": 26,
+    "text": "Ý kiến nào sau đây là không đúng khi sắp xếp và kiểm soát hàng hóa?",
+    "options": [
+     "Hàng hóa phải được phân loại và sắp xếp theo đúng chủng loại",
+     "Hàng hóa phải được kiểm đếm cho đúng số lượng nhập, xuất, đảm bảo chứng từ đầy đủ",
+     "Tuân thủ nguyên tắc phòng cháy chữa cháy khi sắp xếp kho (hành lang cứu hỏa và độ cao trần…)",
+     "Mặt hàng nặng chất lên cao phía trên, hàng nhẹ để ở phía dưới cho dễ lấy.\nHàng nào bán chạy thì để ra phía bên ngoài, ít bán thì để vào phía trong"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "fb-am-thuc-bnc-27",
+    "no": 27,
+    "text": "Khách than phiền có vật lạ trong ly thức uống của khách anh/ chị sẽ làm gì?",
+    "options": [
+     "Xin lỗi khách vì trường hợp ngoài ý muốn này, xin phép khách mang ly thức uống có vật lạ vào trong. Hỏi ý khách có muốn làm ly mới hay thay đổi món uống khác. Không tính tiền ly đồ uống đó. Yêu cầu nhân viên pha chế giải trình và xử lý khiển trách theo quy định",
+     "Ra tận bàn khách và xin lỗi khách vì trường hợp ngoài ý muốn này, xin phép khách mang ly thức uống có vật lạ vào trong. Hỏi ý khách có muốn làm ly mới hay thay đổi món uống khác. Không tính tiền ly đồ uống đó.",
+     "Ra tận bàn khách và xin lỗi khách vì trường hợp ngoài ý muốn này, xin phép khách mang ly thức uống có vật lạ vào trong. Hỏi ý khách có muốn làm ly mới hay thay đổi món uống khác. Làm mới ly đồ uống khác theo yêu cầu của khách. Không tính tiền ly đồ uống hỏng đó (có thể giảm giá hoặc không tính tiền ly đồ uống mới tùy theo chính sách của công ty) . Yêu cầu nhân viên pha chế giải trình và xử lý khiển trách theo quy định",
+     "Ra tận bàn khách và xin lỗi khách vì trường hợp ngoài ý muốn này, xin phép khách mang ly thức uống có vật lạ vào trong. Hỏi ý khách có muốn làm ly mới hay thay đổi món uống khác. Làm mới ly đồ uống khác theo yêu cầu của khách. Yêu cầu nhân viên pha chế giải trình và xử lý khiển trách theo quy định"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "fb-am-thuc-bnc-28",
+    "no": 28,
+    "text": "Anh chị xử lý như thế nào khi trong đĩa thức ăn của khách có tóc?",
+    "options": [
+     "Xin lỗi khách và yêu cầu nhân viên mang đĩa thức ăn vào cho bếp để đổi đĩa thức ăn khác cho khách và kiểm tra khách đã hài lòng hay chưa",
+     "Xin lỗi khách vì sự việc trên, kiểm tra xem khách muốn đổi món khác hay vẫn dùng món như cũ dù là lỗi khách quan hay do quá trình chế biến phục vụ, \nBáo với bếp sự việc trên và mang đĩa đó vào cho bếp kiểm tra.  Yêu cầu bếp làm món mới để mang ra cho khách. Quan tâm chăm sóc đặc biệt và theo dõi sự hài lòng của khách hàng",
+     "Tìm hiểu nguyên nhân với khách là cọng tóc do đâu mà có, xác định tóc của khách hay của nhân viên trong quá trình phục vụ rơi vào. Sau khi tìm rõ nguyên nhân nếu là nhân viên làm thì yêu cầu nhân viên mang đĩa thức ăn vào và làm lại món mới cho khách, xin lỗi khách và chúc khách ngon miệng",
+     "Gặp khách xin lỗi và tìm cách nói chuyện để khách thông cảm cho sự việc trên, hứa khắc phục sự việc và nói khách thông cảm, để khách dễ chịu thì tiếp tục dùng lại món trên và vớt bỏ cọng tóc ra"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "fb-am-thuc-bnc-29",
+    "no": 29,
+    "text": "Còn ba ngày nữa là có đợt kiểm tra vệ sinh an toàn thực phẩm và phòng chống cháy nổ, với vai trò là quản lý. Anh/ chị hãy nêu các công việc anh/chị sẽ thực hiện và biện pháp thực hiện để đảm bảo cơ quan chức năng đánh giá cao công tác thực hiện của anh/chị?",
+    "options": [
+     "Kiểm tra nhãn mác hàng hóa, kiểm tra hàng tồn kho, hạn sử dụng, tem nhập khẩu đối với rượu,  kiểm tra xuất xứ hàng hóa có đủ đảm bảo, kiểm tra vệ sinh và sắp xếp trong kho, tổng vệ sinh toàn bộ trong khu vực kinh doanh và khu vực xung quanh, kiểm tra vệ sinh cá nhân nhân viên và yêu cầu thời gian hoàn thành các công việc giao cho nhân viên và ra thời hạn hoàn thành công việc rõ ràng để kiểm tra lần cuối",
+     "Kiểm tra nhãn mác hàng hóa, kiểm tra hàng tồn kho, hạn sử dụng, tem nhập khẩu đối với rượu,  kiểm tra xuất xứ hàng hóa có đủ đảm bảo, dán tem ngày sử dụng khi lưu kho và yêu cầu cover tất cả hàng đã khui hoặc chế biến để trong tủ mát, tủ đông, kiểm tra vệ sinh và sắp xếp trong kho, tổng vệ sinh toàn bộ trong khu vực kinh doanh và khu vực xung quanh, kiểm tra vệ sinh cá nhân nhân viên, kiểm tra các lối thoát hiểm và hệ thống PCCC trong phạm vi nhà hàng",
+     "Chia các công việc riêng ra cho từng nhân viên để hoàn thành, giao việc kiểm tra cho từng nhân viên và giám sát để đảm bảo tối ưu hóa công việc và tin tưởng nhân viên để nhân viên làm việc hết mình vì đợt kiểm tra này",
+     "Kiểm tra nhãn mác hàng hóa, kiểm tra hàng tồn kho, hạn sử dụng, tem nhập khẩu đối với rượu,  kiểm tra xuất xứ hàng hóa có đủ đảm bảo, kiểm tra vệ sinh và sắp xếp trong kho, tổng vệ sinh toàn bộ trong khu vực kinh doanh và khu vực xung quanh, giao việc cho nhân viên và ra thời hạn hoàn thành công việc rõ ràng để kiểm tra lần cuối"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "fb-am-thuc-bnc-30",
+    "no": 30,
+    "text": "Một nhóm khách dùng bữa tại nhà hàng của bạn. Sau bữa ăn, môt số khách có dấu hiệu đau bụng dữ dội nghi vấn là bị ngộ độc thức ăn gây hoang mang cho những vị khách khác còn lại. Trong trường hợp này bạn sẽ xử lý như thế nào?",
+    "options": [
+     "Trước tiên phải đưa ngay nhóm khách này đến phòng y tế để xác định nguyên nhân. Lưu lại mẫu thức ăn mà các khách này sử dụng để kiểm tra. Đồng thời trấn an các khách khác trong nhà hàng. Tuyệt đối không nhận lỗi khi chưa có kết quả kiểm định chính xác của cơ quan y tế về thực phẩm khách đã dùng. Xin ý kiến cấp trên chuyển khách đến bệnh viện nếu thấy tình trạng khách không tốt qua báo cáo của nhân viên y tế. Quan tâm đến tình trạng sức khỏe của khách để tìm hướng giải quyết phù hợp",
+     "Nhanh chóng xin lỗi khách, tỏ thái độ chân thành mng khách thông cảm. Đồng thời gọi ngay nhân viên y tế đưa khách đến bệnh viện vì tình trạng rất cấp bách. Báo bếp kiểm tra lại thực phẩm mà khách đã sử dụng và kiểm tra. Tiến hành thương lượng với khách để không lan truyền sự việc ra ngoài",
+     "Gọi ngay nhân viên y tế và trấn an khách rằng nhà hàng luôn đảm bảo chất lượng vệ sinh an toàn thực phẩm của bộ y tế. Gượng hỏi khách đã ăn những món gì trước khi sử dụng dịch vụ tại nhà hàng và hướng khách rằng các món ăn tại những địa điểm đó có vấn đề. Trấn an những khách khác trong nhà hàng. Báo cáo sự việc cho quản lý giải quyết",
+     "Báo cáo ngay quản lý để giải quyết. Bạn không có thẩm quyền xử lý việc này"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "fb-am-thuc-bnc-31",
+    "no": 31,
+    "text": "Khi bưng khay và di chuyển, cần lưu ý?",
+    "options": [
+     "Giữ thăng bằng khay, đi thật nhanh",
+     "Đi thật chậm rãi",
+     "Giữ thăng bằng khay, quan sát phía trước",
+     "Mắt tập trung nhìn xuống khay để đảm bảo đồ uống không rơi"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "fb-am-thuc-bnc-32",
+    "no": 32,
+    "text": "Dụng cụ phục vụ vang trắng A la carte bao gồm những gì?",
+    "options": [
+     "Bên phải",
+     "Đồ mở rượu, khăn phục vụ rượu, xô đá, ly vang trắng",
+     "Đồ mở rượu, khăn phục vụ rượu, decanter, ly vang trắng",
+     "Đồ mở rượu, khăn phục vụ rượu, đĩa đựng nút rượu, xô đá, ly vang trắng chilled sẵn"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "fb-am-thuc-bnc-33",
+    "no": 33,
+    "text": "Theo bạn, nếu khách gọi 4 món: Salad, Súp, tráng miệng, thịt cừu nướng. Thì thứ tự phục vụ các món ăn của bạn là như thế nào?",
+    "options": [
+     "Salad - Sup - Thịt cừu nướng- Tráng miệng",
+     "Súp - Salad - Thịt cừu nướng - Tráng miệng",
+     "Salad - Thịt cừu nướng -  Sup - Tráng miệng",
+     "Sup - Thịt cừu nướng - Sa lad - Tráng miệng"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "fb-am-thuc-bnc-34",
+    "no": 34,
+    "text": "Khi rót rượu vang thử, cho khách nào sau đây thử rượu?",
+    "options": [
+     "Chủ tiệc",
+     "Người lớn tuổi nhất",
+     "Người order rượu",
+     "Khách mời"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "fb-am-thuc-bnc-35",
+    "no": 35,
+    "text": "Quy định set up bàn ăn Âu như thế nào?",
+    "options": [
+     "Đia trưng bày, dao chính, nĩa chính, muỗng ăn chính, dao salad, nĩa salad, ly rượu vang, ly nước, khăn ăn",
+     "Đĩa trưng bày, dao chính, nĩa chính, muỗng ăn chính, dao salad, nĩa salad",
+     "Đĩa trưng bày, dao chính, nĩa chính, khăn ăn",
+     "Đĩa trưng bày, khăn ăn, nĩa chính, muỗng ăn chính, dao salad, nĩa salad, ly rượu vang"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "fb-am-thuc-bnc-36",
+    "no": 36,
+    "text": "Anh/ Chị hãy cho biết rượu vang đỏ thích hợp ăn với thực phẩm nào sau đây?",
+    "options": [
+     "Thịt Bò",
+     "Thịt gia cầm",
+     "Hải sản",
+     "Không thích hợp với loại nào"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "fb-am-thuc-bnc-37",
+    "no": 37,
+    "text": "Loại dao nào được sử dụng để phục vụ các món thịt cừu?",
+    "options": [
+     "Dao ăn chính",
+     "Dao ăn bò",
+     "Dao ăn salad",
+     "Dao ăn tráng miệng"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "fb-am-thuc-bnc-38",
+    "no": 38,
+    "text": "Món ăn nào sau đây là món Khai vị?",
+    "options": [
+     "Súp gà xé măng tây",
+     "Thăn bò Úc nướng",
+     "Bánh budding dâu tây",
+     "Cà ri gà"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "fb-am-thuc-bnc-39",
+    "no": 39,
+    "text": "Trong  rượu vang, vintage có nghĩa là gì?",
+    "options": [
+     "Năm chưng cất",
+     "Năm ủ",
+     "Năm thu hoạch",
+     "Năm bán"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "fb-am-thuc-bnc-40",
+    "no": 40,
+    "text": "Khi muốn dọn đĩa dơ trên bàn khách thì phải nói như thế nào (bằng tiếng Anh)?",
+    "options": [
+     "Excuse me, May I clear your plate..?",
+     "Sorry, give me your dirty plate.",
+     "I need to clear that plate",
+     "Sorry, I clear"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "fb-am-thuc-bnc-41",
+    "no": 41,
+    "text": "Phục vụ đồ ăn, thức uống cho khách về bên phía nào của khách?",
+    "options": [
+     "Phía bên trái",
+     "Phía bên phải",
+     "Phía trước",
+     "Phía sau"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "fb-am-thuc-bnc-42",
+    "no": 42,
+    "text": "Tại sao khi tiếp nhận yêu cầu của khách, nhân viên phục vụ phải lặp lại yêu cầu của khách?",
+    "options": [
+     "Tránh nhầm lẫn, xác nhận yêu cầu đặc biệt",
+     "Tránh quên",
+     "Tránh thiếu sót các yêu cầu đặc biệt",
+     "Xác nhận khách hiểu"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "fb-am-thuc-bnc-43",
+    "no": 43,
+    "text": "Quy định bàn ăn set menu 10 khách khi khách vào ăn hơn 10 người anh chị xử  lý như thế nào?",
+    "options": [
+     "Thông báo cho khách là bàn chỉ 10 khách không được ngồi thêm",
+     "Thông báo cho khách sẽ kê thêm ghế, báo cho HDV, hoặc trưởng đoàn tình hình và sẽ tăng thêm khẩu phần ăn, tính tiền thêm phần ăn bổ sung, báo giám sát biết để giám sát báo bếp ra thêm thức ăn cho bàn này",
+     "Cho khách vào ngồi cùng và báo khách tự chia phần thức ăn của 10 khách và sẽ tính thêm tiền cho khách vượt tiêu chuẩn bàn ăn 10 khách này",
+     "Cho khách vào ngồi cùng, báo cho HDV hoặc trưởng đoàn tình hình và báo khách tự chia phần thức ăn của 10 khách và sẽ tính thêm tiền cho khách vượt tiêu chuẩn bàn ăn 10 khách này"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "fb-am-thuc-bnc-44",
+    "no": 44,
+    "text": "Dụng cụ ăn trên bàn bị dơ. Khách gọi phục vụ đến để chỉ và tỏ vẻ không hài lòng về chất lượng vệ sinh của nhà hàng. Bạn xử lý như thế nào ?",
+    "options": [
+     "Thay ngay dụng cụ sạch cho khách và rời khỏi bàn",
+     "Nhanh chóng xin lỗi khách, thể hiện thái độ chân thành và mong khách thông cảm. Xin phép khách được thay bộ CCDC mới. Kiểm tra lại tất cả các CCDC còn lại để tránh tình trạng xảy ra lần nữa",
+     "Đến bàn khách để kiểm tra CCDC. Báo với khách rằng khách đông nên bạn chưa dọn kịp, còn sót lại và xin lỗi khách, mong khách thông cảm",
+     "Bạn không đồng ý với việc phàn nàn của khách. Bạn đôi co với khách và cho rằng khách đang cố ý gây sự"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "fb-am-thuc-bnc-45",
+    "no": 45,
+    "text": "Trong  lúc phục vụ,  vô tình làm đổ thức ăn lên người khách, làm cho khách khó chịu và lúng túng. Anh/ chị sẽ xử lý thế nào?",
+    "options": [
+     "Lấy khăn lau cho khách, xin lỗi khách và mong khách thông cảm vì sự sơ xuất",
+     "Bình tĩnh xử lý, xin lỗi khách vì sự sơ xuất. Nếu thức ăn đổ vào khách nguội và đơn giản thì lấy khăn thấm và lau sạch, sau đó hướng dẫn khách vào phòng vệ sinh lau sạch. Nếu thức ăn nóng thì lấy khăn ướt làm dịu vết thương, lau sạch thức ăn, sau đó dẫn khách vào phòng y tế và báo cáo cấp trên giải quyết",
+     "Chỉ cho khách lối vào phòng vệ sinh để lau sạch thức ăn và quần áo. Nếu thấy tình trạng khách nặng do bỏng thì báo ngay cho y tế đến sơ cứu hoặc dẫn khách đến phòng y tế. Báo cáo cho cấp trên trực tiếp để giải quyết",
+     "Xin lỗi khách và đàm phán với khách để xin được đền áo quần cho khách hoặc đổi bộ áo quần cho khách, báo với khách đợi trong khoản thời gian để được giặt ủi, tất cả chi phí bạn sẽ là người chi trả.Vì bạn đã trả tiền nên không cần báo cáo cho cấp quản lý trực tiếp về sự việc trên"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "fb-am-thuc-bnc-46",
+    "no": 46,
+    "text": "Phục vụ tiệc buffet bao gồm các công việc gì?",
+    "options": [
+     "Phục vụ đồ uống, thu dọn bát đĩa bẩn đảm bảo bàn ăn sạch sẽ, đảm bảo quầy buffet sạch sẽ và đẩy đủ đồ ăn",
+     "Phục vụ đồ uống, mang thức ăn ra  theo thực đơn đã soạn sẵn phục vụ tại bàn cho khách, thu dọn bát đĩa bẩn trên bàn và chuẩn bị cho các món tiếp theo",
+     "Phục vụ đồ uống và đồ ăn nhẹ trên khay, đi vòng quanh mời khách sử dụng và thu dọn CCDC khách đã sử dụng",
+     "Phục vụ đồ uống, mang thức ăn ra theo thực đơn, thu dọn bát đĩa bẩn đảm bảo bàn ăn sạch sẽ, đảm bảo quầy buffet sạch sẽ và đẩy đủ đồ ăn"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "fb-am-thuc-bnc-47",
+    "no": 47,
+    "text": "Cách đặt ccdc trên bàn ăn theo thứ tự nào là đúng?",
+    "options": [
+     "Từ phải sang: dao ăn chính, dao ăn bò, thìa ăn súp, đĩa định vị, nĩa/dĩa ăn chính,  nĩa/dĩa ăn salad",
+     "Đặt thứ tự nào cũng được, tùy theo sở thích của khách",
+     "Từ phải sang: dao ăn salad, thìa ăn súp, dao ăn chính, đĩa định vị, nĩa/dĩa ăn salad, thìa ăn chính",
+     "Từ phải sang: dao ăn salad, thìa ăn súp, dao ăn chính, đĩa định vị, nĩa/dĩa ăn chính,  nĩa/dĩa ăn salad"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "fb-am-thuc-bnc-48",
+    "no": 48,
+    "text": "Theo quy trình phục vụ, ai là người được ưu tiên phục vụ đầu tiên trong buổi tiệc?",
+    "options": [
+     "Chủ tiệc",
+     "Phụ nữ",
+     "Người phụ nữ lớn tuổi",
+     "Cụ ông"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "fb-am-thuc-bnc-49",
+    "no": 49,
+    "text": "Sau khi rót vang đỏ cho khách, chai vang còn rượu sẽ được đặt ở đâu?",
+    "options": [
+     "Ở phía trước ly của chủ tiệc và nhãn rượu quay về phía chủ tiệc",
+     "Không được đặt lên bàn khách, có thể đặt lên bàn bên cạnh",
+     "Đặt ở khu vực bàn chờ/service station gần bàn ăn nhất",
+     "Đặt lên xô ướp rượu bên cạnh bàn ăn"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "fb-am-thuc-bnc-50",
+    "no": 50,
+    "text": "Khay phục vụ luôn được giữ trên tay nào kể cả khi không có đồ trên khay ?",
+    "options": [
+     "Luôn giữ khay phục vụ bên tay trái",
+     "Luôn để khay xuống dưới",
+     "Khay cầm nghiêng bên phải",
+     "Luôn giữ khay phục vụ bên tay phải"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "fb-am-thuc-bnc-51",
+    "no": 51,
+    "text": "Khi phục vụ món ăn cho khách, nhân viên cần lưu ý điều gì với khách về các món ăn mà khách đã yêu cầu?",
+    "options": [
+     "Cần giới thiệu và xác nhận lại",
+     "Cần giới thiệu",
+     "Cần xác nhận lại",
+     "Không cần làm gì cứ vậy đặt đồ cho khách."
+    ],
+    "answer": 0
+   },
+   {
+    "id": "fb-am-thuc-bnc-52",
+    "no": 52,
+    "text": "Vùng nhiệt độ nguy hiểm khi lưu trữ thực phẩm là bao nhiêu?",
+    "options": [
+     "5oC-60oC",
+     "5oC-70oC",
+     "10oC-70oC",
+     "Nhiệt độ dưới 0oC"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "fb-am-thuc-bnc-53",
+    "no": 53,
+    "text": "Thực phẩm đã nấu chín nên ăn ngay và không được để ở nhiệt độ phòng qua bao nhiêu giờ?",
+    "options": [
+     "1 tiếng",
+     "2 tiếng",
+     "3 tiếng",
+     "4 tiếng"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "fb-am-thuc-bnc-54",
+    "no": 54,
+    "text": "Dấu hiệu nào để nhận biết nhu cầu dọn bát đĩa / ly cốc của khách khi đồ ăn đồ uống đã được dùng xong?",
+    "options": [
+     "Đĩa đồ ăn/ ly cốc đồ uống đã hết. Đĩa thức ăn để sang một bên trên bàn.",
+     "Đĩa thức ăn còn nhưng khách không tiếp tục sử dụng.",
+     "Đĩa thức ăn còn nhưng khách đang ngừng sử dụng.",
+     "Đĩa đồ ăn/ ly cốc đồ uống đã hết. Đĩa thức ăn để sang một bên trên bàn. Đĩa thức ăn còn nhưng khách không tiếp tục sử dụng nữa."
+    ],
+    "answer": 3
+   },
+   {
+    "id": "fb-am-thuc-bnc-55",
+    "no": 55,
+    "text": "Khi vệ sinh dụng cụ cho từng loại dao, muỗng/ thìa, dĩa vào chậu inox đựng nước nóng đã được pha loãng với ?",
+    "options": [
+     "Nước muối",
+     "Nước rửa bát",
+     "Nước khử trùng",
+     "Dấm hoặc chanh"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "fb-am-thuc-bnc-56",
+    "no": 56,
+    "text": "Nhân viên khi thu dọn đồ bẩn cần tiến hành phân loại CCDC bản như thế nào ?",
+    "options": [
+     "Phân loại công cụ dụng cụ : dao, thìa, nĩa… và cho vào khay riêng biệt",
+     "Phân loại công cụ dụng cụ : đồ inox, đồ sứ, đồ tre gỗ… và để riêng từng loại hoặc vào khay riêng biệt.",
+     "Phân loại công vụ dụng cụ đồ dễ vỡ đồ không dễ vỡ cho vào khay riêng biệt",
+     "Cho tất cả vào một thùng đựng"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "fb-am-thuc-bnc-57",
+    "no": 57,
+    "text": "Nhân viên thông báo với khách giờ đóng cửa Buffet của nhà hàng tối thiểu bao nhiêu phút ?",
+    "options": [
+     "20 phút",
+     "15 phút",
+     "30 phút",
+     "Cả 3 đáp án trên đều sai"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "fb-am-thuc-bnc-58",
+    "no": 58,
+    "text": "Pasta là gì?",
+    "options": [
+     "Là một loại mỳ ý",
+     "Tên một loài hoa",
+     "Tên của một thành phố",
+     "Tên gọi khác của nước Ý"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "fb-am-thuc-bnc-59",
+    "no": 59,
+    "text": "Tại sao khi đã hết giờ phục vụ buffet nhưng khách vẫn muốn lấy đồ ăn thêm, bộ phận FB phải xin lỗi, giải thích cho khách về thời gian kết thúc và đưa ra giải pháp thay thế cho khách ?",
+    "options": [
+     "Làm khách hàng hài lòng",
+     "Luôn cho khách thấy được sự quan tâm đến trải nghiệm của khách và có phương án thay thế",
+     "Thể hiện sự quan tâm đến nhu cầu của khách",
+     "Cả 3 đáp án đều đúng"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "fb-am-thuc-bnc-60",
+    "no": 60,
+    "text": "Việc thực hiện việc tổng hợp các phiếu nhập - xuất - hủy hàng hóa và thống kê số liệu hàng nhập theo từng loại để làm gì ?",
+    "options": [
+     "Tổng hợp số liệu",
+     "Để cập nhật, tổng hợp số liệu hàng hóa và làm báo cáo cuối ca",
+     "Cập nhật số liệu",
+     "Làm báo cáo"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "fb-am-thuc-bnc-61",
+    "no": 61,
+    "text": "Tiêu chuẩn định lượng rót nước ngọt và nước đóng chai?",
+    "options": [
+     "1/3 ly",
+     "Đầy ly",
+     "2/3 ly",
+     "1/2 ly"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "fb-am-thuc-bnc-62",
+    "no": 62,
+    "text": "Nhân viên phục vụ nên xử lý như thế nào khi khách hàng có biểu hiện bị dị ứng thực phẩm (ở mức độ nhẹ)?",
+    "options": [
+     "Đối với trường hợp khách hàng bị dị ứng nhẹ, nhân viên phục vụ đến phòng y tế xin thuốc về cho khách uống tại nhà hàng",
+     "Nhân viên phục vụ không nên làm gì cả vì đây không phải là nghiệp vụ chuyên môn của mình",
+     "Nhân viên nên báo cáo ngay với quản lý",
+     "Nhân viên nên đề nghị được đưa khách đến phòng y tế của khách sạn để nhân viên y tế có chuyên môn thăm khám và cấp thuốc cho khách, sau đó báo cáo lại cho quản lý nắm thông tin và ghi nhận thông tin vào hồ sơ khách hàng"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "fb-am-thuc-bnc-63",
+    "no": 63,
+    "text": "Khi xử lý phàn nàn của khách, bạn thể hiện sự đồng cảm với khách hàng như thế nào",
+    "options": [
+     "Đồng cảm cùng khách hàng và ghi lại tất cả các thông tin ( đặt mình vào vị trí của khách)",
+     "Sẽ làm tất cả vì khách hàng",
+     "Chỉ cần lắng nghe",
+     "Khuyên khách hàng cứ yên tâm công ty sẽ giải quyết thỏa đáng"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "fb-am-thuc-bnc-64",
+    "no": 64,
+    "text": "Khách hàng sẽ được mời xem thực đơn món ăn nhẹ khi nào?",
+    "options": [
+     "Trước khi hỏi đồ uống",
+     "Sau khi hỏi đồ uống",
+     "Bất kỳ thời điểm nào",
+     "Nếu thời điểm phục vụ không trùng với giờ dùng bữa"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "fb-am-thuc-bnc-65",
+    "no": 65,
+    "text": "Khi dọn dẹp CCDC trước mặt khách cần lưu ý điểm gì?",
+    "options": [
+     "Dọn dẹp từ bên phải của khách (trừ khi không thuận tiện cho khách). Không bao giờ được đi ngang qua trước mặt khách, với ngang tay qua mặt khách, với ngang người qua bàn ăn.Khi thu dọn cần cẩn thận tránh để đồ ăn thừa văng vào khách, tránh để dao nĩa khua vào đĩa gây tiếng ồn và tránh để khách nhìn thấy.",
+     "Không bao giờ được đi ngang qua trước mặt khách, với ngang tay qua mặt khách, với ngang người qua bàn ăn.Khi thu dọn cần cẩn thận tránh để đồ ăn thừa văng vào khách, tránh để khách nhìn thấy.",
+     "Dọn dẹp từ bên phải của khách (trừ khi không thuận tiện cho khách). Không bao giờ được với ngang tay qua mặt khách, với ngang người qua bàn ăn.Khi thu dọn cần cẩn thận tránh để đồ ăn thừa văng vào khách.",
+     "Đáp án B và C là đúng"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "fb-am-thuc-bnc-66",
+    "no": 66,
+    "text": "Phục vụ rượu Rum ở dạng Neat có nghĩa là gì?",
+    "options": [
+     "Uống với nước đá, dùng ly shot",
+     "Uống không nước đá, dùng ly shot",
+     "Uống không nước đá, dùng ly hiball",
+     "Uống với nước đá, dùng ly rock"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "fb-am-thuc-bnc-67",
+    "no": 67,
+    "text": "Phục vụ rượu Rum ở dạng Mixer có nghĩa là gì?",
+    "options": [
+     "Thường pha trộn với Syrup các loại",
+     "Thường pha trộn với nước khoáng, soda, coca",
+     "Pha chế bằng phương pháp Shaker",
+     "Pha chế bằng phương pháp Stir"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "fb-am-thuc-bnc-68",
+    "no": 68,
+    "text": "Phục vụ rượu Brandy theo đúng tiêu chuẩn là bao nhiêu ml/ly?",
+    "options": [
+     "30ml/ly",
+     "40ml/ly",
+     "50ml/ly",
+     "60ml/ly"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "fb-am-thuc-bnc-69",
+    "no": 69,
+    "text": "Phục vụ rượu Brandy theo kiểu “Neat” có nghĩa là gì?",
+    "options": [
+     "Uống không đá , dùng ly Rock",
+     "Uống không đá , dùng ly Brandy Snifter",
+     "Uống với đá , dùng ly Hiball",
+     "Uống không đá , dùng ly Liqueur"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "fb-am-thuc-bnc-70",
+    "no": 70,
+    "text": "Phục vụ rượu mùi ( liqueur) ở dạng Neat có nghĩa là gì?",
+    "options": [
+     "Uống với nước đá, dùng ly shot",
+     "Uống không nước đá, dùng ly liqueur",
+     "Uống không nước đá, dùng ly hiball",
+     "Uống với nước đá, dùng ly rock"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "fb-am-thuc-bnc-71",
+    "no": 71,
+    "text": "Phục vụ rượu mùi ( liqueur) ở dạng Frappe có nghĩa là gì?",
+    "options": [
+     "Uống với nước đá, dùng ly shot",
+     "Uống không nước đá, dùng ly liqueur",
+     "Dùng ly cocktail, nước đá bào phục vụ với ống hút cắt ngắn",
+     "Uống với nước đá, dùng ly rock"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "fb-am-thuc-bnc-72",
+    "no": 72,
+    "text": "Phục vụ Vodka ướp lạnh sử dụng ly nào là đúng?",
+    "options": [
+     "Ly Highball ướp lạnh",
+     "Ly Collin ướp lạnh",
+     "Ly Shot ướp lạnh",
+     "Ly Rock ướp lạnh"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "fb-am-thuc-bnc-73",
+    "no": 73,
+    "text": "Khi trình rượu vang cho khách cần đọc thông tin như thế nào?",
+    "options": [
+     "Tên rượu, giống nho",
+     "Tên rượu, năm sản xuất",
+     "Tên rượu, giống nho, năm thu hoạch giống nho, nước sản xuất",
+     "Tên rượu và nước sản xuất."
+    ],
+    "answer": 2
+   },
+   {
+    "id": "fb-am-thuc-bnc-74",
+    "no": 74,
+    "text": "Cách phục vụ whisky theo kiểu “On the rocks” là gì?",
+    "options": [
+     "Uống không nước đá, dùng ly rocks",
+     "Uống không nước đá, dùng ly hiball",
+     "Uống không nước đá, dùng ly hiball",
+     "Pha trộn với nước khoáng, soda, coca"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "fb-am-thuc-bnc-75",
+    "no": 75,
+    "text": "Khách hàng phàn nàn món ăn được phục vụ chậm, bạn nên làm gì?",
+    "options": [
+     "Báo rằng hôm nay bếp vắng người nên sẽ phục vụ chậm",
+     "Báo khách món ăn khách yêu cầu làm phức tạp nên sẽ mất thời gian và chú ý khách",
+     "Báo rằng nhà hàng đông khách nên sẽ phục vụ chậm.",
+     "Xin lỗi vì sự cố xảy ra và cảm ơn khách đã góp ý. Lấy thông tin của khách và thông báo với quản lý kiểm tra"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "fb-am-thuc-bnc-76",
+    "no": 76,
+    "text": "Trong quá trình lau CCDC vô tình làm vỡ ly bạn sẽ làm gì?",
+    "options": [
+     "Bỏ vào thùng rác không báo cáo",
+     "Ghi lại thông tin trên giấy ghi nhận bể vỡ & báo cáo cho giám sát ký xác nhận",
+     "Mang đi dấu",
+     "Báo cho quản lý"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "fb-am-thuc-bnc-77",
+    "no": 77,
+    "text": "Khi hóa đơn tính tiền của khách bị sai, anh chị xử lý như thế nào?",
+    "options": [
+     "Xin lỗi khách vì sự cố, báo nhân viên thu ngân để bỏ món khách không dùng và làm lại hóa đơn mới cho khách",
+     "Báo khách chờ trong giây lát để kiểm tra phiếu gọi món & nhân viên phục vụ bàn đó, nếu đúng với thông tin khách phản ánh thì lập tức xin lỗi khách, báo thu ngân sửa hóa đơn và hướng dẫn khách thanh toán",
+     "Báo khách chờ và yêu cầu thu ngân sửa hóa đơn và thanh toán",
+     "Báo khách chờ trong giây lát,  thông báo với quản lý để quản lý xử lý"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "fb-am-thuc-bnc-78",
+    "no": 78,
+    "text": "Phân loại các ccdc theo phương án nào là đúng?",
+    "options": [
+     "Tableware: Bàn ghế\nAsset: Tài sản",
+     "Silverware: Thìa ăn chính, thìa ăn súp, nĩa ăn chính, dao ăn bơ\nGlassware: ly vang, ly nước, ly bia",
+     "Silverware: Thìa ăn chính, thìa ăn súp, nĩa ăn chính, dao ăn bơ\nGlassware: ly vang, ly nước, tách cà phê",
+     "Chinaware: bát, đĩa, thìa sứ, ly uống rượu.\nSilverware: nĩa ăn, dao ăn, thìa cà phê"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "fb-am-thuc-bnc-79",
+    "no": 79,
+    "text": "Khi trên bàn có nhiều hơn 1 ly nước thì cách đặt các loại thức uống trên khách nên tuân theo nguyên tắc nào?",
+    "options": [
+     "Theo thứ tự từ thấp đến cao( chiều cao của ly), ly thấp hơn đặt bên phải",
+     "Người phục vụ nên đặt ly Cocktail và ly rượu gần với khách hơn là ly nước",
+     "Theo thứ tự từ thấp đến cao( chiều cao của ly), ly thấp hơn đặt bên trái",
+     "Người phục vụ nên đặt ly nước gần với khách hơn là ly rượu, cocktail"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "fb-am-thuc-bnc-80",
+    "no": 80,
+    "text": "Hành vi nào sai đối với thông tin khách hàng?",
+    "options": [
+     "Không thu thập lưu trữ thông tin cá nhân của khách hàng",
+     "Không hợp tác với bên ngoài để tìn kiếm thông tin cá nhân của khách hàng",
+     "Chỉ tiết lộ thông tin di chuyển của khách hàng",
+     "Tiết lộ thông tin cá nhân của khách hàng, đối tác"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "fb-am-thuc-bnc-81",
+    "no": 81,
+    "text": "Chức năng chính của Bar là gì?",
+    "options": [
+     "Cung cấp tất cả các loại đồ uống cho khách hàng",
+     "Thu lợi nhuận cho bar, nhà hàng, khách sạn",
+     "Cung cấp tất cả các loại đồ uống cho khách hàng và thu lợi nhuận cho bar",
+     "Cung cấp và phục vụ tất cả các loại đồ uống cho khách hàng và thu lợi nhuận cho bar, nhà hàng, khách sạn"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "fb-am-thuc-bnc-82",
+    "no": 82,
+    "text": "Nhận định nào sau đây đúng?",
+    "options": [
+     "Bar tiền sảnh là loại bar được đặt ở khu vực sân vườn, có chức năng chính là phục vụ trực tiếp các loại đồ uống cho khách hàng",
+     "Bar tiền sảnh là loại bar được đặt ở khu vực phía sau, có chức năng chính là phục vụ trực tiếp các loại đồ uống cho khách hàng",
+     "Bar tiền sảnh là loại bar được đặt ở khu vực tiền sảnh, có chức năng chính là phục vụ trực tiếp các loại đồ uống cho khách hàng",
+     "Bar tiền sảnh là loại bar được đặt ở khu vực nhà hàng, có chức năng chính là phục vụ trực tiếp các loại đồ uống cho khách hàng"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "fb-am-thuc-bnc-83",
+    "no": 83,
+    "text": "’Muddler’’ là dụng cụ trong pha chế dùng để làm gì?",
+    "options": [
+     "Xay các nguyên vật liệu",
+     "Nghiền các nguyên vật liệu",
+     "Lọc các nguyên vật liệu",
+     "Pha trộn các nguyên vật liệu"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "fb-am-thuc-bnc-84",
+    "no": 84,
+    "text": "Loại ly không chân (tumbler) dung tích 1oz đến 1,5oz, dùng để phục vụ rượu mạnh không đá là loại ly nào sau đây?",
+    "options": [
+     "Shooter glass",
+     "Shot glass",
+     "Rocks glass",
+     "Old Fashioned glass"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "fb-am-thuc-bnc-85",
+    "no": 85,
+    "text": "Ly Brandy Snifter (balloon) là loại ly chân thấp (Footed glass) thường dùng để làm gì?",
+    "options": [
+     "Phục vụ nước khoáng",
+     "Phục vụ bia tươi",
+     "Phục vụ rượu brandy – Cognac",
+     "Phục vụ nước trái cây"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "fb-am-thuc-bnc-86",
+    "no": 86,
+    "text": "Ly Hurricane là loại ly chân thấp (Footed glass) dung tích 8 oz đến 12oz thường dùng để làm gì?",
+    "options": [
+     "Phục vụ nước khoáng",
+     "Phục vụ bia tươi",
+     "Phục vụ rượu brandy – Cognac",
+     "Phục vụ sinh tố, cocktail nhóm trái cây"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "fb-am-thuc-bnc-87",
+    "no": 87,
+    "text": "Loại nước có hàm lượng khoáng chất tốt, ổn định được kiểm soát chặt chẽ theo quy định của thế giới hoặc theo tiêu chuẩn Việt Nam, được đóng chai tại nguồn. Không qua quá trình thêm bớt hoặc khử gas là loại nước uống nào?",
+    "options": [
+     "Nước tinh khiết",
+     "Nước suối",
+     "Nước khoáng",
+     "Nước đóng chai"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "fb-am-thuc-bnc-88",
+    "no": 88,
+    "text": "Loại nước uống có thành phần vi khoáng không được kiểm soát, không mùi vị, trong suốt. Trải qua quá trình lọc các tạp chất, các chất rắn bằng hệ thống lọc 1 hoặc nhiều lần là loại nước uống nào?",
+    "options": [
+     "Nước tinh khiết",
+     "Nước suối",
+     "Nước khoáng",
+     "Nước đóng chai"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "fb-am-thuc-bnc-89",
+    "no": 89,
+    "text": "Loại đồ uống không cồn có sự kết hợp giữa các loại hoa quả với sữa chua là loại nước uống nào?",
+    "options": [
+     "Smoothies",
+     "Lassie",
+     "Milk shaker",
+     "Soft drinks"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "fb-am-thuc-bnc-90",
+    "no": 90,
+    "text": "Loại đồ uống không cồn kết hợp của các loại hoa quả với các sản phẩm từ sữa và bổ sung thêm một số thành phần khác như sữa chua, các loại hạt hay thậm chí là bánh cookies là loại nước uống nào?",
+    "options": [
+     "Smoothies",
+     "Lassie",
+     "Milk shaker",
+     "Soft drinks"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "fb-am-thuc-bnc-91",
+    "no": 91,
+    "text": "Cocktail khai vị (Aperitif) thường được uống vào thời điểm nào?",
+    "options": [
+     "Uống sau bữa ăn; thường có vị chua hoặc mùi thơm kích thích vị giác, thèm ăn",
+     "Uống trước hoặc đầu bữa ăn; thường có vị chua hoặc mùi thơm kích thích vị giác, thèm ăn",
+     "Uống trong bữa ăn, thường có vị ngọt và nồng độ cồn cao",
+     "Uống sau bữa ăn, giúp tiêu hóa món ăn; thường có vị ngọt và nồng độ cồn cao"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "fb-am-thuc-bnc-92",
+    "no": 92,
+    "text": "Cocktail tiêu vị (Digestif) thường được uống vào thời điểm nào?",
+    "options": [
+     "Uống sau bữa ăn; thường có vị chua hoặc mùi thơm kích thích vị giác, thèm ăn",
+     "Uống trước hoặc đầu bữa ăn; thường có vị chua hoặc mùi thơm kích thích vị giác, thèm ăn",
+     "Uống trong bữa ăn, thường có vị ngọt và nồng độ cồn cao",
+     "Uống sau bữa ăn, giúp tiêu hóa món ăn; thường có vị ngọt và nồng độ cồn cao"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "fb-am-thuc-bnc-93",
+    "no": 93,
+    "text": "Daiquiri là loại Cocktail nổi tiếng được pha chế từ rượu nền nào?",
+    "options": [
+     "Vodka",
+     "Rum",
+     "Tequila",
+     "Brandy"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "fb-am-thuc-bnc-94",
+    "no": 94,
+    "text": "Black Rusian là loại Cocktail nổi tiếng được pha chế từ rượu nền nào?",
+    "options": [
+     "Vodka",
+     "Rum",
+     "Tequila",
+     "Brandy"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "fb-am-thuc-bnc-95",
+    "no": 95,
+    "text": "Mojito là loại Cocktail nổi tiếng được pha chế từ rượu nền nào?",
+    "options": [
+     "Vodka",
+     "Rum",
+     "Tequila",
+     "Brandy"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "fb-am-thuc-bnc-96",
+    "no": 96,
+    "text": "B52 là loại Cocktail nổi tiếng được pha chế từ phương pháp nào?",
+    "options": [
+     "Shaker",
+     "Stir",
+     "Blend",
+     "Layer"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "fb-am-thuc-bnc-97",
+    "no": 97,
+    "text": "Margarita là loại Cocktail nổi tiếng được pha chế từ phương pháp nào?",
+    "options": [
+     "Shaker",
+     "Stir",
+     "Blend",
+     "Layer"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "fb-am-thuc-bnc-98",
+    "no": 98,
+    "text": "Black Russian là loại Cocktail nổi tiếng được pha chế từ phương pháp nào?",
+    "options": [
+     "Shaker",
+     "Stir",
+     "Blend",
+     "Layer"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "fb-am-thuc-bnc-99",
+    "no": 99,
+    "text": "Độ cồn trong rượu mùi dao động trong khoảng nào?",
+    "options": [
+     "10 ÷ 40 %",
+     "10 ÷ 50 %",
+     "15 ÷ 60 %",
+     "15 ÷ 80 %"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "fb-am-thuc-bnc-100",
+    "no": 100,
+    "text": "‘’ Bailey’s Irish cream’’ là loại liqueur của Ireland, làm từ Irish whiskey và sữa béo; nguyên gốc mùi sôcôla,hiện có thêm các mùi khác như cà phê, bạc hà, caramel... nằm trong nhóm nào?",
+    "options": [
+     "Nhóm cam chanh (Citrus liqueur)",
+     "Nhóm thảo mộc (Herb liqueur)",
+     "Nhóm nhân, hạt (Seed, kernel liqueur)",
+     "Nhóm khác ( The Other liqueur)"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "fb-am-thuc-bnc-101",
+    "no": 101,
+    "text": "Màu sắc rượu Brandy hoàn toàn nhờ vào yếu tố nào sau đây?",
+    "options": [
+     "Thời gian ủ trong thùng kim loại",
+     "Pha trộn màu từ nhiều loại rượu",
+     "Thời gian ủ trong thùng gỗ pha trộn",
+     "Màu từ các nguyên liệu khác"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "fb-am-thuc-bnc-102",
+    "no": 102,
+    "text": "“V.S” là kí hiệu chỉ thứ hạng rượu Brandy trên nhãn chai có nghĩa là gì?",
+    "options": [
+     "Rượu dùng pha trộn phải ủ ít nhất 2 năm trong thùng gỗ",
+     "Rượu dùng pha trộn phải ủ ít nhất 3 năm trong thùng gỗ",
+     "Rượu dùng pha trộn phải ủ ít nhất 4 năm trong thùng gỗ",
+     "Rượu dùng pha trộn phải ủ ít nhất 5 năm trong thùng gỗ"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "fb-am-thuc-bnc-103",
+    "no": 103,
+    "text": "“V.S.O.P (Very Superior Old Pale)” là kí hiệu chỉ thứ hạng rượu Brandy trên nhãn chai có nghĩa là gì?",
+    "options": [
+     "Rượu dùng pha trộn phải ủ ít nhất 2 năm trong thùng gỗ",
+     "Rượu dùng pha trộn phải ủ ít nhất 3 năm trong thùng gỗ",
+     "Rượu dùng pha trộn phải ủ ít nhất 4 năm trong thùng gỗ",
+     "Rượu dùng pha trộn phải ủ ít nhất 5 năm trong thùng gỗ"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "fb-am-thuc-bnc-104",
+    "no": 104,
+    "text": "“X.O (Extra Old )” là kí hiệu chỉ thứ hạng rượu Brandy trên nhãn chai có nghĩa là:",
+    "options": [
+     "Rượu dùng pha trộn phải ủ ít nhất 2 năm trong thùng gỗ.",
+     "Rượu dùng pha trộn phải ủ ít nhất 4 năm trong thùng gỗ.",
+     "Rượu dùng pha trộn phải ủ ít nhất 6 năm trong thùng gỗ.",
+     "Rượu dùng pha trộn phải ủ ít nhất 8 năm trong thùng gỗ."
+    ],
+    "answer": 2
+   },
+   {
+    "id": "fb-am-thuc-bnc-105",
+    "no": 105,
+    "text": "Phần trăm cồn trong rượu Gin khoảng bao nhiêu?",
+    "options": [
+     "20% - 30% VOL.",
+     "30% - 50% VOL.",
+     "50% - 70% VOL.",
+     "35% - 50% VOL."
+    ],
+    "answer": 3
+   },
+   {
+    "id": "fb-am-thuc-bnc-106",
+    "no": 106,
+    "text": "Gin có nguồn gốc từ quốc gia nào?",
+    "options": [
+     "Ý",
+     "Hà Lan",
+     "Mỹ",
+     "Nga"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "fb-am-thuc-bnc-107",
+    "no": 107,
+    "text": "Thông thường rượu Gin có mùi của loại trái cây nào?",
+    "options": [
+     "Quả Lựu",
+     "Quả Táo",
+     "Quả Bách xù",
+     "Quả Dâu đen"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "fb-am-thuc-bnc-108",
+    "no": 108,
+    "text": "“Clear Gin” là loại rượu Gin nào?",
+    "options": [
+     "Rượu trong suốt, không màu, là loại phổ biến nhất",
+     "Rượu có màu vàng nhạt, là loại phổ biến nhất",
+     "Rượu có màu vàng đậm, phổ biến .",
+     "Rượu trong suốt, không màu, không phổ biến."
+    ],
+    "answer": 0
+   },
+   {
+    "id": "fb-am-thuc-bnc-109",
+    "no": 109,
+    "text": "“Dry Gin” là ký hiệu chỉ loại Gin nào ?",
+    "options": [
+     "Loại rượu Gin ngọt, nhiều đường khi sản xuất",
+     "Loại rượu Gin ngọt vừa.",
+     "Loại rượu Gin ít ngọt, ít đường khi sản xuất",
+     "Loại rượu Gin được ủ lâu năm sau khi sản xuất."
+    ],
+    "answer": 2
+   },
+   {
+    "id": "fb-am-thuc-bnc-110",
+    "no": 110,
+    "text": "“Golden Gin” là loại rượu Gin nào?",
+    "options": [
+     "Rượu có màu vàng đậm do được ủ trong thùng gỗ",
+     "Rượu có màu vàng nhạt do không được ủ trong thùng gỗ",
+     "Rượu có màu vàng nhạt do được ủ trong thùng gỗ",
+     "Rượu có màu vàng nhạt do được pha thêm màu."
+    ],
+    "answer": 2
+   },
+   {
+    "id": "fb-am-thuc-bnc-111",
+    "no": 111,
+    "text": "“Flavoured Gin” là loại rượu Gin nào?",
+    "options": [
+     "Rượu được sản xuất kếp hợp nhiều loại trái cây khác nhau tạo ra Gin với mùi vị phong phú.",
+     "Rượu được sản xuất kếp hợp nhiều loại thảo mộc khác nhau tạo ra Gin với mùi vị phong phú",
+     "Rượu được sản xuất kếp hợp trái cây hay các loại thảo mộc khác tạo ra Gin có màu nâu đậm",
+     "Rượu được sản xuất kếp hợp trái cây hay các loại thảo mộc khác tạo ra Gin với mùi vị phong phú"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "fb-am-thuc-bnc-112",
+    "no": 112,
+    "text": "Thông thường rượu Gin hay được pha trộn với loại nào ?",
+    "options": [
+     "7up",
+     "Tonic",
+     "Pepsi",
+     "Coke"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "fb-am-thuc-bnc-113",
+    "no": 113,
+    "text": "Rum được chưng cất từ nguyên liệu nào?",
+    "options": [
+     "Lúa mì, lúa mạch.",
+     "Các loại hoa quả.",
+     "Nước cốt mía hay sản phẩm của cây mía (siro mía, mật mía).",
+     "Các loại ngũ cốc phổ biến."
+    ],
+    "answer": 2
+   },
+   {
+    "id": "fb-am-thuc-bnc-114",
+    "no": 114,
+    "text": "Thành phần cồn trong rượu Rum khoảng bao nhiêu?",
+    "options": [
+     "20% - 30% VOL.",
+     "30% - 50% VOL.",
+     "50% - 70% VOL.",
+     "35% 70% VOL."
+    ],
+    "answer": 3
+   },
+   {
+    "id": "fb-am-thuc-bnc-115",
+    "no": 115,
+    "text": "Rum trắng (White/Light rum) là loại rượu nào?",
+    "options": [
+     "Không màu, mùi vị nhẹ, chưng cất bằng nồi, không ủ hoặc ủ rất ít.",
+     "Không màu, mùi vị nhẹ,  chưng cất bằng cột, không ủ hoặc ủ rất ít.",
+     "Màu vàng nhạt, mùi vị nhẹ, chưng cất bằng cột, không ủ .",
+     "Không màu, mùi vị nhẹ, chưng cất bằng cột, được ủ 5 năm trở lên."
+    ],
+    "answer": 1
+   },
+   {
+    "id": "fb-am-thuc-bnc-116",
+    "no": 116,
+    "text": "Rum vàng (Gold Rum) là loại rượu nào?",
+    "options": [
+     "Màu vàng hổ phách, chưng cất bằng nồi, được ủ ít nhất 01 năm trong thùng gỗ sồi.",
+     "Màu vàng nâu đậm, chưng cất bằng nồi, được ủ ít nhất 01 năm trong thùng gỗ sồi.",
+     "Màu vàng nhẹ, chưng cất bằng cột, được ủ ít nhất 01 năm trong thùng gỗ sồi.",
+     "Màu vàng đậm, chưng cất bằng nồi, không được ủ, được pha màu."
+    ],
+    "answer": 0
+   },
+   {
+    "id": "fb-am-thuc-bnc-117",
+    "no": 117,
+    "text": "Rum nâu (Dark Rum) là loại rượu nào?",
+    "options": [
+     "Màu nhạt, chưng cất bằng nồi, thường ủ vài năm nên mùi vị đậm đà.",
+     "Màu nâu sậm do có thêm màu caramel, chưng cất bằng cột.",
+     "Màu nâu sậm do có thêm màu caramel, chưng cất bằng nồi, thường ủ vài năm nên mùi vị đậm đà",
+     "Màu nâu sậm do có thêm màu caramel, chưng cất bằng nồi, không được ủ."
+    ],
+    "answer": 2
+   },
+   {
+    "id": "fb-am-thuc-bnc-118",
+    "no": 118,
+    "text": "Rum mùi (Aromatic Rum) là loại rượu nào?",
+    "options": [
+     "Màu vàng nhẹ, chưng cất bằng cột, được ủ ít nhất 01 năm trong thùng gỗ sồi.",
+     "Được pha thêm hương vị trái cây như chuối, xoài, cam, chanh vàng, dừa hay chanh xanh.",
+     "Không màu, mùi vị nhẹ, chưng cất bằng nồi, không ủ hoặc ủ rất ít.",
+     "Màu nâu sậm do có thêm màu caramel, chưng cất bằng nồi, không được ủ."
+    ],
+    "answer": 1
+   },
+   {
+    "id": "fb-am-thuc-bnc-119",
+    "no": 119,
+    "text": "Cách thưởng thức rượu Rum trắng nào đúng nhất?",
+    "options": [
+     "Dùng uống khai vị pha trộn với Cô-ca cô-la",
+     "Dùng uống tiêu vị pha trộn với nước lọc",
+     "Dùng uống tiêu vị pha trộn với Tonic",
+     "Dùng uống khai vị pha trộn với Syrup"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "fb-am-thuc-bnc-120",
+    "no": 120,
+    "text": "Tên cọcktail nổi tiếng nào sau đây được pha chế từ rượu Rum?",
+    "options": [
+     "Daiquiri",
+     "B52",
+     "Screwdriver",
+     "Black Russian"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "fb-am-thuc-bnc-121",
+    "no": 121,
+    "text": "Nguyên liệu chính để chế biến Tequila là các nguyên liệu nào?",
+    "options": [
+     "Quả cây thùa xanh (Blue Agave)",
+     "Lúa mạnh đen, lúa mỳ",
+     "Nước cốt mía hoặc các phế phẩm của đường",
+     "Các loại ngũ cốc nhỏ"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "fb-am-thuc-bnc-122",
+    "no": 122,
+    "text": "Tequila silver (blanco) là loại rượu có đặc điểm nào sau đây?",
+    "options": [
+     "Rượu có màu vàng nhạt, ủ hơn 2 tháng",
+     "Rượu có màu trắng, không ủ hoặc ủ rất ít (dưới 2 tháng)",
+     "Pha trộn Tequila trắng với Tequila vàng",
+     "Pha trộn Tequila trắng với nước khoáng"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "fb-am-thuc-bnc-123",
+    "no": 123,
+    "text": "Cách uống “Tequila shot” phổ biến nhất trên thế giới là gì?",
+    "options": [
+     "Dùng với muối & cam",
+     "Dùng với đường & chanh",
+     "Dùng với muối & chanh",
+     "Dùng với đường & quế"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "fb-am-thuc-bnc-124",
+    "no": 124,
+    "text": "Tên loại cocktail nổi tiếng nào sau đây được pha chế từ Tequila?",
+    "options": [
+     "Daiquiri",
+     "Screwdriver",
+     "Kamikaze",
+     "Margarita"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "fb-am-thuc-bnc-125",
+    "no": 125,
+    "text": "Vodka được chưng cất từ các nguyên liệu nào?",
+    "options": [
+     "Các loại bắp, lúa mạch, lúa mì,mía.",
+     "Các loại bắp, lúa mạch, lúa mì,khoai tây, hoa quả.",
+     "Các loại bắp, lúa mạch, lúa mì,mía hoặc củ cải đường",
+     "Các loại bắp.lúa mạch đen, lúa mì,khoai tây hoặc củ cải đường."
+    ],
+    "answer": 3
+   },
+   {
+    "id": "fb-am-thuc-bnc-126",
+    "no": 126,
+    "text": "Thành phần cồn trong rượu Vodka khoảng:",
+    "options": [
+     "20% - 30% VOL.",
+     "30% - 50% VOL.",
+     "50% - 70% VOL.",
+     "35% - 70% VOL."
+    ],
+    "answer": 3
+   },
+   {
+    "id": "fb-am-thuc-bnc-127",
+    "no": 127,
+    "text": "Vodka từ khoai tây thì có vị như Vodka lúa mạch.\nĐáp án nào sau đây phù hợp để điền vào chỗ trống?",
+    "options": [
+     "Nồng hơn và dịu",
+     "Hơi chát hơn và không dịu",
+     "Sốc hơn và không dịu",
+     "Ngọt hơn và dịu hơn"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "fb-am-thuc-bnc-128",
+    "no": 128,
+    "text": "Vodka là loại rượu truyền thống của các nước nào?",
+    "options": [
+     "Nga và Ba Lan",
+     "Mỹ và Đức",
+     "Pháp và Tây Ban Nha",
+     "Ý và Đức"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "fb-am-thuc-bnc-129",
+    "no": 129,
+    "text": "Vodka tinh khiết (Clear vodka) là loại rượu nào?",
+    "options": [
+     "Rượu màu trắng.Thường chưng cất bằng cột, nhưng cũng có loại chưng cất bằng nồi và được ủ trong thùng gỗ",
+     "Rượu màu trắng, lọc qua than hoạt tính để khử mùi vị. Thường chưng cất bằng cột, nhưng cũng có loại chưng cất bằng nồi và không ủ trong thùng gỗ",
+     "Rượu màu trắng, lọc qua than hoạt tính để khử mùi vị. Thường chưng cất bằng cột, nhưng cũng có loại chưng cất bằng nồi .Ủ ít nhất 3 năm",
+     "Rượu màu trắng, không được lọc qua than hoạt tính. Thường chưng cất bằng cột, nhưng cũng có loại chưng cất bằng nồi và được ủ trong thùng kim loại"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "fb-am-thuc-bnc-130",
+    "no": 130,
+    "text": "Chọn nhận định đúng nhất trong các câu sau đây?",
+    "options": [
+     "Vodka mùi (Flavored vodka) được thêm các mùi như cam, chanh, tiêu, ớt… ; có màu nâu sậm, không ủ trong thùng gỗ",
+     "Vodka mùi (Flavored vodka) được thêm các mùi như cam, chanh, tiêu, ớt… ; có thể có màu hoặc không có màu, không ủ trong thùng gỗ",
+     "Vodka mùi (Flavored vodka) được thêm các mùi như cam, chanh, tiêu, ớt… ; có thể có màu hoặc không có màu, được ủ trong thùng gỗ",
+     "Vodka mùi (Flavored vodka) được thêm các mùi như cam, chanh, tiêu, ớt… ; không có màu, được ủ trong thùng gỗ"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "fb-am-thuc-bnc-131",
+    "no": 131,
+    "text": "Whisky được chưng cất từ nguyên liệu nào?",
+    "options": [
+     "Nước cốt mía hoặc các phế phẩm của mía",
+     "Các loại hoa quả",
+     "Lúa đại mạch, lúa mạch đen, ngô và các loại hạt ngũ cốc nhỏ khác",
+     "Các loại cây thảo mộc phổ biến"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "fb-am-thuc-bnc-132",
+    "no": 132,
+    "text": "Jameson là loại whisky nào?",
+    "options": [
+     "Whisky Scotland (Scotch Whisky)",
+     "Whisky Mỹ (American Whisky)",
+     "Whisky Ireland (Irish Whisky)",
+     "Whisky Canada (Canadian Whisky)"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "fb-am-thuc-bnc-133",
+    "no": 133,
+    "text": "Johnnie Walker red label là loại whisky nào?",
+    "options": [
+     "Whisky Scotland (Scotch Whisky)",
+     "Whisky Mỹ (American Whisky)",
+     "Whisky Ireland (Irish Whisky)",
+     "Whisky Canada (Canadian Whisky)"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "fb-am-thuc-bnc-134",
+    "no": 134,
+    "text": "Chivas Regal là loại whisky nào?",
+    "options": [
+     "Whisky Scotland (Scotch Whisky)",
+     "Whisky Mỹ (American Whisky)",
+     "Whisky Ireland (Irish Whisky)",
+     "Whisky Canada (Canadian Whisky)"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "fb-am-thuc-bnc-135",
+    "no": 135,
+    "text": "Jim Beam là loại whisky nào?",
+    "options": [
+     "A.Tennessee whisky",
+     "Bourbon",
+     "Rye whisky",
+     "Single Malt Scotch whisky"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "fb-am-thuc-bnc-136",
+    "no": 136,
+    "text": "Khi khách vào gọi món whisky “On the rock”, chúng ta hiểu khách đang yêu cầu gì ?",
+    "options": [
+     "Uống với đá",
+     "Uống với lát chanh",
+     "Uống với chanh đá",
+     "Uống với Muối"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "fb-am-thuc-bnc-137",
+    "no": 137,
+    "text": "Thành phần chính của cocktail B52 là?",
+    "options": [
+     "Kahlua, Baileys, Cointreau",
+     "Táo, Kalua, Cointreau",
+     "Chanh, Kahlua, baileys",
+     "Cam, Cointreau, Kahlua"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "fb-am-thuc-bnc-138",
+    "no": 138,
+    "text": "Cointreau có mùi vị gì?",
+    "options": [
+     "Chanh",
+     "Táo",
+     "Cam",
+     "Bơ"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "fb-am-thuc-bnc-139",
+    "no": 139,
+    "text": "Cà phê có nguồn gốc từ đâu?",
+    "options": [
+     "Châu Âu",
+     "Châu Phi",
+     "Châu Á",
+     "Châu Mỹ"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "fb-am-thuc-bnc-140",
+    "no": 140,
+    "text": "Cognac là tên gọi của?",
+    "options": [
+     "Thức uống không cồn",
+     "Một loại cocktail",
+     "Một loại rượu mạnh",
+     "Tên của một loại bia"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "fb-am-thuc-bnc-142",
+    "no": 142,
+    "text": "BEO là gì?",
+    "options": [
+     "Banquet event orders, đơn đặt hàng sự kiện; có các nội dung chi tiết của từng bộ phận để tổ chức sự kiện cho khách hàng",
+     "Banquet equipment operation, danh sách vật tư sử dụng cho bộ phận lễ tiệc",
+     "Banquet event orders, phiếu yêu cầu gọi món đặc biệt dành cho bộ phận lễ tiệc, có giá bán áp dụng khác so với nhà hàng",
+     "Là tên 1 loại động vật"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "fb-am-thuc-bnc-143",
+    "no": 143,
+    "text": "Bộ phận nào phụ trách làm BEO?",
+    "options": [
+     "Ẩm thực/ F&B",
+     "Kinh doanh/ Sales",
+     "Bộ phận nào cũng được",
+     "Đặt phòng/Reservation"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "fb-am-thuc-bnc-144",
+    "no": 144,
+    "text": "Bạn hãy kể tên các kiểu set up phòng họp ?",
+    "options": [
+     "Boardroom, Theater, Cinema",
+     "Theater, U Shape, Home working",
+     "U Shape, Boardroom, Classroom",
+     "Buffet, Classroom, Cabaret"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "fb-am-thuc-bnc-145",
+    "no": 145,
+    "text": "Teabreak là gì?",
+    "options": [
+     "Thời điểm buổi họp kết thúc",
+     "Thời gian đầu buổi họp, khi khách bắt đầu dùng trà",
+     "Thời gian kết thúc buổi họp, khách VIP dùng trà thư giãn",
+     "Tiệc trà, cà phê giữa buổi họp để nghỉ giải lao"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "fb-am-thuc-bnc-146",
+    "no": 146,
+    "text": "IBM là gì?",
+    "options": [
+     "Bàn chữ nhật chuyên dành để set up cho các sự kiện hội họp",
+     "Bàn vuông dùng để quà tặng trong sự kiện",
+     "Bàn tròn tiêu chuẩn trong các buổi tiệc",
+     "Ghế tiêu chuẩn cho các sự kiện"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "fb-am-thuc-bnc-147",
+    "no": 147,
+    "text": "Khách mang thiết bị âm thanh vào tổ chức sự kiện và khi ra về chúng ta cần chú ý diều gì ?",
+    "options": [
+     "Nếu thiết bị AV được cung cấp bởi bên thứ ba, cần tiến hành giám sát trong quá trình đóng gói để đảm bảo không thiết bị nào của khách sạn vô tình bị gỡ bỏ.",
+     "Không cần quan tâm khách mang gì vào đó là việc của khách",
+     "Chúng ta cần tiến hành giám sát trong quá trình đóng gói.",
+     "Đáp án 1 và 2 là đúng"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "fb-am-thuc-bnc-148",
+    "no": 148,
+    "text": "Phòng sự kiện phải được hoàn thiện  trước bao lâu khi sự kiện bắt đầu theo yêu cầu của khách hàng và dựa theo BEO ?",
+    "options": [
+     "1 giờ",
+     "2 giờ",
+     "3 giờ",
+     "30 phút"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "fb-am-thuc-bnc-149",
+    "no": 149,
+    "text": "Podium là gì ?",
+    "options": [
+     "Sân khấu",
+     "Bục phát biểu",
+     "Bậc tam cấp",
+     "Sàn nhà"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "fb-am-thuc-bnc-150",
+    "no": 150,
+    "text": "Ly nước được đặt phía trên dao ăn chính bao nhiêu cm ?",
+    "options": [
+     "1,5 cm",
+     "3cm",
+     "1cm",
+     "2 cm"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "fb-am-thuc-bnc-151",
+    "no": 151,
+    "text": "Đối với quy trình thông thường đơn đặt hàng sự kiện phải được đưa ra cho các bộ phận liên quan trễ nhất bao lâu?",
+    "options": [
+     "48 giờ",
+     "1 tuần",
+     "72 giờ",
+     "Càng sát sự kiện càng tốt"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "fb-am-thuc-bnc-152",
+    "no": 152,
+    "text": "Cabaret là gì?",
+    "options": [
+     "1 loại hình giải trí, hài kịch truyền thống của người Châu Âu",
+     "Kiểu set up bàn ăn dùng bàn vuông hoặc chữ nhật cho 2 người, thường dùng cho các dịp kỉ niệm, lãng mạn",
+     "1 kiểu set up bàn ăn theo kiểu bàn dài trang trọng, hoa hay các đồ trang trí chạy dọc giữa bàn",
+     "1 kiểu set up họp dùng bàn tròn, các ghế được đặt hướng về sân khấu, bàn chủ tọa"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "fb-am-thuc-bnc-153",
+    "no": 153,
+    "text": "Khi dọn dẹp, sắp xếp lại phòng họp trong giờ giải lao phải đảm bảo những yếu tố nào?",
+    "options": [
+     "Bổ sung giấy cho bảng lật; Dọn dẹp bát đĩa dơ, rác trên bàn; Thêm nước uống, bút, giấy…; Thay ly nếu họp cả ngày",
+     "Dọn dẹp bát đĩa dơ, rác trên bàn; Thêm nước uống, bút, giấy…; Bổ sung đồ ăn trên quầy teabreak",
+     "Bổ sung giấy cho bảng lật; Thêm nước uống, bút, giấy…; Thay ly nếu họp cả ngày",
+     "Thêm nước uống, bút, giấy…; Thay ly nếu họp cả ngày"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "fb-am-thuc-bnc-154",
+    "no": 154,
+    "text": "Đối với những cuộc họp cả ngày với đầy đủ dịch vụ cả ăn trưa, nếu giờ nghỉ trưa trễ hơn so với dự kiến 30 mins, thông tin sẽ phải được thông báo cho ai?",
+    "options": [
+     "Quản lý nhà hàng nơi khách dùng bữa",
+     "Bếp trưởng, Quản lý nhà hàng(nơi khách dùng bữa), Bộ phận kinh doanh, Kĩ thuật viên Âm thanh ánh sáng.",
+     "Trưởng bộ phận ẩm thực, Bếp trưởng",
+     "Bộ phận ẩm thực, Bộ phận buồng phòng, Lễ tân"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "fb-am-thuc-bnc-155",
+    "no": 155,
+    "text": "Chuẩn bị đồ uống trước khi sự kiện bắt đầu chúng ta cần làm gì ?",
+    "options": [
+     "Nhập từ kho hoặc điều chuyển đồ uống theo chủng loại và số lượng theo yêu cầu trong BEO.",
+     "Điền vào phiếu xác nhận số lượng đồ uống ban đầu cho sự kiện và có đầy đủ 2 chữ ký của người chịu giám sát sự kiện và người quản lý quầy bar",
+     "Trường hợp nước uống do khách mang vào: cần có 2 chữ ký xác nhận gồm: Khách hàng hoặc đại diện khách hàng được ủy quyền, người giám sát sự kiện.",
+     "Cả 3 đáp án trên đều đúng"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "fb-am-thuc-bnc-156",
+    "no": 156,
+    "text": "Khi xong tiệc về mặt hàng nước chúng ta cần làm gì ?",
+    "options": [
+     "Chốt ngay số lượng đồ uống còn lại ngay sau khi tiệc kết thúc. Có bảng tổng kết số lượng đồ uống và có chữ ký người chịu trách nhiệm đồ uống cho tiệc và giám sát buổi tiệc",
+     "Giữ lại số lượng vừa đủ lưu kho còn lại trả về kho tổng hoặc trả lại đồ uống cho khách",
+     "Giữ lại số lượng vừa đủ lưu kho còn lại trả về kho tổng hoặc trả lại đồ uống cho khách phải có giấy xác nhận và có chữ ký 2.",
+     "Đáp án 1 và 3 là đúng"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "fb-am-thuc-bnc-157",
+    "no": 157,
+    "text": "Điều hòa được bật trước bao lâu trước khi khách đến ?",
+    "options": [
+     "50 phút",
+     "1 giờ",
+     "2 giờ",
+     "30 phút"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "fb-am-thuc-bnc-158",
+    "no": 158,
+    "text": "Tiêu chuẩn sắp xếp bộ dao dĩa thì ăn tiểu kiểu tự chọn món gồm những tiêu chí gì ?",
+    "options": [
+     "01 bộ dao dĩa và thìa ăn món chính cách mép bàn 02cm: dao bên phải, lưỡi quay vào trong, dĩa bên trái, thìa ăn chính đặt ngoài cùng cạnh dao ăn khai vị. Cách khăn ăn 02cm .",
+     "Đặt trên mặt bàn và trước mặt ghế ngồi .",
+     "01 bộ dao dĩa và thìa ăn món chính cách mép bàn 02cm: dao bên phải, lưỡi quay vào trong, dĩa bên trái, thìa ăn chính đặt ngoài cùng cạnh dao ăn khai vị. Cách khăn ăn 05cm .",
+     "Đáp án 1 và 3 đều đúng"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "fb-am-thuc-bnc-159",
+    "no": 159,
+    "text": "Đối với kiểu xắp xếp rạp hát chúng ta cần chú ý sắp xếp ghế như thế nào ?",
+    "options": [
+     "Các hàng ghế trên và dưới cách nhau tối thiểu là 0.5m, xếp ngay ngắn theo hàng lối",
+     "Các ghế trong 1 hàng cách nhau tối thiểu là 10 cm. Hàng ghế cuối cùng cách cửa ra vào ít nhất 2m",
+     "'Lối đi chính giữa các hàng ghế rộng tối\nthiểu là 1m.",
+     "Cả 3 đáp án trên"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "fb-am-thuc-bnc-160",
+    "no": 160,
+    "text": "Sân khấu được sắp xếp trong phòng với tiêu chuẩn như thế nào ?",
+    "options": [
+     "Sân khấu được kê chính giữa phòng, sát tường nhưng giữ khoảng cách tối thiểu 10cm, cân đối với hai bên, cách mép cửa hoặc tường hai bên tối thiểu là 1m.",
+     "Sân khấu được kê chính giữa phòng, sát tường nhưng giữ khoảng cách tối thiểu 10cm, cân đối với hai bên",
+     "Được đặt ở chính giữa phòng",
+     "Đặt ở đâu cũng được"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "fb-am-thuc-bnc-161",
+    "no": 161,
+    "text": "Khi sắp xếp kiểu phòng lớp học thì khoảng cách của lối đi giữa các dãy \nbàn dọc tối thiểu là bao nhiêu ?",
+    "options": [
+     "0.5m",
+     "1m",
+     "0.7m",
+     "1.5m"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "fb-am-thuc-bnc-162",
+    "no": 162,
+    "text": "Nêu các tiều chuẩn về khoảng cách set up ghế trong BQ?",
+    "options": [
+     "Theater: đặt ghế cách nhau tối thiểu 7-15 cm và 60 cm khoảng cách giữa các hàng.\nClassroom, Boardroom: tối thiếu 60 cm khoảng cách giữa mỗi ghế",
+     "Theater: đặt ghế cách nhau tối thiểu 20 cm và 90 cm khoảng cách giữa các hàng.\nClassroom, Boardroom: tối thiếu 1 mét khoảng cách giữa mỗi ghế",
+     "Theater: đặt càng sát nhau càng tốt để tiết kiệm diện tích.\nClassroom, Boardroom: đặt càng sát nhau càng tốt để tiết kiệm diện tích.",
+     "Theater: đặt ghế cách nhau 5 cm và 40 cm khoảng cách giữa các hàng.\nClassroom, Boardroom: tối thiếu 40 cm khoảng cách giữa mỗi ghế"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "fb-am-thuc-bnc-163",
+    "no": 163,
+    "text": "Trong quá trình diễn ra sự kiện, nếu khách có những yêu cầu thêm các trang thiết bị phát sinh, bộ phận Banquet sẽ xử lý như thế nào?",
+    "options": [
+     "Ngay lập tức thực hiện theo yêu cầu của khách hàng",
+     "Sẵn sàng cung cấp thêm dịch vụ và thông báo cho khách hàng 1 cách lịch sự, rõ ràng về chi phí phát sinh",
+     "Đưa ra lời khuyên cho khách không nên yêu cầu phát sinh vào phút chót mà không có sự chuẩn bị, sẽ ảnh hưởng đến chất lượng dịch vụ",
+     "Báo khách vui lòng làm việc với bộ phận kinh doanh, bộ phận lễ tiệc không làm việc trực tiếp với khách"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "fb-am-thuc-bnc-164",
+    "no": 164,
+    "text": "Tiệc nhẹ nghỉ giữa giờ, đồ ăn nóng và lạnh phải được đặt trước( hoặc sau) giờ tiệc bắt đầu bao lâu?",
+    "options": [
+     "15 phút đối với đồ ăn nóng, 20 phút đối với đồ lạnh",
+     "30 phút đối với đồ ăn nóng, 40 phút đối với đồ lạnh",
+     "15 phút đối với đồ ăn nóng, 45 phút đối với đồ lạnh",
+     "Càng sớm càng tốt"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "fb-am-thuc-bnc-165",
+    "no": 165,
+    "text": "Như thế nào thì được gọi là sự kiện phát sinh?",
+    "options": [
+     "Sự kiện được tổ chức không qua phòng Kinh doanh",
+     "Sự kiện tổ chức miễn phí cho khách hàng để chiêu đãi, tri ân đối tác",
+     "Sự kiện mà BEO, xác nhận chỉ được cung cấp trong vòng 72 tiếng",
+     "Sự kiện được tổ chức danh riêng cho chủ đầu tư, chi phí do chủ đầu tư chiu, được hạch toán riêng"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "fb-am-thuc-bnc-166",
+    "no": 166,
+    "text": "Sự kiện của khách có 80 người, khách yêu cầu họp(kiểu lớp học) xong sẽ dùng luôn bữa tối tại ball room, không có thời gian để nghỉ vì khách vội, phải giải quyết như thế nào?",
+    "options": [
+     "Khách họp kiểu lớp học nên chỉ cần bố trí thêm ghế, công cụ dụng cụ để sẵn lên khay để bày lên, chỉ mất khoảng 15 phút",
+     "Cố gắng mời khách xuống dùng bữa ở nhà hàng, chỉ tốn chưa đến 5 phút đi lại",
+     "Chuẩn bị sẵn bàn ăn với đầy đủ công cụ dụng cụ trên bàn, khi khách họp xong chỉ cần dọn hết bàn họp và chuyển bàn ăn vào, chỉnh lại ghế",
+     "Sắp đặt phòng họp và phòng ăn ở 2 vách khác nhau của Ballroom, sau khi khách họp xong thì mời khách qua sử dụng luôn"
+    ],
+    "answer": 3
+   }
+  ],
+  "group": "SBD PAT"
+ },
+ {
+  "id": "kien-thuc-sat-hach-nha-hang",
+  "name": "Kiến thức sát hạch Nhà hàng",
+  "questions": [
+   {
+    "id": "kien-thuc-sat-hach-nha-hang-1",
+    "no": 1,
+    "text": "Nếu bạn sơ ý làm vỡ một cái ly, hành động xử lí nào sau đây là đúng?",
+    "options": [
+     "Giữ im lặng để tránh quản lý biết.",
+     "Tự đền tiền, báo thu ngân post phí bể vỡ xem như là khách làm vỡ, xem như không có chuyện gì",
+     "Bỏ vào sọt rác",
+     "Báo giám sát làm biên bản báo cáo bể vỡ,  gom bỏ vào sọt đựng CCDC bể vỡ"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "kien-thuc-sat-hach-nha-hang-2",
+    "no": 2,
+    "text": "Nhiệt độ lưu mẫu thức ăn theo quy định là bao nhiêu?",
+    "options": [
+     "Nhiệt độ phòng(16-18oC)",
+     "Nhiệt độ bảo quản mẫu lưu từ -18 độ C đến 0 độ C",
+     "Nhiệt độ bảo quản mẫu lưu từ -10 độ C đến 0 độ C",
+     "Nhiệt độ bảo quản mẫu lưu từ 2 độ C đến 8 độ C"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "kien-thuc-sat-hach-nha-hang-3",
+    "no": 3,
+    "text": "Nhiệt độ lưu trữ thức ăn theo quy định là bao nhiêu?",
+    "options": [
+     "- Thực phẩm đông lạnh được giữ ở nhiệt độ ≤-8 độ C và không được cấp đông lại\n- Thực phẩm lạnh được giữ ở nhiệt độ ≤0 độ C\n- Thức ăn nóng được giữ ở nhiệt độ ≥63 độ C",
+     "- Thực phẩm đông lạnh được giữ ở nhiệt độ ≤-18 độ C và không được cấp đông lại\n- Thực phẩm lạnh được giữ ở nhiệt độ ≤4 độ C\n- Thức ăn nóng được giữ ở nhiệt độ ≥63 độ C",
+     "- Thực phẩm đông lạnh được giữ ở nhiệt độ ≤-18 độ  C và không được cấp đông lại\n- Thực phẩm lạnh được giữ ở nhiệt độ ≤0 độ  C\n- Thức ăn nóng được giữ ở nhiệt độ ≥80 độ C",
+     "- Thực phẩm đông lạnh được giữ ở nhiệt độ ≤-28 độ   C và không được cấp đông lại\n- Thực phẩm lạnh được giữ ở nhiệt độ ≤4 độ  C\n- Thức ăn nóng được giữ ở nhiệt độ ≥70 độ C"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "kien-thuc-sat-hach-nha-hang-4",
+    "no": 4,
+    "text": "Quy định lưu trữ hàng hóa trong kho?",
+    "options": [
+     "Tất cả thực phẩm được lưu trữ trên sàn và tường phải có đủ không gian giữa nguyên liệu và tường để thực hiện các hoạt động kiểm soát và kiểm soát dịch hại.",
+     "Tất cả thực phẩm được lưu trữ trên pallet đặt sát sàn và tường để thực hiện các hoạt động kiểm soát và kiểm soát dịch hại.",
+     "Tất cả thực phẩm được lưu trữ trên pallet cách xa sàn và tường để có đủ không gian giữa nguyên liệu và tường để thực hiện các hoạt động kiểm soát và kiểm soát dịch hại.",
+     "Tất cả thực phẩm được lưu trữ trên pallet cách xa sàn và đặt sát tường để thực hiện các hoạt động kiểm soát dịch hại."
+    ],
+    "answer": 2
+   },
+   {
+    "id": "kien-thuc-sat-hach-nha-hang-5",
+    "no": 5,
+    "text": "Khi khách để quên đồ anh chị xử lý như thế nào?",
+    "options": [
+     "Giữ luôn, coi như thuộc của mình",
+     "Nhân viên sau 10 phút không có khách nhận lại lập biên bản tài sản thất lạc, sau đó giao tài sản nhặt được cho trưởng bộ phận giữ, đến cuối ca làm việc không có khách nhận TBP, quản lý giao lại cho CSKH nội bộ giữ",
+     "Giữ nguyên vị trí vật dụng để quên, và quan sát từ xa",
+     "Coi như không biết."
+    ],
+    "answer": 1
+   },
+   {
+    "id": "kien-thuc-sat-hach-nha-hang-6",
+    "no": 6,
+    "text": "Anh chị hãy chọn phương án xử lý khách than phiền đúng nhất sau đây mà anh chị đã được học?",
+    "options": [
+     "Lắng nghe và báo cáo",
+     "Lắng nghe, đồng cảm, giải quyết, cảm ơn",
+     "Lắng nghe, phản hồi, kiểm tra và giải quyết",
+     "Giải quyết, phản hồi, kiểm tra và lắng nghe khách"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "kien-thuc-sat-hach-nha-hang-7",
+    "no": 7,
+    "text": "Bước đầu tiên trong quy trình phục vụ là gì?",
+    "options": [
+     "Lấy order",
+     "Phục vụ thức ăn",
+     "Phục vụ thức uống",
+     "Chào đón khách"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "kien-thuc-sat-hach-nha-hang-8",
+    "no": 8,
+    "text": "Ý kiến nào sau đây là sai trong nguyên tắc sắp xếp hàng hóa?",
+    "options": [
+     "Hàng hóa phải được phân loại và sắp xếp theo đúng chủng loại",
+     "Hàng hóa phải được kiểm đếm cho đúng số lượng như ban đầu xuất kho",
+     "Tuân thủ nguyên tắc phòng cháy chữa cháy khi sắp xếp kho (hành lang cứu hỏa và độ cao trần…)",
+     "Dồn tất cả vào chung 1 kho, càng nhiều càng tốt, sắp xếp sau"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "kien-thuc-sat-hach-nha-hang-9",
+    "no": 9,
+    "text": "Anh/chị đã để vượt thời gian qui định về thời hạn hoàn thành công việc được giao anh/chị sẽ làm gì và xử lý như thế nào tình huống này?",
+    "options": [
+     "Báo cáo cấp trên đã quên và chịu phạt",
+     "Báo cáo cấp trên đã chưa thể hoàn thành được công việc và cần sự cố vấn hướng dẫn thêm của cấp trên để hoàn thành công việc trễ thêm một thời gian",
+     "Xin lỗi cấp trên đã trễ hẹn và xin cố vấn và hướng dẫn thêm do tính chất công việc khó chưa thể hoàn thành đúng hạn",
+     "Báo cáo cho cấp trên nguyên nhân từ việc không hoàn thành thời hạn công việc được giao theo deadline. Xin ý kiến của sếp chỉ đạo & và chịu hoàn toàn trách nhiệm"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "kien-thuc-sat-hach-nha-hang-10",
+    "no": 10,
+    "text": "Khi khách đang uống trà khách xin thêm một xíu đường để pha thêm vào trà là nhân viên phục vụ em sẽ làm gì?",
+    "options": [
+     "Báo không có",
+     "Vui vẻ báo khách đợi trong giây lát sẽ phục vụ khách ngay",
+     "Báo cho quản lý",
+     "Yêu cầu tính thêm tiền mới phục vụ"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "kien-thuc-sat-hach-nha-hang-11",
+    "no": 11,
+    "text": "Nhân viên bị đau đột xuất và gọi điện báo nghỉ 3 ngày không thể đi làm, anh/chị sẽ giải quyết như thế nào?",
+    "options": [
+     "Không thể giải quyết và báo Giám Đốc giải quyết",
+     "Báo cho cấp trên trực tiếp giải quyết hộ, xin hỗ trợ vì thiếu nhân sự",
+     "Lắng nghe sự việc, đồng ý, yêu cầu nhân viên nộp giấy báo bệnh sau khi làm lại, báo cáo sự việc ngay lập tức cho quản lý trực tiếp và xin hỗ trợ nếu cần thiết",
+     "Yêu cầu nhân viên phải đến nhà hàng, nếu nhân viên thực sự bị ốm thì mới cho về nghỉ"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "kien-thuc-sat-hach-nha-hang-12",
+    "no": 12,
+    "text": "Khách gọi bạn lại để đưa cho bạn 1 cái ly bị mẻ và tỏ thái độ cực kỳ tức giận. Bạn sẽ xử lý như thế nào?",
+    "options": [
+     "Bạn tỏ vẻ nghi ngờ rằng khách đã làm hỏng ly và đổ lỗi cho nhà hàng để tránh bị đền bù cái ly. Bạn đôi co, tranh cải với khách giữa nhà hàng",
+     "Bạn lấy ngay ly mới thay cho khách và xem như chưa có chuyện gì xảy ra",
+     "Bạn xác định được độ nguy hiểm của việc này và lý do tức giận của khách. Ngay lập tức bạn thể hiện thái độ chân thành và xin lỗi mong khách thông cảm. Xin phép khách để thay ngay ly mới. Báo quản lý để follow up",
+     "Thấy thái độ của khách cực kỳ tức giận nên bạn gọi ngay quản lý đến để giải quyết vấn đề"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "kien-thuc-sat-hach-nha-hang-13",
+    "no": 13,
+    "text": "Khi nhà hàng anh chị đang phục vụ khách nhà hàng hết chỗ ngồi và không đủ nhân sự phục vụ khách. Anh chị thực hiện các bước nào sau đây?",
+    "options": [
+     "Xin người hỗ trợ để dọn bàn và phục vụ khách",
+     "Thông báo với khách việc tạm thời ngưng nhận khách và ngưng phục vụ khách",
+     "Không đón khách mới và ngưng bán hàng",
+     "Thông báo thu ngân và nhân viên tạm thời ngưng nhận khách, không bán thêm cho khách mới, giải quyết hết các tồn đọng, gọi thêm nhân viên hỗ trợ"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "kien-thuc-sat-hach-nha-hang-14",
+    "no": 14,
+    "text": "Khi nhân viên bạn mắc lỗi khi phục vụ và làm khách rất không hài lòng. Bạn sẽ xử lý nhân viên đó như thế nào trong lúc sự việc đang cần người xử lý?",
+    "options": [
+     "Bạn lắng nghe báo cáo từ nhân viên về sự việc. Lắng nghe lời phàn nàn từ khách. Bạn phân định được sự việc và tìm hướng giải quyết để đảm bảo khách hài lòng và nhân viên bạn được học hỏi, nhận ra cái sai",
+     "Bạn lắng nghe báo cáo của nhân viên. Lắng nghe lời phàn nàn của khách. Bạn ra sức bảo vệ nhân viên trước mặt khách rằng đó không phải lỗi của nhân viên mà là lỗi của khách. Bạn muốn làm hài lòng nhân viên cấp dưới vì bạn hoàn tin tưởng nhân viên đã được đào tạo rất tốt từ bạn",
+     "Bạn lắng nghe báo cáo của nhân viên. Lắng nghe phàn nàn từ khách. Bạn gọi nhân viên đến để quát mắng nhân viên trước mặt khách để làm dịu đi sự tức giận của khách. Yêu cầu nhân viên xin lỗi khách và hứa sẽ không tái phạm để làm ảnh hưởng đến uy tín của nhà hàng",
+     "Bạn lắng nghe báo cáo của nhân viên về sự việc. Bạn yêu cầu nhân viên tự giải quyết hoặc gọi ai đó giải quyết. Bạn đang bận việc khác quan trọng hơn"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "kien-thuc-sat-hach-nha-hang-15",
+    "no": 15,
+    "text": "Nhân viên anh/chị báo một mặt hàng tại điểm kinh doanh vừa bán hết, anh/chị xử lý như thế nào để đảm bảo hàng kinh doanh?",
+    "options": [
+     "Tìm nhà hàng khác để điều chuyển, nếu nhà hàng khác cũng hết, thì tiến hành làm lại thực đơn mới để khách không hỏi món này",
+     "Tìm hiểu xem có nhà hàng hoặc kho tổng có còn hàng không, nếu có thì điều chuyển về bán, nếu không có thì thông báo cho nhân viên biết mặt hàng đã hết để tất cả nhân viên nắm được và trả lời cho khách hàng biết để tránh than phiền xảy ra",
+     "Phản ảnh vấn đề lên cấp trên và kho không PR kịp thời hàng hóa cho nhà hàng, tìm hiểu xem có nhà hàng nào còn, nếu có thì điều chuyển về bán, nếu không có thì thông báo cho nhân viên biết mặt hàng đã hết trong ngày để trả lời cho khách hàng biết để tránh than phiền xảy ra",
+     "Phản ảnh vấn đề lên cấp trên và kho không PR kịp thời hàng hóa cho nhà hàng, tìm nhà hàng khác để điều chuyển, nếu nhà hàng khác cũng hết, thì tiến hành làm lại thực đơn mới để khách không hỏi món này"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "kien-thuc-sat-hach-nha-hang-16",
+    "no": 16,
+    "text": "Theo anh/chị dựa vào tiêu chí nào sau đây để đánh giá năng lực của một nhân viên?",
+    "options": [
+     "Sự trung thành, niềm đam mê công việc, sự nhanh nhẹn hoạt bát, không mắc lỗi trong quá trình phục vụ",
+     "Nhanh nhẹn, hoạt bát, đoàn kết, năng động trong quá trình phục vụ, kỹ lưỡng trong chăm sóc khách và hoàn thiện các kỹ năng mềm và nắm vững quy trình phục vụ, ít khi mắc các lỗi cơ bản",
+     "Tinh thần đoàn kết, trung thành và không mắc lỗi trong quá trình phục vụ, biết trên biết dưới",
+     "Phục vụ ân cần, chu đáo, có tính cầu tiến, có phát huy sáng tạo, trung thành"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "kien-thuc-sat-hach-nha-hang-17",
+    "no": 17,
+    "text": "Nhân viên anh/ chị đánh nhau với nhân viên bộ phận khác trong giờ làm việc anh/chị sẽ làm gì?",
+    "options": [
+     "Can ngăn không để tiếp tục đánh nhau và báo với nhân viên an ninh hỗ trợ, lập biên bản sự việc, họp kiểm điểm và xử lý theo qui định công ty",
+     "Thông báo với Phòng An ninh và Giám Đốc công ty về sự việc",
+     "Gọi hỗ trợ can ngăn và tìm hiểu sự việc, giải quyết giảng hòa để nhân viên quay lại vị trí làm việc",
+     "Gọi hỗ trợ từ nhân viên an ninh, can ngăn ngay, lập biên bản ghi nhận sự việc, báo cáo lên quản lý trực tiếp về sự việc và cách giải quyết, hậu quả sự việc"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "kien-thuc-sat-hach-nha-hang-18",
+    "no": 18,
+    "text": "Ý kiến nào sau đây là không đúng khi sắp xếp và kiểm soát hàng hóa?",
+    "options": [
+     "Hàng hóa phải được phân loại và sắp xếp theo đúng chủng loại",
+     "Hàng hóa phải được kiểm đếm cho đúng số lượng nhập, xuất, đảm bảo chứng từ đầy đủ",
+     "Tuân thủ nguyên tắc phòng cháy chữa cháy khi sắp xếp kho (hành lang cứu hỏa và độ cao trần…)",
+     "Mặt hàng nặng chất lên cao phía trên, hàng nhẹ để ở phía dưới cho dễ lấy.\nHàng nào bán chạy thì để ra phía bên ngoài, ít bán thì để vào phía trong"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "kien-thuc-sat-hach-nha-hang-19",
+    "no": 19,
+    "text": "Khách than phiền có vật lạ trong ly thức uống của khách anh/ chị sẽ làm gì?",
+    "options": [
+     "Xin lỗi khách vì trường hợp ngoài ý muốn này, xin phép khách mang ly thức uống có vật lạ vào trong. Hỏi ý khách có muốn làm ly mới hay thay đổi món uống khác. Không tính tiền ly đồ uống đó. Yêu cầu nhân viên pha chế giải trình và xử lý khiển trách theo quy định",
+     "Ra tận bàn khách và xin lỗi khách vì trường hợp ngoài ý muốn này, xin phép khách mang ly thức uống có vật lạ vào trong. Hỏi ý khách có muốn làm ly mới hay thay đổi món uống khác. Không tính tiền ly đồ uống đó.",
+     "Ra tận bàn khách và xin lỗi khách vì trường hợp ngoài ý muốn này, xin phép khách mang ly thức uống có vật lạ vào trong. Hỏi ý khách có muốn làm ly mới hay thay đổi món uống khác. Làm mới ly đồ uống khác theo yêu cầu của khách. Không tính tiền ly đồ uống hỏng đó (có thể giảm giá hoặc không tính tiền ly đồ uống mới tùy theo chính sách của công ty) . Yêu cầu nhân viên pha chế giải trình và xử lý khiển trách theo quy định",
+     "Ra tận bàn khách và xin lỗi khách vì trường hợp ngoài ý muốn này, xin phép khách mang ly thức uống có vật lạ vào trong. Hỏi ý khách có muốn làm ly mới hay thay đổi món uống khác. Làm mới ly đồ uống khác theo yêu cầu của khách. Yêu cầu nhân viên pha chế giải trình và xử lý khiển trách theo quy định"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "kien-thuc-sat-hach-nha-hang-20",
+    "no": 20,
+    "text": "Anh chị xử lý như thế nào khi trong đĩa thức ăn của khách có tóc?",
+    "options": [
+     "Xin lỗi khách và yêu cầu nhân viên mang đĩa thức ăn vào cho bếp để đổi đĩa thức ăn khác cho khách và kiểm tra khách đã hài lòng hay chưa",
+     "Xin lỗi khách vì sự việc trên, kiểm tra xem khách muốn đổi món khác hay vẫn dùng món như cũ dù là lỗi khách quan hay do quá trình chế biến phục vụ, \nBáo với bếp sự việc trên và mang đĩa đó vào cho bếp kiểm tra.  Yêu cầu bếp làm món mới để mang ra cho khách. Quan tâm chăm sóc đặc biệt và theo dõi sự hài lòng của khách hàng",
+     "Tìm hiểu nguyên nhân với khách là cọng tóc do đâu mà có, xác định tóc của khách hay của nhân viên trong quá trình phục vụ rơi vào. Sau khi tìm rõ nguyên nhân nếu là nhân viên làm thì yêu cầu nhân viên mang đĩa thức ăn vào và làm lại món mới cho khách, xin lỗi khách và chúc khách ngon miệng",
+     "Gặp khách xin lỗi và tìm cách nói chuyện để khách thông cảm cho sự việc trên, hứa khắc phục sự việc và nói khách thông cảm, để khách dễ chịu thì tiếp tục dùng lại món trên và vớt bỏ cọng tóc ra"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "kien-thuc-sat-hach-nha-hang-21",
+    "no": 21,
+    "text": "Thời gian lưu mẫu thức ăn theo quy định là bao nhiêu lâu?",
+    "options": [
+     "Ít nhất là 24 giờ kể từ khi lấy mẫu.",
+     "Ít nhất là 12 giờ kể từ khi lấy mẫu.",
+     "Ít nhất là 48 giờ kể từ khi lấy mẫu.",
+     "Tối đa là 24 giờ kể từ khi lấy mẫu."
+    ],
+    "answer": 0
+   },
+   {
+    "id": "kien-thuc-sat-hach-nha-hang-22",
+    "no": 22,
+    "text": "Trong trường hợp khách cần sự giúp đỡ của nhân viên y tế, anh/chị sẽ làm gì?",
+    "options": [
+     "Chỉ đường cho khách đến phòng Y tế. Xem như chưa biết gì",
+     "Gọi nhân viên An Ninh đến dẫn khách đi",
+     "Bàn giao lại cho nhân viên gần nhất, anh/chị đang bận xử lý công việc dang dở",
+     "Hỏi thăm tình hình như thế nào và thể hiện sự thông cảm, sau đó tùy tình trạng của khách để xử lý gọi điện cho nhân viên y tế đến, hoặc dẫn khách đến phòng y tế gần nhất hay gọi người hỗ trợ"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "kien-thuc-sat-hach-nha-hang-23",
+    "no": 23,
+    "text": "Trường hợp khách hàng bị mất tài sản trong Công ty và gặp anh chị để giải quyết, anh chị sẽ làm gì?",
+    "options": [
+     "Lấy thông tin, cho khách điền thông tin vào phiếu kê khai tài sản bị mất, liên hệ với các bộ phận để xác minh, nếu chưa tìm được tài sản thì ghi nhận lại và báo khách thời gian phản hồi để trả lời kết quả sau đó",
+     "Phụ khách đi tìm ở các khu vực khách đã đi qua",
+     "Hướng dẫn khách tìm đến phòng CSKH nội bộ để ghi nhận thông tin",
+     "Tỏ ra thông cảm và liên hệ các bộ phận để xác minh và phản hồi cho khách tình hình"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "kien-thuc-sat-hach-nha-hang-24",
+    "no": 24,
+    "text": "Yêu cầu đối với hộp lưu mẫu thức ăn là gì?",
+    "options": [
+     "Dụng cụ lưu mẫu phải có nắp đậy kín, chứa được ít nhất 100g đối với thức ăn khô, đặc hoặc 150ml đối với thức ăn lỏng.",
+     "Dụng cụ lưu mẫu phải để hở, chứa được ít nhất 100g đối với thức ăn khô, đặc hoặc 150ml đối với thức ăn lỏng.",
+     "Dụng cụ lưu mẫu phải có nắp đậy kín, chứa được ít nhất 200g đối với thức\năn khô, đặc hoặc 250ml đối với thức ăn lỏng.",
+     "Dụng cụ lưu mẫu phải để hở nhìn thấy được, chứa được ít nhất 150g đối với thức ăn khô, đặc hoặc 150ml đối với thức ăn lỏng."
+    ],
+    "answer": 0
+   },
+   {
+    "id": "kien-thuc-sat-hach-nha-hang-25",
+    "no": 25,
+    "text": "Theo tiêu chuẩn của chương trình HACCP Quốc tế,  dựa trên mục đích sử dụng thì dao, thớt có màu Nâu được dùng cho thực phẩm nào?",
+    "options": [
+     "Chỉ được phép sử dụng cho thực phẩm ăn liền (đã được nấu)",
+     "Chỉ được phép sử dụng cho thịt gia cầm.",
+     "Chỉ được phép sử dụng cho hải sản.",
+     "Chỉ được phép sử dụng cho thịt sống (không dùng cho thịt gia cầm)"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "kien-thuc-sat-hach-nha-hang-26",
+    "no": 26,
+    "text": "Thứ tự khi rửa công cụ dụng cụ bằng tay là gì?",
+    "options": [
+     "Đồ thủy tinh, dao dĩa, đồ sành sứ, các dụng cụ đựng và các dụng cụ nhỏ",
+     "Đồ thủy tinh, đồ sành sứ, dao dĩa, các dụng cụ đựng và các dụng cụ nhỏ",
+     "Các dụng cụ đựng, các dụng cụ nhỏ,  dao dĩa, đồ thủy tinh và đồ sành sứ",
+     "Dao dĩa, các dụng cụ đựng, các dụng cụ nhỏ, đồ sành sứ và đồ thủy tinh."
+    ],
+    "answer": 0
+   },
+   {
+    "id": "kien-thuc-sat-hach-nha-hang-27",
+    "no": 27,
+    "text": "Khi quầy hàng không bán hoặc hết mặt hàng theo yêu cầu của khách thì anh/ chị sẽ làm gì?",
+    "options": [
+     "Thức ăn được chuẩn bị trong khay bạc và phục vụ khách từ phía bên phải",
+     "Tư vấn cho khách dùng mặt hàng khác có đặc tính tương tự hoặc tư vấn cho khách không nên mua mặt hàng đó nữa.",
+     "Tươi cười vui vẻ báo với khách sang quầy khác mua.",
+     "Cần giới thiệu, chỉ dẫn khách đến các điểm bán hàng khác của BNH (nếu có) hoặc tư vấn khách dùng mặt hàng có đặc tính tương tự để thay thế"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "kien-thuc-sat-hach-nha-hang-28",
+    "no": 28,
+    "text": "Nhân viên bán hàng cần làm gì khi kết thúc ca làm việc?",
+    "options": [
+     "Ghi chép số lượng hàng nhập, xuất, tồn trong ca vào sổ theo dõi hàng hóa. Đối chiếu số lượng hàng xuất trong ca với số lượng tiền thu được. Khóa quầy kệ. Che phủ bàn ghế, quầy, tủ đựng hàng hóa. Rút các thiết bị điện. Bàn giao chìa khóa tủ, kệ cho giám sát. Chấm công và ra về.",
+     "Ghi chép số lượng hàng nhập, xuất, tồn trong ca vào sổ theo dõi hàng hóa. Rút các thiết bị điện. Bàn giao chìa khóa tủ, kệ cho giám sát. Chấm công và ra về.",
+     "Đối chiếu số lượng hàng xuất trong ca với số lượng tiền thu được. Khóa quầy kệ. Che phủ bàn ghế, quầy, tủ đựng hàng hóa. Rút các thiết bị điện. Bàn giao chìa khóa tủ, kệ cho giám sát.",
+     "Ghi chép số lượng hàng nhập, xuất, tồn trong ca vào sổ theo dõi hàng hóa. Đối chiếu số lượng hàng xuất trong ca với số lượng tiền thu được. Khóa quầy kệ. Che phủ bàn ghế, quầy, tủ đựng hàng hóa. Rút các thiết bị điện."
+    ],
+    "answer": 0
+   },
+   {
+    "id": "kien-thuc-sat-hach-nha-hang-29",
+    "no": 29,
+    "text": "Trường hợp vé ăn buffet của khách in đúng ngày nhưng sai ngày sử dụng dịch vụ thì anh/ chị xử lí như thế nào?",
+    "options": [
+     "Báo khách mua lại vé mới",
+     "Liên hệ ngay nhân viên thu ngân để được kiểm tra và xử lý cho khách. Trường hợp khách chờ đợi lâu và phàn nàn thì phải cáo ngay lên cấp trên để xin ý kiến chỉ đạo.",
+     "Vẫn cho khách qua cổng bình thường",
+     "Báo khách qua quầy thu ngân đổi lại vé"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "kien-thuc-sat-hach-nha-hang-30",
+    "no": 30,
+    "text": "Còn ba ngày nữa là có đợt kiểm tra vệ sinh an toàn thực phẩm và phòng chống cháy nổ, với vai trò là quản lý. Anh/ chị hãy nêu các công việc anh/chị sẽ thực hiện và biện pháp thực hiện để đảm bảo cơ quan chức năng đánh giá cao công tác thực hiện của anh/chị?",
+    "options": [
+     "Kiểm tra nhãn mác hàng hóa, kiểm tra hàng tồn kho, hạn sử dụng, tem nhập khẩu đối với rượu,  kiểm tra xuất xứ hàng hóa có đủ đảm bảo, kiểm tra vệ sinh và sắp xếp trong kho, tổng vệ sinh toàn bộ trong khu vực kinh doanh và khu vực xung quanh, kiểm tra vệ sinh cá nhân nhân viên và yêu cầu thời gian hoàn thành các công việc giao cho nhân viên và ra thời hạn hoàn thành công việc rõ ràng để kiểm tra lần cuối",
+     "Kiểm tra nhãn mác hàng hóa, kiểm tra hàng tồn kho, hạn sử dụng, tem nhập khẩu đối với rượu,  kiểm tra xuất xứ hàng hóa có đủ đảm bảo, dán tem ngày sử dụng khi lưu kho và yêu cầu cover tất cả hàng đã khui hoặc chế biến để trong tủ mát, tủ đông, kiểm tra vệ sinh và sắp xếp trong kho, tổng vệ sinh toàn bộ trong khu vực kinh doanh và khu vực xung quanh, kiểm tra vệ sinh cá nhân nhân viên, kiểm tra các lối thoát hiểm và hệ thống PCCC trong phạm vi nhà hàng",
+     "Chia các công việc riêng ra cho từng nhân viên để hoàn thành, giao việc kiểm tra cho từng nhân viên và giám sát để đảm bảo tối ưu hóa công việc và tin tưởng nhân viên để nhân viên làm việc hết mình vì đợt kiểm tra này",
+     "Kiểm tra nhãn mác hàng hóa, kiểm tra hàng tồn kho, hạn sử dụng, tem nhập khẩu đối với rượu,  kiểm tra xuất xứ hàng hóa có đủ đảm bảo, kiểm tra vệ sinh và sắp xếp trong kho, tổng vệ sinh toàn bộ trong khu vực kinh doanh và khu vực xung quanh, giao việc cho nhân viên và ra thời hạn hoàn thành công việc rõ ràng để kiểm tra lần cuối"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "kien-thuc-sat-hach-nha-hang-31",
+    "no": 31,
+    "text": "Một nhóm khách dùng bữa tại nhà hàng của bạn. Sau bữa ăn, môt số khách có dấu hiệu đau bụng dữ dội nghi vấn là bị ngộ độc thức ăn gây hoang mang cho những vị khách khác còn lại. Trong trường hợp này bạn sẽ xử lý như thế nào?",
+    "options": [
+     "Trước tiên phải đưa ngay nhóm khách này đến phòng y tế để xác định nguyên nhân. Lưu lại mẫu thức ăn mà các khách này sử dụng để kiểm tra. Đồng thời trấn an các khách khác trong nhà hàng. Tuyệt đối không nhận lỗi khi chưa có kết quả kiểm định chính xác của cơ quan y tế về thực phẩm khách đã dùng. Xin ý kiến cấp trên chuyển khách đến bệnh viện nếu thấy tình trạng khách không tốt qua báo cáo của nhân viên y tế. Quan tâm đến tình trạng sức khỏe của khách để tìm hướng giải quyết phù hợp",
+     "Nhanh chóng xin lỗi khách, tỏ thái độ chân thành mng khách thông cảm. Đồng thời gọi ngay nhân viên y tế đưa khách đến bệnh viện vì tình trạng rất cấp bách. Báo bếp kiểm tra lại thực phẩm mà khách đã sử dụng và kiểm tra. Tiến hành thương lượng với khách để không lan truyền sự việc ra ngoài",
+     "Gọi ngay nhân viên y tế và trấn an khách rằng nhà hàng luôn đảm bảo chất lượng vệ sinh an toàn thực phẩm của bộ y tế. Gượng hỏi khách đã ăn những món gì trước khi sử dụng dịch vụ tại nhà hàng và hướng khách rằng các món ăn tại những địa điểm đó có vấn đề. Trấn an những khách khác trong nhà hàng. Báo cáo sự việc cho quản lý giải quyết",
+     "Báo cáo ngay quản lý để giải quyết. Bạn không có thẩm quyền xử lý việc này"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "kien-thuc-sat-hach-nha-hang-32",
+    "no": 32,
+    "text": "Trường hợp Khách đã qua cổng soát vé tại một nhà hàng buffet nhưng vì lý do nào đó muốn ra ngoài rồi quay lại anh/ chị sẽ xử lý như thế nào?",
+    "options": [
+     "Nhân viên soát vé báo với lễ tân cho khách ra và vào tự do vì khách đó đã được soát vé.",
+     "Nhân viên soát vé phải ghi lại thông tin như: tên khách, thời gian khách ra, đặc điểm nhận dạng, vào sổ thông tin và cho khách kí xác nhận ra cổng. Khi khách vào lại nhân viên soát vé sẽ kiểm tra/ đối chiếu thông tin, nếu đúng thì xử lý cho khách qua lối phụ, ghi lại thông tin thời gian khách vào lại cổng soát vé và cho khách kí xác nhận vào lại cổng theo biểu mẫu.",
+     "Bảo khách là đã soát vé vào rồi thì không ra cho đến khi đã sử dụng xong dịch vụ. Nếu khách vẫn muốn ra và muốn vào lại thì phải mua vé mới, vì đó là quy định của nhà hàng.",
+     "Báo cáo với giám sát, quản lí giải quyết vì đó không thuộc thẩm quyền của anh/ chị"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "kien-thuc-sat-hach-nha-hang-33",
+    "no": 33,
+    "text": "Anh/ chị cần làm gì để vệ sinh phòng Vip sau khi khách đã dùng xong?",
+    "options": [
+     "Sau khi mọi bàn ăn đã được dọn sạch, các khăn trải bàn đã được mang đi, hãy thu lại các thiết bị vệ sinh và nguyên vật liệu.",
+     "Kéo rèm và thông gió (nếu có thể được).\nDùng khăn lau bụi để lau bàn, ghế\nDọn vệ sinh sàn/nền nhà hàng",
+     "Kéo rèm và thông gió (nếu có thể được).\nDùng khăn lau bụi để lau bàn, ghế\nDọn vệ sinh sàn/nền nhà hàng\nKiểm tra thêm lần cuối để đảm bảo đã thực hiện đúng yêu cầu về vệ sinh của nhà hàng.",
+     "Sau khi mọi bàn ăn đã được dọn sạch, các khăn trải bàn đã được mang đi, hãy thu lại các thiết bị vệ sinh và nguyên vật liệu.\nKéo rèm và thông gió (nếu có thể được).\nTìm tài sản bị mất và những hỏng hóc cần sửa chữa duy trì.\nDùng khăn lau bụi để lau bàn, ghế\nDọn vệ sinh sàn/nền nhà hàng\nKiểm tra thêm lần cuối để đảm bảo đã thực hiện đúng yêu cầu về vệ sinh của nhà hàng."
+    ],
+    "answer": 3
+   },
+   {
+    "id": "kien-thuc-sat-hach-nha-hang-34",
+    "no": 34,
+    "text": "Yêu cầu của nghề phục vụ nhà hàng là gì?",
+    "options": [
+     "Có kiến thức về sự phục vụ vững vàng, tiếp đón mọi người với tinh thần thân thiện, hiếu khách, Luôn mỉm cười vui vẻ, Tự hào nghề nghiệp, Tinh thần hăng say.",
+     "Tiếp đón mọi người với tinh thần thân thiện, hiếu khách, Luôn mỉm cười vui vẻ, Phục vụ nhiều hơn sự mong đợi của khách, Tự hào nghề nghiệp, Tinh thần hăng say, Lịch sự và khéo léo.",
+     "Có kiến thức về sự phục vụ vững vàng, Tiếp đón mọi người với tinh thần thân thiện, hiếu khách, Luôn mỉm cười vui vẻ, Tỏ ra thân thiện và ân cần, Phục vụ nhiều hơn sự mong đợi của khách, Tự hào nghề nghiệp, Tinh thần hăng say, Lịch sự và khéo léo.",
+     "Có kiến thức về sự phục vụ vững vàng, Tiếp đón mọi người với tinh thần thân thiện, hiếu khách, Luôn mỉm cười vui vẻ, Tỏ ra thân thiện và ân cần, Tự hào nghề nghiệp, Tinh thần hăng say, Lịch sự và khéo léo."
+    ],
+    "answer": 2
+   },
+   {
+    "id": "kien-thuc-sat-hach-nha-hang-35",
+    "no": 35,
+    "text": "Anh/ chị hiểu như thế nào là tiếp cận khách hàng?",
+    "options": [
+     "Tư thế đứng thẳng và luôn ở tư thế sẵn sàng chào đón khách. Luôn để ý hướng đi của khách để kịp thời chào mời khách. Tươi cười và chủ động để chào đón khách",
+     "Quan sát để nhận biết khách chuẩn bị vào nhà hàng từ 10 bước chân.  Luôn để ý hướng đi của khách để kịp thời chào mời khách. Tươi cười và chủ động để chào đón khách",
+     "Quan sát để nhận biết khách chuẩn bị vào nhà hàng từ 10 bước chân. Tư thế đứng thẳng và luôn ở tư thế sẵn sàng chào đón khách. Luôn để ý hướng đi của khách để kịp thời chào mời khách. Tươi cười và chủ động để chào đón khách",
+     "Quan sát để nhận biết khách chuẩn bị vào nhà hàng từ 10 bước chân. Tư thế đứng thẳng và luôn ở tư thế sẵn sàng chào đón khách. Luôn để ý hướng đi của khách để kịp thời chào mời khách."
+    ],
+    "answer": 2
+   },
+   {
+    "id": "kien-thuc-sat-hach-nha-hang-36",
+    "no": 36,
+    "text": "Phong cách phục vụ thức ăn theo kiểu Russian service là gì?",
+    "options": [
+     "Thức ăn được chuẩn bị trong khay bạc và phục vụ khách từ phía bên trái",
+     "Thức ăn chưa chế biến được chuẩn bị trên xe trolley và đẩy đi. Nhân viên sẽ biểu diễn chế biến và phục vụ khách ngày tại bàn.",
+     "Thức ăn được chuẩn bị trong khay bạc và khách tự chọn món theo hương bên trái khách.",
+     "Thức ăn được đặt trên bàn xoay đặt ngày trên bàn, khách sẽ xoay bàn để chọn món muốn dùng."
+    ],
+    "answer": 0
+   },
+   {
+    "id": "kien-thuc-sat-hach-nha-hang-37",
+    "no": 37,
+    "text": "Sinh tố pha chế từ phương pháp nào?",
+    "options": [
+     "Xay các nguyên vật liệu bằng máy",
+     "Khuấy đều",
+     "Dầm",
+     "Tạo tầng"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "kien-thuc-sat-hach-nha-hang-38",
+    "no": 38,
+    "text": "Cappuccino và Latte khác nhau ở điểm gì?",
+    "options": [
+     "Lượng cà phê",
+     "Lượng sữa tươi",
+     "Lớp bọt sữa",
+     "Loại tách sử dụng"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "kien-thuc-sat-hach-nha-hang-39",
+    "no": 39,
+    "text": "Nước chanh đá dùng phương pháp pha chế nào",
+    "options": [
+     "Xay các nguyên vật liệu bằng máy",
+     "Khuấy đều",
+     "Dầm",
+     "Tạo tầng"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "kien-thuc-sat-hach-nha-hang-40",
+    "no": 40,
+    "text": "Dụng cụ dùng để pha chế ép các loại nước trái cây?",
+    "options": [
+     "Máy xay sinh tố",
+     "Máy ép",
+     "Máy cà phê",
+     "Máy bào đá"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "kien-thuc-sat-hach-nha-hang-41",
+    "no": 41,
+    "text": "Ly tumbler là loại ly gì?",
+    "options": [
+     "Các loại tách sứ",
+     "Ly không có chân đế",
+     "Ly có chân đế cao",
+     "Ly có chân đế thấp"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "kien-thuc-sat-hach-nha-hang-42",
+    "no": 42,
+    "text": "Tequila sunrise là loại cocktail có thành phần rượu nền nào?",
+    "options": [
+     "Chivas Regal",
+     "Captain Morgan",
+     "Absolute",
+     "Jose Cuervo"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "kien-thuc-sat-hach-nha-hang-43",
+    "no": 43,
+    "text": "Barista là gì?",
+    "options": [
+     "Là người pha chế cà phê và các loại nước khác có liên quan đến cà phê,mang tính nghệ thuật cao, mỗi ly cà phê luôn được trang trí, tạo hình bắt mắt",
+     "Là người pha chế tất cả các loại đồ uống liên quan đến rượu, cocktail, mang tính nghệ thuật cao, mỗi ly đồ uống luôn được trang trí, tạo hình bắt mắt",
+     "Là chuyên gia thử nếm và phục vụ rượu vang,là người có vai trò “chuẩn hóa” quy trình chọn lựa, phục vụ rượu và định hướng gu thưởng thức rượu vang cho khách hàng.",
+     "Là chuyên gia về trà và các loại đồ uống về trà"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "kien-thuc-sat-hach-nha-hang-44",
+    "no": 44,
+    "text": "Sommelier là gì?",
+    "options": [
+     "Là chuyên gia về trà và các loại đồ uống về trà",
+     "Là người pha chế cà phê và các loại nước khác có liên quan đến cà phê,mang tính nghệ thuật cao, mỗi ly cà phê luôn được trang trí, tạo hình bắt mắt",
+     "Là chuyên gia thử nếm và phục vụ rượu vang,là người có vai trò “chuẩn hóa” quy trình chọn lựa, phục vụ rượu và định hướng gu thưởng thức rượu vang cho khách hàng.",
+     "Là người pha chế tất cả các loại đồ uống liên quan đến rượu, cocktail"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "kien-thuc-sat-hach-nha-hang-45",
+    "no": 45,
+    "text": "Rượu khai vị có tác dụng chính nào sau đây?",
+    "options": [
+     "Tạo ra không khí vui vẻ cho khách trước khi dùng bữa.",
+     "Giúp khách lót dạ, tránh say xỉn khi uống các loại rượu khác.",
+     "Nhằm kích thích dạ dày tiết ra nhiều dịch vị tạo ra cảm giác ngon miệng khi bắt đầu dùng bữa.",
+     "uống trong thời gian chờ để chờ đợi khách đến đông đủ cùng vào bàn tiệc"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "kien-thuc-sat-hach-nha-hang-46",
+    "no": 46,
+    "text": "Café Coldbrew thông thường được ủ trong bao nhiêu lâu?",
+    "options": [
+     "Từ 8-12 tiếng",
+     "Từ 14-18 tiếng",
+     "Từ 5-7 tiếng",
+     "Từ 12-24 tiếng"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "kien-thuc-sat-hach-nha-hang-47",
+    "no": 47,
+    "text": "Calvados là loại rượu gì?",
+    "options": [
+     "Brandy nho",
+     "Cognac",
+     "Armagnac",
+     "Brandy táo"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "kien-thuc-sat-hach-nha-hang-48",
+    "no": 48,
+    "text": "Khi phục vụ đồ uống nóng bạn nên sử dụng loại ly/tách gì ?",
+    "options": [
+     "Ly poco",
+     "Ly rock",
+     "Ly Irish coffee",
+     "Ly highball"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "kien-thuc-sat-hach-nha-hang-49",
+    "no": 49,
+    "text": "Thực hiện báo cáo tồn cuối theo dõi các nguyên vật liệu (nvl) pha chế bạn cần làm gì?",
+    "options": [
+     "Nhập nguyên vật liệu, xuất tồn cuối",
+     "Xác nhận tồn đầu, nhập hoặc xuất nvl điều chuyển, nhập số lượng bán hàng, trừ nvl theo định lượng, xuất tồn cuối",
+     "Xác nhận tồn đầu, nhập số lượng bán hàng, trừ nvl theo định lượng, nhập hoặc xuất nvl điều chuyển,  xuất tồn cuối",
+     "Nhập số lượng bán hàng, trừ nvl theo định lượng, Xác nhận tồn đầu,  nhập hoặc xuất nvl điều chuyển,  xuất tồn cuối"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "kien-thuc-sat-hach-nha-hang-50",
+    "no": 50,
+    "text": "Đâu là loại rượu mùi thuộc dòng Citrus liqueur?",
+    "options": [
+     "Midori",
+     "Kahlua",
+     "Cointreau",
+     "Crème de Banana"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "kien-thuc-sat-hach-nha-hang-51",
+    "no": 51,
+    "text": "ABV là gì?",
+    "options": [
+     "Đơn vị đo thể tích của chất lỏng",
+     "Là từ viết tắt của cụm từ Alcohol by volume, là độ rượu. Được tính bằng số ml cồn trong 100ml chất lỏng ở nhiệt độ 20 độ C",
+     "Đơn vị đo nồng độ ethanol trong chất lỏng tính theo số ml cồn trong 1000ml chất lỏng ở nhiệt độ 15 độ C",
+     "Đơn vị tính thể tích nồng độ"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "kien-thuc-sat-hach-nha-hang-52",
+    "no": 52,
+    "text": "Trong pha chế có 5 vị cơ bản là: Mặn, Ngọt, Chua, Đắng. Vậy vị thứ 5 là gì?",
+    "options": [
+     "Nozomi",
+     "Umami",
+     "Kokomi",
+     "Umini"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "kien-thuc-sat-hach-nha-hang-53",
+    "no": 53,
+    "text": "Thứ tự phục vụ rượu vang nào sau đây KHÔNG đúng?",
+    "options": [
+     "Vang ngon uống trước vang thường.",
+     "Vang chua uống trước vang ngọt.",
+     "Vang trắng uống trước vang đỏ.",
+     "Champagne dùng ngay đầu bữa tiệc."
+    ],
+    "answer": 0
+   },
+   {
+    "id": "kien-thuc-sat-hach-nha-hang-54",
+    "no": 54,
+    "text": "Các chai rượu vang khi bảo quản phải được để nằm nghiêng nhằm mục đích gì?",
+    "options": [
+     "Để rượu luôn được tiếp xúc với nút chai, để giữ cho nút bần của chai rượu luôn ẩm ướt, tránh việc để lọt không khí vào bên trong",
+     "Để rượu luôn được tiếp xúc với nút chai, để giữ cho nút bần của chai rượu luôn ẩm ướt, Không bị mốc rượu",
+     "Để rượu vang không bị bay mùi trong khi bảo quản trong hầm",
+     "Để chai rượu được nằm im, không bị rung lắc"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "kien-thuc-sat-hach-nha-hang-55",
+    "no": 55,
+    "text": "Trong pha chế đồ uống, định lượng của 01 Oz được tính bằng bao nhiêu ml?",
+    "options": [
+     "Khoảng 19.57ml",
+     "Khoảng 39.57ml",
+     "Khoảng 50ml",
+     "Khoảng 29.57ml"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "kien-thuc-sat-hach-nha-hang-56",
+    "no": 56,
+    "text": "Vang sủi tăm thường được phục vụ trong ly nào sau đây?",
+    "options": [
+     "Red wine glass",
+     "White wine glass",
+     "Champagne flute",
+     "Hi-ball"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "kien-thuc-sat-hach-nha-hang-57",
+    "no": 57,
+    "text": "Sắp xếp theo thứ tự phân loại rượu vang Pháp từ thấp đến cao",
+    "options": [
+     "AOC or AOP, AOC Grand Crus, Vin de Table, Vins de pays",
+     "AOC Grand Crus, Vin de Table, Vins de pays, AOC or AOP",
+     "Vin de Table, Vins de pays, AOC or AOP, AOC Grand Crus",
+     "AOC Grand Crus, Vin de Table, Vins de pays, AOC or AOP"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "kien-thuc-sat-hach-nha-hang-58",
+    "no": 58,
+    "text": "Sắp xếp theo thứ tự phân loại rượu vang Ý từ thấp đến cao",
+    "options": [
+     "DOC, DOCG,Vino da Tavola, IGT",
+     "Vino da Tavola, IGT, DOC, DOCG",
+     "IGT, DOC, DOCG,Vino da Tavola",
+     "DOCG, Vino da Tavola, IGT, DOC"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "kien-thuc-sat-hach-nha-hang-59",
+    "no": 59,
+    "text": "Các giống nho làm vang trắng phổ biến ?",
+    "options": [
+     "Chardonay, Sauvignon Blanc, Viognier, Riesling",
+     "Chardonay, Cabernet Sauvignon, Viognier, Riesling",
+     "Chardonay, Cabernet Sauvignon, Malbec, Riesling",
+     "Pinot Noir,  Cabernet Sauvignon, Malbec, Riesling"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "kien-thuc-sat-hach-nha-hang-60",
+    "no": 60,
+    "text": "Vị đắng của nước Tonic là từ đâu?",
+    "options": [
+     "Từ chất Quinine được tách chiết từ vỏ cây Cinchona",
+     "Vị đắng Naringin được tách triết trong vỏ trái bưởi/cam",
+     "Vị đắng được tách chiết từ trái khổ qua với tỉ lệ nhất định",
+     "chất đắng Lactucopicrin được tách chiết từ Cải ô rô"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "kien-thuc-sat-hach-nha-hang-61",
+    "no": 61,
+    "text": "Kể tên 4 loại rượu Rhum phổ biến trên thế giới. Câu trả lời nào sau đây là đúng nhât.",
+    "options": [
+     "Light Rhum, Gold Rhum, Dark Rhum, Death Rhum",
+     "Light Rhum, Golden Rhum, Dark Rhum, Death Rhum",
+     "Light Rhum, Gold Rhum, Dark Rhum, Red Rhum",
+     "Light Rhum, Gold Rhum, Dark Rhum, Cherry Rhum"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "kien-thuc-sat-hach-nha-hang-62",
+    "no": 62,
+    "text": "Khi rót rượu Ricard vào nước, điều gì sẽ xảy ra",
+    "options": [
+     "Hỗn hợp chuyển thành màu sữa",
+     "Làm nhạt màu rượu ricard",
+     "hỗn hợp chuyển thành màu vàng",
+     "Hỗn hợp chuyển thành màu đỏ"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "kien-thuc-sat-hach-nha-hang-63",
+    "no": 63,
+    "text": "Vodka là loại rượu truyền thống của các nước nào?",
+    "options": [
+     "Nga và Ba Lan",
+     "Mỹ và Đức",
+     "Pháp và Tây Ban Nha",
+     "Ý và Đức"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "kien-thuc-sat-hach-nha-hang-64",
+    "no": 64,
+    "text": "Vodka tinh khiết (Clear vodka) là loại rượu nào?",
+    "options": [
+     "Rượu màu trắng.Thường chưng cất bằng cột, nhưng cũng có loại chưng cất bằng nồi và được ủ trong thùng gỗ",
+     "Rượu màu trắng, lọc qua than hoạt tính để khử mùi vị. Thường chưng cất bằng cột, nhưng cũng có loại chưng cất bằng nồi và không ủ trong thùng gỗ",
+     "Rượu màu trắng, lọc qua than hoạt tính để khử mùi vị. Thường chưng cất bằng cột, nhưng cũng có loại chưng cất bằng nồi .Ủ ít nhất 3 năm",
+     "Rượu màu trắng, không được lọc qua than hoạt tính. Thường chưng cất bằng cột, nhưng cũng có loại chưng cất bằng nồi và được ủ trong thùng kim loại"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "kien-thuc-sat-hach-nha-hang-65",
+    "no": 65,
+    "text": "Chọn nhận định đúng nhất trong các câu sau đây?",
+    "options": [
+     "Vodka mùi (Flavored vodka) được thêm các mùi như cam, chanh, tiêu, ớt… ; có màu nâu sậm, không ủ trong thùng gỗ",
+     "Vodka mùi (Flavored vodka) được thêm các mùi như cam, chanh, tiêu, ớt… ; có thể có màu hoặc không có màu, không ủ trong thùng gỗ",
+     "Vodka mùi (Flavored vodka) được thêm các mùi như cam, chanh, tiêu, ớt… ; có thể có màu hoặc không có màu, được ủ trong thùng gỗ",
+     "Vodka mùi (Flavored vodka) được thêm các mùi như cam, chanh, tiêu, ớt… ; không có màu, được ủ trong thùng gỗ"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "kien-thuc-sat-hach-nha-hang-66",
+    "no": 66,
+    "text": "Whisky được chưng cất từ nguyên liệu nào?",
+    "options": [
+     "Nước cốt mía hoặc các phế phẩm của mía",
+     "Các loại hoa quả",
+     "Lúa đại mạch, lúa mạch đen, ngô và các loại hạt ngũ cốc nhỏ khác",
+     "Các loại cây thảo mộc phổ biến"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "kien-thuc-sat-hach-nha-hang-67",
+    "no": 67,
+    "text": "Jameson là loại whisky nào?",
+    "options": [
+     "Whisky Scotland (Scotch Whisky)",
+     "Whisky Mỹ (American Whisky)",
+     "Whisky Ireland (Irish Whisky)",
+     "Whisky Canada (Canadian Whisky)"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "kien-thuc-sat-hach-nha-hang-68",
+    "no": 68,
+    "text": "Johnnie Walker red label là loại whisky nào?",
+    "options": [
+     "Whisky Scotland (Scotch Whisky)",
+     "Whisky Mỹ (American Whisky)",
+     "Whisky Ireland (Irish Whisky)",
+     "Whisky Canada (Canadian Whisky)"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "kien-thuc-sat-hach-nha-hang-69",
+    "no": 69,
+    "text": "Chivas Regal là loại whisky nào?",
+    "options": [
+     "Whisky Scotland (Scotch Whisky)",
+     "Whisky Mỹ (American Whisky)",
+     "Whisky Ireland (Irish Whisky)",
+     "Whisky Canada (Canadian Whisky)"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "kien-thuc-sat-hach-nha-hang-70",
+    "no": 70,
+    "text": "Jim Beam là loại whisky nào?",
+    "options": [
+     "A.Tennessee whisky",
+     "Bourbon",
+     "Rye whisky",
+     "Single Malt Scotch whisky"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "kien-thuc-sat-hach-nha-hang-71",
+    "no": 71,
+    "text": "Khi khách vào gọi món whisky “On the rock”, chúng ta hiểu khách đang yêu cầu gì ?",
+    "options": [
+     "Uống với đá",
+     "Uống với lát chanh",
+     "Uống với chanh đá",
+     "Uống với Muối"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "kien-thuc-sat-hach-nha-hang-72",
+    "no": 72,
+    "text": "Thành phần chính của cocktail B52 là?",
+    "options": [
+     "Kahlua, Baileys, Cointreau",
+     "Táo, Kalua, Cointreau",
+     "Chanh, Kahlua, baileys",
+     "Cam, Cointreau, Kahlua"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "kien-thuc-sat-hach-nha-hang-73",
+    "no": 73,
+    "text": "Cointreau có mùi vị gì?",
+    "options": [
+     "Chanh",
+     "Táo",
+     "Cam",
+     "Bơ"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "kien-thuc-sat-hach-nha-hang-74",
+    "no": 74,
+    "text": "Cà phê có nguồn gốc từ đâu?",
+    "options": [
+     "Châu Âu",
+     "Châu Phi",
+     "Châu Á",
+     "Châu Mỹ"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "kien-thuc-sat-hach-nha-hang-75",
+    "no": 75,
+    "text": "Đâu là quy trình chuẩn trong sản xuất rượu vang dỏ ?",
+    "options": [
+     "Tách cuốn và nghiền, ngâm vỏ và lên men rượu, Chuyển rượu free-run ra vại  bã được ép để tách vỏ chắt thêm rượu ép. Lên men malolactic, Chắt rượu (racking) và pha trộn, Ủ rượu trong vại chứa hoặc thùng gỗ, Lọc  đóng chai và tiếp\ntục ủ trong hầm.",
+     "Tách cuốn và nghiền, ngâm vỏ và lên men rượu, Lên men malolactic, Chuyển rượu free-run ra vại  bã được ép để tách vỏ chắt thêm rượu ép, Chắt rượu (racking) và pha trộn, Ủ rượu trong vại chứa hoặc thùng gỗ, Lọc đóng chai và tiếp tục ủ trong hầm.",
+     "Tách cuốn và nghiền, ngâm vỏ và lên men rượu,  Chắt rượu (racking) và pha trộn, Lên men malolactic, Chuyển rượu free-run ra vại  bã được ép để tách vỏ chắt thêm rượu ép, Ủ rượu trong vại chứa hoặc thùng gỗ, Lọc đóng chai và tiếp tục ủ trong hầm.",
+     "Tách cuốn và nghiền, ngâm vỏ và lên men rượu,  Chắt rượu (racking) và pha trộn, Lên men malolactic, Chuyển rượu free-run ra vại  bã được ép để tách vỏ chắt thêm rượu ép, Lọc đóng chai và tiếp tục ủ trong hầm,  Ủ rượu trong vại chứa hoặc thùng gỗ."
+    ],
+    "answer": 0
+   },
+   {
+    "id": "kien-thuc-sat-hach-nha-hang-76",
+    "no": 76,
+    "text": "“V.S.O.P (Very Superior Old Pale)” là kí hiệu chỉ thứ hạng rượu Brandy trên nhãn chai có nghĩa là gì?",
+    "options": [
+     "Rượu dùng pha trộn phải ủ ít nhất 2 năm trong thùng gỗ",
+     "Rượu dùng pha trộn phải ủ ít nhất 3 năm trong thùng gỗ",
+     "Rượu dùng pha trộn phải ủ ít nhất 4 năm trong thùng gỗ",
+     "Rượu dùng pha trộn phải ủ ít nhất 5 năm trong thùng gỗ"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "kien-thuc-sat-hach-nha-hang-77",
+    "no": 77,
+    "text": "BEO là gì?",
+    "options": [
+     "Banquet event orders, đơn đặt hàng sự kiện; có các nội dung chi tiết của từng bộ phận để tổ chức sự kiện cho khách hàng",
+     "Banquet equipment operation, danh sách vật tư sử dụng cho bộ phận lễ tiệc",
+     "Banquet event orders, phiếu yêu cầu gọi món đặc biệt dành cho bộ phận lễ tiệc, có giá bán áp dụng khác so với nhà hàng",
+     "Là tên 1 loại động vật"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "kien-thuc-sat-hach-nha-hang-78",
+    "no": 78,
+    "text": "Bộ phận nào phụ trách làm BEO?",
+    "options": [
+     "Ẩm thực/ F&B",
+     "Kinh doanh/ Sales",
+     "Bộ phận nào cũng được",
+     "Đặt phòng/Reservation"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "kien-thuc-sat-hach-nha-hang-79",
+    "no": 79,
+    "text": "Bạn hãy kể tên các kiểu set up phòng họp ?",
+    "options": [
+     "Boardroom, Theater, Cinema",
+     "Theater, U Shape, Home working",
+     "U Shape, Boardroom, Classroom",
+     "Buffet, Classroom, Cabaret"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "kien-thuc-sat-hach-nha-hang-80",
+    "no": 80,
+    "text": "Loại tiệc nào sau đây phục vụ nghỉ giữa giờ cho hội nghị, hội thảo?",
+    "options": [
+     "Conference",
+     "Meeting",
+     "Invention",
+     "Teabreak"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "kien-thuc-sat-hach-nha-hang-81",
+    "no": 81,
+    "text": "IBM là gì?",
+    "options": [
+     "Bàn chữ nhật chuyên dành để set up cho các sự kiện hội họp",
+     "Bàn vuông dùng để quà tặng trong sự kiện",
+     "Bàn tròn tiêu chuẩn trong các buổi tiệc",
+     "Ghế tiêu chuẩn cho các sự kiện"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "kien-thuc-sat-hach-nha-hang-82",
+    "no": 82,
+    "text": "PM account là gì?",
+    "options": [
+     "Private message account, tài khoản riêng dành cho quản lý lễ tiệc làm việc với khách hàng",
+     "Tài khoản ảo để thanh toán cho 1 sự kiện",
+     "Private message account, tài khoản riêng dành cho Trưởng bộ phận lễ tiệc làm việc với khách hàng",
+     "Tài khoản bí mật để nhập các yêu cầu đặc biệt cho 1 sự kiện, tránh lộ thông tin của khách hàng"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "kien-thuc-sat-hach-nha-hang-83",
+    "no": 83,
+    "text": "Đối với quy trình thông thường đơn đặt hàng sự kiện phải được đưa ra cho các bộ phận liên quan trễ nhất bao lâu?",
+    "options": [
+     "48 giờ",
+     "1 tuần",
+     "72 giờ",
+     "Càng sát sự kiện càng tốt"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "kien-thuc-sat-hach-nha-hang-84",
+    "no": 84,
+    "text": "Cabaret là gì?",
+    "options": [
+     "1 loại hình giải trí, hài kịch truyền thống của người Châu Âu",
+     "Kiểu set up bàn ăn dùng bàn vuông hoặc chữ nhật cho 2 người, thường dùng cho các dịp kỉ niệm, lãng mạn",
+     "1 kiểu set up bàn ăn theo kiểu bàn dài trang trọng, hoa hay các đồ trang trí chạy dọc giữa bàn",
+     "1 kiểu set up họp dùng bàn tròn, các ghế được đặt hướng về sân khấu, bàn chủ tọa"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "kien-thuc-sat-hach-nha-hang-85",
+    "no": 85,
+    "text": "Khi dọn dẹp, sắp xếp lại phòng họp trong giờ giải lao phải đảm bảo những yếu tố nào?",
+    "options": [
+     "Bổ sung giấy cho bảng lật; Dọn dẹp bát đĩa dơ, rác trên bàn; Thêm nước uống, bút, giấy…; Thay ly nếu họp cả ngày",
+     "Dọn dẹp bát đĩa dơ, rác trên bàn; Thêm nước uống, bút, giấy…; Bổ sung đồ ăn trên quầy teabreak",
+     "Bổ sung giấy cho bảng lật; Thêm nước uống, bút, giấy…; Thay ly nếu họp cả ngày",
+     "Thêm nước uống, bút, giấy…; Thay ly nếu họp cả ngày"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "kien-thuc-sat-hach-nha-hang-86",
+    "no": 86,
+    "text": "Đối với những cuộc họp cả ngày với đầy đủ dịch vụ cả ăn trưa, nếu giờ nghỉ trưa trễ hơn so với dự kiến 30 mins, thông tin sẽ phải được thông báo cho ai?",
+    "options": [
+     "Quản lý nhà hàng nơi khách dùng bữa",
+     "Bếp trưởng, Quản lý nhà hàng(nơi khách dùng bữa), Bộ phận kinh doanh, Kĩ thuật viên Âm thanh ánh sáng.",
+     "Trưởng bộ phận ẩm thực, Bếp trưởng",
+     "Bộ phận ẩm thực, Bộ phận buồng phòng, Lễ tân"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "kien-thuc-sat-hach-nha-hang-87",
+    "no": 87,
+    "text": "Tại sao phải thông báo cho trưởng bộ phận ẩm thực/Bộ phận kinh doanh nếu khách họp lâu hơn so với yêu cầu ban đầu?",
+    "options": [
+     "Để có thể thông báo với khách đây là điều không được phép, phải tuân thủ quy định trong hợp đồng",
+     "Xin lỗi khách không thể phục vụ vì có sự kiện kế tiếp sắp diễn ra",
+     "Để các vị trí quản lý này có thể nắm thông tin và làm việc với khách về chi phí phát sinh, hoặc xin lỗi khách nếu chuẩn bị có sự kiện kế tiếp",
+     "Tất cả mọi thông tin đều phái thông báo cho Trưởng bộ phận"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "kien-thuc-sat-hach-nha-hang-88",
+    "no": 88,
+    "text": "Theo tiêu chuẩn trong tiệc nhẹ giải lao giữa giờ họp, phục vụ cà phê phải đi kèm với  những gì?",
+    "options": [
+     "Mật ong, chanh, đường, sữa",
+     "Chanh, đường nâu, đường trắng, sữa tươi",
+     "Đường trắng, sữa tươi, bánh cookie",
+     "Đường trắng, đường nâu, đường ăn kiêng, sữa tươi, sữa đặc"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "kien-thuc-sat-hach-nha-hang-89",
+    "no": 89,
+    "text": "Điều hòa được bật trước bao lâu trước khi khách đến ?",
+    "options": [
+     "50 phút",
+     "1 giờ",
+     "2 giờ",
+     "30 phút"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "kien-thuc-sat-hach-nha-hang-90",
+    "no": 90,
+    "text": "Khu vực ban công của hội trường được sắp xếp các bàn cocktail đặt song song và cách bao nhiêu cm so với lan can kính của hội trường ?",
+    "options": [
+     "50cm",
+     "30cm",
+     "70cm",
+     "100cm"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "kien-thuc-sat-hach-nha-hang-91",
+    "no": 91,
+    "text": "Các cờ công ty, tổ chức nếu được treo lên theo yêu cầu của khách luôn đảm bảo thấp hơn cờ tổ quốc ít nhất bao nhiêu cm ?",
+    "options": [
+     "30cm",
+     "50cm",
+     "40cm",
+     "100cm"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "kien-thuc-sat-hach-nha-hang-92",
+    "no": 92,
+    "text": "Những bộ phận sẽ nhận được BEO bao gồm?",
+    "options": [
+     "Bộ phận lễ tiệc, Nhà bếp, Tạp vụ, Âm thanh hình ảnh, IT, Tài chính, Bảo vệ, Kỹ thuật, Buồng phòng, Lễ tân",
+     "Bộ phận lễ tiệc, Nhà bếp, Tạp vụ, Âm thanh hình ảnh, IT",
+     "Bộ phận lễ tiệc, Nhà bếp",
+     "Buồng phòng, Lễ tân"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "kien-thuc-sat-hach-nha-hang-93",
+    "no": 93,
+    "text": "Nêu các tiều chuẩn về khoảng cách set up ghế trong Banquet?",
+    "options": [
+     "Theater: đặt ghế cách nhau tối thiểu 7-15 cm và 60 cm khoảng cách giữa các hàng.\nClassroom, Boardroom: tối thiếu 60 cm khoảng cách giữa mỗi ghế",
+     "Theater: đặt ghế cách nhau tối thiểu 20 cm và 90 cm khoảng cách giữa các hàng.\nClassroom, Boardroom: tối thiếu 1 mét khoảng cách giữa mỗi ghế",
+     "Theater: đặt càng sát nhau càng tốt để tiết kiệm diện tích.\nClassroom, Boardroom: đặt càng sát nhau càng tốt để tiết kiệm diện tích.",
+     "Theater: đặt ghế cách nhau 5 cm và 40 cm khoảng cách giữa các hàng.\nClassroom, Boardroom: tối thiếu 40 cm khoảng cách giữa mỗi ghế"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "kien-thuc-sat-hach-nha-hang-94",
+    "no": 94,
+    "text": "Nhân viên cần phải làm gì khi khách yêu cầu được phục vụ tiếp khi đã kết thúc tiệc và hết giờ phục vụ",
+    "options": [
+     "Xin lỗi khách vì sự bất tiện, giới thiệu giải pháp thay thế, báo ngay cho quản lý xử lý nếu khách vẫn không đồng ý.",
+     "Mời khách sang quầy bar, vì quầy bar mở cửa 24/24, hoặc phục vụ tại phòng khi khách lưu trú tại khách sạn",
+     "Thông báo rõ với khách về thời gian kết thúc bữa tiệc theo hợp đồng, do phát sinh chi phí nhân sự và chuẩn bị cho tiệc sau nên mong khách thông cảm",
+     "Tôn trọng sự riêng tư của khách hàng, phân công cho nhân viên dọn dẹp, và báo lại cho ca sau tiếp tục theo dõi, chăm sóc khách"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "kien-thuc-sat-hach-nha-hang-95",
+    "no": 95,
+    "text": "Tiệc nhẹ nghỉ giữa giờ, đồ ăn nóng và lạnh phải được đặt trước( hoặc sau) giờ tiệc bắt đầu bao lâu?",
+    "options": [
+     "15 phút đối với đồ ăn nóng, 20 phút đối với đồ lạnh",
+     "30 phút đối với đồ ăn nóng, 40 phút đối với đồ lạnh",
+     "15 phút đối với đồ ăn nóng, 45 phút đối với đồ lạnh",
+     "Càng sớm càng tốt"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "kien-thuc-sat-hach-nha-hang-96",
+    "no": 96,
+    "text": "Như thế nào thì được gọi là sự kiện phát sinh?",
+    "options": [
+     "Sự kiện được tổ chức không qua phòng Kinh doanh",
+     "Sự kiện tổ chức miễn phí cho khách hàng để chiêu đãi, tri ân đối tác",
+     "Sự kiện mà BEO, xác nhận chỉ được cung cấp trong vòng 72 tiếng",
+     "Sự kiện được tổ chức danh riêng cho chủ đầu tư, chi phí do chủ đầu tư chiu, được hạch toán riêng"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "kien-thuc-sat-hach-nha-hang-97",
+    "no": 97,
+    "text": "Sự kiện của khách có 80 người, khách yêu cầu họp(kiểu lớp học) xong sẽ dùng luôn bữa tối tại ball room, không có thời gian để nghỉ vì khách vội, phải giải quyết như thế nào?",
+    "options": [
+     "Khách họp kiểu lớp học nên chỉ cần bố trí thêm ghế, công cụ dụng cụ để sẵn lên khay để bày lên, chỉ mất khoảng 15 phút",
+     "Cố gắng mời khách xuống dùng bữa ở nhà hàng, chỉ tốn chưa đến 5 phút đi lại",
+     "Chuẩn bị sẵn bàn ăn với đầy đủ công cụ dụng cụ trên bàn, khi khách họp xong chỉ cần dọn hết bàn họp và chuyển bàn ăn vào, chỉnh lại ghế",
+     "Sắp đặt phòng họp và phòng ăn ở 2 vách khác nhau của Ballroom, sau khi khách họp xong thì mời khách qua sử dụng luôn"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "kien-thuc-sat-hach-nha-hang-98",
+    "no": 98,
+    "text": "Trong quá trình họp, khách dùng viết bi để vẽ lên bàn họp( khăn trắng), sẽ xử lý như thế nào?",
+    "options": [
+     "Khăn có thể giặt nên không có vấn đề gì, chỉ cần chuyển cho phòng giặt là ngay lập tức",
+     "Kiểm tra với phòng giặt là về việc tẩy rửa vết dơ, nếu tẩy được sẽ thông báo tính tiền khách chi phí giặt, nếu không sẽ tính phí đền khăn",
+     "Báo khách sẽ phải đền tiền khăn bàn",
+     "Báo an ninh giữ khách lại vì tội phá hoại đồ của khách sạn"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "kien-thuc-sat-hach-nha-hang-99",
+    "no": 99,
+    "text": "Quy trình kiểm đếm các dịch vụ khách đã sử dụng và xác nhận lại với chủ tiệc và báo cáo có mấy bước ?",
+    "options": [
+     "4",
+     "5",
+     "3",
+     "2"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "kien-thuc-sat-hach-nha-hang-100",
+    "no": 100,
+    "text": "Đối với sắp xếp tiệc đứng các bàn cocktail cách nhau tối thiếu bao nhiêu mét ?",
+    "options": [
+     "Tối thiểu 1m",
+     "Tổi thiểu 0.5m",
+     "Tối thiểu 1.5m",
+     "Tối thiểu 2m"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "kien-thuc-sat-hach-nha-hang-101",
+    "no": 101,
+    "text": "Ly nước có dung tích tối thiểu là bao nhiêu để sắp xếp trên mặt bàn họp ?",
+    "options": [
+     "250ml",
+     "350ml",
+     "450ml",
+     "177ml"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "kien-thuc-sat-hach-nha-hang-102",
+    "no": 102,
+    "text": "Khi sắp xếp kiểu phòng lớp học thì khoảng cách từ mép bàn của dãy đầu tiên cách sân khấu hoặc bàn chủ tọa tối thiểu là bao nhiêu ?",
+    "options": [
+     "3m",
+     "2,5m",
+     "1,5m",
+     "2m"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "kien-thuc-sat-hach-nha-hang-103",
+    "no": 103,
+    "text": "Lazy susan là gì?",
+    "options": [
+     "Khay để rượu",
+     "Mâm xoay bàn ăn",
+     "Một loại ghế hội nghị",
+     "Một loại bàn hội nghị"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "kien-thuc-sat-hach-nha-hang-104",
+    "no": 104,
+    "text": "Outside catering là loại hình tiệc gì?",
+    "options": [
+     "Tiệc đứng",
+     "Tiệc hội nghị",
+     "Tiệc trong nhà",
+     "Tiệc ngoài trời"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "kien-thuc-sat-hach-nha-hang-105",
+    "no": 105,
+    "text": "Trong các buổi hội nghị hoặc tiệc, loại thức uống thường được dùng để chào đón khách gọi là gì?",
+    "options": [
+     "Fresh juice",
+     "Welcome wine",
+     "Cold drink",
+     "Welcome drink"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "kien-thuc-sat-hach-nha-hang-106",
+    "no": 106,
+    "text": "Các hàng và dãy bàn ghế khi set up hội nghị cần phải như thế nào?",
+    "options": [
+     "Đảm bảo khoảng cách giống nhau, thẳng hàng và lối, đảm bảo lối đi đúng tiêu chuẩn",
+     "Hinh thức hài hòa, đẹp mắt, đi lại thoải mái",
+     "Đảm bảo thoải mái, rộng rãi, lối đi tối thiểu 1,5 mét",
+     "Cách sân khấu tối thiểu 3m, các dãy ghế cách nhau 2m và mỗi ghế cách nhau 0,8m"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "kien-thuc-sat-hach-nha-hang-107",
+    "no": 107,
+    "text": "Trong các buổi tiệc giữa các món chính là cá và thịt đỏ, món nào nên được ưu tiên phục vụ trước?",
+    "options": [
+     "Thịt đỏ",
+     "Cá",
+     "Giống nhau",
+     "Phục vụ cùng lúc"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "kien-thuc-sat-hach-nha-hang-108",
+    "no": 108,
+    "text": "Phục vụ tiệc thông thường có các loại hình nào?",
+    "options": [
+     "Buffet, Setmenu",
+     "Fine dinning, buffet",
+     "A la carte, buffet",
+     "A la carte, setmenu"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "kien-thuc-sat-hach-nha-hang-109",
+    "no": 109,
+    "text": "Đối với kiểu xắp xếp rạp hát chúng ta cần chú ý sắp xếp ghế như thế nào ?",
+    "options": [
+     "Các ghế trong 1 hàng cách nhau tối thiểu là 50 cm. Hàng ghế cuối cùng \ncách cửa ra vào ít nhất 3m",
+     "Các ghế trong 1 hàng cách nhau tối thiểu là 10 cm. Hàng ghế cuối cùng \ncách cửa ra vào ít nhất 2m",
+     "Các ghế trong 1 hàng cách nhau tối thiểu là 50 cm. Hàng ghế cuối cùng \ncách cửa ra vào ít nhất 2m",
+     "Các ghế trong 1 hàng cách nhau tối thiểu là 10 cm. Hàng ghế cuối cùng \ncách cửa ra vào ít nhất 3m"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "kien-thuc-sat-hach-nha-hang-110",
+    "no": 110,
+    "text": "Chuẩn bị đồ uống trước khi sự kiện bắt đầu chúng ta cần làm gì ?",
+    "options": [
+     "Nhập từ kho hoặc điều chuyển đồ uống theo chủng loại và số lượng theo yêu cầu trong BEO. xác nhận số lượng đồ uống ban đầu cho sự kiện và có đầy đủ 2 chữ ký của người chịu giám sát sự kiện và người quản lý quầy bar",
+     "Sử dụng đồ uống tồn trước từ trong kho và chỉ nhập mới khí phát sinh. xác nhận số lượng đồ uống ban đầu cho sự kiện và có đầy đủ 2 chữ ký của người chịu giám sát sự kiện và khách hàng",
+     "Mượn đô uống từ quầy bar có xác nhận số lượng mượn, sau tiệc sẽ báo lại số lượng sử dụng có chữ ký xác nhận của bên giao và nhận",
+     "Liên hệ khách về đồ uống khách muốn sử dụng cho bữa tiệc và tư vấn cho khách mang vào để phục vụ vì giá sẽ tốt hơn"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "kien-thuc-sat-hach-nha-hang-111",
+    "no": 111,
+    "text": "Khi phục vụ tiệc buffet,thức ăn nóng phải được đặt ra …... trước giờ nghỉ theo lịch và thực phẩm lạnh là trước…... Thực phẩm nóng phải được đảm bảo giữ ở nhiệt độ chính xác.",
+    "options": [
+     "15 phút - 15 phút",
+     "15 phút - 20 phút",
+     "20 phút - 20 phút",
+     "10 phút - 15 phút"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "kien-thuc-sat-hach-nha-hang-112",
+    "no": 112,
+    "text": "Nhân viên nên làm gì khi khách báo mất đồ tại phòng tiệc",
+    "options": [
+     "Nhờ khách hỗ trợ liên hệ với bạn bè, người thân đi cùng có cầm giúp hay không",
+     "Xin lỗi khách vì sự cố không mong muốn, và báo cho quản lý trong ca xuống xử lý",
+     "Xin khách thông tin về đồ vật bị mất, vị trí ngồi của khách, Số điện thoại của khách và xử lý theo quy trình lost and found",
+     "Khẳng định với ngay với khách là không tìm thấy vì nếu có các bạn sẽ thông báo cho nhau"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "kien-thuc-sat-hach-nha-hang-113",
+    "no": 113,
+    "text": "Về việc thanh toán: sẽ theo chính sách của khách sạn, một số chi tiết sẽ được liệt kê trên BEO, số khách có thể được ghi lại trong hệ thống, số tiền,... có được tiết lộ với khách của người đặt tiệc không ?",
+    "options": [
+     "Ai hỏi cũng có thể nói được, do đây là giá đã công bố",
+     "Không được phép",
+     "Không được phép hoặc nếu có thể tiết lộ thì cần có sự cho phép của chủ tiệc",
+     "Không được phép, trừ các công ty đối tác, sự kiện, du lịch lữ hành."
+    ],
+    "answer": 2
+   },
+   {
+    "id": "kien-thuc-sat-hach-nha-hang-114",
+    "no": 114,
+    "text": "Nhân viên nên làm gì khi chủ tiệc mang đồ ăn vào nhờ bếp chế biến",
+    "options": [
+     "Nhân viên lắng nghe mong muốn của khách, xin chỉ đạo của quản lý.Giải thích cho khách về tiêu chuẩn an toàn thực phẩm, hướng dẫn khách ký cam kết ATTP về đồ ăn khách mang vào. Thông báo cho khách về việc tính phí phục vụ",
+     "Nhân viên lắng nghe mong muốn của khách, Xin lỗi về sự bất tiện và khéo léo từ chối yêu cầu của khách vì lý do vệ sinh an toàn thực phẩm.",
+     "Nhân viên lắng nghe mong muốn của khách, truyền đạt thông tin đến bếp trưởng để hỗ trợ khách và thông báo về việc tính phí phục vụ, sau đó báo cáo lại việc này cho quản lý sau tiệc",
+     "Nhân viên lắng nghe mong muốn của khách, và hỗ trợ khách miễn phí, vì đảm bảo mức độ hài lòng của khách hàng"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "kien-thuc-sat-hach-nha-hang-115",
+    "no": 115,
+    "text": "Cách đặt ccdc trên bàn ăn theo thứ tự nào là đúng?",
+    "options": [
+     "Từ phải sang: dao ăn chính, dao ăn bò, thìa ăn súp, đĩa định vị, nĩa/dĩa ăn chính,  nĩa/dĩa ăn salad",
+     "Đặt thứ tự nào cũng được, tùy theo sở thích của khách",
+     "Từ phải sang: dao ăn salad, thìa ăn súp, dao ăn chính, đĩa định vị, nĩa/dĩa ăn salad, thìa ăn chính",
+     "Từ phải sang: dao ăn salad, thìa ăn súp, dao ăn chính, đĩa định vị, nĩa/dĩa ăn chính,  nĩa/dĩa ăn salad"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "kien-thuc-sat-hach-nha-hang-116",
+    "no": 116,
+    "text": "Theo quy trình phục vụ, ai là người được ưu tiên phục vụ đầu tiên trong buổi tiệc?",
+    "options": [
+     "Chủ tiệc",
+     "Phụ nữ",
+     "Người phụ nữ lớn tuổi",
+     "Nam thanh niên"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "kien-thuc-sat-hach-nha-hang-117",
+    "no": 117,
+    "text": "Khi vệ sinh dụng cụ cho từng loại dao, muỗng/ thìa, dĩa vào chậu inox đựng nước nóng đã được pha loãng với ?",
+    "options": [
+     "Nước muối",
+     "Nước rửa bát",
+     "Nước khử trùng",
+     "Dấm hoặc chanh"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "kien-thuc-sat-hach-nha-hang-118",
+    "no": 118,
+    "text": "Kho bản quản hàng hóa  nguyên liệu khô cần những điều nào sau đây?",
+    "options": [
+     "Khô ráo, không có nước đọng hoặc nước ngưng/dột, sạch rác, không có mùi ẩm mốc, thoáng khí;\n Không có sự hiện diện của động vật, côn trùng gây hại (kiến, nhện, gián, chuột...)",
+     "Khô ráo, không có nước đọng hoặc nước ngưng/dột, sạch rác, không có mùi ẩm mốc, thoáng khí;\nThoáng mát, được duy trì ở nhiệt độ ổn định từ 24°C - 25°C;",
+     "Khô ráo, không có nước đọng hoặc nước ngưng/dột, sạch rác, không có mùi ẩm mốc, thoáng khí;\nThoáng mát, được duy trì ở nhiệt độ ổn định từ 24°C - 25°C; \nKhông có sự hiện diện của động vật, côn trùng gây hại (kiến, nhện, gián, chuột...)",
+     "Khô ráo, không có nước đọng hoặc nước ngưng/dột, sạch rác, không có mùi ẩm mốc, thoáng khí;\nThoáng mát, được duy trì ở nhiệt độ ổn định từ 24°C - 25°C; \nKhông có sự hiện diện của động vật, côn trùng gây hại (kiến, nhện, gián, chuột...)\nNhân viên Nhận hàng hoặc nhân viên Phụ trách Kho phải đảm bảo vệ sinh trong kho."
+    ],
+    "answer": 3
+   },
+   {
+    "id": "kien-thuc-sat-hach-nha-hang-119",
+    "no": 119,
+    "text": "Khi phục vụ món ăn cho khách, nhân viên cần lưu ý điều gì với khách về các món ăn mà khách đã yêu cầu?",
+    "options": [
+     "Cần giới thiệu và xác nhận lại",
+     "Cần giới thiệu",
+     "Cần xác nhận lại",
+     "Cần hỏi lại khách"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "kien-thuc-sat-hach-nha-hang-120",
+    "no": 120,
+    "text": "Các hình thức bán hàng Quick- service?",
+    "options": [
+     "Food cart",
+     "A la carte",
+     "Buffet",
+     "In room dining"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "kien-thuc-sat-hach-nha-hang-121",
+    "no": 121,
+    "text": "Khi khách phàn nàn về việc món ăn phục vụ chậm trong phục vụ gọi món, bạn sẽ xử lý như thế nào?",
+    "options": [
+     "Xem đó là việc bình thường vì nhà hàng đang đông khách",
+     "Yêu cầu khách đợi",
+     "Kiểm tra bill khách có món đó không rồi mới phản hồi",
+     "Kiểm tra món khách gọi đối chiếu với thời gian gọi món trên bill, nếu trường hợp món ăn chậm so với thời gian quy định yêu cầu bếp phục vụ nhanh cho khách, nếu khách mới gọi thì xin khách thông cảm vui lòng đợi. Cám ơn khách đã phản hồi"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "kien-thuc-sat-hach-nha-hang-122",
+    "no": 122,
+    "text": "Quầy buffet nào thường xuất hiện trong bữa sáng?",
+    "options": [
+     "Quầy truyền thống",
+     "Quầy carving",
+     "Quầy trứng",
+     "Quầy mì Ý"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "kien-thuc-sat-hach-nha-hang-123",
+    "no": 123,
+    "text": "Các giống nho đỏ phổ biến?",
+    "options": [
+     "Merlot, Pinot Noir",
+     "Sauvignon Blanc, Merlot",
+     "Sauvignon Blanc,  Pinot Noir",
+     "Riesling, Merlot"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "kien-thuc-sat-hach-nha-hang-124",
+    "no": 124,
+    "text": "Kích thước thông thường đĩa ăn chính sẽ là bao nhiêu?",
+    "options": [
+     "D20",
+     "D23",
+     "D30",
+     "D25"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "kien-thuc-sat-hach-nha-hang-125",
+    "no": 125,
+    "text": "Sau khi rót vang đỏ cho khách, chai vang còn rượu sẽ được đặt ở đâu?",
+    "options": [
+     "Ở phía trước ly của chủ tiệc và nhãn rượu quay về phía chủ tiệc",
+     "Không được đặt lên bàn khách, có thể đặt lên bàn bên cạnh",
+     "Đặt ở khu vực bàn chờ/service station gần bàn ăn nhất",
+     "Đặt lên xô ướp rượu bên cạnh bàn ăn"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "kien-thuc-sat-hach-nha-hang-126",
+    "no": 126,
+    "text": "Khay phục vụ luôn được giữ trên tay nào kể cả khi không có đồ trên khay ?",
+    "options": [
+     "Luôn giữ khay phục vụ bên tay trái",
+     "Luôn để khay xuống dưới",
+     "Khay cầm nghiêng bên phải",
+     "Luôn giữ khay phục vụ bên tay phải"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "kien-thuc-sat-hach-nha-hang-127",
+    "no": 127,
+    "text": "Khi phục vụ món ăn cho khách, nhân viên cần lưu ý điều gì với khách về các món ăn mà khách đã yêu cầu?",
+    "options": [
+     "Cần giới thiệu và xác nhận lại",
+     "Cần giới thiệu",
+     "Cần xác nhận lại",
+     "Không cần làm gì cứ vậy đặt đồ cho khách."
+    ],
+    "answer": 0
+   },
+   {
+    "id": "kien-thuc-sat-hach-nha-hang-128",
+    "no": 128,
+    "text": "Vùng nhiệt độ nguy hiểm khi lưu trữ thực phẩm là bao nhiêu?",
+    "options": [
+     "50 độ C-60 độ C",
+     "50 độ C-70 độ C",
+     "10 độ C-70 độ C",
+     "Nhiệt độ dưới 0 độ C"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "kien-thuc-sat-hach-nha-hang-129",
+    "no": 129,
+    "text": "Thực phẩm đã nấu chín nên ăn ngay và không được để ở nhiệt độ phòng qua bao nhiêu giờ?",
+    "options": [
+     "1 tiếng",
+     "2 tiếng",
+     "3 tiếng",
+     "4 tiếng"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "kien-thuc-sat-hach-nha-hang-130",
+    "no": 130,
+    "text": "Dấu hiệu nào để nhận biết nhu cầu dọn bát đĩa / ly cốc của khách khi đồ ăn đồ uống đã được dùng xong?",
+    "options": [
+     "Đĩa đồ ăn/ ly cốc đồ uống đã hết. Đĩa thức ăn để sang một bên trên bàn.",
+     "Đĩa thức ăn còn nhưng khách không tiếp tục sử dụng.",
+     "Đĩa thức ăn còn nhưng khách đang ngừng sử dụng.",
+     "Đĩa đồ ăn/ ly cốc đồ uống đã hết. Đĩa thức ăn để sang một bên trên bàn. Đĩa thức ăn còn nhưng khách không tiếp tục sử dụng nữa."
+    ],
+    "answer": 3
+   },
+   {
+    "id": "kien-thuc-sat-hach-nha-hang-132",
+    "no": 132,
+    "text": "Nhân viên khi thu dọn đồ bẩn cần tiến hành phân loại CCDC bản như thế nào ?",
+    "options": [
+     "Phân loại công cụ dụng cụ : dao, thìa, nĩa… và cho vào khay riêng biệt",
+     "Phân loại công cụ dụng cụ : đồ inox, đồ sứ, đồ tre gỗ… và để riêng từng loại hoặc vào khay riêng biệt.",
+     "Phân loại công vụ dụng cụ đồ dễ vỡ đồ không dễ vỡ cho vào khay riêng biệt",
+     "Cho tất cả vào một thùng đựng"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "kien-thuc-sat-hach-nha-hang-133",
+    "no": 133,
+    "text": "Khi phục vụ 1 món salad, loại rượu có giống nho nào sau đây là phù hợp?",
+    "options": [
+     "Merlot",
+     "Pinot Noir",
+     "Sauvignon Blanc",
+     "Shiraz"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "kien-thuc-sat-hach-nha-hang-134",
+    "no": 134,
+    "text": "Pasta là gì?",
+    "options": [
+     "Là một loại mỳ ý",
+     "Tên một loài hoa",
+     "Tên của một thành phố",
+     "Tên gọi khác của nước Ý"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "kien-thuc-sat-hach-nha-hang-135",
+    "no": 135,
+    "text": "Herring là gì?",
+    "options": [
+     "Bánh mì nướng cắt lát dùng chung với soup",
+     "Cá ngừ nướng cắt khối",
+     "Cá trích",
+     "Cá đuối"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "kien-thuc-sat-hach-nha-hang-136",
+    "no": 136,
+    "text": "Rượu vang được chia thành mấy loại ?",
+    "options": [
+     "2 Loại (Vang đỏ và Vang trắng )",
+     "3 loại (Vang đỏ ,Vang trắng và Vang hồng)",
+     "4 loại (Vang đỏ ,Vang trắng , Vang hồng,Vang sủi bọt)",
+     "5 loại (Vang đỏ ,Vang trắng , Vang hồng,Vang sủi bọt và Sâm Panh)"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "kien-thuc-sat-hach-nha-hang-137",
+    "no": 137,
+    "text": "Các bước ghi nhận bể vỡ tại nhà hàng",
+    "options": [
+     "Ghi nhận bể vỡ ,lập biên bản sự việc ,cập nhật đầy đủ thông tin liên quan đến tài sản ( khu vực ,tên ccdc ,ngày giờ ..) tập chung tài sản vào khu vực riêng,phân loại ccdc theo nhóm ,lập báo cáo",
+     "Ghi nhận bể vỡ ,lập biên bản sự việc ,cập nhật đầy đủ thông tin liên quan đến tài sản ( khu vực ,tên ccdc ,ngày giờ ..) phân loại ccdc theo nhóm ,tập chung vào khu vực riêng,lập báo cáo",
+     "Ghi nhận bể vỡ ,lập biên bản sự việc ,báo cáo sự việc lên cấp trên, ghi nhận bể vỡ,lập biên bản ,phân loại ccdc, lập báo cáo.",
+     "Ghi nhận bể vỡ ,lập biên bản sự việc ,cập nhật đầy đủ thông tin liên quan đến tài sản ( khu vực ,tên ccdc ,ngày giờ ..) lập báo cáo"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "kien-thuc-sat-hach-nha-hang-138",
+    "no": 138,
+    "text": "Quy trình kiểm kê hàng hóa CCDC trong nhà hàng ?",
+    "options": [
+     "Tổng hợp danh mục hàng hóa cần kiểm kê.\nÁp dụng các phương pháp kiểm kê.\nTiến hành kiểm kê\nlập báo cáo kiểm kê",
+     "Tổng hợp danh mục hành hóa cần kiểm kê.\nChuẩn bị thiết bị và nhân lực hỗ trợ kiểm kê.\nÁp dụng các phương pháp kiểm kê.\nTiến hành kiểm kê.\nLập báo cáo kiểm kê",
+     "Tổng hợp danh mục hành hóa cần kiểm kê.\nChuẩn bị thiết bị và nhân lực hỗ trợ kiểm kê.\nÁp dụng các phương pháp kiểm kê.\nTiến hành kiểm kê.\nKết thúc kiểm kê",
+     "Tổng hợp danh mục hàng hóa cần kiểm kê.\nÁp dụng các phương pháp kiểm kê.\nTiến hành kiểm kê.\nChuẩn bị nhân lực kiểm kê\nlập báo cáo kiểm kê"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "kien-thuc-sat-hach-nha-hang-139",
+    "no": 139,
+    "text": "Những Điều kiện nào về vệ sinh an toàn thực phẩm bắt buộc của một cơ sở kinh doanh và chế biến thực phẩm ?",
+    "options": [
+     "Điều kiện về địa điểm, môi trường; Điều kiện về nguồn nước; Điều kiện về thiết bị, dụng cụ, chế biến, bảo quản",
+     "Điều kiện về kiến thức; Điều kiện về sức khỏe; Điều kiện về đào tạo VSATTP",
+     "Điều kiện về cơ sở; Điều kiện về trang thiết bị, dụng cụ; Điều kiện về con người",
+     "Điều kiện về thiết kế, bố trí khu vực sản xuất; Điều kiện về nguồn nước; Điều kiện về đào tạo VSATTP"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "kien-thuc-sat-hach-nha-hang-140",
+    "no": 140,
+    "text": "Đặt đồ trên khay phục vụ như thế nào là đúng ?",
+    "options": [
+     "Các đồ vật cao phải được đặt gần cơ thể để tránh bị ngã và tạo độ vững hơn.\nCác loại ly cốc không được đặt sát nhau và tạo ra tiếng động khi di chuyển",
+     "Các loại ly cốc không được đặt sát nhau và tạo ra tiếng động khi di chuyển\nKhông được đặt đồ lên trên khay vượt quá 80% thể tích của khay",
+     "Các đồ vật cao phải được đặt gần cơ thể để tránh bị ngã và tạo độ vững hơn.\nCác loại ly cốc không được đặt sát nhau và tạo ra tiếng động khi di chuyển\nKhông được đặt đồ lên trên khay vượt quá 80% thể tích của khay",
+     "Các loại ly cốc không được đặt sát nhau và tạo ra tiếng động khi di chuyển\nsắp xếp các vật dụng tùy ý thuận tiện di chuyển ."
+    ],
+    "answer": 2
+   },
+   {
+    "id": "kien-thuc-sat-hach-nha-hang-141",
+    "no": 141,
+    "text": "Khi khách hàng phàn nàn về món ăn trong nhà hàng, nhân viên cần làm gì đầu tiên ?",
+    "options": [
+     "Gọi ngay cho quản lý ra xử lý",
+     "Xin lỗi khách về sự cố món ăn ,ghi nhận lại thông tin khách phản ánh",
+     "Đổi món khác cho khách bằng món ngang giá trị",
+     "Xin lỗi khách về sự cố món ăn ,ghi nhận lại thông tin khách phản ánh, báo cáo lại cho cấp trên."
+    ],
+    "answer": 3
+   },
+   {
+    "id": "kien-thuc-sat-hach-nha-hang-142",
+    "no": 142,
+    "text": "Tại sao phải sắp xếp hàng hóa theo nguyên tắc FIFO?",
+    "options": [
+     "Để thuận tiện cho việc bán hàng",
+     "Để phân loại hàng hóa",
+     "Để kiểm soát được hàng hóa và hạn sử dụng của hàng hóa.",
+     "Để sắp xếp hàng hóa gọn gàng"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "kien-thuc-sat-hach-nha-hang-143",
+    "no": 143,
+    "text": "Trong quy trình trình thực đơn người nhân viên phục vụ cần thực hiện như thế nào ?",
+    "options": [
+     "Trình thực đơn thức uống trước thực đơn thức ăn, thực đơn được mở, từ phía bên trái của khách, di chuyển theo chiều kim đồng hồ quanh bàn, phụ nữ trước và kết thúc với chủ nhà/ chủ tiệc",
+     "Trình thực đơn thức uống trước thực đơn thức ăn, thực đơn được mở, từ phía bên phải của khách, di chuyển theo chiều kim đồng hồ quanh bàn, phụ nữ trước và kết thúc với chủ nhà/ chủ tiệc",
+     "Trình thực đơn ăn trước thực đơn thức uống, thực đơn được mở, từ phía bên trái của khách, di chuyển theo chiều kim đồng hồ quanh bàn, phụ nữ trước và kết thúc với chủ nhà/ chủ tiệc",
+     "Trình thực đơn ăn trước thực đơn thức uống, thực đơn được mở, từ phía bên phải của khách, di chuyển theo chiều kim đồng hồ quanh bàn, phụ nữ trước và kết thúc với chủ nhà/ chủ tiệc"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "kien-thuc-sat-hach-nha-hang-144",
+    "no": 144,
+    "text": "Việc thực hiện việc tổng hợp các phiếu nhập - xuất - hủy hàng hóa và thống kê số liệu hàng nhập theo từng loại để làm gì ?",
+    "options": [
+     "Tổng hợp số liệu",
+     "Để cập nhật, tổng hợp số liệu hàng hóa và làm báo cáo cuối ca",
+     "Cập nhật số liệu",
+     "Làm báo cáo"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "kien-thuc-sat-hach-nha-hang-145",
+    "no": 145,
+    "text": "Plate service là hình thức phục vụ từ phía nào của khách hàng?",
+    "options": [
+     "Đĩa thức ăn được phục vụ tại bàn",
+     "Bên trái",
+     "Bên phải",
+     "Hướng đối diện"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "kien-thuc-sat-hach-nha-hang-146",
+    "no": 146,
+    "text": "Dụng cụ nào phù hợp cho món ăn sau: \" Gỏi hoa chuối tôm thịt\"?",
+    "options": [
+     "Nĩa ăn chính",
+     "Đũa",
+     "Đũa, muỗng ăn chính",
+     "Nĩa ăn chính, muỗng ăn chính"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "kien-thuc-sat-hach-nha-hang-147",
+    "no": 147,
+    "text": "Tiêu chuẩn định lượng rót nước ngọt và nước đóng chai?",
+    "options": [
+     "1 phần 3 ly",
+     "Đầy ly",
+     "2 phần 3 ly",
+     "1 phần 2 ly"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "kien-thuc-sat-hach-nha-hang-148",
+    "no": 148,
+    "text": "Nhân viên phục vụ nên xử lý như thế nào khi khách hàng có biểu hiện bị dị ứng thực phẩm (ở mức độ nhẹ)?",
+    "options": [
+     "Đối với trường hợp khách hàng bị dị ứng nhẹ, nhân viên phục vụ đến phòng y tế xin thuốc về cho khách uống tại nhà hàng",
+     "Nhân viên phục vụ không nên làm gì cả vì đây không phải là nghiệp vụ chuyên môn của mình",
+     "Nhân viên nên báo cáo ngay với quản lý",
+     "Nhân viên nên đề nghị được đưa khách đến phòng y tế của khách sạn để nhân viên y tế có chuyên môn thăm khám và cấp thuốc cho khách, sau đó báo cáo lại cho quản lý nắm thông tin và ghi nhận thông tin vào hồ sơ khách hàng"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "kien-thuc-sat-hach-nha-hang-149",
+    "no": 149,
+    "text": "Khi xử lý phàn nàn của khách, bạn thể hiện sự đồng cảm với khách hàng như thế nào",
+    "options": [
+     "Đồng cảm cùng khách hàng và ghi lại tất cả các thông tin ( đặt mình vào vị trí của khách)",
+     "Sẽ làm tất cả vì khách hàng",
+     "Chỉ cần lắng nghe",
+     "Khuyên khách hàng cứ yên tâm công ty sẽ giải quyết thỏa đáng"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "kien-thuc-sat-hach-nha-hang-150",
+    "no": 150,
+    "text": "Khách hàng sẽ được mời xem thực đơn món ăn nhẹ khi nào?",
+    "options": [
+     "Trước khi hỏi đồ uống",
+     "Sau khi hỏi đồ uống",
+     "Bất kỳ thời điểm nào",
+     "Nếu thời điểm phục vụ không trùng với giờ dùng bữa"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "kien-thuc-sat-hach-nha-hang-151",
+    "no": 151,
+    "text": "Phục vụ rượu Rhum ở dạng Neat có nghĩa là gì?",
+    "options": [
+     "Uống với nước đá, dùng ly shot",
+     "Uống không nước đá, dùng ly shot",
+     "Uống không nước đá, dùng ly hiball",
+     "Uống với nước đá, dùng ly rock"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "kien-thuc-sat-hach-nha-hang-152",
+    "no": 152,
+    "text": "Phục vụ rượu Rum ở dạng Mixer có nghĩa là gì?",
+    "options": [
+     "Thường pha trộn với Syrup các loại",
+     "Thường pha trộn với nước khoáng, soda, coca",
+     "Pha chế bằng phương pháp Shaker",
+     "Pha chế bằng phương pháp Stir"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "kien-thuc-sat-hach-nha-hang-153",
+    "no": 153,
+    "text": "Phục vụ rượu Brandy theo đúng tiêu chuẩn là bao nhiêu ml/ly?",
+    "options": [
+     "30ml/ly",
+     "40ml/ly",
+     "50ml/ly",
+     "60ml/ly"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "kien-thuc-sat-hach-nha-hang-154",
+    "no": 154,
+    "text": "Phục vụ rượu Brandy theo kiểu “Neat” có nghĩa là gì?",
+    "options": [
+     "Uống không đá , dùng ly Rock",
+     "Uống không đá , dùng ly Brandy Snifter",
+     "Uống với đá , dùng ly Hiball",
+     "Uống không đá , dùng ly Liqueur"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "kien-thuc-sat-hach-nha-hang-155",
+    "no": 155,
+    "text": "Phục vụ rượu mùi ( liqueur) ở dạng Neat có nghĩa là gì?",
+    "options": [
+     "Uống với nước đá, dùng ly shot",
+     "Uống không nước đá, dùng ly liqueur",
+     "Uống không nước đá, dùng ly hiball",
+     "Uống với nước đá, dùng ly rock"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "kien-thuc-sat-hach-nha-hang-156",
+    "no": 156,
+    "text": "\"Gueridon service \" hoặc \"Cart service \" nghĩa là gì?",
+    "options": [
+     "Phục vụ trên khay",
+     "Phục vụ trên xe đẩy",
+     "Phục vụ dùng thìa dĩa",
+     "Phục vụ tại bàn chờ"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "kien-thuc-sat-hach-nha-hang-157",
+    "no": 157,
+    "text": "Chiều cao từ mặt đất đến mặt bàn được sử dụng trong nhà hàng khoảng : ?",
+    "options": [
+     "70 cm",
+     "76 cm",
+     "85 cm",
+     "90 cm"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "kien-thuc-sat-hach-nha-hang-158",
+    "no": 158,
+    "text": "\" Goblet\" là danh từ dùng để chỉ :",
+    "options": [
+     "Ly có chân",
+     "Ly không chân",
+     "Ly không chân có quai cầm",
+     "Ly có chân có quai cầm"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "kien-thuc-sat-hach-nha-hang-159",
+    "no": 159,
+    "text": "Nguyên tắc phục vụ đồ uống nào sau đây KHÔNG đúng ?",
+    "options": [
+     "Những loại nước giải khát không cồn được phục vụ sau bữa ăn",
+     "Những loại đồ uống có vị chua, chát được phục vụ trong lúc khai vị",
+     "Những loại rượu cần uống đá thì rót rượu trước gắp đá sau.",
+     "Nhân viên phục vụ đồ uống phải tiếp cận bên phải thực khách, trình tự phục vụ theo chiều kim đồng hồ."
+    ],
+    "answer": 0
+   },
+   {
+    "id": "kien-thuc-sat-hach-nha-hang-160",
+    "no": 160,
+    "text": "Công việc nào sau đây nhân viên phục vụ KHÔNG NÊN làm trong khi phục vụ buffet?",
+    "options": [
+     "Các món thịt quay, nướng có thể có tảng to nhân viên phục vụ nên giúp khách lấy và xẻ thức ăn.",
+     "Luôn chú ý các nồi hâm nóng thức ăn tránh để cạn nước, cháy hoặc thức ăn rơi ra ngoài nếu không được lau ngay sẽ két khô lại.",
+     "Điều chỉnh lại các công cụ dụng cụ gắp thức ăn khi khách để không đúng chỗ.",
+     "Giữ nguyên tình trạng bàn khách, chỉ thu dọn sau khi khách đẵ ăn xong và rời khỏi bàn."
+    ],
+    "answer": 3
+   },
+   {
+    "id": "kien-thuc-sat-hach-nha-hang-161",
+    "no": 161,
+    "text": "Phục vụ course by course có nghĩa là gì?",
+    "options": [
+     "Phục vụ từng món một",
+     "Phục vụ theo kiểu gia đình",
+     "Tiệc trà",
+     "Phục vụ tự chọn"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "kien-thuc-sat-hach-nha-hang-162",
+    "no": 162,
+    "text": "Nhiệt độ phục vụ rượu vang trắng là bao nhiêu ?",
+    "options": [
+     "8 đến 12 độ",
+     "6 đến 10 độ",
+     "10 đến 15 độ",
+     "15 đến 20 độ"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "kien-thuc-sat-hach-nha-hang-163",
+    "no": 163,
+    "text": "Nhiệt độ phục vụ rượu vang sủi bọt và Champange là ?",
+    "options": [
+     "4 đến 8 độ",
+     "6 đến 10 độ",
+     "10 đến 12 độ",
+     "Nhiệt độ phòng"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "kien-thuc-sat-hach-nha-hang-164",
+    "no": 164,
+    "text": "Nhiệt độ bảo quản kho khô là bao nhiêu ?",
+    "options": [
+     "0 đến 5 độ",
+     "10 đến 15 độ",
+     "15 đến 20 độ",
+     "24 đến 25 độ"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "kien-thuc-sat-hach-nha-hang-165",
+    "no": 165,
+    "text": "Đồ ăn đã nấu chín không được để ở nhiệt độ phòng quá bao nhiêu lâu ?",
+    "options": [
+     "1 tiếng",
+     "2 tiếng",
+     "3 tiếng",
+     "4 tiếng"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "kien-thuc-sat-hach-nha-hang-166",
+    "no": 166,
+    "text": "Phục vụ rượu mùi ( liqueur) ở dạng Frappe có nghĩa là gì?",
+    "options": [
+     "Uống với nước đá, dùng ly shot",
+     "Uống không nước đá, dùng ly liqueur",
+     "Dùng ly cocktail, nước đá bào phục vụ với ống hút cắt ngắn",
+     "Uống với nước đá, dùng ly rock"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "kien-thuc-sat-hach-nha-hang-167",
+    "no": 167,
+    "text": "Phục vụ rượu mùi ( liqueur) ở dạng Frappe có nghĩa là gì?",
+    "options": [
+     "Ly Highball ướp lạnh",
+     "Ly Collin ướp lạnh",
+     "Ly Shot ướp lạnh",
+     "Ly Rock ướp lạnh"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "kien-thuc-sat-hach-nha-hang-168",
+    "no": 168,
+    "text": "Khi trình rượu vang cho khách cần đọc thông tin như thế nào?",
+    "options": [
+     "Tên rượu, giống nho",
+     "Tên rượu, năm sản xuất",
+     "Tên rượu, giống nho, năm thu hoạch giống nho, nước sản xuất",
+     "Tên rượu và nước sản xuất."
+    ],
+    "answer": 2
+   },
+   {
+    "id": "kien-thuc-sat-hach-nha-hang-169",
+    "no": 169,
+    "text": "Cách phục vụ whisky theo kiểu “On the Rocks” là gì?",
+    "options": [
+     "Uống với nước đá, dùng ly rocks",
+     "Uống với nước đá, dùng ly hiball",
+     "Uống không nước đá, dùng ly hiball",
+     "Pha trộn với nước khoáng, soda, coca"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "kien-thuc-sat-hach-nha-hang-170",
+    "no": 170,
+    "text": "Khách hàng phàn nàn món ăn được phục vụ chậm, bạn nên làm gì?",
+    "options": [
+     "Báo rằng hôm nay bếp vắng người nên sẽ phục vụ chậm",
+     "Báo khách món ăn khách yêu cầu làm phức tạp nên sẽ mất thời gian và chú ý khách",
+     "Báo rằng nhà hàng đông khách nên sẽ phục vụ chậm.",
+     "Xin lỗi vì sự cố xảy ra và cảm ơn khách đã góp ý. Lấy thông tin của khách và thông báo với quản lý kiểm tra"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "kien-thuc-sat-hach-nha-hang-171",
+    "no": 171,
+    "text": "Trong quá trình lau CCDC vô tình làm vỡ ly bạn sẽ làm gì?",
+    "options": [
+     "Bỏ vào thùng rác không báo cáo",
+     "Ghi lại thông tin trên giấy ghi nhận bể vỡ & báo cáo cho giám sát ký xác nhận",
+     "Mang đi dấu",
+     "Báo cho quản lý"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "kien-thuc-sat-hach-nha-hang-172",
+    "no": 172,
+    "text": "Khi hóa đơn tính tiền của khách bị sai, anh chị xử lý như thế nào?",
+    "options": [
+     "Xin lỗi khách vì sự cố, báo nhân viên thu ngân để bỏ món khách không dùng và làm lại hóa đơn mới cho khách",
+     "Báo khách chờ trong giây lát để kiểm tra phiếu gọi món & nhân viên phục vụ bàn đó, nếu đúng với thông tin khách phản ánh thì lập tức xin lỗi khách, báo thu ngân sửa hóa đơn và hướng dẫn khách thanh toán",
+     "Báo khách chờ và yêu cầu thu ngân sửa hóa đơn và thanh toán",
+     "Báo khách chờ trong giây lát,  thông báo với quản lý để quản lý xử lý"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "kien-thuc-sat-hach-nha-hang-173",
+    "no": 173,
+    "text": "Phân loại các ccdc theo phương án nào là đúng?",
+    "options": [
+     "Tableware: Bàn ghế\nAsset: Tài sản",
+     "Silverware: Thìa ăn chính, thìa ăn súp, nĩa ăn chính, dao ăn bơ\nGlassware: ly vang, ly nước, ly bia",
+     "Silverware: Thìa ăn chính, thìa ăn súp, nĩa ăn chính, dao ăn bơ\nGlassware: ly vang, ly nước, tách cà phê",
+     "Chinaware: bát, đĩa, thìa sứ, ly uống rượu.\nSilverware: nĩa ăn, dao ăn, thìa cà phê"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "kien-thuc-sat-hach-nha-hang-174",
+    "no": 174,
+    "text": "Khi trên bàn có nhiều hơn 1 ly nước thì cách đặt các loại thức uống trên khách nên tuân theo nguyên tắc nào?",
+    "options": [
+     "Theo thứ tự từ thấp đến cao( chiều cao của ly), ly thấp hơn đặt bên phải",
+     "Người phục vụ nên đặt ly Cocktail và ly rượu gần với khách hơn là ly nước",
+     "Theo thứ tự từ thấp đến cao( chiều cao của ly), ly thấp hơn đặt bên trái",
+     "Người phục vụ nên đặt ly nước gần với khách hơn là ly rượu, cocktail"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "kien-thuc-sat-hach-nha-hang-175",
+    "no": 175,
+    "text": "Hành vi nào sai đối với thông tin khách hàng?",
+    "options": [
+     "Không thu thập lưu trữ thông tin cá nhân của khách hàng",
+     "Không hợp tác với bên ngoài để tìn kiếm thông tin cá nhân của khách hàng",
+     "Chỉ tiết lộ thông tin di chuyển của khách hàng",
+     "Tiết lộ thông tin cá nhân của khách hàng, đối tác"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "kien-thuc-sat-hach-nha-hang-176",
+    "no": 176,
+    "text": "Dung dịch chai xịt GIFT 580ml, dùng để làm gì?",
+    "options": [
+     "Tẩy ố",
+     "Vệ sinh kính",
+     "Lau sàn",
+     "Đánh sàn"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "kien-thuc-sat-hach-nha-hang-177",
+    "no": 177,
+    "text": "Hóa chất Suma Break Up HD dùng để làm gì ?",
+    "options": [
+     "Tẩy rửa,vệ sinh sàn dầu mỡ",
+     "Tẩy ố",
+     "Khử mùi",
+     "Lau inox"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "kien-thuc-sat-hach-nha-hang-178",
+    "no": 178,
+    "text": "Hóa chất Shine-up dùng để làm gì ?",
+    "options": [
+     "Vệ sinh,bảo dưỡng & đánh bóng gỗ",
+     "Đánh sàn",
+     "Lau nhà",
+     "Lau inox"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "kien-thuc-sat-hach-nha-hang-179",
+    "no": 179,
+    "text": "Hóa chất  3M  stainless Steel Cleaner & polish dùng để làm gì?",
+    "options": [
+     "Tẩy ố vàng",
+     "Vệ sinh, đánh bóng inox",
+     "Lau sàn",
+     "Khử mùi"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "kien-thuc-sat-hach-nha-hang-180",
+    "no": 180,
+    "text": "Hóa chất Crew (Crew Lime and Scale Remover) dùng để làm gì ?",
+    "options": [
+     "Lau sàn gổ",
+     "Lau sàn gạch men",
+     "Tẩy rửa,vệ sinh bồn cầu",
+     "Lau inox"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "kien-thuc-sat-hach-nha-hang-181",
+    "no": 181,
+    "text": "Đâu là dung dịch rửa tay đang sử dụng tại nhà vệ sinh?",
+    "options": [
+     "Freedom",
+     "3M-8H",
+     "Rotocare 500",
+     "Spectrum DC"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "kien-thuc-sat-hach-nha-hang-182",
+    "no": 182,
+    "text": "Hóa chất Freedom dùng để làm gì?",
+    "options": [
+     "Lau sàn gổ",
+     "Lau bồn cầu",
+     "Lau sàn nhà",
+     "Bóc/Tẩy sàn"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "kien-thuc-sat-hach-nha-hang-183",
+    "no": 183,
+    "text": "Tinh dầu sử dụng trong Toilet, dùng để làm gì ?",
+    "options": [
+     "Rửa tay",
+     "Khử mùi, tạo hương",
+     "Lau sàn",
+     "Đánh bóng inox"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "kien-thuc-sat-hach-nha-hang-184",
+    "no": 184,
+    "text": "Hóa chất JUMBO A102 dùng để làm gì?",
+    "options": [
+     "Lau inox",
+     "Lau sàn gỗ",
+     "Tẩy xi măng, vữa , mốc",
+     "Đánh bóng inox"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "kien-thuc-sat-hach-nha-hang-185",
+    "no": 185,
+    "text": "Đâu là màu của hóa chất JUMBO A102?",
+    "options": [
+     "Xanh",
+     "Đỏ",
+     "Hồng",
+     "Trong suốt"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "kien-thuc-sat-hach-nha-hang-186",
+    "no": 186,
+    "text": "Đâu là bộ công cụ để vệ sinh gương cơ bản cần có?",
+    "options": [
+     "Cây móp nước, khăn khô, hóa chất vệ sinh kính",
+     "Cây Dust,cây sũi, lông thỏ, hóa chất vệ sinh kính",
+     "Cây gạt kính",
+     "Bộ gạt kính, bông thỏ. Khăn khô, hóa chất vệ sinh kính"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "kien-thuc-sat-hach-nha-hang-187",
+    "no": 187,
+    "text": "Khi lau sàn nhà, lau thế nào là KHÔNG đúng?",
+    "options": [
+     "Lau từng khu, có thể từ trái sang phải",
+     "Lau từng khu, có thể di chuyển mop theo hình số 8",
+     "Lau từ ngoài vào trong, từ dưới lên trên và nơi bẩn trước, sạch sau.",
+     "Lau từng khu, có thể từ phải sang trái"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "kien-thuc-sat-hach-nha-hang-188",
+    "no": 188,
+    "text": "Khi lau sàn nhà (nhiều dầu mỡ) bạn có thể sẽ sử dụng hóa chất nào sau đây?",
+    "options": [
+     "Suma Beark Up HD",
+     "Emerel",
+     "Crew",
+     "Jumbo A102"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "kien-thuc-sat-hach-nha-hang-189",
+    "no": 189,
+    "text": "Trong lúc quét rác bạn vô tình quét phải chân Khách đang dùng dịch vụ ẩm thực, sau đó Khách hàng trách móc và phàn nàn trực tiếp. Nếu bạn gặp phải tình huống trên bạn nên cư xử như thế nào?",
+    "options": [
+     "Tỏ thái độ lắng nghe và nhận trách nhiệm,xin lỗi Khách hàng chân thành vì sự cố bất tiện,cám ơn và chúc ngon miệng nếu khi được Khách hàng chấp nhận hoặc báo lại cho quản lý sự việc khi Khách hàng chưa hài lòng.",
+     "Tranh cãi và tìm những lý do để biện hộ với Khách, tránh thiệt hại danh tiếng.",
+     "Lập tức rời đi, tránh tiếp tục để Khách hàng nhìn thấy mình gây tâm lý ức chế đến với họ.",
+     "Va vấp trong hoạt động kinh doanh khi lượt Khách sử dụng dịch vụ quá lớn là điều hết sức bình thường, không nên lưu tâm."
+    ],
+    "answer": 0
+   },
+   {
+    "id": "kien-thuc-sat-hach-nha-hang-190",
+    "no": 190,
+    "text": "Hoàn thành tất cả công việc vệ sinh tổng thể nhà hàng trước lúc phục vụ khách ăn trưa lúc mấy giờ?",
+    "options": [
+     "10h30",
+     "11h",
+     "9h30",
+     "10h00"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "kien-thuc-sat-hach-nha-hang-191",
+    "no": 191,
+    "text": "Khi bị hóa chất rơi vào mắt bạn phải làm gì?",
+    "options": [
+     "Ngay lập tức rửa lại nhiều lần bằng nước sạch, báo lại giám sát/quản lý, yêu cầu y tế kiểm tra.",
+     "Dụi tay ngay vào mắt và thổi mạnh vào mắt",
+     "Nhắm mắt lại trong vòng 10s",
+     "Dụi tay ngay lập tức và rửa lại bằng nước sạch."
+    ],
+    "answer": 0
+   },
+   {
+    "id": "kien-thuc-sat-hach-nha-hang-192",
+    "no": 192,
+    "text": "Quy trình vệ sinh phòng Toilet tại tổ tạp vụ Nhà Hàng gồm bao nhiêu bước?",
+    "options": [
+     "11",
+     "12",
+     "13",
+     "14"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "kien-thuc-sat-hach-nha-hang-193",
+    "no": 193,
+    "text": "Khi lau tường gỗ bạn sử dụng hóa chất nào dưới đây? Pha tỉ lệ bao nhiêu?",
+    "options": [
+     "Hóa chất Shine-up và dùng nguyên chất",
+     "Hóa chat CLASS tỉ lệ 1 phần 50",
+     "Hóa chất UREX tỉ lệ 1 phần 10",
+     "Hóa chất STEEL BPITE tỉ lệ 1 phần 5"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "kien-thuc-sat-hach-nha-hang-194",
+    "no": 194,
+    "text": "Hóa chất SPECTRUM DC có tính năng gì?",
+    "options": [
+     "Sát khuẩn, khử mùi sàn nhà, nhà vệ sinh…",
+     "Đánh sàn và tẩy bong các lớp đá vôi bám trên sàn",
+     "Có tinh năng làm bóng kim loại",
+     "Đánh bóng đá"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "kien-thuc-sat-hach-nha-hang-195",
+    "no": 195,
+    "text": "Có một khách nước ngoài vào nhà hàng. Khách đến hỏi bạn một điều gì đó, nhưng bạn không hiểu ngoại ngữ. Trong tình huống này bạn phải làm như thế nào?",
+    "options": [
+     "Tìm sự giúp đỡ ngay của đồng nghiệp (lễ tân,các bạn nhà hàng,bất kì đồng nghiệp có thể giao tiếp…) không để Khách hàng không tìm được sự giúp đỡ",
+     "Hảy đừng trả lời nếu bạn không hiểu ngoại ngữ.",
+     "Hảy chỉ hướng vào Toilet",
+     "Xin lỗi khách"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "kien-thuc-sat-hach-nha-hang-196",
+    "no": 196,
+    "text": "Trong lúc làm vệ sinh tại khu vực nhà hàng nếu phát hiện một túi xách khách để quên trong khu vực nhà vệ sinh Anh/Chị sẽ nên làm gì?",
+    "options": [
+     "Đứng giữ nguyên vị trí bảo vệ tài sản cho đến khi chủ nhân quay trở lại nhận.",
+     "Đi gọi An ninh ngay lập tức",
+     "Chủ động mở ví, kiểm tra tài sản túi xách ngay lập tức.",
+     "Báo cáo với Cấp trên ngay lập tức sự việc, để Cấp trên thông báo cho các bộ phận khác nắm thông tin, hỗ trợ."
+    ],
+    "answer": 3
+   },
+   {
+    "id": "kien-thuc-sat-hach-nha-hang-197",
+    "no": 197,
+    "text": "Theo Anh/Chị  để công tác vệ sinh ngày tốt hơn, sạch sẽ hơn cũng như Khu Du Lịch ngày càng tốt hơn trong mắt du khách, là một nhân viên vệ sinh bạn KHÔNG nên làm gì?",
+    "options": [
+     "Có ý thức cao trong công việc, biết quan sát, nhanh nhẹn chấp nhận khó khăn",
+     "Có niềm đam mê,yếu thích trong công việc của mình. Tác phong diện mạo chuyên nghiệp",
+     "Luôn luôn tự giác, trách nhiệm, nâng cao khả năng rèn luyện phát triển chuyên môn và đạo đức.",
+     "Trong công việc vệ sinh,duy nhất chỉ cần làm tốt phần \"mặt tiền\""
+    ],
+    "answer": 3
+   },
+   {
+    "id": "kien-thuc-sat-hach-nha-hang-198",
+    "no": 198,
+    "text": "Quy định trang phục đối với nhân viên vệ sinh là:",
+    "options": [
+     "Thích mặt gì mặc , không cần đúng đồng phục qui định",
+     "Mặc áo đồng phục , còn quần thì mặc quần jean, kaki tùy thích",
+     "Mặc đúng đồng phục được công ty cấp phát, gọn gàng và sạch sẽ.",
+     "Mang dép lê , mặc áo quần thoải mái, mát mẻ"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "kien-thuc-sat-hach-nha-hang-199",
+    "no": 199,
+    "text": "Bắt đầu ca làm việc mới, Anh/ Chị KHÔNG làm gì?",
+    "options": [
+     "Họp brifieng đầu ca",
+     "Nhận phân chia khu vực làm việc",
+     "Giao nhận chìa khóa, CCDC",
+     "Chuẩn bị đồ ăn sáng"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "kien-thuc-sat-hach-nha-hang-200",
+    "no": 200,
+    "text": "Điều quan trọng nhất trong mỗi ca làm việc của Anh/ Chị là?",
+    "options": [
+     "Đảm bảo chất lượng vệ sinh khu vực được phân công , đảm bảo chất lượng dịch vụ tốt nhất đến Du khách",
+     "Đi làm và ra về đúng giờ.",
+     "Chuẩn bị đầy đủ công cụ dụng cụ trong ca làm việc",
+     "Được Khách hàng Tip"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "kien-thuc-sat-hach-nha-hang-201",
+    "no": 201,
+    "text": "Khi Khách vô ý làm rơi thức ăn xuống sàn, thì hành động xử lý nào sau đây của anh/ chị là đúng?",
+    "options": [
+     "Hảy làm công việc khác",
+     "Lập tức có mặt và dọn sạch sẽ thức ăn sàn nhà",
+     "Lập tức có mặt và dọn sạch sẽ thức ăn sàn nhà dưới sự cho phép của khách.",
+     "Nhờ khách dọn hộ mình"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "kien-thuc-sat-hach-nha-hang-202",
+    "no": 202,
+    "text": "Khi đang làm việc chổi quét nhà bị hỏng không sử dụng được Anh/ Chị sẽ làm gì là đúng nhất?",
+    "options": [
+     "Cho vào sọt rác dùng chổi mới để tiếp tục công việc",
+     "Cho vào kho dùng chổi mới để tiếp tục công việc",
+     "Dừng công việc",
+     "Cho vào kho (thùng đựng công cụ, dụng cụ hỏng) ghi chép vào sổ giao cao, đồng thời liên hệ với người quản kho để nhận lại chổi mới ngay,tiếp tục công việc"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "kien-thuc-sat-hach-nha-hang-203",
+    "no": 203,
+    "text": "Khi được điều động đột xuất qua khu vực làm việc mới thì Anh / Chị sẽ làm gì?",
+    "options": [
+     "Tỏ vẻ khó chịu, không thực hiện theo",
+     "Đồng ý và đi ngay lập tức",
+     "Kì kèo, nhờ người khác đi hộ",
+     "Bàn giao lại khu vực đó cho nhân viên được phân công, vui vẻ nhanh chóng qua khu vực mới để nhận nhiệm vụ"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "kien-thuc-sat-hach-nha-hang-204",
+    "no": 204,
+    "text": "Quy trình làm sạch sàn nhà bằng máy bắn sàn theo quy trình nào?",
+    "options": [
+     "Chuẩn bị máy móc và CCDC -> Kiểm tra máy móc và nguồn điện -> Thực hiện công tác bắn sàn -> Vệ sinh máy - > Kiểm tra tổng thể lần cuối.",
+     "Chuẩn bị máy móc và CCDC-> Thực hiện việc bắn sàn",
+     "Kiểm tra máy móc và nguồn điện-> Chuẩn bị máy móc và CCDC -> Thực hiện công tác bắn sàn",
+     "Thực hiện công tác bắn sàn -> vệ sinh máy"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "kien-thuc-sat-hach-nha-hang-205",
+    "no": 205,
+    "text": "Hóa chất lau kính Gift khi sử dụng vệ sinh kính, thông thường có hòa chung với các dung dịch khác hay không. Nếu có tỉ lệ là bao nhiêu?",
+    "options": [
+     "Có, tỉ lệ 1:1",
+     "Có, tỉ lệ 1:2",
+     "Có, tỉ lệ 1:5",
+     "Không hòa chung với dung dịch khác"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "kien-thuc-sat-hach-nha-hang-206",
+    "no": 206,
+    "text": "Để thực hiện công tác bắn sàn chúng ta cần những công cụ chính nào ?",
+    "options": [
+     "máy bắn nước, dây ống dẫn nước, dây điện",
+     "dây ống nhựa dẻo, hóa chất lau sàn",
+     "Dây ống nhựa dẻo, chổi cước, hóa chất",
+     "dây điện, chổi cước"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "kien-thuc-sat-hach-nha-hang-207",
+    "no": 207,
+    "text": "Hóa chất số 3M-8H có được sử dụng để lau sàn không?",
+    "options": [
+     "Có, vì là hóa chất đa năng",
+     "Không",
+     "Có, nếu vào mùa đông",
+     "Có, nếu vào mùa hè"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "kien-thuc-sat-hach-nha-hang-208",
+    "no": 208,
+    "text": "Khi muốn sử dụng máy phun rửa áp lực nước, bạn KHÔNG cần phải làm gì?",
+    "options": [
+     "Kiểm tra tổng thể máy",
+     "Kiểm tra nguồn điện",
+     "Kiểm tra nguồn nước",
+     "Kiểm tra pad đánh sàn"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "kien-thuc-sat-hach-nha-hang-209",
+    "no": 209,
+    "text": "Khi gặp vấn đề chuyên môn và vấn đề khác trong ca làm việc không xử lý được Anh / Chị liên hệ ai để giải quyết?",
+    "options": [
+     "Phó/Trưởng bộ phận nhà hàng",
+     "Phó Giám Đốc/Giám đốc khối ẩm thực",
+     "Tổ trưởng/Giám sát/ Quản lý tạp vụ Nhà hàng",
+     "Giám sát/Quản lý Nhà Hàng"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "kien-thuc-sat-hach-nha-hang-210",
+    "no": 210,
+    "text": "Pad đánh sàn có bao nhiêu loại, mà hiện Tạp vụ Nhà hàng đang sử dụng?",
+    "options": [
+     "1",
+     "2",
+     "3",
+     "4"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "kien-thuc-sat-hach-nha-hang-211",
+    "no": 211,
+    "text": "Để đánh sàn vết bẩn cứng đầu trên sàn gạch, bạn dùng loại pad nào cho kết quả tối ưu?",
+    "options": [
+     "Trắng",
+     "Đen",
+     "Đỏ",
+     "Xanh"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "kien-thuc-sat-hach-nha-hang-212",
+    "no": 212,
+    "text": "Một trong các nguyên tắc khi làm vệ sinh là?",
+    "options": [
+     "Làm theo quy tắc bàn tay phải",
+     "Từ trên xuống dưới, trong ra ngoài, nơi sạch trước bẩn sau và làm từng khu",
+     "Theo quy tắt đồng hồ",
+     "Theo quy tắt bàn tay trái"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "kien-thuc-sat-hach-nha-hang-213",
+    "no": 213,
+    "text": "Để tẩy rửa vết rỉ sét trên vòi inox bạn sẽ dùng hóa chất nào?",
+    "options": [
+     "Suma break up HD",
+     "Jumbo",
+     "Shine up",
+     "Emerel"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "kien-thuc-sat-hach-nha-hang-214",
+    "no": 214,
+    "text": "Sau khi thực hiện đánh sàn khu vực bên trong nhà xong thì KHÔNG nên làm gì?",
+    "options": [
+     "Lau khô",
+     "Kiểm tra lần cuối, đảm bảo sạch và khô",
+     "Vệ sinh máy đưa vào lại kho bảo quản",
+     "Thực hiện phun rửa áp lực nước lần 2"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "kien-thuc-sat-hach-nha-hang-215",
+    "no": 215,
+    "text": "Cánh cửa sắt bị dơ Anh/Chị dùng hóa chất nào để vệ sinh là SAI?",
+    "options": [
+     "3M-8H",
+     "Các dung dịch có độ pH = 7",
+     "Forward DC",
+     "Crew"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "kien-thuc-sat-hach-nha-hang-216",
+    "no": 216,
+    "text": "Hóa chất nào dưới đây có tính đa năng?",
+    "options": [
+     "Jumbo",
+     "3M-8H",
+     "Shine up",
+     "Crew"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "kien-thuc-sat-hach-nha-hang-217",
+    "no": 217,
+    "text": "Hóa chất Emerel là hóa chất dạng gì?",
+    "options": [
+     "Dạng kem, màu trắng",
+     "Dạng kem, màu đen",
+     "Dạng kem, màu vàng",
+     "Dạng kem, màu tím"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "kien-thuc-sat-hach-nha-hang-218",
+    "no": 218,
+    "text": "Anh/Chị cần sẽ làm gì khi thấy khách nôn ói trong bồn rửa mặt tại khu vực của mình?",
+    "options": [
+     "Hảy phàn nàn để Khách rút kinh nghiệm",
+     "Yêu cầu Khách cần thực hiện dọn dẹp sạch sẽ",
+     "Dọn sạch bồn rửa và hỏi thăm sức khỏe của khách với thái độ ân cần niềm nở , báo Cấp trên gọi y tế kiểm tra nếu cần.",
+     "Yêu cầu Khách rời khỏi khu vực này"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "kien-thuc-sat-hach-nha-hang-219",
+    "no": 219,
+    "text": "Sau khi vệ sinh sạch Toilet ta có dùng hóa chất gì để khử mùi hôi, khử trùng?",
+    "options": [
+     "Crew",
+     "Emerel",
+     "Shine up",
+     "Spectrum DC"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "kien-thuc-sat-hach-nha-hang-220",
+    "no": 220,
+    "text": "Khi đang làm vệ sinh trong nhà hàng có khách báo mất tài sản trong khu vực,bạn sẽ làm gì?",
+    "options": [
+     "Tiếp nhận thông tin và báo cáo với giám sát, quản lí Nhà hàng hoặc Cấp trên có thể giúp, ngay.",
+     "Hảy rời vị trí ngay vì bạn không thể giúp điều này.",
+     "Tiếp nhận thông tin nhưng không báo cáo với Cấp trên.",
+     "Rời vị trí và chủ động một mình cùng Khách đi tìm tài sản."
+    ],
+    "answer": 0
+   },
+   {
+    "id": "kien-thuc-sat-hach-nha-hang-221",
+    "no": 221,
+    "text": "Trong ca làm việc bạn được phân công một nhà hàng nhưng nhà hàng bạn làm rất ít khách nhưng nhà hàng bên cạnh rất đông khách và đồng nghiệp của bạn dọn vệ sinh không kịp bạn sẽ làm gì?",
+    "options": [
+     "Làm ngơ như không thấy gì",
+     "Báo cáo với Giám sát/Quản lý nhà hàng đang phụ trách, rời vị trí tham gia hỗ trợ nhà hàng bên cạnh",
+     "Ngồi chơi tám chuyện với nhân viên nhà hàng",
+     "Rời vị trí và chủ động hỗ trợ đồng nghiệp ngay"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "kien-thuc-sat-hach-nha-hang-222",
+    "no": 222,
+    "text": "Khi nhìn thấy đồng nghiệp lấy cắp tài sản của khách bạn sẽ làm gì?",
+    "options": [
+     "Khuyên đồng nghiệp trung thực, trả lại tài sản cho khách. Báo cáo sự việc cho cấp trên",
+     "Làm ngơ bỏ đi",
+     "Ủng hộ đồng nghiệp",
+     "Yêu cầu chia nhau"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "kien-thuc-sat-hach-nha-hang-223",
+    "no": 223,
+    "text": "Trong lúc vệ sinh thang cuốn bạn thấy một người rất lớn tuổi ,khó di chuyển trên thang cuốn bạn sẽ làm gì?",
+    "options": [
+     "Nên tiếp tục làm việc của mình",
+     "Hảy rời vị trí đó ngay",
+     "Quan sát và tiến đến giúp đỡ khách bước lên thang cuốn(nếu có thể) hoặc gọi giúp đỡ, dẫn khách đi hết thang cuốn đến lúc an toàn chào tạm biệt khách và tiếp tục thực hiện công việc của mình",
+     "Báo Giám sát/Quản lý"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "kien-thuc-sat-hach-nha-hang-224",
+    "no": 224,
+    "text": "Khi bị cấp trên nhắc nhở vì chưa hoàn thành công việc được giao bạn sẽ làm gì?",
+    "options": [
+     "Hảy xem đó là chuyện bình thường trong công việc",
+     "Lắng nghe, xin lỗi thiếu sót trong công việc, cam kết sẽ không tái diễn và nhờ cấp trên tư vấn cách làm hiệu quả nhất",
+     "Không quan tâm vì ai cũng như mình",
+     "Hảy tìm cho mình 1 lý do để đấu tranh"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "kien-thuc-sat-hach-nha-hang-225",
+    "no": 225,
+    "text": "Đang dọn vệ sinh trong nhà hàng Anh/Chị vô tình thấy điện thoại của khách quên, hành động xử lý nào của anh/ chị là đúng?",
+    "options": [
+     "Hảy nhận lấy và sử dụng cho riêng mình.",
+     "Hảy im lặng và rời vị trí đó ngay vì bạn sẽ phải bị hiểu lầm ăn cắp",
+     "Theo dõi thiết bị và báo cáo sự việc ngay lập tức cho Giám sát, Quản lí Nhà hàng, Cấp trên có thể hỗ trợ.",
+     "Chủ động chạy quanh các khu vực để tìm chủ nhân"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "kien-thuc-sat-hach-nha-hang-226",
+    "no": 226,
+    "text": "Khi bạn bị ốm đau đột xuất không thể đi làm được ngày hôm đó, bạn sẽ làm gì?",
+    "options": [
+     "Nghỉ và hôm sau lên báo",
+     "Nghỉ vài ngày đến khi khỏe",
+     "Báo cáo ngay cho Tổ trưởng/Giám sát/Quản lý tạp vụ và trình giấy ốm khi đi làm lại",
+     "Báo cho Phó/Trưởng bộ phận Nhà Hàng"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "kien-thuc-sat-hach-nha-hang-227",
+    "no": 227,
+    "text": "Hằng ngày, bạn cần làm việc theo file nào?",
+    "options": [
+     "Bảng mô tả , phân chia công việc hằng ngày.",
+     "Bảng mô tả , bố trí công việc định kỳ trong tháng",
+     "Bảng mô tả, bố trí kho",
+     "Bảng theo dõi năng suất làm việc"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "kien-thuc-sat-hach-nha-hang-228",
+    "no": 228,
+    "text": "Sử dụng hóa chất đúng cách và hiệu quả phải làm theo các yếu tố nào?",
+    "options": [
+     "Đúng nhiệt độ",
+     "Đúng thời gian",
+     "Đúng thời tiết",
+     "Sử dụng đúng nồng độ và tỷ lệ do nhà sản xuất đưa ra, được Quản lý niêm yết"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "kien-thuc-sat-hach-nha-hang-229",
+    "no": 229,
+    "text": "Trong trường hợp lau chùi cửa kính mà không có hóa chất chuyên dụng cho kính, bạn có thể dùng?",
+    "options": [
+     "Bất kì dung dịch, hóa chất có tính đa năng (pH 6 đến 8)",
+     "Crew",
+     "Shine up",
+     "Emerel"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "kien-thuc-sat-hach-nha-hang-230",
+    "no": 230,
+    "text": "Loại hóa chất nào không được tiếp xúc với thực phẩm?",
+    "options": [
+     "Crew",
+     "Shine up",
+     "Jumbo",
+     "Tất cả các loại dung dịch/hóa chất tẩy rửa đều không được tiếp xúc"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "kien-thuc-sat-hach-nha-hang-231",
+    "no": 231,
+    "text": "Vào các mùa cao điểm, rác thải trong các thùng tại từng khu vực kinh doanh được tiến hành ra sao?",
+    "options": [
+     "Hảy để đầy rồi thay luôn",
+     "Hảy thay mới và để rác cũ ở đó",
+     "Thay bao mới khi đầy 2/3 thùng. Tập kết rác tại kho rác đúng quy định",
+     "Báo cáo cấp trên"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "kien-thuc-sat-hach-nha-hang-232",
+    "no": 232,
+    "text": "Hóa chất, dung dịch có tính axit có được sử dụng cho vật liệu kim loại không và vì sao?",
+    "options": [
+     "Không, vì có tính ăn mòn",
+     "Không, vì có tính kiềm",
+     "Không, vì có tính bazo",
+     "Được, vì có tính axit"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "kien-thuc-sat-hach-nha-hang-233",
+    "no": 233,
+    "text": "Kí hiệu đầu sọ có chữ T+ là nhãn cảnh báo gì?",
+    "options": [
+     "Chất ăn mòn",
+     "Chất độc với môi trường",
+     "Chất dễ cháy",
+     "Chất rất độc"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "kien-thuc-sat-hach-nha-hang-234",
+    "no": 234,
+    "text": "Sử dụng các loại đèn xông tinh dầu, hiện tại để làm gì?",
+    "options": [
+     "Để trang trí cho nhà hàng",
+     "Triệt khuẩn",
+     "Để sử dụng kết hợp với tinh dầu để khử mùi, tạo không gian dể chịu, thơm mát",
+     "Đúng theo yêu cầu Cấp trên"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "kien-thuc-sat-hach-nha-hang-235",
+    "no": 235,
+    "text": "Trong quy trình làm vệ sinh phòng toilet, bước đầu tiên là gì?",
+    "options": [
+     "Quét sàn",
+     "Lau sàn",
+     "Đánh sàn",
+     "Gõ cửa, treo bảng báo đang làm vệ sinh"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "kien-thuc-sat-hach-nha-hang-236",
+    "no": 236,
+    "text": "Trong các tất cả quy trình làm vệ sinh, bước cuối cùng trong tất cả rất quan trọng đó là gì?",
+    "options": [
+     "Tắt điện, tiết kiệm điện năng tiêu thụ",
+     "Báo cáo với cấp trên tình trạng hoàn thành",
+     "Kiểm tra tổng thể lần cuối",
+     "Khử mùi, tạo hương"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "kien-thuc-sat-hach-nha-hang-238",
+    "no": 238,
+    "text": "Trường hợp khách hàng bị mất tài sản trong Công ty và gặp anh chị để giải quyết, anh chị sẽ làm gì?",
+    "options": [
+     "Lấy thông tin, cho khách điền thông tin vào phiếu kê khai tài sản bị mất, liên hệ với các bộ phận để xác minh, nếu chưa tìm được tài sản thì ghi nhận lại và báo khách thời gian phản hồi để trả lời kết quả sau đó",
+     "Phụ khách đi tìm ở các khu vực khách đã đi qua",
+     "Hướng dẫn khách tìm đến phòng KTKS nội bộ để ghi nhận thông tin",
+     "Tỏ ra thông cảm và liên hệ các bộ phận để xác minh và phản hồi cho khách tình hình"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "kien-thuc-sat-hach-nha-hang-239",
+    "no": 239,
+    "text": "Một nhân viên tác phong nghiêm túc bao gồm những yếu tố nào sau đây?",
+    "options": [
+     "Đồng phục, đầu tóc, gương mặt, vệ sinh cá nhân, trang sức",
+     "Giày dép, quần áo, mũ nón, đồng hồ",
+     "Đầu tóc, trang điểm, chiều cao, cân nặng",
+     "Giọng nói, cách đi đứng, thái độ làm việc"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "kien-thuc-sat-hach-nha-hang-240",
+    "no": 240,
+    "text": "Hành vi nào sai đối với việc bảo mật thông tin khách hàng?",
+    "options": [
+     "Không thu thập lưu trữ thông tin cá nhân của khách hàng",
+     "Không hợp tác với bên ngoài để tìn kiếm thông tin cá nhân của khách hàng",
+     "Chỉ tiết lộ thông tin di chuyển của khách hàng",
+     "Tiết lộ thông tin cá nhân của khách hàng, đối tác"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "kien-thuc-sat-hach-nha-hang-242",
+    "no": 242,
+    "text": "Pole 1,2m là gì?",
+    "options": [
+     "Cây nối dài lau kính có kích thước 1,2m",
+     "Mop lau sàn có kích thức 1,2m",
+     "Than chữ A có chiều dài 1,2m",
+     "Cần hút nước"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "kien-thuc-sat-hach-nha-hang-243",
+    "no": 243,
+    "text": "BDS 43/150C là thiết bị gì?",
+    "options": [
+     "Máy đánh sàn đơn Karcher",
+     "Máy hút nước Hiclean",
+     "Máy áp lực nước Karcher",
+     "Máy hơi nước nóng Karcher"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "kien-thuc-sat-hach-nha-hang-244",
+    "no": 244,
+    "text": "Quy cách bao rác đang sử dụng cho Buffet là gì?",
+    "options": [
+     "60x80 không quai",
+     "60x80 có quai",
+     "75x100 có quai",
+     "45x85 không quai"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "kien-thuc-sat-hach-nha-hang-245",
+    "no": 245,
+    "text": "Quy cách bao rác đang sử dụng cho Alacarte là gì?",
+    "options": [
+     "60x80 không quai",
+     "75x100 có quai",
+     "75x100 không quai",
+     "45x85 không quai"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "kien-thuc-sat-hach-nha-hang-246",
+    "no": 246,
+    "text": "Extra foam (5l/Can) là dung dịch gì?",
+    "options": [
+     "Chế phẩm giặt thảm",
+     "Hóa chất tẩy rỉ sét",
+     "Dung dịch vệ sinh sát khuẩn",
+     "Dung dịch tẩy đốm"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "kien-thuc-sat-hach-nha-hang-247",
+    "no": 247,
+    "text": "Stein ext (5l/Can) là dung dịch gì?",
+    "options": [
+     "Dung dịch tẩy kẹo cao su",
+     "Hóa chất tẩy vết trà, cafe",
+     "Chế phẩm giặt thảm",
+     "Dung dịch tẩy đốm trên vải"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "kien-thuc-sat-hach-nha-hang-248",
+    "no": 248,
+    "text": "Khi kết hợp Extra foam và Stein ext trong quá trình xử lí ghế sofa, tỉ lệ pha 2 dung dịch là như thế nào?",
+    "options": [
+     "3 Extra foam : 1 Stein ext",
+     "5 Extra foam : 1 Stein ext",
+     "1 Extra foam : 1 Stein ext",
+     "2 Extra foam : 1 Stein ext"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "kien-thuc-sat-hach-nha-hang-249",
+    "no": 249,
+    "text": "Sử dụng pad đánh sàn có số inch bao nhiêu cho máy đánh sàn đơn Karcher 43/150c?",
+    "options": [
+     "16",
+     "18",
+     "20",
+     "21"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "kien-thuc-sat-hach-nha-hang-250",
+    "no": 250,
+    "text": "Một trong những lưu ý đối với vệ sinh thang máy?",
+    "options": [
+     "Không sử dụng CCDC, vật liệu thô ráp hoặc sắt nhọn",
+     "Cần dụng hóa chất có tính axit cao",
+     "Cần dụng CCDC,vật liệu thô ráp tạo mài mòn",
+     "Sử dụng pad đỏ kết hợp"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "kien-thuc-sat-hach-nha-hang-251",
+    "no": 251,
+    "text": "Hóa chất diệt khuẩn Suma J512 có tác dụng ngăn ngừa vi khuẩn xâm nhập trong bao nhiêu giờ đồng hồ?",
+    "options": [
+     "1h",
+     "2h",
+     "3h",
+     "4h"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "kien-thuc-sat-hach-nha-hang-252",
+    "no": 252,
+    "text": "Hóa chất Suma dual dip được sử dụng như thế nào?",
+    "options": [
+     "Pha 6-12 gram Dual Dip vào 1 lít nước nóng 60 độ C ,ngâm đồ nhựa sành sứ ít nhất 2h để cho kết quả tốt nhất",
+     "Hóa chất ngâm tẩy sạch các vết trà, cà phê trên đồ nhựa và men sứ",
+     "Ngâm đồ nhựa và men sứ trong dung dịch vừa pha trong vòng 15 phút đến 2 tiếng. Liều lượng và thời gian ngâm tuỳ thuộc vào độ đậm màu của vêt trà, càphê",
+     "Pha 5gram vào 1 lít nước ,ngâm sành sứ thủy tinh qua đêm sau đó chà sạch"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "kien-thuc-sat-hach-nha-hang-253",
+    "no": 253,
+    "text": "Hóa chất suma J512 được pha sẵn từ máy theo tỷ lệ  hóa chất và nước như thế nào là đúng?",
+    "options": [
+     "Pha 1 phần J 512 với 512 phần nước để có nồng độ 200 ppm. Xịt ướt bề mặt với dung dịch vừa pha hoặc ngâm ngập các đồ cần diệt khuẩn trong dung dịch",
+     "Pha 1 phần J 512 với 100 phần nước\nNgâm các đồ dùng trong dung dịch vừa pha ít nhất 1 phút. Tráng lại với nước sạch",
+     "1:512 (200 ppm) (không cần tráng lại bằng nước).  1:100 (nồng độ cao) (cần tráng lại với nước sạch)",
+     "Hóa chất vệ sinh diệt khuẩn gốc Q.A.C, dạng lỏng dùng cho các bề mặt tiếp xúc với thực phẩm."
+    ],
+    "answer": 2
+   },
+   {
+    "id": "kien-thuc-sat-hach-nha-hang-254",
+    "no": 254,
+    "text": "Kho rác vệ sinh bao nhiêu lần trong ngày?",
+    "options": [
+     "2 lần",
+     "3 lần",
+     "4 lần",
+     "sau khi thu gom rác thải"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "kien-thuc-sat-hach-nha-hang-255",
+    "no": 255,
+    "text": "Nhân viên tạp vụ thực hiện các công việc hàng ngày theo cách nào?",
+    "options": [
+     "Theo sự phân công của quản lý và bảng checklist công việc",
+     "Bảng mô tả công việc tạp vụ",
+     "Theo sự phân công của quản lý",
+     "Theo sự phân công của tổ trưởng"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "kien-thuc-sat-hach-nha-hang-256",
+    "no": 256,
+    "text": "Thùng rác được phân biệt các loại rác thải nào",
+    "options": [
+     "Rác khô và rác ướt",
+     "Rác hữu cơ và rác vô cơ",
+     "Thức ăn thừa và bao giấy",
+     "Thức ăn thừa, bao nilong và vỏ chai lon"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "kien-thuc-sat-hach-nha-hang-257",
+    "no": 257,
+    "text": "Hóa chất Suma Breakup HD được pha với tỷ lệ hóa chất và nước là bao nhiêu ?",
+    "options": [
+     "Là 1:20 - 1:50 tùy theo vết bẩn do dầu mỡ",
+     "Là 0.0625",
+     "Là 1:1 - 1:10 tùy theo vết bẩn do dầu mỡ",
+     "Là 0.0555555555555556"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "kien-thuc-sat-hach-nha-hang-258",
+    "no": 258,
+    "text": "Hóa chất Suma Spectrum DC được pha với nước tỷ lệ bao nhiêu ?",
+    "options": [
+     "1:50 tùy theo vết bẩn",
+     "Pha tỉ lệ 1:15 hoặc lấy từ thiết bị pha hóa chất gắn trên tường",
+     "Sử dụng theo máy pha sẵn",
+     "Là 0.0625"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "kien-thuc-sat-hach-nha-hang-259",
+    "no": 259,
+    "text": "Thùng rác được vệ sinh như thế nào sạch và đúng quy trình?",
+    "options": [
+     "Hóa chất tẩy rửa lau chùi bên trong bên ngoài thùng rác.\ndùng nước xả sạch lại thùng rác. khăn lau khô thùng rác và thay bao rác mới",
+     "Dùng nước xả sạch lại thùng rác.dùng khăn lau khô thùng rác và thay bao rác mới",
+     "Chuẩn bị dụng cụ xúc rác,chổi nhựa,cây cào nước ,máy đánh sàn , máy hút nước, hóa chất  tẩy rửa và khử trùng  Suma Breakup hóa chất khử mùi Suma Spectrum",
+     "Bao rác sau khi được thu gom vào kho ,chuẩn bị miếng chà rửa,hóa chất tẩy rửa và khử trùng  Suma Breakup, khăn lau khô"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "kien-thuc-sat-hach-nha-hang-260",
+    "no": 260,
+    "text": "Tiết kiệm nước nhằm mục đích gì?",
+    "options": [
+     "Nguồn nước đang khan hiếm",
+     "Giảm thiểu chi phí kinh doanh",
+     "Góp phần bảo vệ tài nguyên môi trường.",
+     "Giảm thiểu chi phí kinh doanh\n Nguồn nước đang khan hiếm\nGóp phần bảo vệ tài nguyên môi trường."
+    ],
+    "answer": 3
+   },
+   {
+    "id": "kien-thuc-sat-hach-nha-hang-261",
+    "no": 261,
+    "text": "Thiết bị máy đánh sàn đơn  đang sử dụng thông số kĩ thuật/mã máy như thế nào?",
+    "options": [
+     "Karcher BDS 43/150",
+     "Karcher BDS 43/Orbital C Spray",
+     "Karcher BDS 43/Duo C",
+     "Nilfisk P17"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "kien-thuc-sat-hach-nha-hang-262",
+    "no": 262,
+    "text": "Thiết bị máy đánh sàn liên hợp đang sử dụng có thông số/mã máy như thế nào?",
+    "options": [
+     "Karcher BD 50/50 C Bp Classic",
+     "Karcher BD 50/60 C Ep Classic",
+     "Karcher B 40 W Bp",
+     "Nilfisk Liperty SC50"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "kien-thuc-sat-hach-nha-hang-263",
+    "no": 263,
+    "text": "Thiết bị máy phun rửa áp lực đang sử dụng có thông số/mã như thế nào?",
+    "options": [
+     "Karcher HD 6/15 M",
+     "Karcher HD 6/12 C",
+     "Karcher K2",
+     "Nilfisk MC 4M -140/740 XT"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "kien-thuc-sat-hach-nha-hang-264",
+    "no": 264,
+    "text": "Dung dịch dùng tẩy trắng vải đang được sử dụng, bạn có thể lựa chọn là?",
+    "options": [
+     "Gift",
+     "Javen",
+     "Omo",
+     "Freedom"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "kien-thuc-sat-hach-nha-hang-265",
+    "no": 265,
+    "text": "Đâu là công dụng của hóa chất Suma J512",
+    "options": [
+     "Hóa chất ngâm tẩy sành sứ",
+     "Hóa chất tẩy trắng",
+     "Hóa chất làm sạch đa năng",
+     "Hóa chất khử trùng bề mặt"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "kien-thuc-sat-hach-nha-hang-266",
+    "no": 266,
+    "text": "Đâu là công dụng của hóa chất Dua Dip?",
+    "options": [
+     "Tẩy cặn bám trà, café trên đồ nhựa,sành sứ",
+     "Hóa chất đánh bóng phục hồi đá cẩm thạch",
+     "Hóa chất tẩy trắng",
+     "Hóa chất làm sạch đa năng"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "kien-thuc-sat-hach-nha-hang-267",
+    "no": 267,
+    "text": "Đâu là công dụng của hóa chất Pasta Blanca?",
+    "options": [
+     "Phủ bóng chấm thấm",
+     "Đánh bóng sành sứ",
+     "Đánh bóng inox",
+     "Đánh bóng sàn đá, cẩm thạch"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "kien-thuc-sat-hach-nha-hang-268",
+    "no": 268,
+    "text": "Snap back là hóa chất có công dụng gì?",
+    "options": [
+     "Hóa chất tăng cường độ bóng sàn đá",
+     "Hóa chất đánh bóng phục hồi đá cẩm thạch",
+     "Hóa chất phục hồi inox",
+     "Hóa chất đánh bóng kính"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "kien-thuc-sat-hach-nha-hang-269",
+    "no": 269,
+    "text": "Forward DC là hóa chất có công dụng gì?",
+    "options": [
+     "Hóa chất vệ sinh đa năng",
+     "Hóa chất tăng cường độ bóng",
+     "Hóa chất giặt tẩy",
+     "Hóa chất khử trùng bề mặt"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "kien-thuc-sat-hach-nha-hang-270",
+    "no": 270,
+    "text": "Đâu là cách xử lý tai nạn hóa chất khi hóa chất rơi vào mắt?",
+    "options": [
+     "Rửa mắt thật kỹ dưới vòi nước chảy nhẹ tối thiểu 10 đến 15 phút",
+     "Cố gắng mở mắt và duy trì mở mắt càng rộng càng tốt",
+     "Giữ ấm mắt và di chuyển tới trung tâm y tế gần nhất cùng với bảng PIS và MSDS hóa chất hoặc vỏ/bì hóa chất",
+     "Tất cả các phương án trên"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "kien-thuc-sat-hach-nha-hang-271",
+    "no": 271,
+    "text": "Để vệ sinh kính có tình trạng vảy cá, hóa chất lựa chọn tối ưu nào trong các loại sau đây?",
+    "options": [
+     "Emerel",
+     "Crew",
+     "Javen",
+     "Forward DC"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "kien-thuc-sat-hach-nha-hang-272",
+    "no": 272,
+    "text": "Để đánh bóng sàn đá marble, lựa chọn hóa chất nào sau đây?",
+    "options": [
+     "Crew",
+     "J512",
+     "Pasta Blanca",
+     "Freedom"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "kien-thuc-sat-hach-nha-hang-273",
+    "no": 273,
+    "text": "Sau khi đánh bóng phục hồi sàn đá marble, bước tăng cường độ bóng sử dụng hóa chất nào sau đây?",
+    "options": [
+     "Crew",
+     "Suma Break Up HD",
+     "Emerel",
+     "Snap back"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "kien-thuc-sat-hach-nha-hang-274",
+    "no": 274,
+    "text": "Đâu là sai khi xử lý tai nạn hóa chất khi hóa chất dính vào da?",
+    "options": [
+     "Tháo bỏ quần áo & bỏ vào khu vực riêng",
+     "Rửa thật sạch hóa chất trên da bằng nước sạch",
+     "Tham vấn bác sĩ và mang theo bảng PIS và MSDS hóa chất",
+     "Không rửa nước, giữ nguyên vùng da tiếp xúc hóa chất đến trung tâm y tế"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "kien-thuc-sat-hach-nha-hang-275",
+    "no": 275,
+    "text": "Đâu là sai khi xử lý tai nạn hóa chất khi uống nhầm hóa chất?",
+    "options": [
+     "Súc miệng ngay với nước",
+     "Uống thật nhiều nước hoặc sữa",
+     "Không bắt buộc phải nôn ra",
+     "Cố gắng nôn càng nhiều càng tốt"
+    ],
+    "answer": 3
+   }
+  ],
+  "group": "SBD PAT"
+ },
+ {
+  "id": "nghiep-vu-fb",
+  "name": "Nghiệp vụ FB",
+  "questions": [
+   {
+    "id": "nghiep-vu-fb-1",
+    "no": 1,
+    "text": "FIFO là viết tắt của từ gì?",
+    "options": [
+     "Final in first out",
+     "First in first out",
+     "Final in final out",
+     "First in final out"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "nghiep-vu-fb-2",
+    "no": 2,
+    "text": "Hành vi nào là đúng đối với việc bảo mật thông tin khách hàng?",
+    "options": [
+     "Thu thập lưu trữ thông tin cá nhân của khách hàng",
+     "Hợp tác với bên ngoài để tìn kiếm thông tin cá nhân của khách hàng",
+     "tiết lộ thông tin di chuyển của khách hàng",
+     "Không Tiết lộ thông tin cá nhân của khách hàng, đối tác"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "nghiep-vu-fb-3",
+    "no": 3,
+    "text": "Khi gặp vấn đề về điện (bóng đèn, điều hòa…) cần liên hệ với ai?",
+    "options": [
+     "PA (Vệ sinh công cộng)",
+     "Kỹ thuật",
+     "Quản lý trực tiếp",
+     "Bất cứ ai có thể khắc phục được vì tình huống khẩn cấp, không gọi được cho bộ phận chuyên trách"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "nghiep-vu-fb-4",
+    "no": 4,
+    "text": "Một nhân viên tác phong nghiêm túc bao gồm những yếu tố nào sau đây?",
+    "options": [
+     "Đồng phục, đầu tóc, gương mặt, vệ sinh cá nhân, trang sức",
+     "Giày dép, quần áo, mũ nón, đồng hồ",
+     "Đầu tóc, trang điểm, chiều cao, cân nặng",
+     "Giọng nói, cách đi đứng, thái độ làm việc"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "nghiep-vu-fb-5",
+    "no": 5,
+    "text": "Nếu bạn sơ ý làm vỡ một cái ly, hành động xử lí nào sau đây là đúng?",
+    "options": [
+     "Giữ im lặng để tránh quản lý biết.",
+     "Tự đền tiền, báo thu ngân post phí bể vỡ xem như là khách làm vỡ, xem như không có chuyện gì",
+     "Bỏ vào sọt rác",
+     "Báo giám sát làm biên bản báo cáo bể vỡ,  gom bỏ vào sọt đựng CCDC bể vỡ"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "nghiep-vu-fb-6",
+    "no": 6,
+    "text": "Nhiệt độ lưu mẫu thức ăn theo quy định là bao nhiêu?",
+    "options": [
+     "Nhiệt độ phòng(16-18oC)",
+     "Nhiệt độ bảo quản mẫu lưu từ -18\noC đến 0oC",
+     "Nhiệt độ bảo quản mẫu lưu từ -10\noC đến 0oC",
+     "Nhiệt độ bảo quản mẫu lưu từ 2\noC đến 8oC"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "nghiep-vu-fb-7",
+    "no": 7,
+    "text": "Nhiệt độ lưu trữ thức ăn theo quy định là bao nhiêu?",
+    "options": [
+     "- Thực phẩm đông lạnh được giữ ở nhiệt độ ≤-8 ° C và không được cấp đông lại\n- Thực phẩm lạnh được giữ ở nhiệt độ ≤0 ° C\n- Thức ăn nóng được giữ ở nhiệt độ ≥63 ° C",
+     "- Thực phẩm đông lạnh được giữ ở nhiệt độ ≤-18 ° C và không được cấp đông lại\n- Thực phẩm lạnh được giữ ở nhiệt độ ≤4 ° C\n- Thức ăn nóng được giữ ở nhiệt độ ≥63 ° C",
+     "- Thực phẩm đông lạnh được giữ ở nhiệt độ ≤-18 ° C và không được cấp đông lại\n- Thực phẩm lạnh được giữ ở nhiệt độ ≤0 ° C\n- Thức ăn nóng được giữ ở nhiệt độ ≥80 ° C",
+     "- Thực phẩm đông lạnh được giữ ở nhiệt độ ≤-28 ° C và không được cấp đông lại\n- Thực phẩm lạnh được giữ ở nhiệt độ ≤4 ° C\n- Thức ăn nóng được giữ ở nhiệt độ ≥70 ° C"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "nghiep-vu-fb-8",
+    "no": 8,
+    "text": "Quy định lưu trữ hàng hóa trong kho?",
+    "options": [
+     "Tất cả thực phẩm được lưu trữ trên sàn và tường để có đủ không gian giữa nguyên liệu và tường để thực hiện các hoạt động kiểm soát và kiểm soát dịch hại.",
+     "Tất cả thực phẩm được lưu trữ trên pallet đặt sát sàn và tường để thực hiện các hoạt động kiểm soát và kiểm soát dịch hại.",
+     "Tất cả thực phẩm được lưu trữ trên pallet cách xa sàn và tường để có đủ không gian giữa nguyên liệu và tường để thực hiện các hoạt động kiểm soát và kiểm soát dịch hại.",
+     "Tất cả thực phẩm được lưu trữ trên pallet cách xa sàn và đặt sát tường để thực hiện các hoạt động kiểm soát dịch hại."
+    ],
+    "answer": 2
+   },
+   {
+    "id": "nghiep-vu-fb-9",
+    "no": 9,
+    "text": "Khi khách để quên đồ anh chị xử lý như thế nào?",
+    "options": [
+     "Giữ luôn, coi như thuộc của mình",
+     "Nhân viên sau 10 phút không có khách nhận lại lập biên bản tài sản thất lạc, sau đó giao tài sản nhặt được cho trưởng bộ phận giữ, đến cuối ca làm việc không có khách nhận TBP, quản lý giao lại cho KTKS nội bộ giữ",
+     "Giữ nguyên vị trí vật dụng để quên, và quan sát từ xa",
+     "Coi như không biết."
+    ],
+    "answer": 1
+   },
+   {
+    "id": "nghiep-vu-fb-10",
+    "no": 10,
+    "text": "Anh chị hãy chọn phương án xử lý khách than phiền đúng nhất sau đây mà anh chị đã được học?",
+    "options": [
+     "Lắng nghe và báo cáo",
+     "Lắng nghe, giải quyết, phản hồi và kiểm tra",
+     "Lắng nghe, phản hồi, kiểm tra và giải quyết",
+     "Giải quyết, phản hồi, kiểm tra và lắng nghe khách"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "nghiep-vu-fb-11",
+    "no": 11,
+    "text": "Bước đầu tiên trong quy trình phục vụ là gì?",
+    "options": [
+     "Lấy order",
+     "Phục vụ thức ăn",
+     "Phục vụ thức uống",
+     "Chào đón khách"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "nghiep-vu-fb-12",
+    "no": 12,
+    "text": "Ý kiến nào sau đây là sai trong nguyên tắc sắp xếp hàng hóa?",
+    "options": [
+     "Hàng hóa phải được phân loại và sắp xếp theo đúng chủng loại",
+     "Hàng hóa phải được kiểm đếm cho đúng số lượng như ban đầu xuất kho",
+     "Tuân thủ nguyên tắc phòng cháy chữa cháy khi sắp xếp kho (hành lang cứu hỏa và độ cao trần…)",
+     "Dồn tất cả vào chung 1 kho, càng nhiều càng tốt, sắp xếp sau"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "nghiep-vu-fb-13",
+    "no": 13,
+    "text": "Anh/chị đã để vượt thời gian qui định về thời hạn hoàn thành công việc được giao anh/chị sẽ làm gì và xử lý như thế nào tình huống này?",
+    "options": [
+     "Báo cáo cấp trên đã quên và chịu phạt",
+     "Báo cáo cấp trên đã chưa thể hoàn thành được công việc và cần sự cố vấn hướng dẫn thêm của cấp trên để hoàn thành công việc trễ thêm một thời gian",
+     "Xin lỗi cấp trên đã trễ hẹn và xin cố vấn và hướng dẫn thêm do tính chất công việc khó chưa thể hoàn thành đúng hạn",
+     "Báo cáo cho cấp trên nguyên nhân từ việc không hoàn thành thời hạn công việc được giao theo deadline. Xin ý kiến của sếp chỉ đạo & và chịu hoàn toàn trách nhiệm"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "nghiep-vu-fb-14",
+    "no": 14,
+    "text": "Khi khách đang uống trà khách xin thêm một xíu đường để pha thêm vào trà là nhân viên phục vụ em sẽ làm gì?",
+    "options": [
+     "Báo không có",
+     "Vui vẻ báo khách đợi trong giây lát sẽ phục vụ khách ngay",
+     "Báo cho quản lý",
+     "Yêu cầu tính thêm tiền mới phục vụ"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "nghiep-vu-fb-15",
+    "no": 15,
+    "text": "Nhân viên bị đau đột xuất và gọi điện báo nghỉ 3 ngày không thể đi làm, anh/chị sẽ giải quyết như thế nào?",
+    "options": [
+     "Không thể giải quyết và báo Giám Đốc giải quyết",
+     "Báo cho cấp trên trực tiếp giải quyết hộ, xin hỗ trợ vì thiếu nhân sự",
+     "Lắng nghe sự việc, đồng ý, yêu cầu nhân viên nộp giấy báo bệnh sau khi làm lại, báo cáo sự việc ngay lập tức cho quản lý trực tiếp và xin hỗ trợ nếu cần thiết",
+     "Yêu cầu nhân viên phải đến nhà hàng, nếu nhân viên thực sự bị ốm thì mới cho về nghỉ"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "nghiep-vu-fb-16",
+    "no": 16,
+    "text": "Khách gọi bạn lại để đưa cho bạn 1 cái ly bị mẻ và tỏ thái độ cực kỳ tức giận. Bạn sẽ xử lý như thế nào?",
+    "options": [
+     "Bạn tỏ vẻ nghi ngờ rằng khách đã làm hỏng ly và đổ lỗi cho nhà hàng để tránh bị đền bù cái ly. Bạn đôi co, tranh cải với khách giữa nhà hàng",
+     "Bạn lấy ngay ly mới thay cho khách và xem như chưa có chuyện gì xảy ra",
+     "Bạn xác định được độ nguy hiểm của việc này và lý do tức giận của khách. Ngay lập tức bạn thể hiện thái độ chân thành và xin lỗi mong khách thông cảm. Xin phép khách để thay ngay ly mới. Báo quản lý để follow up",
+     "Thấy thái độ của khách cực kỳ tức giận nên bạn gọi ngay quản lý đến để giải quyết vấn đề"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "nghiep-vu-fb-17",
+    "no": 17,
+    "text": "Khi nhà hàng anh chị đang phục vụ khách nhà hàng hết chỗ ngồi và không đủ nhân sự phục vụ khách. Anh chị thực hiện các bước nào sau đây?",
+    "options": [
+     "Xin người hỗ trợ để dọn bàn và phục vụ khách",
+     "Thông báo với khách việc tạm thời ngưng nhận khách và ngưng phục vụ khách",
+     "Không đón khách mới và ngưng bán hàng",
+     "Thông báo thu ngân và nhân viên tạm thời ngưng nhận khách, không bán thêm cho khách mới, giải quyết hết các tồn đọng, gọi thêm nhân viên hỗ trợ"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "nghiep-vu-fb-18",
+    "no": 18,
+    "text": "Khi nhân viên bạn mắc lỗi khi phục vụ và làm khách rất không hài lòng. Bạn sẽ xử lý nhân viên đó như thế nào trong lúc sự việc đang cần người xử lý?",
+    "options": [
+     "Bạn lắng nghe báo cáo từ nhân viên về sự việc. Lắng nghe lời phàn nàn từ khách. Bạn phân định được sự việc và tìm hướng giải quyết để đảm bảo khách hài lòng và nhân viên bạn được học hỏi, nhận ra cái sai",
+     "Bạn lắng nghe báo cáo của nhân viên. Lắng nghe lời phàn nàn của khách. Bạn ra sức bảo vệ nhân viên trước mặt khách rằng đó không phải lỗi của nhân viên mà là lỗi của khách. Bạn muốn làm hài lòng nhân viên cấp dưới vì bạn hoàn tin tưởng nhân viên đã được đào tạo rất tốt từ bạn",
+     "Bạn lắng nghe báo cáo của nhân viên. Lắng nghe phàn nàn từ khách. Bạn gọi nhân viên đến để quát mắng nhân viên trước mặt khách để làm dịu đi sự tức giận của khách. Yêu cầu nhân viên xin lỗi khách và hứa sẽ không tái phạm để làm ảnh hưởng đến uy tín của nhà hàng",
+     "Bạn lắng nghe báo cáo của nhân viên về sự việc. Bạn yêu cầu nhân viên tự giải quyết hoặc gọi ai đó giải quyết. Bạn đang bận việc khác quan trọng hơn"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "nghiep-vu-fb-19",
+    "no": 19,
+    "text": "Nhân viên anh/chị báo một mặt hàng tại điểm kinh doanh vừa bán hết, anh/chị xử lý như thế nào để đảm bảo hàng kinh doanh?",
+    "options": [
+     "Tìm nhà hàng khác để điều chuyển, nếu nhà hàng khác cũng hết, thì tiến hành làm lại thực đơn mới để khách không hỏi món này",
+     "Tìm hiểu xem có nhà hàng hoặc kho tổng có còn hàng không, nếu có thì điều chuyển về bán, nếu không có thì thông báo cho nhân viên biết mặt hàng đã hết để tất cả nhân viên nắm được và trả lời cho khách hàng biết để tránh than phiền xảy ra",
+     "Phản ảnh vấn đề lên cấp trên và kho không PR kịp thời hàng hóa cho nhà hàng, tìm hiểu xem có nhà hàng nào còn, nếu có thì điều chuyển về bán, nếu không có thì thông báo cho nhân viên biết mặt hàng đã hết trong ngày để trả lời cho khách hàng biết để tránh than phiền xảy ra",
+     "Phản ảnh vấn đề lên cấp trên và kho không PR kịp thời hàng hóa cho nhà hàng, tìm nhà hàng khác để điều chuyển, nếu nhà hàng khác cũng hết, thì tiến hành làm lại thực đơn mới để khách không hỏi món này"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "nghiep-vu-fb-20",
+    "no": 20,
+    "text": "Theo anh/chị dựa vào tiêu chí nào sau đây để đánh giá năng lực của một nhân viên?",
+    "options": [
+     "Sự trung thành, niềm đam mê công việc, sự nhanh nhẹn hoạt bát, không mắc lỗi trong quá trình phục vụ",
+     "Nhanh nhẹn, hoạt bát, đoàn kết, năng động trong quá trình phục vụ, kỹ lưỡng trong chăm sóc khách và hoàn thiện các kỹ năng mềm và nắm vững qui trình phục vụ, ít khi mắc các lỗi cơ bản",
+     "Tinh thần đoàn kết, trung thành và không mắc lỗi trong quá trình phục vụ, biết trên biết dưới",
+     "Phục vụ ân cần, chu đáo, có tính cầu tiến, có phát huy sáng tạo, trung thành"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "nghiep-vu-fb-21",
+    "no": 21,
+    "text": "Nhân viên anh/ chị đánh nhau với nhân viên bộ phận khác trong giờ làm việc anh/chị sẽ làm gì?",
+    "options": [
+     "Can ngăn không để tiếp tục đánh nhau và báo với nhân viên an ninh hỗ trợ, lập biên bản sự việc, họp kiểm điểm và xử lý theo qui định công ty",
+     "Thông báo với Phòng An ninh và Giám Đốc công ty về sự việc",
+     "Gọi hỗ trợ can ngăn và tìm hiểu sự việc, giải quyết giảng hòa để nhân viên quay lại vị trí làm việc",
+     "Gọi hỗ trợ từ nhân viên an ninh, can ngăn ngay, lập biên bản ghi nhận sự việc, báo cáo lên quản lý trực tiếp về sự việc và cách giải quyết, hậu quả sự việc"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "nghiep-vu-fb-22",
+    "no": 22,
+    "text": "Ý kiến nào sau đây là không đúng khi sắp xếp và kiểm soát hàng hóa?",
+    "options": [
+     "Hàng hóa phải được phân loại và sắp xếp theo đúng chủng loại",
+     "Hàng hóa phải được kiểm đếm cho đúng số lượng nhập, xuất, đảm bảo chứng từ đầy đủ",
+     "Tuân thủ nguyên tắc phòng cháy chữa cháy khi sắp xếp kho (hành lang cứu hỏa và độ cao trần…)",
+     "Mặt hàng nặng chất lên cao phía trên, hàng nhẹ để ở phía dưới cho dễ lấy.\nHàng nào bán chạy thì để ra phía bên ngoài, ít bán thì để vào phía trong"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "nghiep-vu-fb-23",
+    "no": 23,
+    "text": "Khách than phiền có vật lạ trong ly thức uống của khách anh/ chị sẽ làm gì?",
+    "options": [
+     "Xin lỗi khách vì trường hợp ngoài ý muốn này, xin phép khách mang ly thức uống có vật lạ vào trong. Hỏi ý khách có muốn làm ly mới hay thay đổi món uống khác. Không tính tiền ly đồ uống đó. Yêu cầu nhân viên pha chế giải trình và xử lý khiển trách theo quy định",
+     "Ra tận bàn khách và xin lỗi khách vì trường hợp ngoài ý muốn này, xin phép khách mang ly thức uống có vật lạ vào trong. Hỏi ý khách có muốn làm ly mới hay thay đổi món uống khác. Không tính tiền ly đồ uống đó.",
+     "Ra tận bàn khách và xin lỗi khách vì trường hợp ngoài ý muốn này, xin phép khách mang ly thức uống có vật lạ vào trong. Hỏi ý khách có muốn làm ly mới hay thay đổi món uống khác. Làm mới ly đồ uống khác theo yêu cầu của khách. Không tính tiền ly đồ uống hỏng đó (có thể giảm giá hoặc không tính tiền ly đồ uống mới tùy theo chính sách của công ty) . Yêu cầu nhân viên pha chế giải trình và xử lý khiển trách theo quy định",
+     "Ra tận bàn khách và xin lỗi khách vì trường hợp ngoài ý muốn này, xin phép khách mang ly thức uống có vật lạ vào trong. Hỏi ý khách có muốn làm ly mới hay thay đổi món uống khác. Làm mới ly đồ uống khác theo yêu cầu của khách. Yêu cầu nhân viên pha chế giải trình và xử lý khiển trách theo quy định"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "nghiep-vu-fb-24",
+    "no": 24,
+    "text": "Anh chị xử lý như thế nào khi trong đĩa thức ăn của khách có tóc?",
+    "options": [
+     "Xin lỗi khách và yêu cầu nhân viên mang đĩa thức ăn vào cho bếp để đổi đĩa thức ăn khác cho khách và kiểm tra khách đã hài lòng hay chưa",
+     "Xin lỗi khách vì sự việc trên, kiểm tra xem khách muốn đổi món khác hay vẫn dùng món như cũ dù là lỗi khách quan hay do quá trình chế biến phục vụ, \nBáo với bếp sự việc trên và mang đĩa đó vào cho bếp kiểm tra.  Yêu cầu bếp làm món mới để mang ra cho khách. Quan tâm chăm sóc đặc biệt và theo dõi sự hài lòng của khách hàng",
+     "Tìm hiểu nguyên nhân với khách là cọng tóc do đâu mà có, xác định tóc của khách hay của nhân viên trong quá trình phục vụ rơi vào. Sau khi tìm rõ nguyên nhân nếu là nhân viên làm thì yêu cầu nhân viên mang đĩa thức ăn vào và làm lại món mới cho khách, xin lỗi khách và chúc khách ngon miệng",
+     "Gặp khách xin lỗi và tìm cách nói chuyện để khách thông cảm cho sự việc trên, hứa khắc phục sự việc và nói khách thông cảm, để khách dễ chịu thì tiếp tục dùng lại món trên và vớt bỏ cọng tóc ra"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "nghiep-vu-fb-25",
+    "no": 25,
+    "text": "Còn ba ngày nữa là có đợt kiểm tra vệ sinh an toàn thực phẩm và phòng chống cháy nổ, với vai trò là quản lý. Anh/ chị hãy nêu các công việc anh/chị sẽ thực hiện và biện pháp thực hiện để đảm bảo cơ quan chức năng đánh giá cao công tác thực hiện của anh/chị?",
+    "options": [
+     "Kiểm tra nhãn mác hàng hóa, kiểm tra hàng tồn kho, hạn sử dụng, tem nhập khẩu đối với rượu,  kiểm tra xuất xứ hàng hóa có đủ đảm bảo, kiểm tra vệ sinh và sắp xếp trong kho, tổng vệ sinh toàn bộ trong khu vực kinh doanh và khu vực xung quanh, kiểm tra vệ sinh cá nhân nhân viên và yêu cầu thời gian hoàn thành các công việc giao cho nhân viên và ra thời hạn hoàn thành công việc rõ ràng để kiểm tra lần cuối",
+     "Kiểm tra nhãn mác hàng hóa, kiểm tra hàng tồn kho, hạn sử dụng, tem nhập khẩu đối với rượu,  kiểm tra xuất xứ hàng hóa có đủ đảm bảo, dán tem ngày sử dụng khi lưu kho và yêu cầu cover tất cả hàng đã khui hoặc chế biến để trong tủ mát, tủ đông, kiểm tra vệ sinh và sắp xếp trong kho, tổng vệ sinh toàn bộ trong khu vực kinh doanh và khu vực xung quanh, kiểm tra vệ sinh cá nhân nhân viên, kiểm tra các lối thoát hiểm và hệ thống PCCC trong phạm vi nhà hàng",
+     "Chia các công việc riêng ra cho từng nhân viên để hoàn thành, giao việc kiểm tra cho từng nhân viên và giám sát để đảm bảo tối ưu hóa công việc và tin tưởng nhân viên để nhân viên làm việc hết mình vì đợt kiểm tra này",
+     "Kiểm tra nhãn mác hàng hóa, kiểm tra hàng tồn kho, hạn sử dụng, tem nhập khẩu đối với rượu,  kiểm tra xuất xứ hàng hóa có đủ đảm bảo, kiểm tra vệ sinh và sắp xếp trong kho, tổng vệ sinh toàn bộ trong khu vực kinh doanh và khu vực xung quanh, giao việc cho nhân viên và ra thời hạn hoàn thành công việc rõ ràng để kiểm tra lần cuối"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "nghiep-vu-fb-26",
+    "no": 26,
+    "text": "Một nhóm khách dùng bữa tại nhà hàng của bạn. Sau bữa ăn, môt số khách có dấu hiệu đau bụng dữ dội nghi vấn là bị ngộ độc thức ăn gây hoang mang cho những vị khách khác còn lại. Trong trường hợp này bạn sẽ xử lý như thế nào?",
+    "options": [
+     "Trước tiên phải đưa ngay nhóm khách này đến phòng y tế để xác định nguyên nhân. Lưu lại mẫu thức ăn mà các khách này sử dụng để kiểm tra. Đồng thời trấn an các khách khác trong nhà hàng. Tuyệt đối không nhận lỗi khi chưa có kết quả kiểm định chính xác của cơ quan y tế về thực phẩm khách đã dùng. Xin ý kiến cấp trên chuyển khách đến bệnh viện nếu thấy tình trạng khách không tốt qua báo cáo của nhân viên y tế. Quan tâm đến tình trạng sức khỏe của khách để tìm hướng giải quyết phù hợp",
+     "Nhanh chóng xin lỗi khách, tỏ thái độ chân thành mng khách thông cảm. Đồng thời gọi ngay nhân viên y tế đưa khách đến bệnh viện vì tình trạng rất cấp bách. Báo bếp kiểm tra lại thực phẩm mà khách đã sử dụng và kiểm tra. Tiến hành thương lượng với khách để không lan truyền sự việc ra ngoài",
+     "Gọi ngay nhân viên y tế và trấn an khách rằng nhà hàng luôn đảm bảo chất lượng vệ sinh an toàn thực phẩm của bộ y tế. Gượng hỏi khách đã ăn những món gì trước khi sử dụng dịch vụ tại nhà hàng và hướng khách rằng các món ăn tại những địa điểm đó có vấn đề. Trấn an những khách khác trong nhà hàng. Báo cáo sự việc cho quản lý giải quyết",
+     "Báo cáo ngay quản lý để giải quyết. Bạn không có thẩm quyền xử lý việc này"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "nghiep-vu-fb-27",
+    "no": 27,
+    "text": "Thời gian lưu mẫu thức ăn theo quy định là bao nhiêu lâu?",
+    "options": [
+     "Ít nhất là 24 giờ kể từ khi lấy mẫu.",
+     "Ít nhất là 12 giờ kể từ khi lấy mẫu.",
+     "Ít nhất là 48 giờ kể từ khi lấy mẫu.",
+     "Tối đa là 24 giờ kể từ khi lấy mẫu."
+    ],
+    "answer": 0
+   },
+   {
+    "id": "nghiep-vu-fb-28",
+    "no": 28,
+    "text": "Trong trường hợp khách cần sự giúp đỡ của nhân viên y tế, anh/chị sẽ làm gì?",
+    "options": [
+     "Chỉ đường cho khách đến phòng Y tế. Xem như chưa biết gì",
+     "Gọi nhân viên An Ninh đến dẫn khách đi",
+     "Bàn giao lại cho nhân viên gần nhất, anh/chị đang bận xử lý công việc dang dở",
+     "Hỏi thăm tình hình như thế nào và thể hiện sự thông cảm, sau đó tùy tình trạng của khách để xử lý gọi điện cho nhân viên y tế đến, hoặc dẫn khách đến phòng y tế gần nhất hay gọi người hỗ trợ"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "nghiep-vu-fb-29",
+    "no": 29,
+    "text": "Trường hợp khách hàng bị mất tài sản trong Công ty và gặp anh chị để giải quyết, anh chị sẽ làm gì?",
+    "options": [
+     "Lấy thông tin, cho khách điền thông tin vào phiếu kê khai tài sản bị mất, liên hệ với các bộ phận để xác minh, nếu chưa tìm được tài sản thì ghi nhận lại và báo khách thời gian phản hồi để trả lời kết quả sau đó",
+     "Phụ khách đi tìm ở các khu vực khách đã đi qua",
+     "Hướng dẫn khách tìm đến phòng KTKS nội bộ để ghi nhận thông tin",
+     "Tỏ ra thông cảm và liên hệ các bộ phận để xác minh và phản hồi cho khách tình hình"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "nghiep-vu-fb-30",
+    "no": 30,
+    "text": "Yêu cầu đối với hộp lưu mẫu thức ăn là gì?",
+    "options": [
+     "Dụng cụ lưu mẫu phải có nắp đậy kín, chứa được ít nhất 100g đối với thức ăn khô, đặc hoặc 150ml đối với thức ăn lỏng.",
+     "Dụng cụ lưu mẫu phải để hở, chứa được ít nhất 100g đối với thức ăn khô, đặc hoặc 150ml đối với thức ăn lỏng.",
+     "Dụng cụ lưu mẫu phải có nắp đậy kín, chứa được ít nhất 200g đối với thức\năn khô, đặc hoặc 250ml đối với thức ăn lỏng.",
+     "Dụng cụ lưu mẫu phải để hở nhìn thấy được, chứa được ít nhất 150g đối với thức ăn khô, đặc hoặc 150ml đối với thức ăn lỏng."
+    ],
+    "answer": 0
+   },
+   {
+    "id": "nghiep-vu-fb-31",
+    "no": 31,
+    "text": "Theo tiêu chuẩn của chương trình HACCP Quốc tế,  dựa trên mục đích sử dụng thì dao, thớt có màu Nâu được dùng cho thực phẩm nào?",
+    "options": [
+     "Chỉ được phép sử dụng cho thực phẩm ăn liền (đã được nấu)",
+     "Chỉ được phép sử dụng cho thịt gia cầm.",
+     "Chỉ được phép sử dụng cho hải sản.",
+     "Chỉ được phép sử dụng cho thịt sống (không dùng cho thịt gia cầm)"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "nghiep-vu-fb-32",
+    "no": 32,
+    "text": "Trường hợp Khách đã qua cổng soát vé tại một nhà hàng buffet nhưng vì lý do nào đó muốn ra ngoài rồi quay lại anh/ chị sẽ xử lý như thế nào?",
+    "options": [
+     "Nhân viên soát vé báo với lễ tân cho khách ra và vào tự do vì khách đó đã được soát vé.",
+     "Nhân viên soát vé phải ghi lại thông tin như: tên khách, thời gian khách ra, đặc điểm nhận dạng, vào sổ thông tin và cho khách kí xác nhận ra cổng. Khi khách vào lại nhân viên soát vé sẽ kiểm tra/ đối chiếu thông tin, nếu đúng thì xử lý cho khách qua lối phụ, ghi lại thông tin thời gian khách vào lại cổng soát vé và cho khách kí xác nhận vào lại cổng theo biểu mẫu.",
+     "Bảo khách là đã soát vé vào rồi thì không ra cho đến khi đã sử dụng xong dịch vụ. Nếu khách vẫn muốn ra và muốn vào lại thì phải mua vé mới, vì đó là quy định của nhà hàng.",
+     "Báo cáo với giám sát, quản lí giải quyết vì đó không thuộc thẩm quyền của anh/ chị"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "nghiep-vu-fb-33",
+    "no": 33,
+    "text": "Anh/ chị cần làm gì để vệ sinh phòng Vip sau khi khách đã dùng xong?",
+    "options": [
+     "Sau khi mọi bàn ăn đã được dọn sạch, các khăn trải bàn đã được mang đi, hãy thu lại các thiết bị vệ sinh và nguyên vật liệu.",
+     "Kéo rèm và thông gió (nếu có thể được).\nDùng khăn lau bụi để lau bàn, ghế\nDọn vệ sinh sàn/nền nhà hàng",
+     "Kéo rèm và thông gió (nếu có thể được).\nDùng khăn lau bụi để lau bàn, ghế\nDọn vệ sinh sàn/nền nhà hàng\nKiểm tra thêm lần cuối để đảm bảo đã thực hiện đúng yêu cầu về vệ sinh của nhà hàng.",
+     "Sau khi mọi bàn ăn đã được dọn sạch, các khăn trải bàn đã được mang đi, hãy thu lại các thiết bị vệ sinh và nguyên vật liệu.\nKéo rèm và thông gió (nếu có thể được).\nTìm tài sản bị mất và những hỏng hóc cần sửa chữa duy trì.\nDùng khăn lau bụi để lau bàn, ghế\nDọn vệ sinh sàn/nền nhà hàng\nKiểm tra thêm lần cuối để đảm bảo đã thực hiện đúng yêu cầu về vệ sinh của nhà hàng."
+    ],
+    "answer": 3
+   },
+   {
+    "id": "nghiep-vu-fb-34",
+    "no": 34,
+    "text": "Thứ tự khi rửa công cụ dụng cụ bằng tay là gì?",
+    "options": [
+     "Đồ thủy tinh, dao dĩa, đồ sành sứ, các dụng cụ đựng và các dụng cụ nhỏ",
+     "Đồ thủy tinh, đồ sành sứ, dao dĩa, các dụng cụ đựng và các dụng cụ nhỏ",
+     "Các dụng cụ đựng, các dụng cụ nhỏ,  dao dĩa, đồ thủy tinh và đồ sành sứ",
+     "Dao dĩa, các dụng cụ đựng, các dụng cụ nhỏ, đồ sành sứ và đồ thủy tinh."
+    ],
+    "answer": 0
+   },
+   {
+    "id": "nghiep-vu-fb-35",
+    "no": 35,
+    "text": "Yêu cầu của nghề phục vụ nhà hàng là gì?",
+    "options": [
+     "Có kiến thức về sự phục vụ vững vàng, tiếp đón mọi người với tinh thần thân thiện, hiếu khách, Luôn mỉm cười vui vẻ, Tự hào nghề nghiệp, Tinh thần hăng say.",
+     "Tiếp đón mọi người với tinh thần thân thiện, hiếu khách, Luôn mỉm cười vui vẻ, Phục vụ nhiều hơn sự mong đợi của khách, Tự hào nghề nghiệp, Tinh thần hăng say, Lịch sự và khéo léo.",
+     "Có kiến thức về sự phục vụ vững vàng, Tiếp đón mọi người với tinh thần thân thiện, hiếu khách, Luôn mỉm cười vui vẻ, Tỏ ra thân thiện và ân cần, Phục vụ nhiều hơn sự mong đợi của khách, Tự hào nghề nghiệp, Tinh thần hăng say, Lịch sự và khéo léo.",
+     "Có kiến thức về sự phục vụ vững vàng, Tiếp đón mọi người với tinh thần thân thiện, hiếu khách, Luôn mỉm cười vui vẻ, Tỏ ra thân thiện và ân cần, Tự hào nghề nghiệp, Tinh thần hăng say, Lịch sự và khéo léo."
+    ],
+    "answer": 2
+   },
+   {
+    "id": "nghiep-vu-fb-36",
+    "no": 36,
+    "text": "Anh/ chị hiểu như thế nào là tiếp cận khách hàng?",
+    "options": [
+     "Tư thế đứng thẳng và luôn ở tư thế sẵn sàng chào đón khách. Luôn để ý hướng đi của khách để kịp thời chào mời khách. Tươi cười và chủ động để chào đón khách",
+     "Quan sát để nhận biết khách chuẩn bị vào nhà hàng từ 10 bước chân.  Luôn để ý hướng đi của khách để kịp thời chào mời khách. Tươi cười và chủ động để chào đón khách",
+     "Quan sát để nhận biết khách chuẩn bị vào nhà hàng từ 10 bước chân. Tư thế đứng thẳng và luôn ở tư thế sẵn sàng chào đón khách. Luôn để ý hướng đi của khách để kịp thời chào mời khách. Tươi cười và chủ động để chào đón khách",
+     "Quan sát để nhận biết khách chuẩn bị vào nhà hàng từ 10 bước chân. Tư thế đứng thẳng và luôn ở tư thế sẵn sàng chào đón khách. Luôn để ý hướng đi của khách để kịp thời chào mời khách."
+    ],
+    "answer": 2
+   },
+   {
+    "id": "nghiep-vu-fb-37",
+    "no": 37,
+    "text": "Phong cách phục vụ thức ăn theo kiểu Russian service là gì?",
+    "options": [
+     "Thức ăn được chuẩn bị trong khay bạc và phục vụ khách từ phía bên phải",
+     "Thức ăn chưa chế biến được chuẩn bị trên xe trolley và đẩy đi. Nhân viên sẽ biểu diễn chế biến và phục vụ khách ngày tại bàn.",
+     "Thức ăn được chuẩn bị trong khay bạc và khách tự chọn món theo hương bên trái khách.",
+     "Thức ăn được đặt trên bàn xoay đặt ngày trên bàn, khách sẽ xoay bàn để chọn món muốn dùng."
+    ],
+    "answer": 1
+   },
+   {
+    "id": "nghiep-vu-fb-38",
+    "no": 38,
+    "text": "Khi quầy hàng không bán hoặc hết mặt hàng theo yêu cầu của khách thì anh/ chị sẽ làm gì?",
+    "options": [
+     "Báo với khách là chúng em không bán món hàng đó.",
+     "Tư vấn cho khách dùng mặt hàng khác có đặc tính tương tự hoặc tư vấn cho khách không nên mua mặt hàng đó nữa.",
+     "Tươi cười vui vẻ báo với khách sang quầy khác mua.",
+     "Cần giới thiệu, chỉ dẫn khách đến các điểm bán hàng khác của BNH (nếu có) hoặc tư vấn khách dùng mặt hàng có đặc tính tương tự để thay thế"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "nghiep-vu-fb-39",
+    "no": 39,
+    "text": "Nhân viên bán hàng cần làm gì khi kết thúc ca làm việc?",
+    "options": [
+     "Ghi chép số lượng hàng nhập, xuất, tồn trong ca vào sổ theo dõi hàng hóa. Đối chiếu số lượng hàng xuất trong ca với số lượng tiền thu được. Khóa quầy kệ. Che phủ bàn ghế, quầy, tủ đựng hàng hóa. Rút các thiết bị điện. Bàn giao chìa khóa tủ, kệ cho giám sát. Chấm công và ra về.",
+     "Ghi chép số lượng hàng nhập, xuất, tồn trong ca vào sổ theo dõi hàng hóa. Rút các thiết bị điện. Bàn giao chìa khóa tủ, kệ cho giám sát. Chấm công và ra về.",
+     "Đối chiếu số lượng hàng xuất trong ca với số lượng tiền thu được. Khóa quầy kệ. Che phủ bàn ghế, quầy, tủ đựng hàng hóa. Rút các thiết bị điện. Bàn giao chìa khóa tủ, kệ cho giám sát.",
+     "Ghi chép số lượng hàng nhập, xuất, tồn trong ca vào sổ theo dõi hàng hóa. Đối chiếu số lượng hàng xuất trong ca với số lượng tiền thu được. Khóa quầy kệ. Che phủ bàn ghế, quầy, tủ đựng hàng hóa. Rút các thiết bị điện."
+    ],
+    "answer": 0
+   },
+   {
+    "id": "nghiep-vu-fb-40",
+    "no": 40,
+    "text": "Trường hợp vé ăn buffet của khách in đúng ngày nhưng sai ngày sử dụng dịch vụ thì anh/ chị xử lí như thế nào?",
+    "options": [
+     "Báo khách mua lại vé mới",
+     "Liên hệ ngay nhân viên thu ngân để được kiểm tra và xử lý cho khách. Trường hợp khách chờ đợi lâu và phàn nàn thì phải cáo ngay lên cấp trên để xin ý kiến chỉ đạo.",
+     "Vẫn cho khách qua cổng bình thường",
+     "Báo khách qua quầy thu ngân đổi lại vé"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "nghiep-vu-fb-41",
+    "no": 41,
+    "text": "Khi có khách đặt bàn trước anh/ chị cần hỏi những thông tin gì của khách?",
+    "options": [
+     "Tên đoàn/tên khách đặt bàn, số lượng khách, tên và số điện thoại HDV, tên và số điện thoại trưởng đoàn, số phòng (nếu có).",
+     "Tên người đặt bàn, số lượng khách",
+     "Số lượng khách, tên và số điện thoại của HDV",
+     "Tên khách và số điện thoại người đặt bàn"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "nghiep-vu-fb-42",
+    "no": 42,
+    "text": "Thức ăn được chuẩn bị trên khay bạc và khách tự chọn món theo hướng bên trái khách là phong các phục vụ cơ bản nào?",
+    "options": [
+     "English service",
+     "American service",
+     "Lazy-susan service",
+     "French service"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "nghiep-vu-fb-43",
+    "no": 43,
+    "text": "Dung dịch chai xịt GIFT 580ml, dùng để làm gì?",
+    "options": [
+     "Tẩy ố",
+     "Vệ sinh kính",
+     "Lau sàn",
+     "Đánh sàn"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "nghiep-vu-fb-44",
+    "no": 44,
+    "text": "Hóa chất Suma Break Up HD dùng để làm gì ?",
+    "options": [
+     "Tẩy rửa,vệ sinh sàn dầu mỡ",
+     "Tẩy ố",
+     "Khử mùi",
+     "Lau inox"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "nghiep-vu-fb-45",
+    "no": 45,
+    "text": "Hóa chất Shine-up dùng để làm gì ?",
+    "options": [
+     "Vệ sinh,bảo dưỡng & đánh bóng gỗ",
+     "Đánh sàn",
+     "Lau nhà",
+     "Lau inox"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "nghiep-vu-fb-46",
+    "no": 46,
+    "text": "Hóa chất  3M  stainless Steel Cleaner & polish dùng để làm gì?",
+    "options": [
+     "Tẩy ố vàng",
+     "Vệ sinh, đánh bóng inox",
+     "Lau sàn",
+     "Khử mùi"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "nghiep-vu-fb-47",
+    "no": 47,
+    "text": "Hóa chất Crew (Crew Lime and Scale Remover) dùng để làm gì ?",
+    "options": [
+     "Lau sàn gổ",
+     "Lau sàn gạch men",
+     "Tẩy rửa,vệ sinh bồn cầu",
+     "Lau inox"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "nghiep-vu-fb-48",
+    "no": 48,
+    "text": "Đâu là dung dịch rửa tay đang sử dụng tại nhà vệ sinh?",
+    "options": [
+     "Freedom",
+     "3M-8H",
+     "Rotocare 500",
+     "Spectrum DC"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "nghiep-vu-fb-49",
+    "no": 49,
+    "text": "Hóa chất Freedom dùng để làm gì?",
+    "options": [
+     "Lau sàn gổ",
+     "Lau bồn cầu",
+     "Lau sàn nhà",
+     "Bóc/Tẩy sàn"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "nghiep-vu-fb-50",
+    "no": 50,
+    "text": "Tinh dầu sử dụng trong Toilet, dùng để làm gì ?",
+    "options": [
+     "Rửa tay",
+     "Khử mùi, tạo hương",
+     "Lau sàn",
+     "Đánh bóng inox"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "nghiep-vu-fb-51",
+    "no": 51,
+    "text": "Hóa chất JUMBO A102 dùng để làm gì?",
+    "options": [
+     "Lau inox",
+     "Lau sàn gỗ",
+     "Tẩy xi măng, vữa , mốc",
+     "Đánh bóng inox"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "nghiep-vu-fb-52",
+    "no": 52,
+    "text": "Đâu là màu của hóa chất JUMBO A102?",
+    "options": [
+     "Xanh",
+     "Đỏ",
+     "Hồng",
+     "Trong suốt"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "nghiep-vu-fb-53",
+    "no": 53,
+    "text": "Đâu là bộ công cụ để vệ sinh gương cơ bản cần có?",
+    "options": [
+     "Cây móp nước, khăn khô, hóa chất vệ sinh kính",
+     "Cây Dust,cây sũi, lông thỏ, hóa chất vệ sinh kính",
+     "Cây gạt kính",
+     "Bộ gạt kính, bông thỏ. Khăn khô, hóa chất vệ sinh kính"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "nghiep-vu-fb-54",
+    "no": 54,
+    "text": "Khi lau sàn nhà, lau thế nào là KHÔNG đúng?",
+    "options": [
+     "Lau từng khu, có thể từ trái sang phải",
+     "Lau từng khu, có thể di chuyển mop theo hình số 8",
+     "Lau từ ngoài vào trong, từ dưới lên trên và nơi bẩn trước, sạch sau.",
+     "Lau từng khu, có thể từ phải sang trái"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "nghiep-vu-fb-55",
+    "no": 55,
+    "text": "Khi lau sàn nhà (nhiều dầu mỡ) bạn có thể sẽ sử dụng hóa chất nào sau đây?",
+    "options": [
+     "Suma Beark Up HD",
+     "Emerel",
+     "Crew",
+     "Jumbo A102"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "nghiep-vu-fb-56",
+    "no": 56,
+    "text": "Trong lúc quét rác bạn vô tình quét phải chân Khách đang dùng dịch vụ ẩm thực, sau đó Khách hàng trách móc và phàn nàn trực tiếp. Nếu bạn gặp phải tình huống trên bạn nên cư xử như thế nào?",
+    "options": [
+     "Tỏ thái độ lắng nghe và nhận trách nhiệm,xin lỗi Khách hàng chân thành vì sự cố bất tiện,cám ơn và chúc ngon miệng nếu khi được Khách hàng chấp nhận hoặc báo lại cho quản lý sự việc khi Khách hàng chưa hài lòng.",
+     "Tranh cãi và tìm những lý do để biện hộ với Khách, tránh thiệt hại danh tiếng.",
+     "Lập tức rời đi, tránh tiếp tục để Khách hàng nhìn thấy mình gây tâm lý ức chế đến với họ.",
+     "Va vấp trong hoạt động kinh doanh khi lượt Khách sử dụng dịch vụ quá lớn là điều hết sức bình thường, không nên lưu tâm."
+    ],
+    "answer": 0
+   },
+   {
+    "id": "nghiep-vu-fb-57",
+    "no": 57,
+    "text": "Hoàn thành tất cả công việc vệ sinh tổng thể nhà hàng trước lúc phục vụ khách ăn trưa lúc mấy giờ?",
+    "options": [
+     "10h30",
+     "11h",
+     "9h30",
+     "10h00"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "nghiep-vu-fb-58",
+    "no": 58,
+    "text": "Khi bị hóa chất rơi vào mắt bạn phải làm gì?",
+    "options": [
+     "Ngay lập tức rửa lại nhiều lần bằng nước sạch, báo lại giám sát/quản lý, yêu cầu y tế kiểm tra.",
+     "Dụi tay ngay vào mắt và thổi mạnh vào mắt",
+     "Nhắm mắt lại trong vòng 10s",
+     "Dụi tay ngay lập tức và rửa lại bằng nước sạch."
+    ],
+    "answer": 0
+   },
+   {
+    "id": "nghiep-vu-fb-59",
+    "no": 59,
+    "text": "Quy trình vệ sinh phòng Toilet tại tổ tạp vụ Nhà Hàng gồm bao nhiêu bước?",
+    "options": [
+     "11",
+     "12",
+     "13",
+     "14"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "nghiep-vu-fb-60",
+    "no": 60,
+    "text": "Khi lau tường gỗ bạn sử dụng hóa chất nào dưới đây? Pha tỉ lệ bao nhiêu?",
+    "options": [
+     "Hóa chất Shine-up và dùng nguyên chất",
+     "Hóa chat CLASS tỉ lệ 1/50",
+     "Hóa chất UREX tỉ lệ 1/10",
+     "Hóa chất STEEL BPITE tỉ lệ 1/5"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "nghiep-vu-fb-61",
+    "no": 61,
+    "text": "Hóa chất SPECTRUM DC có tính năng gì?",
+    "options": [
+     "Sát khuẩn, khử mùi sàn nhà, nhà vệ sinh…",
+     "Đánh sàn và tẩy bong các lớp đá vôi bám trên sàn",
+     "Có tinh năng làm bóng kim loại",
+     "Đánh bóng đá"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "nghiep-vu-fb-62",
+    "no": 62,
+    "text": "Có một khách nước ngoài vào nhà hàng. Khách đến hỏi bạn một điều gì đó, nhưng bạn không hiểu ngoại ngữ. Trong tình huống này bạn phải làm như thế nào?",
+    "options": [
+     "Tìm sự giúp đỡ ngay của đồng nghiệp (lễ tân,các bạn nhà hàng,bất kì đồng nghiệp có thể giao tiếp…) không để Khách hàng không tìm được sự giúp đỡ",
+     "Hảy đừng trả lời nếu bạn không hiểu ngoại ngữ.",
+     "Hảy chỉ hướng vào Toilet",
+     "Xin lỗi khách"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "nghiep-vu-fb-63",
+    "no": 63,
+    "text": "Trong lúc làm vệ sinh tại khu vực nhà hàng nếu phát hiện một túi xách khách để quên trong khu vực nhà vệ sinh Anh/Chị sẽ nên làm gì?",
+    "options": [
+     "Đứng giữ nguyên vị trí bảo vệ tài sản cho đến khi chủ nhân quay trở lại nhận.",
+     "Đi gọi An ninh ngay lập tức",
+     "Chủ động mở ví, kiểm tra tài sản túi xách ngay lập tức.",
+     "Báo cáo với Cấp trên ngay lập tức sự việc, để Cấp trên thông báo cho các bộ phận khác nắm thông tin, hỗ trợ."
+    ],
+    "answer": 3
+   },
+   {
+    "id": "nghiep-vu-fb-64",
+    "no": 64,
+    "text": "Theo Anh/Chị  để công tác vệ sinh ngày tốt hơn, sạch sẽ hơn cũng như Khu Du Lịch ngày càng tốt hơn trong mắt du khách, là một nhân viên vệ sinh bạn KHÔNG nên làm gì?",
+    "options": [
+     "Có ý thức cao trong công việc, biết quan sát, nhanh nhẹn chấp nhận khó khăn",
+     "Có niềm đam mê,yếu thích trong công việc của mình. Tác phong diện mạo chuyên nghiệp",
+     "Luôn luôn tự giác, trách nhiệm, nâng cao khả năng rèn luyện phát triển chuyên môn và đạo đức.",
+     "Trong công việc vệ sinh,duy nhất chỉ cần làm tốt phần \"mặt tiền\""
+    ],
+    "answer": 3
+   },
+   {
+    "id": "nghiep-vu-fb-65",
+    "no": 65,
+    "text": "Quy định trang phục đối với nhân viên vệ sinh là:",
+    "options": [
+     "Thích mặt gì mặc , không cần đúng đồng phục qui định",
+     "Mặc áo đồng phục , còn quần thì mặc quần jean, kaki tùy thích",
+     "Mặc đúng đồng phục được công ty cấp phát, gọn gàng và sạch sẽ.",
+     "Mang dép lê , mặc áo quần thoải mái, mát mẻ"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "nghiep-vu-fb-66",
+    "no": 66,
+    "text": "Bắt đầu ca làm việc mới, Anh/ Chị KHÔNG làm gì?",
+    "options": [
+     "Họp brifieng đầu ca",
+     "Nhận phân chia khu vực làm việc",
+     "Giao nhận chìa khóa, CCDC",
+     "Chuẩn bị đồ ăn sáng"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "nghiep-vu-fb-67",
+    "no": 67,
+    "text": "Điều quan trọng nhất trong mỗi ca làm việc của Anh/ Chị là?",
+    "options": [
+     "Đảm bảo chất lượng vệ sinh khu vực được phân công , đảm bảo chất lượng dịch vụ tốt nhất đến Du khách",
+     "Đi làm và ra về đúng giờ.",
+     "Chuẩn bị đầy đủ công cụ dụng cụ trong ca làm việc",
+     "Được Khách hàng Tip"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "nghiep-vu-fb-68",
+    "no": 68,
+    "text": "Khi Khách vô ý làm rơi thức ăn xuống sàn, thì hành động xử lý nào sau đây của anh/ chị là đúng?",
+    "options": [
+     "Hảy làm công việc khác",
+     "Lập tức có mặt và dọn sạch sẽ thức ăn sàn nhà",
+     "Lập tức có mặt và dọn sạch sẽ thức ăn sàn nhà dưới sự cho phép của khách.",
+     "Nhờ khách dọn hộ mình"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "nghiep-vu-fb-69",
+    "no": 69,
+    "text": "Khi đang làm việc chổi quét nhà bị hỏng không sử dụng được Anh/ Chị sẽ làm gì là đúng nhất?",
+    "options": [
+     "Cho vào sọt rác dùng chổi mới để tiếp tục công việc",
+     "Cho vào kho dùng chổi mới để tiếp tục công việc",
+     "Dừng công việc",
+     "Cho vào kho (thùng đựng công cụ, dụng cụ hỏng) ghi chép vào sổ giao cao, đồng thời liên hệ với người quản kho để nhận lại chổi mới ngay,tiếp tục công việc"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "nghiep-vu-fb-70",
+    "no": 70,
+    "text": "Khi được điều động đột xuất qua khu vực làm việc mới thì Anh / Chị sẽ làm gì?",
+    "options": [
+     "Tỏ vẻ khó chịu, không thực hiện theo",
+     "Đồng ý và đi ngay lập tức",
+     "Kì kèo, nhờ người khác đi hộ",
+     "Bàn giao lại khu vực đó cho nhân viên được phân công, vui vẻ nhanh chóng qua khu vực mới để nhận nhiệm vụ"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "nghiep-vu-fb-71",
+    "no": 71,
+    "text": "Quy trình làm sạch sàn nhà bằng máy bắn sàn theo quy trình nào?",
+    "options": [
+     "Chuẩn bị máy móc và CCDC -> Kiểm tra máy móc và nguồn điện -> Thực hiện công tác bắn sàn -> Vệ sinh máy - > Kiểm tra tổng thể lần cuối.",
+     "Chuẩn bị máy móc và CCDC-> Thực hiện việc bắn sàn",
+     "Kiểm tra máy móc và nguồn điện-> Chuẩn bị máy móc và CCDC -> Thực hiện công tác bắn sàn",
+     "Thực hiện công tác bắn sàn -> vệ sinh máy"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "nghiep-vu-fb-72",
+    "no": 72,
+    "text": "Hóa chất lau kính Gift khi sử dụng vệ sinh kính, thông thường có hòa chung với các dung dịch khác hay không. Nếu có tỉ lệ là bao nhiêu?",
+    "options": [
+     "Có, tỉ lệ 1:1",
+     "Có, tỉ lệ 1:2",
+     "Có, tỉ lệ 1:5",
+     "Không hòa chung với dung dịch khác"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "nghiep-vu-fb-73",
+    "no": 73,
+    "text": "Để thực hiện công tác bắn sàn chúng ta cần những công cụ chính nào ?",
+    "options": [
+     "Máy bắn nước, dây ống dẫn nước, dây điện",
+     "Dây ống nhựa dẻo, hóa chất lau sàn",
+     "Dây ống nhựa dẻo, chổi cước, hóa chất",
+     "Dây điện, chổi cước"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "nghiep-vu-fb-74",
+    "no": 74,
+    "text": "Hóa chất số 3M-8H có được sử dụng để lau sàn không?",
+    "options": [
+     "Có, vì là hóa chất đa năng",
+     "Không",
+     "Có, nếu vào mùa đông",
+     "Có, nếu vào mùa hè"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "nghiep-vu-fb-75",
+    "no": 75,
+    "text": "Khi muốn sử dụng máy phun rửa áp lực nước, bạn KHÔNG cần phải làm gì?",
+    "options": [
+     "Kiểm tra tổng thể máy",
+     "Kiểm tra nguồn điện",
+     "Kiểm tra nguồn nước",
+     "Kiểm tra pad đánh sàn"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "nghiep-vu-fb-76",
+    "no": 76,
+    "text": "Khi gặp vấn đề chuyên môn và vấn đề khác trong ca làm việc không xử lý được Anh / Chị liên hệ ai để giải quyết?",
+    "options": [
+     "Phó/Trưởng bộ phận nhà hàng",
+     "Phó Giám Đốc/Giám đốc khối ẩm thực",
+     "Tổ trưởng/Giám sát/ Quản lý tạp vụ Nhà hàng",
+     "Giám sát/Quản lý Nhà Hàng"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "nghiep-vu-fb-77",
+    "no": 77,
+    "text": "Pad đánh sàn có bao nhiêu loại, mà hiện Tạp vụ Nhà hàng đang sử dụng?",
+    "options": [
+     "1",
+     "2",
+     "3",
+     "4"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "nghiep-vu-fb-78",
+    "no": 78,
+    "text": "Để đánh sàn vết bẩn cứng đầu trên sàn gạch, bạn dùng loại pad nào cho kết quả tối ưu?",
+    "options": [
+     "Trắng",
+     "Đen",
+     "Đỏ",
+     "Xanh"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "nghiep-vu-fb-79",
+    "no": 79,
+    "text": "Một trong các nguyên tắc khi làm vệ sinh là?",
+    "options": [
+     "Làm theo quy tắc bàn tay phải",
+     "Từ trên xuống dưới, trong ra ngoài, nơi sạch trước bẩn sau và làm từng khu",
+     "Theo quy tắt đồng hồ",
+     "Theo quy tắt bàn tay trái"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "nghiep-vu-fb-80",
+    "no": 80,
+    "text": "Để tẩy rửa vết rỉ sét trên vòi inox bạn sẽ dùng hóa chất nào?",
+    "options": [
+     "Suma break up HD",
+     "Jumbo",
+     "Shine up",
+     "Emerel"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "nghiep-vu-fb-81",
+    "no": 81,
+    "text": "Sau khi thực hiện đánh sàn khu vực bên trong nhà xong thì KHÔNG nên làm gì?",
+    "options": [
+     "Lau khô",
+     "Kiểm tra lần cuối, đảm bảo sạch và khô",
+     "Vệ sinh máy đưa vào lại kho bảo quản",
+     "Thực hiện phun rửa áp lực nước lần 2"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "nghiep-vu-fb-82",
+    "no": 82,
+    "text": "Cánh cửa sắt bị dơ Anh/Chị dùng hóa chất nào để vệ sinh là SAI?",
+    "options": [
+     "3M-8H",
+     "Các dung dịch có độ pH = 7",
+     "Forward DC",
+     "Crew"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "nghiep-vu-fb-83",
+    "no": 83,
+    "text": "Hóa chất nào dưới đây có tính đa năng?",
+    "options": [
+     "Jumbo",
+     "3M-8H",
+     "Shine up",
+     "Crew"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "nghiep-vu-fb-84",
+    "no": 84,
+    "text": "Hóa chất Emerel là hóa chất dạng gì?",
+    "options": [
+     "Dạng kem, màu trắng",
+     "Dạng kem, màu đen",
+     "Dạng kem, màu vàng",
+     "Dạng kem, màu tím"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "nghiep-vu-fb-85",
+    "no": 85,
+    "text": "Anh/Chị cần sẽ làm gì khi thấy khách nôn ói trong bồn rửa mặt tại khu vực của mình?",
+    "options": [
+     "Hảy phàn nàn để Khách rút kinh nghiệm",
+     "Yêu cầu Khách cần thực hiện dọn dẹp sạch sẽ",
+     "Dọn sạch bồn rửa và hỏi thăm sức khỏe của khách với thái độ ân cần niềm nở , báo Cấp trên gọi y tế kiểm tra nếu cần.",
+     "Yêu cầu Khách rời khỏi khu vực này"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "nghiep-vu-fb-86",
+    "no": 86,
+    "text": "Sau khi vệ sinh sạch Toilet ta có dùng hóa chất gì để khử mùi hôi, khử trùng?",
+    "options": [
+     "Crew",
+     "Emerel",
+     "Shine up",
+     "Spectrum DC"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "nghiep-vu-fb-87",
+    "no": 87,
+    "text": "Khi đang làm vệ sinh trong nhà hàng có khách báo mất tài sản trong khu vực,bạn sẽ làm gì?",
+    "options": [
+     "Tiếp nhận thông tin và báo cáo với giám sát, quản lí Nhà hàng hoặc Cấp trên có thể giúp, ngay.",
+     "Hảy rời vị trí ngay vì bạn không thể giúp điều này.",
+     "Tiếp nhận thông tin nhưng không báo cáo với Cấp trên.",
+     "Rời vị trí và chủ động một mình cùng Khách đi tìm tài sản."
+    ],
+    "answer": 0
+   },
+   {
+    "id": "nghiep-vu-fb-88",
+    "no": 88,
+    "text": "Trong ca làm việc bạn được phân công một nhà hàng nhưng nhà hàng bạn làm rất ít khách nhưng nhà hàng bên cạnh rất đông khách và đồng nghiệp của bạn dọn vệ sinh không kịp bạn sẽ làm gì?",
+    "options": [
+     "Làm ngơ như không thấy gì",
+     "Báo cáo với Giám sát/Quản lý nhà hàng đang phụ trách, rời vị trí tham gia hỗ trợ nhà hàng bên cạnh",
+     "Ngồi chơi tám chuyện với nhân viên nhà hàng",
+     "Rời vị trí và chủ động hỗ trợ đồng nghiệp ngay"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "nghiep-vu-fb-89",
+    "no": 89,
+    "text": "Khi nhìn thấy đồng nghiệp lấy cắp tài sản của khách bạn sẽ làm gì?",
+    "options": [
+     "Khuyên đồng nghiệp trung thực, trả lại tài sản cho khách. Báo cáo sự việc cho cấp trên",
+     "Làm ngơ bỏ đi",
+     "Ủng hộ đồng nghiệp",
+     "Yêu cầu chia nhau"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "nghiep-vu-fb-90",
+    "no": 90,
+    "text": "Trong lúc vệ sinh thang cuốn bạn thấy một người rất lớn tuổi ,khó di chuyển trên thang cuốn bạn sẽ làm gì?",
+    "options": [
+     "Nên tiếp tục làm việc của mình",
+     "Hảy rời vị trí đó ngay",
+     "Quan sát và tiến đến giúp đỡ khách bước lên thang cuốn(nếu có thể) hoặc gọi giúp đỡ, dẫn khách đi hết thang cuốn đến lúc an toàn chào tạm biệt khách và tiếp tục thực hiện công việc của mình",
+     "Báo Giám sát/Quản lý"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "nghiep-vu-fb-91",
+    "no": 91,
+    "text": "Khi bị cấp trên nhắc nhở vì chưa hoàn thành công việc được giao bạn sẽ làm gì?",
+    "options": [
+     "Hảy xem đó là chuyện bình thường trong công việc",
+     "Lắng nghe, xin lỗi thiếu sót trong công việc, cam kết sẽ không tái diễn và nhờ cấp trên tư vấn cách làm hiệu quả nhất",
+     "Không quan tâm vì ai cũng như mình",
+     "Hảy tìm cho mình 1 lý do để đấu tranh"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "nghiep-vu-fb-92",
+    "no": 92,
+    "text": "Đang dọn vệ sinh trong nhà hàng Anh/Chị vô tình thấy điện thoại của khách quên, hành động xử lý nào của anh/ chị là đúng?",
+    "options": [
+     "Hảy nhận lấy và sử dụng cho riêng mình.",
+     "Hảy im lặng và rời vị trí đó ngay vì bạn sẽ phải bị hiểu lầm ăn cắp",
+     "Theo dõi thiết bị và báo cáo sự việc ngay lập tức cho Giám sát, Quản lí Nhà hàng, Cấp trên có thể hỗ trợ.",
+     "Chủ động chạy quanh các khu vực để tìm chủ nhân"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "nghiep-vu-fb-93",
+    "no": 93,
+    "text": "Khi bạn bị ốm đau đột xuất không thể đi làm được ngày hôm đó, bạn sẽ làm gì?",
+    "options": [
+     "Nghỉ và hôm sau lên báo",
+     "Nghỉ vài ngày đến khi khỏe",
+     "Báo cáo ngay cho Tổ trưởng/Giám sát/Quản lý tạp vụ và trình giấy ốm khi đi làm lại",
+     "Báo cho Phó/Trưởng bộ phận Nhà Hàng"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "nghiep-vu-fb-94",
+    "no": 94,
+    "text": "Hằng ngày, bạn cần làm việc theo file nào?",
+    "options": [
+     "Bảng mô tả , phân chia công việc hằng ngày.",
+     "Bảng mô tả , bố trí công việc định kỳ trong tháng",
+     "Bảng mô tả, bố trí kho",
+     "Bảng theo dõi năng suất làm việc"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "nghiep-vu-fb-95",
+    "no": 95,
+    "text": "Sử dụng hóa chất đúng cách và hiệu quả phải làm theo các yếu tố nào?",
+    "options": [
+     "Đúng nhiệt độ",
+     "Đúng thời gian",
+     "Đúng thời tiết",
+     "Sử dụng đúng nồng độ và tỷ lệ do nhà sản xuất đưa ra, được Quản lý niêm yết"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "nghiep-vu-fb-96",
+    "no": 96,
+    "text": "Trong trường hợp lau chùi cửa kính mà không có hóa chất chuyên dụng cho kính, bạn có thể dùng?",
+    "options": [
+     "Bất kì dung dịch, hóa chất có tính đa năng (pH 6 đến 8)",
+     "Crew",
+     "Shine up",
+     "Emerel"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "nghiep-vu-fb-97",
+    "no": 97,
+    "text": "Loại hóa chất nào không được tiếp xúc với thực phẩm?",
+    "options": [
+     "Crew",
+     "Shine up",
+     "Jumbo",
+     "Tất cả các loại dung dịch/hóa chất tẩy rửa đều không được tiếp xúc"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "nghiep-vu-fb-98",
+    "no": 98,
+    "text": "Vào các mùa cao điểm, rác thải trong các thùng tại từng khu vực kinh doanh được tiến hành ra sao?",
+    "options": [
+     "Hảy để đầy rồi thay luôn",
+     "Hảy thay mới và để rác cũ ở đó",
+     "Thay bao mới khi đầy 2/3 thùng. Tập kết rác tại kho rác đúng quy định",
+     "Báo cáo cấp trên"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "nghiep-vu-fb-99",
+    "no": 99,
+    "text": "Hóa chất, dung dịch có tính axit có được sử dụng cho vật liệu kim loại không và vì sao?",
+    "options": [
+     "Không, vì có tính ăn mòn",
+     "Không, vì có tính kiềm",
+     "Không, vì có tính bazo",
+     "Được, vì có tính axit"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "nghiep-vu-fb-100",
+    "no": 100,
+    "text": "Kí hiệu đầu sọ có chữ T+ là nhãn cảnh báo gì?",
+    "options": [
+     "Chất ăn mòn",
+     "Chất độc với môi trường",
+     "Chất dễ cháy",
+     "Chất rất độc"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "nghiep-vu-fb-101",
+    "no": 101,
+    "text": "Sử dụng các loại đèn xông tinh dầu, hiện tại để làm gì?",
+    "options": [
+     "Để trang trí cho nhà hàng",
+     "Triệt khuẩn",
+     "Để sử dụng kết hợp với tinh dầu để khử mùi, tạo không gian dể chịu, thơm mát",
+     "Đúng theo yêu cầu Cấp trên"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "nghiep-vu-fb-102",
+    "no": 102,
+    "text": "Trong quy trình làm vệ sinh phòng toilet, bước đầu tiên là gì?",
+    "options": [
+     "Quét sàn",
+     "Lau sàn",
+     "Đánh sàn",
+     "Gõ cửa, treo bảng báo đang làm vệ sinh"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "nghiep-vu-fb-103",
+    "no": 103,
+    "text": "Trong các tất cả quy trình làm vệ sinh, bước cuối cùng trong tất cả rất quan trọng đó là gì?",
+    "options": [
+     "Tắt điện, tiết kiệm điện năng tiêu thụ",
+     "Báo cáo với cấp trên tình trạng hoàn thành",
+     "Kiểm tra tổng thể lần cuối",
+     "Khử mùi, tạo hương"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "nghiep-vu-fb-104",
+    "no": 104,
+    "text": "Pole 1,2m là gì?",
+    "options": [
+     "Cây nối dài lau kính có kích thước 1,2m",
+     "Mop lau sàn có kích thức 1,2m",
+     "Than chữ A có chiều dài 1,2m",
+     "Cần hút nước"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "nghiep-vu-fb-105",
+    "no": 105,
+    "text": "BDS 43/150C là thiết bị gì?",
+    "options": [
+     "Máy đánh sàn đơn Karcher",
+     "Máy hút nước Hiclean",
+     "Máy áp lực nước Karcher",
+     "Máy hơi nước nóng Karcher"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "nghiep-vu-fb-106",
+    "no": 106,
+    "text": "Quy cách bao rác đang sử dụng cho Buffet là gì?",
+    "options": [
+     "60x80 không quai",
+     "60x80 có quai",
+     "75x100 có quai",
+     "45x85 không quai"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "nghiep-vu-fb-107",
+    "no": 107,
+    "text": "Quy cách bao rác đang sử dụng cho Alacarte là gì?",
+    "options": [
+     "60x80 không quai",
+     "75x100 có quai",
+     "75x100 không quai",
+     "45x85 không quai"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "nghiep-vu-fb-108",
+    "no": 108,
+    "text": "Extra foam (5l/Can) là dung dịch gì?",
+    "options": [
+     "Chế phẩm giặt thảm",
+     "Hóa chất tẩy rỉ sét",
+     "Dung dịch vệ sinh sát khuẩn",
+     "Dung dịch tẩy đốm"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "nghiep-vu-fb-109",
+    "no": 109,
+    "text": "Stein ext (5l/Can) là dung dịch gì?",
+    "options": [
+     "Dung dịch tẩy kẹo cao su",
+     "Hóa chất tẩy vết trà, cafe",
+     "Chế phẩm giặt thảm",
+     "Dung dịch tẩy đốm trên vải"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "nghiep-vu-fb-110",
+    "no": 110,
+    "text": "Khi kết hợp Extra foam và Stein ext trong quá trình xử lí ghế sofa, tỉ lệ pha 2 dung dịch là như thế nào?",
+    "options": [
+     "3 Extra foam : 1 Stein ext",
+     "5 Extra foam : 1 Stein ext",
+     "1 Extra foam : 1 Stein ext",
+     "2 Extra foam : 1 Stein ext"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "nghiep-vu-fb-111",
+    "no": 111,
+    "text": "Sử dụng pad đánh sàn có số inch bao nhiêu cho máy đánh sàn đơn Karcher 43/150c?",
+    "options": [
+     "16",
+     "18",
+     "20",
+     "21"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "nghiep-vu-fb-112",
+    "no": 112,
+    "text": "Một trong những lưu ý đối với vệ sinh thang máy?",
+    "options": [
+     "Không sử dụng CCDC, vật liệu thô ráp hoặc sắt nhọn",
+     "Cần dụng hóa chất có tính axit cao",
+     "Cần dụng CCDC,vật liệu thô ráp tạo mài mòn",
+     "Sử dụng pad đỏ kết hợp"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "nghiep-vu-fb-113",
+    "no": 113,
+    "text": "Khay phục vụ luôn được giữ trên tay nào kể cả khi không có đồ trên khay ?",
+    "options": [
+     "Luôn giữ khay phục vụ bên tay trái",
+     "Luôn để khay xuống dưới",
+     "Khay cầm nghiêng bên phải",
+     "Luôn giữ khay phục vụ bên tay phải"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "nghiep-vu-fb-114",
+    "no": 114,
+    "text": "Khi dọn dẹp CCDC trước mặt khách cần lưu ý điểm gì?",
+    "options": [
+     "Dọn dẹp từ bên phải của khách (trừ khi không thuận tiện cho khách). Không bao giờ được đi ngang qua trước mặt khách, với ngang tay qua mặt khách, với ngang người qua bàn ăn.Khi thu dọn cần cẩn thận tránh để đồ ăn thừa văng vào khách, tránh để dao nĩa khua vào đĩa gây tiếng ồn và tránh để khách nhìn thấy.",
+     "Không bao giờ được đi ngang qua trước mặt khách, với ngang tay qua mặt khách, với ngang người qua bàn ăn.Khi thu dọn cần cẩn thận tránh để đồ ăn thừa văng vào khách, tránh để khách nhìn thấy.",
+     "Dọn dẹp từ bên phải của khách (trừ khi không thuận tiện cho khách). Không bao giờ được với ngang tay qua mặt khách, với ngang người qua bàn ăn.Khi thu dọn cần cẩn thận tránh để đồ ăn thừa văng vào khách.",
+     "Không bao giờ được đi ngang qua trước mặt khách, với ngang tay qua mặt khách, với ngang người qua bàn ăn.Khi thu dọn cần cẩn thận tránh để đồ ăn thừa văng vào khách, tránh để khách nhìn thấy.\nDọn dẹp từ bên phải của khách (trừ khi không thuận tiện cho khách). Không bao giờ được với ngang tay qua mặt khách, với ngang người qua bàn ăn.Khi thu dọn cần cẩn thận tránh để đồ ăn thừa văng vào khách."
+    ],
+    "answer": 0
+   },
+   {
+    "id": "nghiep-vu-fb-115",
+    "no": 115,
+    "text": "Cách đặt ccdc trên bàn ăn theo thứ tự nào là đúng?",
+    "options": [
+     "Từ phải sang: dao ăn chính, dao ăn bò, thìa ăn súp, đĩa định vị, nĩa/dĩa ăn chính,  nĩa/dĩa ăn salad",
+     "Đặt thứ tự nào cũng được, tùy theo sở thích của khách",
+     "Từ phải sang: dao ăn salad, thìa ăn súp, dao ăn chính, đĩa định vị, nĩa/dĩa ăn salad, thìa ăn chính",
+     "Từ phải sang: dao ăn salad, thìa ăn súp, dao ăn chính, đĩa định vị, nĩa/dĩa ăn chính,  nĩa/dĩa ăn salad"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "nghiep-vu-fb-116",
+    "no": 116,
+    "text": "Dấu hiệu nào để nhận biết nhu cầu dọn bát đĩa / ly cốc của khách khi đồ ăn đồ uống đã được dùng xong?",
+    "options": [
+     "Đĩa đồ ăn/ ly cốc đồ uống đã hết. Đĩa thức ăn để sang một bên trên bàn.",
+     "Đĩa thức ăn còn nhưng khách không tiếp tục sử dụng.",
+     "Đĩa thức ăn còn nhưng khách đang ngừng sử dụng.",
+     "Đĩa đồ ăn/ ly cốc đồ uống đã hết. Đĩa thức ăn để sang một bên trên bàn. Đĩa thức ăn còn nhưng khách không tiếp tục sử dụng nữa."
+    ],
+    "answer": 3
+   },
+   {
+    "id": "nghiep-vu-fb-117",
+    "no": 117,
+    "text": "Hành vi nào sai đối với thông tin khách hàng?",
+    "options": [
+     "Không thu thập lưu trữ thông tin cá nhân của khách hàng",
+     "Không hợp tác với bên ngoài để tìn kiếm thông tin cá nhân của khách hàng",
+     "Chỉ tiết lộ thông tin di chuyển của khách hàng",
+     "Tiết lộ thông tin cá nhân của khách hàng, đối tác"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "nghiep-vu-fb-118",
+    "no": 118,
+    "text": "Khách hàng phàn nàn món ăn được phục vụ chậm, bạn nên làm gì?",
+    "options": [
+     "Báo rằng hôm nay bếp vắng người nên sẽ phục vụ chậm",
+     "Báo khách món ăn khách yêu cầu làm phức tạp nên sẽ mất thời gian và chú ý khách",
+     "Báo rằng nhà hàng đông khách nên sẽ phục vụ chậm.",
+     "Xin lỗi vì sự cố xảy ra và cảm ơn khách đã góp ý. Lấy thông tin của khách và thông báo với quản lý kiểm tra"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "nghiep-vu-fb-119",
+    "no": 119,
+    "text": "Khách hàng sẽ được mời xem thực đơn món ăn nhẹ khi nào?",
+    "options": [
+     "Trước khi hỏi đồ uống",
+     "Sau khi hỏi đồ uống",
+     "Bất kỳ thời điểm nào",
+     "Nếu thời điểm phục vụ không trùng với giờ dùng bữa"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "nghiep-vu-fb-120",
+    "no": 120,
+    "text": "Khi phục vụ món ăn cho khách, nhân viên cần lưu ý điều gì với khách về các món ăn mà khách đã yêu cầu?",
+    "options": [
+     "Cần giới thiệu và xác nhận lại",
+     "Cần giới thiệu",
+     "Cần xác nhận lại",
+     "Không cần làm gì cứ vậy đặt đồ cho khách."
+    ],
+    "answer": 0
+   },
+   {
+    "id": "nghiep-vu-fb-121",
+    "no": 121,
+    "text": "Khi trên bàn có nhiều hơn 1 ly nước thì cách đặt các loại thức uống trên khách nên tuân theo nguyên tắc nào?",
+    "options": [
+     "Theo thứ tự từ thấp đến cao( chiều cao của ly), ly thấp hơn đặt bên phải",
+     "Người phục vụ nên đặt ly Cocktail và ly rượu gần với khách hơn là ly nước",
+     "Theo thứ tự từ thấp đến cao( chiều cao của ly), ly thấp hơn đặt bên trái",
+     "Người phục vụ nên đặt ly nước gần với khách hơn là ly rượu, cocktail"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "nghiep-vu-fb-122",
+    "no": 122,
+    "text": "Khi vệ sinh dụng cụ cho từng loại dao, muỗng/ thìa, dĩa vào chậu inox đựng nước nóng đã được pha loãng với ?",
+    "options": [
+     "Nước muối",
+     "Nước rửa bát",
+     "Nước khử trùng",
+     "Dấm hoặc chanh"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "nghiep-vu-fb-123",
+    "no": 123,
+    "text": "Khi xử lý phàn nàn của khách, bạn thể hiện sự đồng cảm với khách hàng như thế nào",
+    "options": [
+     "Đồng cảm cùng khách hàng và ghi lại tất cả các thông tin ( đặt mình vào vị trí của khách)",
+     "Sẽ làm tất cả vì khách hàng",
+     "Chỉ cần lắng nghe",
+     "Khuyên khách hàng cứ yên tâm công ty sẽ giải quyết thỏa đáng"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "nghiep-vu-fb-124",
+    "no": 124,
+    "text": "Nhân viên khi thu dọn đồ bẩn cần tiến hành phân loại CCDC bản như thế nào ?",
+    "options": [
+     "Phân loại công cụ dụng cụ : dao, thìa, nĩa… và cho vào khay riêng biệt",
+     "Phân loại công cụ dụng cụ : đồ inox, đồ sứ, đồ tre gỗ… và để riêng từng loại hoặc vào khay riêng biệt.",
+     "Phân loại công vụ dụng cụ đồ dễ vỡ đồ không dễ vỡ cho vào khay riêng biệt",
+     "Cho tất cả vào một thùng đựng"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "nghiep-vu-fb-125",
+    "no": 125,
+    "text": "Nhân viên phục vụ nên xử lý như thế nào khi khách hàng có biểu hiện bị dị ứng thực phẩm (ở mức độ nhẹ)?",
+    "options": [
+     "Đối với trường hợp khách hàng bị dị ứng nhẹ, nhân viên phục vụ đến phòng y tế xin thuốc về cho khách uống tại nhà hàng",
+     "Nhân viên phục vụ không nên làm gì cả vì đây không phải là nghiệp vụ chuyên môn của mình",
+     "Nhân viên nên báo cáo ngay với quản lý",
+     "Nhân viên nên đề nghị được đưa khách đến phòng y tế của khách sạn để nhân viên y tế có chuyên môn thăm khám và cấp thuốc cho khách, sau đó báo cáo lại cho quản lý nắm thông tin và ghi nhận thông tin vào hồ sơ khách hàng"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "nghiep-vu-fb-126",
+    "no": 126,
+    "text": "Nhân viên thông báo với khách giờ đóng cửa Buffet của nhà hàng tối thiểu bao nhiêu phút ?",
+    "options": [
+     "20 phút",
+     "15 phút",
+     "30 phút",
+     "Không có đáp án nào đúng"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "nghiep-vu-fb-127",
+    "no": 127,
+    "text": "Phân loại các ccdc theo phương án nào là đúng?",
+    "options": [
+     "Tableware: Bàn ghế\nAsset: Tài sản",
+     "Silverware: Thìa ăn chính, thìa ăn súp, nĩa ăn chính, dao ăn bơ\nGlassware: ly vang, ly nước, ly bia",
+     "Silverware: Thìa ăn chính, thìa ăn súp, nĩa ăn chính, dao ăn bơ\nGlassware: ly vang, ly nước, tách cà phê",
+     "Chinaware: bát, đĩa, thìa sứ, ly uống rượu.\nSilverware: nĩa ăn, dao ăn, thìa cà phê"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "nghiep-vu-fb-128",
+    "no": 128,
+    "text": "Sau khi rót vang đỏ cho khách, chai vang còn rượu sẽ được đặt ở đâu?",
+    "options": [
+     "Ở phía trước ly của chủ tiệc và nhãn rượu quay về phía chủ tiệc",
+     "Không được đặt lên bàn khách, có thể đặt lên bàn bên cạnh",
+     "Đặt ở khu vực bàn chờ/service station gần bàn ăn nhất",
+     "Đặt lên xô ướp rượu bên cạnh bàn ăn"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "nghiep-vu-fb-129",
+    "no": 129,
+    "text": "Tại sao khi đã hết giờ phục vụ buffet nhưng khách vẫn muốn lấy đồ ăn thêm, bộ phận FB phải xin lỗi, giải thích cho khách về thời gian kết thúc và đưa ra giải pháp thay thế cho khách ?",
+    "options": [
+     "Làm khách hàng hài lòng",
+     "Luôn cho khách thấy được sự quan tâm đến trải nghiệm của khách và có phương án thay thế",
+     "Thể hiện sự quan tâm đến nhu cầu của khách",
+     "Làm khách hàng hài lòng\nLuôn cho khách thấy được sự quan tâm đến trải nghiệm của khách và có phương án thay thế\nThể hiện sự quan tâm đến nhu cầu của khách"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "nghiep-vu-fb-130",
+    "no": 130,
+    "text": "Khi bưng khay và di chuyển, cần lưu ý?",
+    "options": [
+     "Giữ thăng bằng khay, đi thật nhanh",
+     "Đi thật chậm rãi",
+     "Giữ thăng bằng khay, quan sát phía trước",
+     "Mắt tập trung nhìn xuống khay để đảm bảo đồ uống không rơi"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "nghiep-vu-fb-131",
+    "no": 131,
+    "text": "Dụng cụ phục vụ vang trắng A la carte bao gồm những gì?",
+    "options": [
+     "Bên phải",
+     "Đồ mở rượu, khăn phục vụ rượu, xô đá, ly vang trắng",
+     "Đồ mở rượu, khăn phục vụ rượu, decanter, ly vang trắng",
+     "Đồ mở rượu, khăn phục vụ rượu, đĩa đựng nút rượu, xô đá, ly vang trắng chilled sẵn"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "nghiep-vu-fb-132",
+    "no": 132,
+    "text": "Theo bạn, nếu khách gọi 4 món: Salad, Súp, tráng miệng, thịt cừu nướng. Thì thứ tự phục vụ các món ăn của bạn là như thế nào?",
+    "options": [
+     "Salad - Sup - Thịt cừu nướng- Tráng miệng",
+     "Súp - Salad - Thịt cừu nướng - Tráng miệng",
+     "Salad - Thịt cừu nướng -  Sup - Tráng miệng",
+     "Sup - Thịt cừu nướng - Sa lad - Tráng miệng"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "nghiep-vu-fb-133",
+    "no": 133,
+    "text": "Khi rót rượu vang thử, cho khách nào sau đây thử rượu?",
+    "options": [
+     "Chủ tiệc",
+     "Người lớn tuổi nhất",
+     "Người order rượu",
+     "Khách mời"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "nghiep-vu-fb-134",
+    "no": 134,
+    "text": "Quy định set up bàn ăn Âu như thế nào?",
+    "options": [
+     "Đia trưng bày, dao chính, nĩa chính, muỗng ăn chính, dao salad, nĩa salad, ly rượu vang, ly nước, khăn ăn",
+     "Đĩa trưng bày, dao chính, nĩa chính, muỗng ăn chính, dao salad, nĩa salad",
+     "Đĩa trưng bày, dao chính, nĩa chính, khăn ăn",
+     "Đĩa trưng bày, khăn ăn, nĩa chính, muỗng ăn chính, dao salad, nĩa salad, ly rượu vang"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "nghiep-vu-fb-135",
+    "no": 135,
+    "text": "Anh/ Chị hãy cho biết rượu vang đỏ thích hợp ăn với thực phẩm nào sau đây?",
+    "options": [
+     "Thịt Bò",
+     "Thịt gia cầm",
+     "Hải sản",
+     "Không thích hợp với loại nào"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "nghiep-vu-fb-136",
+    "no": 136,
+    "text": "Loại dao nào được sử dụng để phục vụ các món thịt cừu?",
+    "options": [
+     "Dao ăn chính",
+     "Dao ăn bò",
+     "Dao ăn salad",
+     "Dao ăn tráng miệng"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "nghiep-vu-fb-137",
+    "no": 137,
+    "text": "Món ăn nào sau đây là món Khai vị?",
+    "options": [
+     "Súp gà xé măng tây",
+     "Thăn bò Úc nướng",
+     "Bánh budding dâu tây",
+     "Cà ri gà"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "nghiep-vu-fb-138",
+    "no": 138,
+    "text": "Trong  rượu vang, vintage có nghĩa là gì?",
+    "options": [
+     "Năm chưng cất",
+     "Năm ủ",
+     "Năm thu hoạch",
+     "Năm bán"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "nghiep-vu-fb-139",
+    "no": 139,
+    "text": "Khi muốn dọn đĩa dơ trên bàn khách thì phải nói như thế nào (bằng tiếng Anh)?",
+    "options": [
+     "Excuse me, May I clear your plate..?",
+     "Sorry, give me your dirty plate.",
+     "I need to clear that plate",
+     "Sorry, I clear"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "nghiep-vu-fb-140",
+    "no": 140,
+    "text": "Phục vụ đồ ăn, thức uống cho khách về bên phía nào của khách?",
+    "options": [
+     "Phía bên trái",
+     "Phía bên phải",
+     "Phía trước",
+     "Phía sau"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "nghiep-vu-fb-141",
+    "no": 141,
+    "text": "Tại sao khi tiếp nhận yêu cầu của khách, nhân viên phục vụ phải lặp lại yêu cầu của khách?",
+    "options": [
+     "Tránh nhầm lẫn, xác nhận yêu cầu đặc biệt",
+     "Tránh quên",
+     "Tránh thiếu sót các yêu cầu đặc biệt",
+     "Xác nhận khách hiểu"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "nghiep-vu-fb-142",
+    "no": 142,
+    "text": "Quy định bàn ăn set menu 10 khách khi khách vào ăn hơn 10 người anh chị xử  lý như thế nào?",
+    "options": [
+     "Thông báo cho khách là bàn chỉ 10 khách không được ngồi thêm",
+     "Thông báo cho khách sẽ kê thêm ghế, báo cho HDV, hoặc trưởng đoàn tình hình và sẽ tăng thêm khẩu phần ăn, tính tiền thêm phần ăn bổ sung, báo giám sát biết để giám sát báo bếp ra thêm thức ăn cho bàn này",
+     "Cho khách vào ngồi cùng và báo khách tự chia phần thức ăn của 10 khách và sẽ tính thêm tiền cho khách vượt tiêu chuẩn bàn ăn 10 khách này",
+     "Cho khách vào ngồi cùng, báo cho HDV hoặc trưởng đoàn tình hình và báo khách tự chia phần thức ăn của 10 khách và sẽ tính thêm tiền cho khách vượt tiêu chuẩn bàn ăn 10 khách này"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "nghiep-vu-fb-143",
+    "no": 143,
+    "text": "Dụng cụ ăn trên bàn bị dơ. Khách gọi phục vụ đến để chỉ và tỏ vẻ không hài lòng về chất lượng vệ sinh của nhà hàng. Bạn xử lý như thế nào ?",
+    "options": [
+     "Thay ngay dụng cụ sạch cho khách và rời khỏi bàn",
+     "Nhanh chóng xin lỗi khách, thể hiện thái độ chân thành và mong khách thông cảm. Xin phép khách được thay bộ CCDC mới. Kiểm tra lại tất cả các CCDC còn lại để tránh tình trạng xảy ra lần nữa",
+     "Đến bàn khách để kiểm tra CCDC. Báo với khách rằng khách đông nên bạn chưa dọn kịp, còn sót lại và xin lỗi khách, mong khách thông cảm",
+     "Bạn không đồng ý với việc phàn nàn của khách. Bạn đôi co với khách và cho rằng khách đang cố ý gây sự"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "nghiep-vu-fb-144",
+    "no": 144,
+    "text": "Trong  lúc phục vụ,  vô tình làm đổ thức ăn lên người khách, làm cho khách khó chịu và lúng túng. Anh/ chị sẽ xử lý thế nào?",
+    "options": [
+     "Lấy khăn lau cho khách, xin lỗi khách và mong khách thông cảm vì sự sơ xuất",
+     "Bình tĩnh xử lý, xin lỗi khách vì sự sơ xuất. Nếu thức ăn đổ vào khách nguội và đơn giản thì lấy khăn thấm và lau sạch, sau đó hướng dẫn khách vào phòng vệ sinh lau sạch. Nếu thức ăn nóng thì lấy khăn ướt làm dịu vết thương, lau sạch thức ăn, sau đó dẫn khách vào phòng y tế và báo cáo cấp trên giải quyết",
+     "Chỉ cho khách lối vào phòng vệ sinh để lau sạch thức ăn và quần áo. Nếu thấy tình trạng khách nặng do bỏng thì báo ngay cho y tế đến sơ cứu hoặc dẫn khách đến phòng y tế. Báo cáo cho cấp trên trực tiếp để giải quyết",
+     "Xin lỗi khách và đàm phán với khách để xin được đền áo quần cho khách hoặc đổi bộ áo quần cho khách, báo với khách đợi trong khoản thời gian để được giặt ủi, tất cả chi phí bạn sẽ là người chi trả.Vì bạn đã trả tiền nên không cần báo cáo cho cấp quản lý trực tiếp về sự việc trên"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "nghiep-vu-fb-145",
+    "no": 145,
+    "text": "Phục vụ tiệc buffet bao gồm các công việc gì?",
+    "options": [
+     "Phục vụ đồ uống, thu dọn bát đĩa bẩn đảm bảo bàn ăn sạch sẽ, đảm bảo quầy buffet sạch sẽ và đẩy đủ đồ ăn",
+     "Phục vụ đồ uống, mang thức ăn ra  theo thực đơn đã soạn sẵn phục vụ tại bàn cho khách, thu dọn bát đĩa bẩn trên bàn và chuẩn bị cho các món tiếp theo",
+     "Phục vụ đồ uống và đồ ăn nhẹ trên khay, đi vòng quanh mời khách sử dụng và thu dọn CCDC khách đã sử dụng",
+     "Phục vụ đồ uống, mang thức ăn ra theo thực đơn, thu dọn bát đĩa bẩn đảm bảo bàn ăn sạch sẽ, đảm bảo quầy buffet sạch sẽ và đẩy đủ đồ ăn"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "nghiep-vu-fb-146",
+    "no": 146,
+    "text": "Theo quy trình phục vụ, ai là người được ưu tiên phục vụ đầu tiên trong buổi tiệc?",
+    "options": [
+     "Chủ tiệc",
+     "Phụ nữ",
+     "Người phụ nữ lớn tuổi",
+     "Cụ ông"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "nghiep-vu-fb-147",
+    "no": 147,
+    "text": "Pasta là gì?",
+    "options": [
+     "Là một loại mỳ ý",
+     "Tên một loài hoa",
+     "Tên của một thành phố",
+     "Tên gọi khác của nước Ý"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "nghiep-vu-fb-148",
+    "no": 148,
+    "text": "Phục vụ rượu Rum ở dạng Neat có nghĩa là gì?",
+    "options": [
+     "Uống với nước đá, dùng ly shot",
+     "Uống không nước đá, dùng ly shot",
+     "Uống không nước đá, dùng ly hiball",
+     "Uống với nước đá, dùng ly rock"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "nghiep-vu-fb-149",
+    "no": 149,
+    "text": "Phục vụ rượu Rum ở dạng Mixer có nghĩa là gì?",
+    "options": [
+     "Thường pha trộn với Syrup các loại",
+     "Thường pha trộn với nước khoáng, soda, coca",
+     "Pha chế bằng phương pháp Shaker",
+     "Pha chế bằng phương pháp Stir"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "nghiep-vu-fb-150",
+    "no": 150,
+    "text": "Phục vụ rượu Brandy theo đúng tiêu chuẩn là bao nhiêu ml/ly?",
+    "options": [
+     "30ml/ly",
+     "40ml/ly",
+     "50ml/ly",
+     "60ml/ly"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "nghiep-vu-fb-151",
+    "no": 151,
+    "text": "Phục vụ rượu Brandy theo kiểu “Neat” có nghĩa là gì?",
+    "options": [
+     "Uống không đá , dùng ly Rock",
+     "Uống không đá , dùng ly Brandy Snifter",
+     "Uống với đá , dùng ly Hiball",
+     "Uống không đá , dùng ly Liqueur"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "nghiep-vu-fb-152",
+    "no": 152,
+    "text": "Phục vụ rượu mùi ( liqueur) ở dạng Neat có nghĩa là gì?",
+    "options": [
+     "Uống với nước đá, dùng ly shot",
+     "Uống không nước đá, dùng ly liqueur",
+     "Uống không nước đá, dùng ly hiball",
+     "Uống với nước đá, dùng ly rock"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "nghiep-vu-fb-153",
+    "no": 153,
+    "text": "Phục vụ rượu mùi ( liqueur) ở dạng Frappe có nghĩa là gì?",
+    "options": [
+     "Uống với nước đá, dùng ly shot",
+     "Uống không nước đá, dùng ly liqueur",
+     "Dùng ly cocktail, nước đá bào phục vụ với ống hút cắt ngắn",
+     "Uống với nước đá, dùng ly rock"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "nghiep-vu-fb-154",
+    "no": 154,
+    "text": "Phục vụ Vodka ướp lạnh sử dụng ly nào là đúng?",
+    "options": [
+     "Ly Highball ướp lạnh",
+     "Ly Collin ướp lạnh",
+     "Ly Shot ướp lạnh",
+     "Ly Rock ướp lạnh"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "nghiep-vu-fb-155",
+    "no": 155,
+    "text": "Khi trình rượu vang cho khách cần đọc thông tin như thế nào?",
+    "options": [
+     "Tên rượu, giống nho",
+     "Tên rượu, năm sản xuất",
+     "Tên rượu, giống nho, năm thu hoạch giống nho, nước sản xuất",
+     "Tên rượu và nước sản xuất."
+    ],
+    "answer": 2
+   },
+   {
+    "id": "nghiep-vu-fb-156",
+    "no": 156,
+    "text": "Cách phục vụ whisky theo kiểu “On the rocks” là gì?",
+    "options": [
+     "Uống không nước đá, dùng ly rocks",
+     "Uống không nước đá, dùng ly hiball",
+     "Uống không nước đá, dùng ly hiball",
+     "Pha trộn với nước khoáng, soda, coca"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "nghiep-vu-fb-157",
+    "no": 157,
+    "text": "Trong quá trình lau CCDC vô tình làm vỡ ly bạn sẽ làm gì?",
+    "options": [
+     "Bỏ vào thùng rác không báo cáo",
+     "Ghi lại thông tin trên giấy ghi nhận bể vỡ & báo cáo cho giám sát ký xác nhận",
+     "Mang đi dấu",
+     "Báo cho quản lý"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "nghiep-vu-fb-158",
+    "no": 158,
+    "text": "Khi hóa đơn tính tiền của khách bị sai, anh chị xử lý như thế nào?",
+    "options": [
+     "Xin lỗi khách vì sự cố, báo nhân viên thu ngân để bỏ món khách không dùng và làm lại hóa đơn mới cho khách",
+     "Báo khách chờ trong giây lát để kiểm tra phiếu gọi món & nhân viên phục vụ bàn đó, nếu đúng với thông tin khách phản ánh thì lập tức xin lỗi khách, báo thu ngân sửa hóa đơn và hướng dẫn khách thanh toán",
+     "Báo khách chờ và yêu cầu thu ngân sửa hóa đơn và thanh toán",
+     "Báo khách chờ trong giây lát,  thông báo với quản lý để quản lý xử lý"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "nghiep-vu-fb-159",
+    "no": 159,
+    "text": "Thực phẩm đã nấu chín nên ăn ngay và không được để ở nhiệt độ phòng qua bao nhiêu giờ?",
+    "options": [
+     "1 tiếng",
+     "2 tiếng",
+     "3 tiếng",
+     "4 tiếng"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "nghiep-vu-fb-160",
+    "no": 160,
+    "text": "Tiêu chuẩn định lượng rót nước ngọt và nước đóng chai?",
+    "options": [
+     "1/3 ly",
+     "Đầy ly",
+     "2/3 ly",
+     "1/2 ly"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "nghiep-vu-fb-161",
+    "no": 161,
+    "text": "Việc thực hiện việc tổng hợp các phiếu nhập - xuất - hủy hàng hóa và thống kê số liệu hàng nhập theo từng loại để làm gì ?",
+    "options": [
+     "Tổng hợp số liệu",
+     "Để cập nhật, tổng hợp số liệu hàng hóa và làm báo cáo cuối ca",
+     "Cập nhật số liệu",
+     "Làm báo cáo"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "nghiep-vu-fb-162",
+    "no": 162,
+    "text": "Vùng nhiệt độ nguy hiểm khi lưu trữ thực phẩm là bao nhiêu?",
+    "options": [
+     "5oC-60oC",
+     "5oC-70oC",
+     "10oC-70oC",
+     "Nhiệt độ dưới 0oC"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "nghiep-vu-fb-163",
+    "no": 163,
+    "text": "Thành phần chính của cocktail B52 là?",
+    "options": [
+     "Kahlua, Baileys, Cointreau",
+     "Táo, Kalua, Cointreau",
+     "Chanh, Kahlua, baileys",
+     "Cam, Cointreau, Kahlua"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "nghiep-vu-fb-164",
+    "no": 164,
+    "text": "Chức năng chính của Bar là gì?",
+    "options": [
+     "Cung cấp tất cả các loại đồ uống cho khách hàng",
+     "Thu lợi nhuận cho bar, nhà hàng, khách sạn",
+     "Cung cấp tất cả các loại đồ uống cho khách hàng và thu lợi nhuận cho bar",
+     "Cung cấp và phục vụ tất cả các loại đồ uống cho khách hàng và thu lợi nhuận cho bar, nhà hàng, khách sạn"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "nghiep-vu-fb-165",
+    "no": 165,
+    "text": "Nhận định nào sau đây đúng?",
+    "options": [
+     "Bar tiền sảnh là loại bar được đặt ở khu vực sân vườn, có chức năng chính là phục vụ trực tiếp các loại đồ uống cho khách hàng",
+     "Bar tiền sảnh là loại bar được đặt ở khu vực phía sau, có chức năng chính là phục vụ trực tiếp các loại đồ uống cho khách hàng",
+     "Bar tiền sảnh là loại bar được đặt ở khu vực tiền sảnh, có chức năng chính là phục vụ trực tiếp các loại đồ uống cho khách hàng",
+     "Bar tiền sảnh là loại bar được đặt ở khu vực nhà hàng, có chức năng chính là phục vụ trực tiếp các loại đồ uống cho khách hàng"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "nghiep-vu-fb-166",
+    "no": 166,
+    "text": "’Muddler’’ là dụng cụ trong pha chế dùng để làm gì?",
+    "options": [
+     "Xay các nguyên vật liệu",
+     "Nghiền các nguyên vật liệu",
+     "Lọc các nguyên vật liệu",
+     "Pha trộn các nguyên vật liệu"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "nghiep-vu-fb-167",
+    "no": 167,
+    "text": "Loại ly không chân (tumbler) dung tích 1oz đến 1,5oz, dùng để phục vụ rượu mạnh không đá là loại ly nào sau đây?",
+    "options": [
+     "Shooter glass",
+     "Shot glass",
+     "Rocks glass",
+     "Old Fashioned glass"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "nghiep-vu-fb-168",
+    "no": 168,
+    "text": "Ly Brandy Snifter (balloon) là loại ly chân thấp (Footed glass) thường dùng để làm gì?",
+    "options": [
+     "Phục vụ nước khoáng",
+     "Phục vụ bia tươi",
+     "Phục vụ rượu brandy – Cognac",
+     "Phục vụ nước trái cây"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "nghiep-vu-fb-169",
+    "no": 169,
+    "text": "Ly Hurricane là loại ly chân thấp (Footed glass) dung tích 8 oz đến 12oz thường dùng để làm gì?",
+    "options": [
+     "Phục vụ nước khoáng",
+     "Phục vụ bia tươi",
+     "Phục vụ rượu brandy – Cognac",
+     "Phục vụ sinh tố, cocktail nhóm trái cây"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "nghiep-vu-fb-170",
+    "no": 170,
+    "text": "Loại nước có hàm lượng khoáng chất tốt, ổn định được kiểm soát chặt chẽ theo quy định của thế giới hoặc theo tiêu chuẩn Việt Nam, được đóng chai tại nguồn. Không qua quá trình thêm bớt hoặc khử gas là loại nước uống nào?",
+    "options": [
+     "Nước tinh khiết",
+     "Nước suối",
+     "Nước khoáng",
+     "Nước đóng chai"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "nghiep-vu-fb-171",
+    "no": 171,
+    "text": "Loại nước uống có thành phần vi khoáng không được kiểm soát, không mùi vị, trong suốt. Trải qua quá trình lọc các tạp chất, các chất rắn bằng hệ thống lọc 1 hoặc nhiều lần là loại nước uống nào?",
+    "options": [
+     "Nước tinh khiết",
+     "Nước suối",
+     "Nước khoáng",
+     "Nước đóng chai"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "nghiep-vu-fb-172",
+    "no": 172,
+    "text": "Loại đồ uống không cồn có sự kết hợp giữa các loại hoa quả với sữa chua là loại nước uống nào?",
+    "options": [
+     "Smoothies",
+     "Lassie",
+     "Milk shaker",
+     "Soft drinks"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "nghiep-vu-fb-173",
+    "no": 173,
+    "text": "Loại đồ uống không cồn kết hợp của các loại hoa quả với các sản phẩm từ sữa và bổ sung thêm một số thành phần khác như sữa chua, các loại hạt hay thậm chí là bánh cookies là loại nước uống nào?",
+    "options": [
+     "Smoothies",
+     "Lassie",
+     "Milk shaker",
+     "Soft drinks"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "nghiep-vu-fb-174",
+    "no": 174,
+    "text": "Cocktail khai vị (Aperitif) thường được uống vào thời điểm nào?",
+    "options": [
+     "Uống sau bữa ăn; thường có vị chua hoặc mùi thơm kích thích vị giác, thèm ăn",
+     "Uống trước hoặc đầu bữa ăn; thường có vị chua hoặc mùi thơm kích thích vị giác, thèm ăn",
+     "Uống trong bữa ăn, thường có vị ngọt và nồng độ cồn cao",
+     "Uống sau bữa ăn, giúp tiêu hóa món ăn; thường có vị ngọt và nồng độ cồn cao"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "nghiep-vu-fb-175",
+    "no": 175,
+    "text": "Cocktail tiêu vị (Digestif) thường được uống vào thời điểm nào?",
+    "options": [
+     "Uống sau bữa ăn; thường có vị chua hoặc mùi thơm kích thích vị giác, thèm ăn",
+     "Uống trước hoặc đầu bữa ăn; thường có vị chua hoặc mùi thơm kích thích vị giác, thèm ăn",
+     "Uống trong bữa ăn, thường có vị ngọt và nồng độ cồn cao",
+     "Uống sau bữa ăn, giúp tiêu hóa món ăn; thường có vị ngọt và nồng độ cồn cao"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "nghiep-vu-fb-176",
+    "no": 176,
+    "text": "Daiquiri là loại Cocktail nổi tiếng được pha chế từ rượu nền nào?",
+    "options": [
+     "Vodka",
+     "Rum",
+     "Tequila",
+     "Brandy"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "nghiep-vu-fb-177",
+    "no": 177,
+    "text": "Black Rusian là loại Cocktail nổi tiếng được pha chế từ rượu nền nào?",
+    "options": [
+     "Vodka",
+     "Rum",
+     "Tequila",
+     "Brandy"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "nghiep-vu-fb-178",
+    "no": 178,
+    "text": "Mojito là loại Cocktail nổi tiếng được pha chế từ rượu nền nào?",
+    "options": [
+     "Vodka",
+     "Rum",
+     "Tequila",
+     "Brandy"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "nghiep-vu-fb-179",
+    "no": 179,
+    "text": "B52 là loại Cocktail nổi tiếng được pha chế từ phương pháp nào?",
+    "options": [
+     "Shaker",
+     "Stir",
+     "Blend",
+     "Layer"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "nghiep-vu-fb-180",
+    "no": 180,
+    "text": "Margarita là loại Cocktail nổi tiếng được pha chế từ phương pháp nào?",
+    "options": [
+     "Shaker",
+     "Stir",
+     "Blend",
+     "Layer"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "nghiep-vu-fb-181",
+    "no": 181,
+    "text": "Black Russian là loại Cocktail nổi tiếng được pha chế từ phương pháp nào?",
+    "options": [
+     "Shaker",
+     "Stir",
+     "Blend",
+     "Layer"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "nghiep-vu-fb-182",
+    "no": 182,
+    "text": "Độ cồn trong rượu mùi dao động trong khoảng nào?",
+    "options": [
+     "10 ÷ 40 %",
+     "10 ÷ 50 %",
+     "15 ÷ 60 %",
+     "15 ÷ 80 %"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "nghiep-vu-fb-183",
+    "no": 183,
+    "text": "‘’ Bailey’s Irish cream’’ là loại liqueur của Ireland, làm từ Irish whiskey và sữa béo; nguyên gốc mùi sôcôla,hiện có thêm các mùi khác như cà phê, bạc hà, caramel... nằm trong nhóm nào?",
+    "options": [
+     "Nhóm cam chanh (Citrus liqueur)",
+     "Nhóm thảo mộc (Herb liqueur)",
+     "Nhóm nhân, hạt (Seed, kernel liqueur)",
+     "Nhóm khác ( The Other liqueur)"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "nghiep-vu-fb-184",
+    "no": 184,
+    "text": "Màu sắc rượu Brandy hoàn toàn nhờ vào yếu tố nào sau đây?",
+    "options": [
+     "Thời gian ủ trong thùng kim loại",
+     "Pha trộn màu từ nhiều loại rượu",
+     "Thời gian ủ trong thùng gỗ pha trộn",
+     "Màu từ các nguyên liệu khác"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "nghiep-vu-fb-185",
+    "no": 185,
+    "text": "“V.S” là kí hiệu chỉ thứ hạng rượu Brandy trên nhãn chai có nghĩa là gì?",
+    "options": [
+     "Rượu dùng pha trộn phải ủ ít nhất 2 năm trong thùng gỗ",
+     "Rượu dùng pha trộn phải ủ ít nhất 3 năm trong thùng gỗ",
+     "Rượu dùng pha trộn phải ủ ít nhất 4 năm trong thùng gỗ",
+     "Rượu dùng pha trộn phải ủ ít nhất 5 năm trong thùng gỗ"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "nghiep-vu-fb-186",
+    "no": 186,
+    "text": "“V.S.O.P (Very Superior Old Pale)” là kí hiệu chỉ thứ hạng rượu Brandy trên nhãn chai có nghĩa là gì?",
+    "options": [
+     "Rượu dùng pha trộn phải ủ ít nhất 2 năm trong thùng gỗ",
+     "Rượu dùng pha trộn phải ủ ít nhất 3 năm trong thùng gỗ",
+     "Rượu dùng pha trộn phải ủ ít nhất 4 năm trong thùng gỗ",
+     "Rượu dùng pha trộn phải ủ ít nhất 5 năm trong thùng gỗ"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "nghiep-vu-fb-187",
+    "no": 187,
+    "text": "“X.O (Extra Old )” là kí hiệu chỉ thứ hạng rượu Brandy trên nhãn chai có nghĩa là:",
+    "options": [
+     "Rượu dùng pha trộn phải ủ ít nhất 2 năm trong thùng gỗ.",
+     "Rượu dùng pha trộn phải ủ ít nhất 4 năm trong thùng gỗ.",
+     "Rượu dùng pha trộn phải ủ ít nhất 6 năm trong thùng gỗ.",
+     "Rượu dùng pha trộn phải ủ ít nhất 8 năm trong thùng gỗ."
+    ],
+    "answer": 2
+   },
+   {
+    "id": "nghiep-vu-fb-188",
+    "no": 188,
+    "text": "Phần trăm cồn trong rượu Gin khoảng bao nhiêu?",
+    "options": [
+     "20% - 30% VOL.",
+     "30% - 50% VOL.",
+     "50% - 70% VOL.",
+     "35% - 50% VOL."
+    ],
+    "answer": 3
+   },
+   {
+    "id": "nghiep-vu-fb-189",
+    "no": 189,
+    "text": "Gin có nguồn gốc từ quốc gia nào?",
+    "options": [
+     "Ý",
+     "Hà Lan",
+     "Mỹ",
+     "Nga"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "nghiep-vu-fb-190",
+    "no": 190,
+    "text": "Thông thường rượu Gin có mùi của loại trái cây nào?",
+    "options": [
+     "Quả Lựu",
+     "Quả Táo",
+     "Quả Bách xù",
+     "Quả Dâu đen"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "nghiep-vu-fb-191",
+    "no": 191,
+    "text": "“Clear Gin” là loại rượu Gin nào?",
+    "options": [
+     "Rượu trong suốt, không màu, là loại phổ biến nhất",
+     "Rượu có màu vàng nhạt, là loại phổ biến nhất",
+     "Rượu có màu vàng đậm, phổ biến .",
+     "Rượu trong suốt, không màu, không phổ biến."
+    ],
+    "answer": 0
+   },
+   {
+    "id": "nghiep-vu-fb-192",
+    "no": 192,
+    "text": "“Dry Gin” là ký hiệu chỉ loại Gin nào ?",
+    "options": [
+     "Loại rượu Gin ngọt, nhiều đường khi sản xuất",
+     "Loại rượu Gin ngọt vừa.",
+     "Loại rượu Gin ít ngọt, ít đường khi sản xuất",
+     "Loại rượu Gin được ủ lâu năm sau khi sản xuất."
+    ],
+    "answer": 2
+   },
+   {
+    "id": "nghiep-vu-fb-193",
+    "no": 193,
+    "text": "“Golden Gin” là loại rượu Gin nào?",
+    "options": [
+     "Rượu có màu vàng đậm do được ủ trong thùng gỗ",
+     "Rượu có màu vàng nhạt do không được ủ trong thùng gỗ",
+     "Rượu có màu vàng nhạt do được ủ trong thùng gỗ",
+     "Rượu có màu vàng nhạt do được pha thêm màu."
+    ],
+    "answer": 2
+   },
+   {
+    "id": "nghiep-vu-fb-194",
+    "no": 194,
+    "text": "“Flavoured Gin” là loại rượu Gin nào?",
+    "options": [
+     "Rượu được sản xuất kếp hợp nhiều loại trái cây khác nhau tạo ra Gin với mùi vị phong phú.",
+     "Rượu được sản xuất kếp hợp nhiều loại thảo mộc khác nhau tạo ra Gin với mùi vị phong phú",
+     "Rượu được sản xuất kếp hợp trái cây hay các loại thảo mộc khác tạo ra Gin có màu nâu đậm",
+     "Rượu được sản xuất kếp hợp trái cây hay các loại thảo mộc khác tạo ra Gin với mùi vị phong phú"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "nghiep-vu-fb-195",
+    "no": 195,
+    "text": "Thông thường rượu Gin hay được pha trộn với loại nào ?",
+    "options": [
+     "7up",
+     "Tonic",
+     "Pepsi",
+     "Coke"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "nghiep-vu-fb-196",
+    "no": 196,
+    "text": "Rum được chưng cất từ nguyên liệu nào?",
+    "options": [
+     "Lúa mì, lúa mạch.",
+     "Các loại hoa quả.",
+     "Nước cốt mía hay sản phẩm của cây mía (siro mía, mật mía).",
+     "Các loại ngũ cốc phổ biến."
+    ],
+    "answer": 2
+   },
+   {
+    "id": "nghiep-vu-fb-197",
+    "no": 197,
+    "text": "Thành phần cồn trong rượu Rum khoảng bao nhiêu?",
+    "options": [
+     "20% - 30% VOL.",
+     "30% - 50% VOL.",
+     "50% - 70% VOL.",
+     "35% 70% VOL."
+    ],
+    "answer": 3
+   },
+   {
+    "id": "nghiep-vu-fb-198",
+    "no": 198,
+    "text": "Rum trắng (White/Light rum) là loại rượu nào?",
+    "options": [
+     "Không màu, mùi vị nhẹ, chưng cất bằng nồi, không ủ hoặc ủ rất ít.",
+     "Không màu, mùi vị nhẹ,  chưng cất bằng cột, không ủ hoặc ủ rất ít.",
+     "Màu vàng nhạt, mùi vị nhẹ, chưng cất bằng cột, không ủ .",
+     "Không màu, mùi vị nhẹ, chưng cất bằng cột, được ủ 5 năm trở lên."
+    ],
+    "answer": 1
+   },
+   {
+    "id": "nghiep-vu-fb-199",
+    "no": 199,
+    "text": "Rum vàng (Gold Rum) là loại rượu nào?",
+    "options": [
+     "Màu vàng hổ phách, chưng cất bằng nồi, được ủ ít nhất 01 năm trong thùng gỗ sồi.",
+     "Màu vàng nâu đậm, chưng cất bằng nồi, được ủ ít nhất 01 năm trong thùng gỗ sồi.",
+     "Màu vàng nhẹ, chưng cất bằng cột, được ủ ít nhất 01 năm trong thùng gỗ sồi.",
+     "Màu vàng đậm, chưng cất bằng nồi, không được ủ, được pha màu."
+    ],
+    "answer": 0
+   },
+   {
+    "id": "nghiep-vu-fb-200",
+    "no": 200,
+    "text": "Rum nâu (Dark Rum) là loại rượu nào?",
+    "options": [
+     "Màu nhạt, chưng cất bằng nồi, thường ủ vài năm nên mùi vị đậm đà.",
+     "Màu nâu sậm do có thêm màu caramel, chưng cất bằng cột.",
+     "Màu nâu sậm do có thêm màu caramel, chưng cất bằng nồi, thường ủ vài năm nên mùi vị đậm đà",
+     "Màu nâu sậm do có thêm màu caramel, chưng cất bằng nồi, không được ủ."
+    ],
+    "answer": 2
+   },
+   {
+    "id": "nghiep-vu-fb-201",
+    "no": 201,
+    "text": "Rum mùi (Aromatic Rum) là loại rượu nào?",
+    "options": [
+     "Màu vàng nhẹ, chưng cất bằng cột, được ủ ít nhất 01 năm trong thùng gỗ sồi.",
+     "Được pha thêm hương vị trái cây như chuối, xoài, cam, chanh vàng, dừa hay chanh xanh.",
+     "Không màu, mùi vị nhẹ, chưng cất bằng nồi, không ủ hoặc ủ rất ít.",
+     "Màu nâu sậm do có thêm màu caramel, chưng cất bằng nồi, không được ủ."
+    ],
+    "answer": 1
+   },
+   {
+    "id": "nghiep-vu-fb-202",
+    "no": 202,
+    "text": "Cách thưởng thức rượu Rum trắng nào đúng nhất?",
+    "options": [
+     "Dùng uống khai vị pha trộn với Cô-ca cô-la",
+     "Dùng uống tiêu vị pha trộn với nước lọc",
+     "Dùng uống tiêu vị pha trộn với Tonic",
+     "Dùng uống khai vị pha trộn với Syrup"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "nghiep-vu-fb-203",
+    "no": 203,
+    "text": "Tên cọcktail nổi tiếng nào sau đây được pha chế từ rượu Rum?",
+    "options": [
+     "Daiquiri",
+     "B52",
+     "Screwdriver",
+     "Black Russian"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "nghiep-vu-fb-204",
+    "no": 204,
+    "text": "Nguyên liệu chính để chế biến Tequila là các nguyên liệu nào?",
+    "options": [
+     "Quả cây thùa xanh (Blue Agave)",
+     "Lúa mạnh đen, lúa mỳ",
+     "Nước cốt mía hoặc các phế phẩm của đường",
+     "Các loại ngũ cốc nhỏ"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "nghiep-vu-fb-205",
+    "no": 205,
+    "text": "Tequila silver (blanco) là loại rượu có đặc điểm nào sau đây?",
+    "options": [
+     "Rượu có màu vàng nhạt, ủ hơn 2 tháng",
+     "Rượu có màu trắng, không ủ hoặc ủ rất ít (dưới 2 tháng)",
+     "Pha trộn Tequila trắng với Tequila vàng",
+     "Pha trộn Tequila trắng với nước khoáng"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "nghiep-vu-fb-206",
+    "no": 206,
+    "text": "Cách uống “Tequila shot” phổ biến nhất trên thế giới là gì?",
+    "options": [
+     "Dùng với muối & cam",
+     "Dùng với đường & chanh",
+     "Dùng với muối & chanh",
+     "Dùng với đường & quế"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "nghiep-vu-fb-207",
+    "no": 207,
+    "text": "Tên loại cocktail nổi tiếng nào sau đây được pha chế từ Tequila?",
+    "options": [
+     "Daiquiri",
+     "Screwdriver",
+     "Kamikaze",
+     "Margarita"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "nghiep-vu-fb-208",
+    "no": 208,
+    "text": "Vodka được chưng cất từ các nguyên liệu nào?",
+    "options": [
+     "Các loại bắp, lúa mạch, lúa mì,mía.",
+     "Các loại bắp, lúa mạch, lúa mì,khoai tây, hoa quả.",
+     "Các loại bắp, lúa mạch, lúa mì,mía hoặc củ cải đường",
+     "Các loại bắp.lúa mạch đen, lúa mì,khoai tây hoặc củ cải đường."
+    ],
+    "answer": 3
+   },
+   {
+    "id": "nghiep-vu-fb-209",
+    "no": 209,
+    "text": "Thành phần cồn trong rượu Vodka khoảng:",
+    "options": [
+     "20% - 30% VOL.",
+     "30% - 50% VOL.",
+     "50% - 70% VOL.",
+     "35% - 70% VOL."
+    ],
+    "answer": 3
+   },
+   {
+    "id": "nghiep-vu-fb-210",
+    "no": 210,
+    "text": "Vodka từ khoai tây thì có vị như Vodka lúa mạch.\nĐáp án nào sau đây phù hợp để điền vào chỗ trống?",
+    "options": [
+     "Nồng hơn và dịu",
+     "Hơi chát hơn và không dịu",
+     "Sốc hơn và không dịu",
+     "Ngọt hơn và dịu hơn"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "nghiep-vu-fb-211",
+    "no": 211,
+    "text": "Vodka là loại rượu truyền thống của các nước nào?",
+    "options": [
+     "Nga và Ba Lan",
+     "Mỹ và Đức",
+     "Pháp và Tây Ban Nha",
+     "Ý và Đức"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "nghiep-vu-fb-212",
+    "no": 212,
+    "text": "Vodka tinh khiết (Clear vodka) là loại rượu nào?",
+    "options": [
+     "Rượu màu trắng.Thường chưng cất bằng cột, nhưng cũng có loại chưng cất bằng nồi và được ủ trong thùng gỗ",
+     "Rượu màu trắng, lọc qua than hoạt tính để khử mùi vị. Thường chưng cất bằng cột, nhưng cũng có loại chưng cất bằng nồi và không ủ trong thùng gỗ",
+     "Rượu màu trắng, lọc qua than hoạt tính để khử mùi vị. Thường chưng cất bằng cột, nhưng cũng có loại chưng cất bằng nồi .Ủ ít nhất 3 năm",
+     "Rượu màu trắng, không được lọc qua than hoạt tính. Thường chưng cất bằng cột, nhưng cũng có loại chưng cất bằng nồi và được ủ trong thùng kim loại"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "nghiep-vu-fb-213",
+    "no": 213,
+    "text": "Chọn nhận định đúng nhất trong các câu sau đây?",
+    "options": [
+     "Vodka mùi (Flavored vodka) được thêm các mùi như cam, chanh, tiêu, ớt… ; có màu nâu sậm, không ủ trong thùng gỗ",
+     "Vodka mùi (Flavored vodka) được thêm các mùi như cam, chanh, tiêu, ớt… ; có thể có màu hoặc không có màu, không ủ trong thùng gỗ",
+     "Vodka mùi (Flavored vodka) được thêm các mùi như cam, chanh, tiêu, ớt… ; có thể có màu hoặc không có màu, được ủ trong thùng gỗ",
+     "Vodka mùi (Flavored vodka) được thêm các mùi như cam, chanh, tiêu, ớt… ; không có màu, được ủ trong thùng gỗ"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "nghiep-vu-fb-214",
+    "no": 214,
+    "text": "Whisky được chưng cất từ nguyên liệu nào?",
+    "options": [
+     "Nước cốt mía hoặc các phế phẩm của mía",
+     "Các loại hoa quả",
+     "Lúa đại mạch, lúa mạch đen, ngô và các loại hạt ngũ cốc nhỏ khác",
+     "Các loại cây thảo mộc phổ biến"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "nghiep-vu-fb-215",
+    "no": 215,
+    "text": "Jameson là loại whisky nào?",
+    "options": [
+     "Whisky Scotland (Scotch Whisky)",
+     "Whisky Mỹ (American Whisky)",
+     "Whisky Ireland (Irish Whisky)",
+     "Whisky Canada (Canadian Whisky)"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "nghiep-vu-fb-216",
+    "no": 216,
+    "text": "Johnnie Walker red label là loại whisky nào?",
+    "options": [
+     "Whisky Scotland (Scotch Whisky)",
+     "Whisky Mỹ (American Whisky)",
+     "Whisky Ireland (Irish Whisky)",
+     "Whisky Canada (Canadian Whisky)"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "nghiep-vu-fb-217",
+    "no": 217,
+    "text": "Chivas Regal là loại whisky nào?",
+    "options": [
+     "Whisky Scotland (Scotch Whisky)",
+     "Whisky Mỹ (American Whisky)",
+     "Whisky Ireland (Irish Whisky)",
+     "Whisky Canada (Canadian Whisky)"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "nghiep-vu-fb-218",
+    "no": 218,
+    "text": "Jim Beam là loại whisky nào?",
+    "options": [
+     "A.Tennessee whisky",
+     "Bourbon",
+     "Rye whisky",
+     "Single Malt Scotch whisky"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "nghiep-vu-fb-219",
+    "no": 219,
+    "text": "Khi khách vào gọi món whisky “On the rock”, chúng ta hiểu khách đang yêu cầu gì ?",
+    "options": [
+     "Uống với đá",
+     "Uống với lát chanh",
+     "Uống với chanh đá",
+     "Uống với Muối"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "nghiep-vu-fb-220",
+    "no": 220,
+    "text": "Cointreau có mùi vị gì?",
+    "options": [
+     "Chanh",
+     "Táo",
+     "Cam",
+     "Bơ"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "nghiep-vu-fb-221",
+    "no": 221,
+    "text": "Cà phê có nguồn gốc từ đâu?",
+    "options": [
+     "Châu Âu",
+     "Châu Phi",
+     "Châu Á",
+     "Châu Mỹ"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "nghiep-vu-fb-222",
+    "no": 222,
+    "text": "Cognac là tên gọi của?",
+    "options": [
+     "Thức uống không cồn",
+     "Một loại cocktail",
+     "Một loại rượu mạnh",
+     "Tên của một loại bia"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "nghiep-vu-fb-223",
+    "no": 223,
+    "text": "Bạn hãy kể tên các kiểu set up phòng họp ?",
+    "options": [
+     "Boardroom, Theater, Cinema",
+     "Theater, U Shape, Home working",
+     "U Shape, Boardroom, Classroom",
+     "Buffet, Classroom, Cabaret"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "nghiep-vu-fb-224",
+    "no": 224,
+    "text": "BEO là gì?",
+    "options": [
+     "Banquet event orders, đơn đặt hàng sự kiện; có các nội dung chi tiết của từng bộ phận để tổ chức sự kiện cho khách hàng",
+     "Banquet equipment operation, danh sách vật tư sử dụng cho bộ phận lễ tiệc",
+     "Banquet event orders, phiếu yêu cầu gọi món đặc biệt dành cho bộ phận lễ tiệc, có giá bán áp dụng khác so với nhà hàng",
+     "Là tên 1 loại động vật"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "nghiep-vu-fb-225",
+    "no": 225,
+    "text": "Bộ phận nào phụ trách làm BEO?",
+    "options": [
+     "Ẩm thực/ F&B",
+     "Kinh doanh/ Sales",
+     "Bộ phận nào cũng được",
+     "Đặt phòng/Reservation"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "nghiep-vu-fb-226",
+    "no": 226,
+    "text": "Cabaret là gì?",
+    "options": [
+     "1 loại hình giải trí, hài kịch truyền thống của người Châu Âu",
+     "Kiểu set up bàn ăn dùng bàn vuông hoặc chữ nhật cho 2 người, thường dùng cho các dịp kỉ niệm, lãng mạn",
+     "1 kiểu set up bàn ăn theo kiểu bàn dài trang trọng, hoa hay các đồ trang trí chạy dọc giữa bàn",
+     "1 kiểu set up họp dùng bàn tròn, các ghế được đặt hướng về sân khấu, bàn chủ tọa"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "nghiep-vu-fb-227",
+    "no": 227,
+    "text": "Chuẩn bị đồ uống trước khi sự kiện bắt đầu chúng ta cần làm gì ?",
+    "options": [
+     "Nhập từ kho hoặc điều chuyển đồ uống theo chủng loại và số lượng theo yêu cầu trong BEO.",
+     "Điền vào phiếu xác nhận số lượng đồ uống ban đầu cho sự kiện và có đầy đủ 2 chữ ký của người chịu giám sát sự kiện và người quản lý quầy bar",
+     "Trường hợp nước uống do khách mang vào: cần có 2 chữ ký xác nhận gồm: Khách hàng hoặc đại diện khách hàng được ủy quyền, người giám sát sự kiện.",
+     "Nhập từ kho hoặc điều chuyển đồ uống theo chủng loại và số lượng theo yêu cầu trong BEO.\nĐiền vào phiếu xác nhận số lượng đồ uống ban đầu cho sự kiện và có đầy đủ 2 chữ ký của người chịu giám sát sự kiện và người quản lý quầy bar\nTrường hợp nước uống do khách mang vào: cần có 2 chữ ký xác nhận gồm: Khách hàng hoặc đại diện khách hàng được ủy quyền, người giám sát sự kiện"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "nghiep-vu-fb-228",
+    "no": 228,
+    "text": "Điều hòa được bật trước bao lâu trước khi khách đến ?",
+    "options": [
+     "50 phút",
+     "1 giờ",
+     "2 giờ",
+     "30 phút"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "nghiep-vu-fb-229",
+    "no": 229,
+    "text": "Đối với kiểu xắp xếp rạp hát chúng ta cần chú ý sắp xếp ghế như thế nào ?",
+    "options": [
+     "Các hàng ghế trên và dưới cách nhau tối thiểu là 0.5m, xếp ngay ngắn theo hàng lối",
+     "Các ghế trong 1 hàng cách nhau tối thiểu là 10 cm. Hàng ghế cuối cùng cách cửa ra vào ít nhất 2m",
+     "'Lối đi chính giữa các hàng ghế rộng tối\nthiểu là 1m.",
+     "Các hàng ghế trên và dưới cách nhau tối thiểu là 0.5m, xếp ngay ngắn theo hàng lối\nCác ghế trong 1 hàng cách nhau tối thiểu là 10 cm. Hàng ghế cuối cùng cách cửa ra vào ít nhất 2m\nLối đi chính giữa các hàng ghế rộng tối\nthiểu là 1m."
+    ],
+    "answer": 3
+   },
+   {
+    "id": "nghiep-vu-fb-230",
+    "no": 230,
+    "text": "Đối với những cuộc họp cả ngày với đầy đủ dịch vụ cả ăn trưa, nếu giờ nghỉ trưa trễ hơn so với dự kiến 30 mins, thông tin sẽ phải được thông báo cho ai?",
+    "options": [
+     "Quản lý nhà hàng nơi khách dùng bữa",
+     "Bếp trưởng, Quản lý nhà hàng(nơi khách dùng bữa), Bộ phận kinh doanh, Kĩ thuật viên Âm thanh ánh sáng.",
+     "Trưởng bộ phận ẩm thực, Bếp trưởng",
+     "Bộ phận ẩm thực, Bộ phận buồng phòng, Lễ tân"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "nghiep-vu-fb-231",
+    "no": 231,
+    "text": "Đối với quy trình thông thường đơn đặt hàng sự kiện phải được đưa ra cho các bộ phận liên quan trễ nhất bao lâu?",
+    "options": [
+     "48 giờ",
+     "1 tuần",
+     "72 giờ",
+     "Càng sát sự kiện càng tốt"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "nghiep-vu-fb-232",
+    "no": 232,
+    "text": "IBM là gì?",
+    "options": [
+     "Bàn chữ nhật chuyên dành để set up cho các sự kiện hội họp",
+     "Bàn vuông dùng để quà tặng trong sự kiện",
+     "Bàn tròn tiêu chuẩn trong các buổi tiệc",
+     "Ghế tiêu chuẩn cho các sự kiện"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "nghiep-vu-fb-233",
+    "no": 233,
+    "text": "Khách mang thiết bị âm thanh vào tổ chức sự kiện và khi ra về chúng ta cần chú ý diều gì ?",
+    "options": [
+     "Nếu thiết bị AV được cung cấp bởi bên thứ ba, cần tiến hành giám sát trong quá trình đóng gói để đảm bảo không thiết bị nào của khách sạn vô tình bị gỡ bỏ.",
+     "Không cần quan tâm khách mang gì vào đó là việc của khách",
+     "Chúng ta cần tiến hành giám sát trong quá trình đóng gói.",
+     "Nếu thiết bị AV được cung cấp bởi bên thứ ba, cần tiến hành giám sát trong quá trình đóng gói để đảm bảo không thiết bị nào của khách sạn vô tình bị gỡ bỏ.\nKhông cần quan tâm khách mang gì vào đó là việc của khách"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "nghiep-vu-fb-234",
+    "no": 234,
+    "text": "Khi dọn dẹp, sắp xếp lại phòng họp trong giờ giải lao phải đảm bảo những yếu tố nào?",
+    "options": [
+     "Bổ sung giấy cho bảng lật; Dọn dẹp bát đĩa dơ, rác trên bàn; Thêm nước uống, bút, giấy…; Thay ly nếu họp cả ngày",
+     "Dọn dẹp bát đĩa dơ, rác trên bàn; Thêm nước uống, bút, giấy…; Bổ sung đồ ăn trên quầy teabreak",
+     "Bổ sung giấy cho bảng lật; Thêm nước uống, bút, giấy…; Thay ly nếu họp cả ngày",
+     "Thêm nước uống, bút, giấy…; Thay ly nếu họp cả ngày"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "nghiep-vu-fb-235",
+    "no": 235,
+    "text": "Khi sắp xếp kiểu phòng lớp học thì khoảng cách của lối đi giữa các dãy \nbàn dọc tối thiểu là bao nhiêu ?",
+    "options": [
+     "0.5m",
+     "1m",
+     "0.7m",
+     "1.5m"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "nghiep-vu-fb-236",
+    "no": 236,
+    "text": "Khi xong tiệc về mặt hàng nước chúng ta cần làm gì ?",
+    "options": [
+     "Chốt ngay số lượng đồ uống còn lại ngay sau khi tiệc kết thúc. Có bảng tổng kết số lượng đồ uống và có chữ ký người chịu trách nhiệm đồ uống cho tiệc và giám sát buổi tiệc",
+     "Giữ lại số lượng vừa đủ lưu kho còn lại trả về kho tổng hoặc trả lại đồ uống cho khách",
+     "Giữ lại số lượng vừa đủ lưu kho còn lại trả về kho tổng hoặc trả lại đồ uống cho khách phải có giấy xác nhận và có chữ ký 2.",
+     "Chốt ngay số lượng đồ uống còn lại ngay sau khi tiệc kết thúc. Có bảng tổng kết số lượng đồ uống và có chữ ký người chịu trách nhiệm đồ uống cho tiệc và giám sát buổi tiệc\nGiữ lại số lượng vừa đủ lưu kho còn lại trả về kho tổng hoặc trả lại đồ uống cho khách phải có giấy xác nhận và có chữ ký 2."
+    ],
+    "answer": 3
+   },
+   {
+    "id": "nghiep-vu-fb-237",
+    "no": 237,
+    "text": "Ly nước được đặt phía trên dao ăn chính bao nhiêu cm ?",
+    "options": [
+     "1,5 cm",
+     "3cm",
+     "1cm",
+     "2 cm"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "nghiep-vu-fb-238",
+    "no": 238,
+    "text": "Nêu các tiều chuẩn về khoảng cách set up ghế trong BQ?",
+    "options": [
+     "Theater: đặt ghế cách nhau tối thiểu 7-15 cm và 60 cm khoảng cách giữa các hàng.\nClassroom, Boardroom: tối thiếu 60 cm khoảng cách giữa mỗi ghế",
+     "Theater: đặt ghế cách nhau tối thiểu 20 cm và 90 cm khoảng cách giữa các hàng.\nClassroom, Boardroom: tối thiếu 1 mét khoảng cách giữa mỗi ghế",
+     "Theater: đặt càng sát nhau càng tốt để tiết kiệm diện tích.\nClassroom, Boardroom: đặt càng sát nhau càng tốt để tiết kiệm diện tích.",
+     "Theater: đặt ghế cách nhau 5 cm và 40 cm khoảng cách giữa các hàng.\nClassroom, Boardroom: tối thiếu 40 cm khoảng cách giữa mỗi ghế"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "nghiep-vu-fb-239",
+    "no": 239,
+    "text": "Như thế nào thì được gọi là sự kiện phát sinh?",
+    "options": [
+     "Sự kiện được tổ chức không qua phòng Kinh doanh",
+     "Sự kiện tổ chức miễn phí cho khách hàng để chiêu đãi, tri ân đối tác",
+     "Sự kiện mà BEO, xác nhận chỉ được cung cấp trong vòng 72 tiếng",
+     "Sự kiện được tổ chức danh riêng cho chủ đầu tư, chi phí do chủ đầu tư chiu, được hạch toán riêng"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "nghiep-vu-fb-240",
+    "no": 240,
+    "text": "Phòng sự kiện phải được hoàn thiện  trước bao lâu khi sự kiện bắt đầu theo yêu cầu của khách hàng và dựa theo BEO ?",
+    "options": [
+     "1 giờ",
+     "2 giờ",
+     "3 giờ",
+     "30 phút"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "nghiep-vu-fb-241",
+    "no": 241,
+    "text": "Podium là gì ?",
+    "options": [
+     "Sân khấu",
+     "Bục phát biểu",
+     "Bậc tam cấp",
+     "Sàn nhà"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "nghiep-vu-fb-242",
+    "no": 242,
+    "text": "Sân khấu được sắp xếp trong phòng với tiêu chuẩn như thế nào ?",
+    "options": [
+     "Sân khấu được kê chính giữa phòng, sát tường nhưng giữ khoảng cách tối thiểu 10cm, cân đối với hai bên, cách mép cửa hoặc tường hai bên tối thiểu là 1m.",
+     "Sân khấu được kê chính giữa phòng, sát tường nhưng giữ khoảng cách tối thiểu 10cm, cân đối với hai bên",
+     "Được đặt ở chính giữa phòng",
+     "Đặt ở đâu cũng được"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "nghiep-vu-fb-243",
+    "no": 243,
+    "text": "Sự kiện của khách có 80 người, khách yêu cầu họp(kiểu lớp học) xong sẽ dùng luôn bữa tối tại ball room, không có thời gian để nghỉ vì khách vội, phải giải quyết như thế nào?",
+    "options": [
+     "Khách họp kiểu lớp học nên chỉ cần bố trí thêm ghế, công cụ dụng cụ để sẵn lên khay để bày lên, chỉ mất khoảng 15 phút",
+     "Cố gắng mời khách xuống dùng bữa ở nhà hàng, chỉ tốn chưa đến 5 phút đi lại",
+     "Chuẩn bị sẵn bàn ăn với đầy đủ công cụ dụng cụ trên bàn, khi khách họp xong chỉ cần dọn hết bàn họp và chuyển bàn ăn vào, chỉnh lại ghế",
+     "Sắp đặt phòng họp và phòng ăn ở 2 vách khác nhau của Ballroom, sau khi khách họp xong thì mời khách qua sử dụng luôn"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "nghiep-vu-fb-244",
+    "no": 244,
+    "text": "Teabreak là gì?",
+    "options": [
+     "Thời điểm buổi họp kết thúc",
+     "Thời gian đầu buổi họp, khi khách bắt đầu dùng trà",
+     "Thời gian kết thúc buổi họp, khách VIP dùng trà thư giãn",
+     "Tiệc trà, cà phê giữa buổi họp để nghỉ giải lao"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "nghiep-vu-fb-245",
+    "no": 245,
+    "text": "Tiệc nhẹ nghỉ giữa giờ, đồ ăn nóng và lạnh phải được đặt trước( hoặc sau) giờ tiệc bắt đầu bao lâu?",
+    "options": [
+     "15 phút đối với đồ ăn nóng, 20 phút đối với đồ lạnh",
+     "30 phút đối với đồ ăn nóng, 40 phút đối với đồ lạnh",
+     "15 phút đối với đồ ăn nóng, 45 phút đối với đồ lạnh",
+     "Càng sớm càng tốt"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "nghiep-vu-fb-246",
+    "no": 246,
+    "text": "Tiêu chuẩn sắp xếp bộ dao dĩa thì ăn tiểu kiểu tự chọn món gồm những tiêu chí gì ?",
+    "options": [
+     "01 bộ dao dĩa và thìa ăn món chính cách mép bàn 02cm: dao bên phải, lưỡi quay vào trong, dĩa bên trái, thìa ăn chính đặt ngoài cùng cạnh dao ăn khai vị. Cách khăn ăn 02cm .",
+     "Đặt trên mặt bàn và trước mặt ghế ngồi .",
+     "01 bộ dao dĩa và thìa ăn món chính cách mép bàn 02cm: dao bên phải, lưỡi quay vào trong, dĩa bên trái, thìa ăn chính đặt ngoài cùng cạnh dao ăn khai vị. Cách khăn ăn 05cm .",
+     "01 bộ dao dĩa và thìa ăn món chính cách mép bàn 02cm: dao bên phải, lưỡi quay vào trong, dĩa bên trái, thìa ăn chính đặt ngoài cùng cạnh dao ăn khai vị. Cách khăn ăn 04cm ."
+    ],
+    "answer": 2
+   },
+   {
+    "id": "nghiep-vu-fb-247",
+    "no": 247,
+    "text": "Trong quá trình diễn ra sự kiện, nếu khách có những yêu cầu thêm các trang thiết bị phát sinh, bộ phận Banquet sẽ xử lý như thế nào?",
+    "options": [
+     "Ngay lập tức thực hiện theo yêu cầu của khách hàng",
+     "Sẵn sàng cung cấp thêm dịch vụ và thông báo cho khách hàng 1 cách lịch sự, rõ ràng về chi phí phát sinh",
+     "Đưa ra lời khuyên cho khách không nên yêu cầu phát sinh vào phút chót mà không có sự chuẩn bị, sẽ ảnh hưởng đến chất lượng dịch vụ",
+     "Báo khách vui lòng làm việc với bộ phận kinh doanh, bộ phận lễ tiệc không làm việc trực tiếp với khách"
+    ],
+    "answer": 1
    }
   ],
   "group": "SBD PAT"
