@@ -42,7 +42,8 @@ window.QUESTION_GROUPS = [
  {
   "name": "SBD Soát vé",
   "banks": [
-   "chuyen-mon-soat-ve"
+   "chuyen-mon-soat-ve",
+   "sun-checklist-sca"
   ]
  }
 ];
@@ -33380,6 +33381,253 @@ window.QUESTION_BANKS = [
      "Chọn địa điểm viết báo cáo, sử dụng các biểu mẫu báo cáo, điền thông tin, bảo mật thông tin và nộp cho Phòng/Bộ phận An toàn trước khi kết ca trực."
     ],
     "answer": 3
+   }
+  ],
+  "group": "SBD Soát vé"
+ },
+ {
+  "id": "sun-checklist-sca",
+  "name": "Sun Checklist SCA",
+  "questions": [
+   {
+    "id": "sun-checklist-sca-1",
+    "no": 1,
+    "text": "Sau khi đăng nhập thành công vào hệ thống, tài khoản của Nhân viên thực hiện sẽ được tự động điều hướng về màn hình nào?",
+    "options": [
+     "Bảng tổng hợp báo cáo (/admin)",
+     "Quản lý biểu mẫu (/admin/templates)",
+     "Màn hình Thực hiện Checklist trên thiết bị di động (/mobile)",
+     "Màn hình Kiểm tra bản đánh giá (/mobile/audit)"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "sun-checklist-sca-2",
+    "no": 2,
+    "text": "Khi xem danh sách checklist trên ứng dụng di động, các thẻ checklist hôm nay được phân loại theo những bộ lọc (pill) trạng thái nào?",
+    "options": [
+     "Chưa bắt đầu | Đang làm | Đã nộp | Hủy bỏ",
+     "Chờ thực hiện | Lưu nháp | Hoàn thành | Thực hiện lại",
+     "Mới tạo | Đã nhận việc | Chờ duyệt | Đã duyệt",
+     "Đầu ca | Trong ca | Cuối ca | Quá hạn"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "sun-checklist-sca-3",
+    "no": 3,
+    "text": "Khi nhân viên chọn xem lại danh sách checklist của các ngày trong quá khứ hoặc tương lai qua bộ chọn ngày (Date Picker), phiếu sẽ hiển thị ở chế độ nào?",
+    "options": [
+     "Chế độ chỉnh sửa bình thường",
+     "Chế độ Chỉ đọc (Read-only)",
+     "Chế độ Lưu nháp",
+     "Hệ thống ẩn và không cho phép xem"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "sun-checklist-sca-4",
+    "no": 4,
+    "text": "Đối với các checklist sinh ra ở trạng thái \"Chưa phân công\" (Unassigned) trong khu vực của mình, nhân viên cần làm gì để bắt đầu kiểm tra?",
+    "options": [
+     "Tự động trả lời câu hỏi mà không cần thao tác gì thêm",
+     "Nhắn tin báo Giám sát viên gán tên thủ công",
+     "Bấm vào phiếu có nhãn/icon cờ đặc biệt và nhấn nút \"Nhận việc\" (Claim)",
+     "Chuyển phiếu đó sang cho nhân viên khác"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "sun-checklist-sca-5",
+    "no": 5,
+    "text": "Điều gì sẽ xảy ra nếu nhân viên bấm mở thực hiện một checklist trước khung giờ quy định của ca làm việc?",
+    "options": [
+     "Hệ thống báo lỗi và tự động khóa tài khoản",
+     "Hệ thống hiển thị Pop-up thông báo xác nhận mở sớm",
+     "Hệ thống tự động tính là \"Không đạt\"",
+     "Không mở được phiếu cho đến đúng giờ"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "sun-checklist-sca-6",
+    "no": 6,
+    "text": "Trong lúc đang điền câu trả lời trên màn hình kiểm tra, nếu nhân viên nhấn nút \"Lưu Nháp\" ở góc trái thì điều gì diễn ra?",
+    "options": [
+     "Phiếu lập tức đóng lại và gửi về màn hình chính",
+     "Dữ liệu được lưu ngay lập tức, không chuyển trang và bộ đếm thời gian (Timer) vẫn tiếp tục chạy",
+     "Phiếu được gửi thẳng đến Giám sát viên",
+     "Toàn bộ hình ảnh đã chụp trước đó bị xóa"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "sun-checklist-sca-7",
+    "no": 7,
+    "text": "Khi gặp tình trạng mất kết nối mạng (hiện biểu tượng Wi-Fi gạch chéo đỏ), nhân viên cần thực hiện checklist như thế nào?",
+    "options": [
+     "Dừng ngay việc kiểm tra và chờ đến khi có mạng trở lại",
+     "Bắt buộc phải khởi động lại điện thoại",
+     "Vẫn tiếp tục đánh giá, chụp ảnh, ghi chú và bấm Lưu/Nộp bình thường (dữ liệu lưu vào bộ nhớ tạm)",
+     "Hệ thống sẽ hủy toàn bộ các câu đã làm"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "sun-checklist-sca-8",
+    "no": 8,
+    "text": "Trên giao diện trả lời câu hỏi PassFailNA, loại đánh giá nào có màu sắc hiển thị tương ứng là ĐỎ?",
+    "options": [
+     "Đạt (Pass)",
+     "Theo dõi (Monitor)",
+     "Không Đạt (Fail)",
+     "Không áp dụng (N/A)"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "sun-checklist-sca-9",
+    "no": 9,
+    "text": "Khi nhân viên đánh giá một câu hỏi là \"Không Đạt\" (Fail) hoặc \"Theo dõi\" (Monitor), yêu cầu bắt buộc tiếp theo là gì?",
+    "options": [
+     "Phải gọi điện thoại trực tiếp cho Quản lý công viên",
+     "Bắt buộc phải nhập Ghi chú và đính kèm Hình ảnh bằng chứng",
+     "Bắt buộc phải chọn lại thành N/A",
+     "Chỉ cần nhập ghi chú, không được chụp ảnh"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "sun-checklist-sca-10",
+    "no": 10,
+    "text": "Đối với mỗi câu hỏi cần chụp ảnh bằng chứng, hệ thống quy định số lượng ảnh tối đa và dung lượng nén tự động như thế nào?",
+    "options": [
+     "Tối đa 1 ảnh, nén xuống 500KB",
+     "Tối đa 5 ảnh, giữ nguyên dung lượng gốc",
+     "Tối đa 3 ảnh/câu và ảnh được tự động nén xuống 1MB",
+     "Không giới hạn số lượng ảnh"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "sun-checklist-sca-11",
+    "no": 11,
+    "text": "Nếu câu hỏi được đánh giá là \"Đạt\" (Pass), ô nhập Ghi chú và đính kèm Hình ảnh sẽ ở trạng thái nào?",
+    "options": [
+     "Bắt buộc phải nhập đầy đủ",
+     "Luôn hiển thị sẵn trên màn hình",
+     "Tự động ẩn đi",
+     "Khóa toàn bộ màn hình kiểm tra"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "sun-checklist-sca-12",
+    "no": 12,
+    "text": "Khi nhân viên nhấn nút \"Hoàn Thành\" để nộp phiếu, hệ thống sẽ thực hiện bước kiểm tra (validation) nào sau đây?",
+    "options": [
+     "Kiểm tra tài khoản ngân hàng của nhân viên",
+     "Kiểm tra xem có câu bắt buộc nào chưa làm và các câu Không Đạt/Theo dõi có bị trống Ghi chú/Hình ảnh hay không",
+     "Kiểm tra xem nhân viên đã đổi mật khẩu chưa",
+     "Tự động chuyển tất cả câu chưa làm thành \"Đạt\""
+    ],
+    "answer": 1
+   },
+   {
+    "id": "sun-checklist-sca-13",
+    "no": 13,
+    "text": "Khi vừa di chuyển ra khỏi khu vực mất sóng (tầng hầm, phòng kín) để lên nơi có mạng, thao tác ĐÚNG của nhân viên là gì?",
+    "options": [
+     "Tắt nóng ứng dụng ngay lập tức để tiết kiệm pin",
+     "Đăng xuất tài khoản rồi đăng nhập lại",
+     "Mở ứng dụng và đợi 1 - 2 phút để hệ thống hoàn tất đồng bộ dữ liệu ngầm lên máy chủ",
+     "Xóa ứng dụng và tải lại từ đầu"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "sun-checklist-sca-14",
+    "no": 14,
+    "text": "Cờ quyền (permission flag) nào bắt buộc phải được kích hoạt để một tài khoản có thể nhìn thấy và thực hiện các phiếu checklist trên ứng dụng di động?",
+    "options": [
+     "permOrgAdd",
+     "permTplApprove",
+     "permExecExecute",
+     "permUserLock"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "sun-checklist-sca-15",
+    "no": 15,
+    "text": "Giám sát viên cần sở hữu cờ quyền nào trong hệ thống để thực hiện chức năng kiểm tra và đánh giá các bản checklist của nhân viên?",
+    "options": [
+     "permLocUpdateSchedule",
+     "permExecSupervise",
+     "permRoleAdd",
+     "permAssignEdit"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "sun-checklist-sca-16",
+    "no": 16,
+    "text": "Danh sách phiếu chờ đánh giá tại màn hình của Giám sát viên được giới hạn hiển thị theo nguyên tắc nào?",
+    "options": [
+     "Hiển thị toàn bộ nhân viên trên toàn quốc",
+     "Chỉ hiển thị phiếu của những nhân viên tự nộp đơn đăng ký",
+     "Phân cấp theo phạm vi tổ chức (Tổ trưởng thấy NV cùng Tổ, Trưởng Bộ phận thấy NV cùng Bộ phận, Trưởng Phòng thấy NV cùng Phòng)",
+     "Hiển thị ngẫu nhiên 10 phiếu mỗi ngày"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "sun-checklist-sca-17",
+    "no": 17,
+    "text": "Nhãn (badge) đặc biệt nào màu vàng hổ phách (amber) sẽ xuất hiện trên danh sách của Giám sát viên khi nhân viên nộp bài muộn?",
+    "options": [
+     "\"Vi phạm\"",
+     "\"Nộp trễ\"",
+     "\"Cảnh báo đỏ\"",
+     "\"Hết hạn\""
+    ],
+    "answer": 1
+   },
+   {
+    "id": "sun-checklist-sca-18",
+    "no": 18,
+    "text": "Sau khi Giám sát viên hoàn tất chấm điểm và nhấn nút \"Xác nhận / Phê duyệt\" (Đạt) cho toàn bộ phiếu, trạng thái tiếp theo của phiếu là gì?",
+    "options": [
+     "Chuyển về trạng thái Lưu nháp",
+     "Cho phép nhân viên tiếp tục chỉnh sửa thêm 24 giờ",
+     "Chuyển sang trạng thái \"Đánh Giá Đạt\" (Passed), đẩy dữ liệu lên Dashboard báo cáo và khóa không cho bên nào sửa",
+     "Tự động xóa khỏi cơ sở dữ liệu"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "sun-checklist-sca-19",
+    "no": 19,
+    "text": "Khi Giám sát viên chấm \"Không Đạt\" và nhấn nút \"Yêu cầu làm lại\" (Reject), quy trình xử lý của hệ thống sẽ diễn ra như thế nào?",
+    "options": [
+     "Xóa vĩnh viễn phiếu cũ và nhân viên phải làm lại một mẫu checklist hoàn toàn mới từ đầu",
+     "Phiếu cũ bị khóa vĩnh viễn ở trạng thái \"Thực hiện lại\"; hệ thống tự động sinh phiếu mới (Rework) ở trạng thái \"Chờ thực hiện\" (câu đã Đạt bị khóa thu gọn, câu Không Đạt mở ra để sửa)",
+     "Giám sát viên phải tự vào sửa lại đáp án thay cho nhân viên",
+     "Trừ điểm thi đua trực tiếp của nhân viên mà không cần làm lại"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "sun-checklist-sca-20",
+    "no": 20,
+    "text": "Ngay khi Giám sát viên nhấn \"Yêu cầu làm lại\", nhân viên sẽ nhận được thông báo qua những kênh nào nếu đang mở ứng dụng?",
+    "options": [
+     "Chỉ nhận được tin nhắn SMS",
+     "Không có thông báo, nhân viên phải tự vào kiểm tra",
+     "Thông báo qua Chuông In-App, Email và một Pop-up SignalR hiển thị trực tiếp lên màn hình",
+     "Hệ thống tự động gọi điện thoại"
+    ],
+    "answer": 2
    }
   ],
   "group": "SBD Soát vé"
