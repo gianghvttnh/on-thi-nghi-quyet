@@ -1,5 +1,23 @@
 window.QUESTION_GROUPS = [
  {
+  "name": "Cảnh quan và VSCC",
+  "banks": [
+   "cm-canh-quan-moi-truong-vscc-2026"
+  ]
+ },
+ {
+  "name": "Full Nghị quyết và Kiến thức chung",
+  "banks": [
+   "anbm",
+   "c3-van-hoa-nq126",
+   "c4-nvtt-2026",
+   "cam-ket-ma-tuy",
+   "full-nghi-quyet-va-kien-thuc-chung-kien-thuc-chung",
+   "noi-quy-lao-dong",
+   "truyen-thong"
+  ]
+ },
+ {
   "name": "Miền Trung - 2026",
   "banks": [
    "bo-de-anbm",
@@ -13,7 +31,7 @@ window.QUESTION_GROUPS = [
   ]
  },
  {
-  "name": "Nội dung chung",
+  "name": "Nội dung chung_Bản cũ",
   "banks": [
    "kien-thuc-chung",
    "nghi-quyet-2026",
@@ -48,6 +66,8066 @@ window.QUESTION_GROUPS = [
  }
 ];
 window.QUESTION_BANKS = [
+ {
+  "id": "cm-canh-quan-moi-truong-vscc-2026",
+  "name": "CM Cảnh quan môi trường VSCC 2026",
+  "questions": [
+   {
+    "id": "cm-canh-quan-moi-truong-vscc-2026-1",
+    "no": 1,
+    "text": "Công dụng của cây sủi là gì?",
+    "options": [
+     "Sử dụng để loại bỏ các vết nhựa đường, vết sơn, băng dính bám trên các bề mặt",
+     "Dùng để lau các vết bẩn nhẹ trên các bề mặt, lau khô các giọt nước.",
+     "Sử dụng để hỗ trợ làm việc trên cao.",
+     "Dùng để hỗ trợ nối thêm khi gạt kính, lau mạng nhện."
+    ],
+    "answer": 0
+   },
+   {
+    "id": "cm-canh-quan-moi-truong-vscc-2026-2",
+    "no": 2,
+    "text": "Những lưu ý cần thiết khi vệ sinh, đánh nền chùa là gì?",
+    "options": [
+     "Không để dây điện cọ vào bàn chải",
+     "Kiểm tra dây điện trước khi kết nối nguồn điện",
+     "Không để nước tự khô trên nền gạch",
+     "Sử dụng bàn chải hoặc pad phù hợp."
+    ],
+    "answer": 2
+   },
+   {
+    "id": "cm-canh-quan-moi-truong-vscc-2026-3",
+    "no": 3,
+    "text": "Khi sử dụng máy mài góc cầm tay cần lưu ý điều gì?",
+    "options": [
+     "Nạp đầy đủ điện cho pin trước và sau khi dùng.",
+     "Để dây gọn gàng không vướng lối đi lại",
+     "Luôn cấp nước cho máy.",
+     "Không sử dụng máy khi thời tiết ẩm ướt, sương mù."
+    ],
+    "answer": 3
+   },
+   {
+    "id": "cm-canh-quan-moi-truong-vscc-2026-4",
+    "no": 4,
+    "text": "Bộ phận vệ sinh có chức năng chính là gì?",
+    "options": [
+     "Thực hiện bán vé du lịch",
+     "Tổ chức sự kiện trong khu du lịch",
+     "Đảm bảo an ninh trật tự",
+     "Đảm bảo mỹ quan và vệ sinh môi trường toàn khu du lịch"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "cm-canh-quan-moi-truong-vscc-2026-5",
+    "no": 5,
+    "text": "Trong quá trình làm việc, tại khu vực được phân công, khi nhân viên phát hiện tài sản thất lạc thì việc đầu tiên cần làm gì?",
+    "options": [
+     "Tiến hành kiểm tra xác minh có phải khách hàng để quên hay khách đang để tạm khi chụp ảnh hoặc đang tham quan ở gần đó.",
+     "Báo ngay với Tổ trưởng hoặc TBP.",
+     "Báo ngay cho bộ phận CSKH.",
+     "Không làm gì."
+    ],
+    "answer": 0
+   },
+   {
+    "id": "cm-canh-quan-moi-truong-vscc-2026-6",
+    "no": 6,
+    "text": "Khi vệ sinh khu vực văn phòng cần lưu ý điều gì?",
+    "options": [
+     "Đóng lại các cửa sau khi kết thúc công việc.",
+     "Thu gom và thay toàn bộ túi rác trong thùng rác.",
+     "Lau bàn ghế, cánh cửa, khung tranh ảnh,…",
+     "Không được bỏ đi bất cứ giấy tờ nào trên bàn làm việc trong quá trình dọn vệ sinh."
+    ],
+    "answer": 3
+   },
+   {
+    "id": "cm-canh-quan-moi-truong-vscc-2026-7",
+    "no": 7,
+    "text": "Khi vệ sinh, đánh các ray thang cuốn cần thực hiện như thế nào?",
+    "options": [
+     "Mở thang cuốn theo chiều xuống, để máy vệ sinh thang cuốn ở đầu dưới thang cuốn.",
+     "Mở thang cuốn theo chiều xuống, để máy vệ sinh thang cuốn ở đầu trên thang cuốn.",
+     "Mở thang cuốn theo chiều lên, để máy vệ sinh thang cuốn ở đầu dưới thang cuốn.",
+     "Mở thang cuốn theo chiều lên, để máy vệ sinh thang cuốn ở đầu trên thang cuốn."
+    ],
+    "answer": 1
+   },
+   {
+    "id": "cm-canh-quan-moi-truong-vscc-2026-8",
+    "no": 8,
+    "text": "Trang bị bảo hộ khi sử dụng máy mài là gì?",
+    "options": [
+     "Kính mắt, mũ bảo hộ, găng tay, bịt tai chống ồn, mặt nạ lọc bụi.",
+     "Mũ bảo hộ, gang tay",
+     "Dây đai an toàn, dây bảo hộ, ghế đu.",
+     "Kính mắt, mũ bảo hộ, mặt nạ lọc bụi"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "cm-canh-quan-moi-truong-vscc-2026-9",
+    "no": 9,
+    "text": "Yêu cầu khi kiểm tra và xử lý các vết bẩn trên cao là gi?",
+    "options": [
+     "Làm sạch các khu làm việc của các phòng ban văn phòng tạo môi trường sạch sẽ trong lành.",
+     "Không có mạng nhện, đèn trần không bụi bẩn.",
+     "Thao tác lau dứt khoát nhẹ nhàng, không làm bụi bay khắp phòng.",
+     "Tạo một môi trường không có rác thải, không túi nilon, không chai nhựa."
+    ],
+    "answer": 2
+   },
+   {
+    "id": "cm-canh-quan-moi-truong-vscc-2026-10",
+    "no": 10,
+    "text": "Khi lau đớt sảnh bằng đớt khô chúng ta tiến hành lau theo hình số mấy?",
+    "options": [
+     "6",
+     "3",
+     "9",
+     "8"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "cm-canh-quan-moi-truong-vscc-2026-11",
+    "no": 11,
+    "text": "Khi nhân viên vi phạm quy định an toàn, bộ phận được làm gì?",
+    "options": [
+     "Bỏ qua",
+     "Nhắc nhở",
+     "Đề xuất xử lý kỷ luật hoặc chấm dứt hợp đồng theo quy chế, nhằm duy trì kỷ cương và an toàn lao động.",
+     "Chuyển bộ phận khác"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "cm-canh-quan-moi-truong-vscc-2026-12",
+    "no": 12,
+    "text": "Vệ sinh tường ốp, gạch men/đá hoặc vách tường thực hiện như thế nào?",
+    "options": [
+     "Chà tường, lau vách ngăn, cánh cửa từ  thấp lên cao, đường lau sau chồng lên đường lau trước, lau gờ cao, lau chân vách ngăn.",
+     "Xịt nước để trôi chất bẩn, hóa chất trên tường.",
+     "Chà tường, lau vách ngăn, cánh cửa từ trên cao xuống thấp, đường lau sau chồng lên đường lau trước, lau gờ cao, lau chân vách ngăn.",
+     "Sử dụng khẩu trang, gang tay cao su để nhúng giẻ lau ướt vào xô chứa hóa chất đã pha loãng để lau tường, vách ngăn, cánh cửa."
+    ],
+    "answer": 2
+   },
+   {
+    "id": "cm-canh-quan-moi-truong-vscc-2026-13",
+    "no": 13,
+    "text": "Lưu ý khi sử dụng máy thổi lá cây chạy bằng pin là gì?",
+    "options": [
+     "Không để vật cản luồng hút gió của máy.",
+     "Luôn tháo pin khỏi máy sau khi sử dụng.",
+     "Vệ sinh định kỳ cánh quạt.",
+     "Cầm chắc máy trước khi bật máy."
+    ],
+    "answer": 1
+   },
+   {
+    "id": "cm-canh-quan-moi-truong-vscc-2026-14",
+    "no": 14,
+    "text": "Dây điện để sửu dụng cho máy xịt áp lực có tiết diện tối thiểu là bao nhiêu?",
+    "options": [
+     "2.5 đến 3.0 mm2",
+     "2.0 đến 3.0 mm2",
+     "2.5 đến 3.5 mm2",
+     "2.5 đến 4.0 mm2"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "cm-canh-quan-moi-truong-vscc-2026-15",
+    "no": 15,
+    "text": "Máy xịt áp lực được định kỳ vệ sinh lọc nước đầu vào sau bao lâu?",
+    "options": [
+     "1 tháng/lần",
+     "1 tuần/lần",
+     "2 tháng/lần",
+     "Sau khi sử dụng máy"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "cm-canh-quan-moi-truong-vscc-2026-16",
+    "no": 16,
+    "text": "Lưu ý khi sử dụng máy xịt áp lực là gì?",
+    "options": [
+     "Để dây điện gọn gàng không vướng lối đi cả khách.",
+     "Không bật máy chạy qua đêm hoặc thời gian dài",
+     "Không bóp nhả cò súng liên tục.",
+     "Không sử dụng máy khi thời tiết ẩm ướt, sương mù."
+    ],
+    "answer": 2
+   },
+   {
+    "id": "cm-canh-quan-moi-truong-vscc-2026-17",
+    "no": 17,
+    "text": "Khi vệ sinh đài phun nước và thác nước cần chuẩn bị những CCDC nào?",
+    "options": [
+     "Dụng cụ là bàn chải cước cỡ lớn để vệ sinh và các phụ kiện làm sạch bể đều được gắn với dụng cụ như sau: Vợt hớt rác, bàn chải để cọ bức tường bể và sàn, máy hút đáy.",
+     "Máy thổi lá cây, chổi, hót rác, túi nilo sinh học,…",
+     "Vợt hớt lá cây, chổi, hót rác, túi nilo sinh học.",
+     "Bàn chải cước, khăn lau, hót rác."
+    ],
+    "answer": 0
+   },
+   {
+    "id": "cm-canh-quan-moi-truong-vscc-2026-18",
+    "no": 18,
+    "text": "Trước khi bàn giao máy thổi lá cây về kho chúng ta cần làm gì?",
+    "options": [
+     "Kiểm tra máy, thiết bị đi kèm đầy đủ.",
+     "Vệ sinh sạch sẽ vỏ máy và thân máy.",
+     "Để cất máy đúng nơi quy  định, gọn gàng ngăn nắp.",
+     "Kiểm tra máy, thiết bị đi kèm đầy đủ, vệ sinh sạch sẽ máy, vỏ máy."
+    ],
+    "answer": 3
+   },
+   {
+    "id": "cm-canh-quan-moi-truong-vscc-2026-19",
+    "no": 19,
+    "text": "Khi bồn cầu bị tắc chúng ta thực hiện như thế nào?",
+    "options": [
+     "Pha 5 gói bột thông đường ống với 1 lít nước nóng hòa tan, sau đó đổ vào bồn đang bị tắc ngâm khoảng 5 - 10 phút, dùng bộ thông tắc bồn cầu để xử lý.",
+     "Pha 3 gói bột thông đường ống với 1 lít nước nóng hòa tan, sau đó đổ vào bồn đang bị tắc ngâm khoảng 5 - 10 phút, dùng bộ thông tắc bồn cầu để xử lý.",
+     "Pha 5 gói bột thông đường ống với 1 lít nước nóng hòa tan, sau đó đổ vào bồn đang bị tắc ngâm khoảng 3 - 5 phút, dùng bộ thông tắc bồn cầu để xử lý.",
+     "Pha 5 gói bột thông đường ống với 1 lít nước lạnh để hòa tan, sau đó đổ vào bồn đang bị tắc ngâm khoảng 5 - 10 phút, dùng bộ thông tắc bồn cầu để xử lý."
+    ],
+    "answer": 0
+   },
+   {
+    "id": "cm-canh-quan-moi-truong-vscc-2026-20",
+    "no": 20,
+    "text": "Cách thực hiện máy đánh sàn như thế nào?",
+    "options": [
+     "Nâng nhẹ tay cầm máy lên trên để máy di chuyển từ phải qua trái, hạ nhẹ tay cầm máy xuống để di chuyển máy từ  trái qua phải.",
+     "Nâng nhẹ tay cầm máy lên trên để máy di chuyển từ trái qua phải, hạ nhẹ tay cầm máy xuống để di chuyển máy từ phải qua trái, đánh từ ngoài vào trong.",
+     "Nâng nhẹ tay cầm máy lên trên để máy di chuyển từ phải qua trái, hạ nhẹ tay cầm máy xuống để di chuyển máy từ  trái qua phải, đánh từ trong ra ngoài.",
+     "Nâng nhẹ tay cầm máy lên trên để máy di chuyển từ trái qua phải, hạ nhẹ tay cầm máy xuống để di chuyển máy từ phải qua trái."
+    ],
+    "answer": 3
+   },
+   {
+    "id": "cm-canh-quan-moi-truong-vscc-2026-21",
+    "no": 21,
+    "text": "Mục đích của việc đu dây gạt kính và rửa kính mái các tòa nhà là gì?",
+    "options": [
+     "Kính sáng bóng, trong suốt, không bụi, không viết nước, không còn đá vôi bám trên bề mặt kính.",
+     "Làm sạch rêu xanh, bụi bẩn bám trên lan can.",
+     "Làm sạch bụi bẩn và các vết đá vôi bám trên bề mặt kính, tạo độ bóng, trong của bề mặt kính, tạo cảm giác khô thoáng, sạch sẽ trong khu du lịch.",
+     "Tạo môi trường làm việc sạch sẽ, ngăn nắp."
+    ],
+    "answer": 2
+   },
+   {
+    "id": "cm-canh-quan-moi-truong-vscc-2026-22",
+    "no": 22,
+    "text": "Khi đu dây gạt kính cần chuẩn bị CCDC gì?",
+    "options": [
+     "Dây dù, dây an toàn, dây bảo hộ, ghế ngồi đu dây, mũ bảo hộ.",
+     "Giỏ đựng dụng cụ, tai thỏ, tay gạt kính, bông trà kính, khăn khô, bình đựng hóa chất, cây sủi, dao sủi thay thế, gang tay cao su, tuốc nơ vít để thay dao sủi, pad nhỏ, dây dù, dây an toàn, dây bảo hộ, ghế ngồi đu dây, mũ bảo hộ.",
+     "Miếng pad, găng tay cao su, bình chứa hóa chất, cây sủi, dao sủi thay thế, dây bảo hộ, dây an toàn, mũ bảo hộ.",
+     "giỏ đựng dụng cụ, khăn lau, thang chữ A, tai thỏ, tay gạt kính,  bông trà kính, bình đựng hóa chất, gang tay cao su, tuốc nơ vít để thay dao sủi."
+    ],
+    "answer": 1
+   },
+   {
+    "id": "cm-canh-quan-moi-truong-vscc-2026-23",
+    "no": 23,
+    "text": "Mục đích làm sạch vòi xịt và các lỗ thoát sàn là gì?",
+    "options": [
+     "Làm cho tường sạch bóng, tạo không gian sạch, dễ chịu cho người dùng khi vào vệ sinh.",
+     "Loại bỏ một phần chất bẩn tại bồn cầu và bồn tiểu.",
+     "Vệ sinh nắp lỗ thoát sàn và đổ một xô nước xuống lỗ thoát sàn để khử mùi.",
+     "Thiết bị vệ sinh sáng, sạch, ngăn ngừa sự lây nhiễm vi khuẩn, giảm mùi hôi từ hố ga thoát sàn."
+    ],
+    "answer": 3
+   },
+   {
+    "id": "cm-canh-quan-moi-truong-vscc-2026-24",
+    "no": 24,
+    "text": "Quy trình chung khi thực hiện vệ sinh trong quá trình đón khách tham quan?",
+    "options": [
+     "Không sử dụng các CCDC quá cồng kềnh, gây ảnh hưởng đến mỹ quan, môi trường trong quá trình khách tham quan.",
+     "Thực hiện đầy đủ các checklist sau khi hoàn thành công việc và trước giờ mở cửa công viên để tránh sai sót.",
+     "Thông báo kịp thời cho TBP hoặc TT các hỏng hóc hay các bất thường trong suốt quá trình làm việc.",
+     "Luôn luôn đặt biến cảnh báo tránh trơn trượt trước khi làm vệ sinh."
+    ],
+    "answer": 0
+   },
+   {
+    "id": "cm-canh-quan-moi-truong-vscc-2026-25",
+    "no": 25,
+    "text": "Khi sử dụng máy xịt áp lực trong khoảng 1 giờ đồng hồ phải dừng nghỉ bao nhiêu lâu để làm mát máy ?",
+    "options": [
+     "5 phút",
+     "10 phút",
+     "15 phút",
+     "20 phút"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "cm-canh-quan-moi-truong-vscc-2026-26",
+    "no": 26,
+    "text": "Khi sử dụng máy thổi lá cây chạy bằng pin chúng ta nên lắp kết nối như thế nào?",
+    "options": [
+     "Kiểm tra máy, thiết bị đi kèm đầy đủ.",
+     "Lắp hai viên pin vào máy, đảm bảo các khớp nối không được bị lệch, ấn nút kiểm tra pin trên máy.",
+     "Không sử dụng máy khi thời tiết mưa.",
+     "Nạp pin đầy đủ trước khi dùng."
+    ],
+    "answer": 1
+   },
+   {
+    "id": "cm-canh-quan-moi-truong-vscc-2026-27",
+    "no": 27,
+    "text": "Tại sao nhân viên phải dùng găng tay khi sử dụng hóa chất?",
+    "options": [
+     "Để bảo vệ tay không tiếp xúc trực tiếp với hóa chất",
+     "Để tránh bị ướt tay",
+     "Để không bị bẩn",
+     "Bị bắt buộc"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "cm-canh-quan-moi-truong-vscc-2026-28",
+    "no": 28,
+    "text": "Khi thấy dưới bàn ăn của du khách có rác bẩn thì bước đầu tiên cần phải làm là?",
+    "options": [
+     "Dọn vệ sinh ngay trực tiếp",
+     "Xin phép du khách và dọn vệ sinh",
+     "Chờ du khách ăn xong rồi dọn",
+     "Để đấy và đi làm việc khác"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "cm-canh-quan-moi-truong-vscc-2026-29",
+    "no": 29,
+    "text": "Vì sao phải bảo dưỡng thiết bị máy móc định kỳ?",
+    "options": [
+     "Theo yêu cầu của cấp trên",
+     "Đảm bảo việc vận hành máy móc được an toàn, tránh sự cố, duy trì tình trạng hoạt động đạt hiệu quả cao trong công việc. Kéo dài tuổi thọ của thiết bị",
+     "Theo yêu cầu của nhà cung cấp",
+     "Đảm bảo việc vận hành máy móc được an toàn, tránh sự cố. Kéo dài tuổi thọ của thiết bị. Theo yêu cầu của nhà cung cấp"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "cm-canh-quan-moi-truong-vscc-2026-30",
+    "no": 30,
+    "text": "Khi du khách đi trên sàn trơn trượt bị ngã và không thể đứng dậy được do có thể bị thương ở chân, đầu và trong người. Việc đầu tiên anh/chị phải làm là gì?",
+    "options": [
+     "Nâng ngay du khách dậy",
+     "Gọi y tế hỗ trợ việc chăm sóc",
+     "Gọi điện cứu thương 115",
+     "Nhờ các du khách khác cùng hỗ trợ chăm sóc người bị nạn"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "cm-canh-quan-moi-truong-vscc-2026-31",
+    "no": 31,
+    "text": "Nếu khách hàng to tiếng, nhân viên vệ sinh cần làm gì?",
+    "options": [
+     "Nhờ sự hỗ trợ của các bộ phận gần kề tách/cô lập khách hàng để không ảnh hưởng đến du khách khác và nhẹ nhàng giải đáp các khiếu nại của khách",
+     "Cãi lại khách to hơn",
+     "Đẩy khách ra khỏi khu dịch vụ",
+     "Báo ban Giám đốc"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "cm-canh-quan-moi-truong-vscc-2026-32",
+    "no": 32,
+    "text": "Đâu là phương pháp vệ sinh thủy áp?",
+    "options": [
+     "Sử dụng máy xịt nước với áp sất lớn",
+     "Nước + Hóa chất tẩy rửa",
+     "Dùng hóa chất và dụng cụ tẩy rửa",
+     "Sử dụng máy hút nước công suất lớn"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "cm-canh-quan-moi-truong-vscc-2026-33",
+    "no": 33,
+    "text": "Hãy nêu đầy đủ các loại lịch làm vệ sinh ?",
+    "options": [
+     "Lịch hàng ngày; Hàng tháng",
+     "Lịch hàng tháng; Hàng quý",
+     "Lịch hàng ngày; Hàng tháng",
+     "Lịch hàng ngày;  Hàng tháng Hàng quí; Vệ sinh theo yêu cầu đặc biệt - đột xuất"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "cm-canh-quan-moi-truong-vscc-2026-34",
+    "no": 34,
+    "text": "Khi sàn, nền bị ướt, trơn trượt chúng ta cần làm gì?",
+    "options": [
+     "Đặt biển cảnh báo chú ý trơn trượt và thực hiện lau khô vị trí đó.",
+     "Đặt biển trơn trượt",
+     "Đặt khi nền ướt",
+     "Đặt biển đang sửa chữa"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "cm-canh-quan-moi-truong-vscc-2026-35",
+    "no": 35,
+    "text": "Yêu cầu xịt rửa rêu xanh đường đi bộ và lan can là gì?",
+    "options": [
+     "Làm lan can, nền đường đi bộ luôn sạch, không bụi bẩn, không bùn đất và không có rêu xanh bám trên bề mặt",
+     "Đảm bảo không có rêu xanh bụi bẩn bán trên lan can, bậc thang và lối đi bộ trong khu du lịch",
+     "Sử dụng máy xịt áp lực, ống nước, chổi cọ, hóa chất tẩy rửa thông dụng để làm sạch các vết bẩn lâu ngày.",
+     "Tạo một môi trường không có rác thải, túi nilon, không chai nhựa, đảm bảo mỹ quan trong khu du lịch"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "cm-canh-quan-moi-truong-vscc-2026-36",
+    "no": 36,
+    "text": "Những tiêu chuẩn nào cho các khu vực ngoài trời?",
+    "options": [
+     "Không có rác nổi",
+     "Không có rác nổi, không các các vũng nước đọng, không có vật liệu nhà thầu để không gọn gàng. Không để rác trong các thùng rác quá đầy",
+     "Không để rác trong các thùng rác quá đầy",
+     "Không có các vũng nước đọng"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "cm-canh-quan-moi-truong-vscc-2026-37",
+    "no": 37,
+    "text": "Đảm bảo an toàn khi làm việc trên cao cần thực hiện điều gì?",
+    "options": [
+     "Sử dụng thang, giàn giáo, dây an toàn và luôn có 2 người cùng làm",
+     "Sử dụng thang, giàn giáo, dây an toàn",
+     "Có vật để đứng/đu bám tạo điểm tựa để vệ sinh",
+     "Sử dụng thang, giàn giáo và luôn có 2 người cùng làm"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "cm-canh-quan-moi-truong-vscc-2026-38",
+    "no": 38,
+    "text": "Khi vệ sinh khu nhà vệ sinh (toilet) cần lưu ý gì?",
+    "options": [
+     "Làm sạch từ dưới thấp lên trên cao",
+     "Làm sạch từ trên cao xuống thấp và trái qua phải",
+     "Làm sạch từ trên cao xuống thấp",
+     "Làm sạch từ trên cao xuống thấp và từ phải qua trái"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "cm-canh-quan-moi-truong-vscc-2026-39",
+    "no": 39,
+    "text": "Đâu là rác hữu cơ?",
+    "options": [
+     "Lon bia, máy sấy tóc, thức ăn thừa",
+     "Giấy vụn, rau củ quả, sắt thép, thủy tinh",
+     "Thức ăn thừa, giấy vụn, rau củ quả, lá cây",
+     "Chai thủy tinh, lá cây, rau củ quả, thức ăn thừa"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "cm-canh-quan-moi-truong-vscc-2026-40",
+    "no": 40,
+    "text": "Mục đích của việc làm sạch lỗ thoát sàn là gì?",
+    "options": [
+     "Làm sạch nhà vệ sinh",
+     "Làm giảm mùi hôi thối từ hố gas bốc lên",
+     "Để cho sạch",
+     "Để khách không phàn nàn"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "cm-canh-quan-moi-truong-vscc-2026-41",
+    "no": 41,
+    "text": "Làm thế nào để phân loại rác có hiệu quả?",
+    "options": [
+     "Do ý thức của từng nhân viên, thường xuyên nâng cao ý thức trác nhiệm của CBNV",
+     "Tổ trưởng tự phân loại rác, nhân viên khôn được phân loại",
+     "Xử phạt khi có sai phạm. Tuyên truyền, phổ biến nâng cao ý thức trách nhiệm của CBNV",
+     "Nâng cao ý thức và nhận thức cho tất cả nhân viên, phải được tiến hành toàn diện, trong một thời gian dài cung cấp cho nhân viên cách thức và phương tiện để phân loại rác một cách dễ dàng nhất (thùng rác, nơi đổ rác…)."
+    ],
+    "answer": 3
+   },
+   {
+    "id": "cm-canh-quan-moi-truong-vscc-2026-42",
+    "no": 42,
+    "text": "Tại sao phải sử dụng đồ dùng, dụng cụ đúng cách?",
+    "options": [
+     "Để không bị kiểm tra",
+     "Để trang trí",
+     "Để đảm bảo đồ dùng dụng cụ được sử dụng lâu dài hơn",
+     "Để tránh bị hư hỏng xuống cấp"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "cm-canh-quan-moi-truong-vscc-2026-43",
+    "no": 43,
+    "text": "Khi vệ sinh thiết bị điện là quạt treo tường, ngoài việc vệ sinh cho sạch sẽ còn phải thực hiện công việc gì nữa?",
+    "options": [
+     "Bật công tắc kiểm tra tình trạng hoạt động",
+     "Ngắt hoàn toàn điện khi vệ sinh",
+     "Tháo quạt trên tường xuống đất để lau",
+     "Không làm các công việc khác ngoài vệ sinh sạch sẽ quạt"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "cm-canh-quan-moi-truong-vscc-2026-44",
+    "no": 44,
+    "text": "Ngoài việc vệ sinh quạt trên tường cho sạch sẽ còn phải thực hiện công việc gì nữa?",
+    "options": [
+     "Tháo quạt trên tường xuống đất để lau",
+     "Ngắt hoàn toàn điện khi vệ sinh",
+     "Bật công tắc kiểm tra tình trạng hoạt động",
+     "Không làm các công việc khác ngoài vệ sinh sạch sẽ quạt"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "cm-canh-quan-moi-truong-vscc-2026-45",
+    "no": 45,
+    "text": "Nhân viên mới vào làm việc được cấp phát các vật dụng và tài liệu nào?",
+    "options": [
+     "Đồng phục",
+     "Tài liệu hướng dẫn",
+     "Đồng phục, nội qui công ty, bản mô tả công việc và quy trình phục vụ",
+     "Quy trình làm việc, nội qui công ty và đồng phục"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "cm-canh-quan-moi-truong-vscc-2026-46",
+    "no": 46,
+    "text": "Quy trình làm vệ sinh khu văn phòng theo tiêu chuẩn là gì?",
+    "options": [
+     "Phòng ban giám đốc - deep toilet",
+     "Phòng ban giám đốc - deep toilet - lau sảnh",
+     "Phòng ban giám đốc - các phòng ban- quét và lau ngoài sảnh - deep toilet",
+     "Phòng ban giám đốc - các phòng ban (để họ tự quét)- quét và lau ngoài sảnh - deep toilet"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "cm-canh-quan-moi-truong-vscc-2026-47",
+    "no": 47,
+    "text": "Khi vào ca làm việc thì nhân viên phải làm gì ?",
+    "options": [
+     "Nhận việc từ TT  khu vực được phân công, kiểm tra sổ bàn giao, xem toàn khu vực trực xem có vấn đề gì bất thường hoặc hỏng hóc thì báo ngay cho TT , TBP",
+     "Lấy dụng cụ đi làm luôn",
+     "Kiểm tra lại công việc vào cuối giờ chiều",
+     "Không xem sổ bàn giao ca"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "cm-canh-quan-moi-truong-vscc-2026-48",
+    "no": 48,
+    "text": "Nếu công việc vệ sinh gây ảnh hưởng đến khách, nhân viên vệ sinh cần làm gì?",
+    "options": [
+     "Xin lỗi đã làm phiền, xin phép được tiếp tục công việc hoặc tế nhị tạm gác công việc lại một lúc",
+     "Xin lỗi khách nhưng vẫn tiếp tục làm việc",
+     "Không cần xin lỗi khách, đi ra chỗ khác vệ sinh quay lại sau",
+     "Không làm nữa và đi chỗ khác"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "cm-canh-quan-moi-truong-vscc-2026-49",
+    "no": 49,
+    "text": "Đầy đủ các mối nguy hại chính bao gồm?",
+    "options": [
+     "Sinh học/vi sinh; Vật Lý; Hóa Học",
+     "Sinh học; Vật lý",
+     "Vật Lý; Hóa Học",
+     "Sinh học; Hóa Học"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "cm-canh-quan-moi-truong-vscc-2026-50",
+    "no": 50,
+    "text": "Khi sàn , nền bị ướt, trơn trượt chúng ta cần làm gì?",
+    "options": [
+     "Đặt biển trơn trượt",
+     "Đặt biển cảnh báo chú ý trơn trượt và thực hiện biện pháp lau khô vị trí đó",
+     "Đặt khi nền ướt",
+     "Đặt biển đang làm vệ sinh"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "cm-canh-quan-moi-truong-vscc-2026-51",
+    "no": 51,
+    "text": "Kho bãi chứa Công cụ dụng cụ tuân thủ theo quy tắc 5S. Đâu là thứ tự đúng của quy tắc 5S?",
+    "options": [
+     "-Sắp xếp\n- Sàn lọc\n- Sạch sẽ\n- Sẵn sàng\n- Săn sóc",
+     "-Sàn lọc\n- Sạch sẽ\n- Sắp xếp\n- Săn sóc\n- Sẵn sàng",
+     "-Sàn lọc\n- Sắp xếp\n- Sạch sẽ\n- Săn sóc\n- Sẵn sàng",
+     "-Sàn lọc\n- Sắp xếp\n- Săn sóc\n- Sạch sẽ\n- Sẵn sàng"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "cm-canh-quan-moi-truong-vscc-2026-52",
+    "no": 52,
+    "text": "Quy trình vệ sinh Toilet sạch sẽ, đạt tiêu chuẩn?",
+    "options": [
+     "Thu gom rác, quét sạch nền, xả bồn cầu, ngâm hóa chất, bồn tiểu, xả nước chậu rửa tay, lau sạch sẽ, setup đồ và xịt thơm",
+     "Thu gom rác, quét sạch nền, xả bồn cầu, ngâm hóa chất, cọ từ trên xuống dưới, lắp toilet, bồn tiểu, xả nước chậu rửa tay, lau sạch sẽ, setup đồ và xịt thơm",
+     "Thu gom rác, cọ từ trên xuống dưới, lắp toilet, bồn tiểu, xả nước chậu rửa tay, lau sạch sẽ, setup đồ và xịt thơm",
+     "Thu gom rác, quét sạch nền, xả bồn cầu, ngâm hóa chất, cọ từ trên xuống dưới, lắp toilet, bồn tiểu và xịt thơm"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "cm-canh-quan-moi-truong-vscc-2026-53",
+    "no": 53,
+    "text": "Muốn sử dụng hóa chất một cách tốt nhất ta nên nắm chắc những yếu tố nào?",
+    "options": [
+     "Dùng loại nào thì hỏi lại đỡ bị nhầm",
+     "Nhận biết được tên hóa chất, màu sắc",
+     "Nắm được tên gọi từng loại hóa chất, phân biệt màu,. Biết được tác dụng và bản chất của từng loại, dùng đúng hóa chất, đúng mục đích",
+     "Ngửi hóa chất và tên gọi để phân biệt"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "cm-canh-quan-moi-truong-vscc-2026-54",
+    "no": 54,
+    "text": "Đâu là trình tự thao tác kiểm tra máy đánh sàn đơn trước khi đưa vào sử dụng?",
+    "options": [
+     "Kiểm tra ổ điện, phích cắm phải không được lỏng lẻo, Không sứt mẻ. Dây điện không bị sờn xước, hở lõi dây",
+     "Nhìn bằng mắt thường sau đó đưa vào sử dụng",
+     "Kiểm tra phích cắm, ổ cắm bình thường là có thể sử dụng",
+     "Kiểm tra dây điện không bị xước, hở lõi dây là có thể sử dụng"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "cm-canh-quan-moi-truong-vscc-2026-55",
+    "no": 55,
+    "text": "Đâu là trình tự thao tác máy chà sàn đơn sau khi sử dụng?",
+    "options": [
+     "Nhả công tắc ra, tháo Padholer hoặc bàn chải ra, dựng máy lên, đưa máy và đưa máy về vị trí thẳng đứng, vệ sinh vỏ máy bình đựng hóa chất,  tháo Pad ra, rút phích cắm ra, quấn gọn dây điện",
+     "Nhả công tắc ra, rút phích cắm ra, tháo Pad ra, dựng máy lên, đưa máy và đưa máy về vị trí thẳng đứng, vệ sinh vỏ máy bình đựng hóa chất, quấn gọn dây điện",
+     "Nhả công tắc ra, rút phích cắm ra, tháo Pad ra, tháo Padholer hoặc bàn chải ra, dựng máy lên, đưa máy và đưa máy về vị trí thẳng đứng, vệ sinh vỏ máy bình đựng hóa chất, quấn gọn dây điện",
+     "Nhả công tắc ra,dựng máy lên, đưa máy và đưa máy về vị trí thẳng đứng, vệ sinh vỏ máy bình đựng hóa chất, rút phích cắm ra, quấn gọn dây điện"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "cm-canh-quan-moi-truong-vscc-2026-56",
+    "no": 56,
+    "text": "Đâu là rác vô cơ?",
+    "options": [
+     "Đá xây dụng, cao su, giấy vụn, sắt thép",
+     "Vỏ dừa, chai thủy tinh, rau củ quả, thức ăn thừa",
+     "Lá cây, thức ăn thừa, chai lọ thủy tinh, nhựa",
+     "Chai thủy tinh, lon bia, xi măng, gạch đá,"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "cm-canh-quan-moi-truong-vscc-2026-57",
+    "no": 57,
+    "text": "Khi thu gom rác, làm sạch thùng rác và quét nền yêu cầu gì?",
+    "options": [
+     "Thùng rác sạch sẽ, khô, không bẩn, không có mùi hôi. Sàn không có vụn giấy, tóc, que diêm hay giấy rác. Góc cạnh hay khe kẽ sạch, không bụi bẩn",
+     "Thu gom rác và vệ sinh sạch sẽ các thùng rác và thay túi nilon mới",
+     "Quét sạch giấy vụn, bụi bẩn trên sàn, đẻ khi móp ướt không bị sạn hay để lại vết bẩn",
+     "Thu gom rác vào túi nilon, lau từ trên xuống dưới và bên trong thùng rác, thay túi nilon, đậy và lau nắp thùng rác"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "cm-canh-quan-moi-truong-vscc-2026-58",
+    "no": 58,
+    "text": "Khi vệ sinh tường ốp gạch men/ đá hoặc các vách tường làm bằng vật liệu chịu nước( Alu, kính), cách thực hiện thế nào?",
+    "options": [
+     "Ốp tường, vách ngăn, cánh cửa khô ráo, không bụi, không vết nước",
+     "Xịt nước để trôi vết bẩn, hóa chất trên tường",
+     "Dùng cây gạt gương gạt sạch xà phòng, nước trên tường và lau khô vết nước",
+     "Chà tường, vách ngăn, cánh cửa từ trên cao xuống thấp, đường lau sàn sau chồng lên đường lau sàn trước, lau Gờ cao, lau chân vách ngăn"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "cm-canh-quan-moi-truong-vscc-2026-59",
+    "no": 59,
+    "text": "Có mấy loại dụng bắt buộc mã hóa màu?",
+    "options": [
+     "2",
+     "3",
+     "4",
+     "5"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "cm-canh-quan-moi-truong-vscc-2026-60",
+    "no": 60,
+    "text": "Loại dụng cụ nào sau đây bắt buộc mã hóa màu?",
+    "options": [
+     "Xô Lau",
+     "Máy thổi lá",
+     "Máy hút bụi",
+     "Cây sủi"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "cm-canh-quan-moi-truong-vscc-2026-61",
+    "no": 61,
+    "text": "Màu đỏ sử dụng cho khu vực nào?",
+    "options": [
+     "Khu vực có nguy cơ cao",
+     "Khu vực có nguy cơ trung bình -  phi thực phẩm",
+     "Khu vực có nguy cơ trung bình -  dịch vụ ẩm thực",
+     "Khu vực có nguy cơ thấp"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "cm-canh-quan-moi-truong-vscc-2026-62",
+    "no": 62,
+    "text": "Màu vàng sử dụng cho khu vực nào?",
+    "options": [
+     "Khu vực có nguy cơ cao",
+     "Khu vực có nguy cơ trung bình -  phi thực phẩm",
+     "Khu vực có nguy cơ trung bình -  dịch vụ ẩm thực",
+     "Khu vực có nguy cơ thấp"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "cm-canh-quan-moi-truong-vscc-2026-63",
+    "no": 63,
+    "text": "Màu xanh lá sử dụng cho khu vực nào?",
+    "options": [
+     "Khu vực có nguy cơ cao",
+     "Khu vực có nguy cơ trung bình -  phi thực phẩm",
+     "Khu vực có nguy cơ trung bình -  dịch vụ ẩm thực",
+     "Khu vực có nguy cơ thấp"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "cm-canh-quan-moi-truong-vscc-2026-64",
+    "no": 64,
+    "text": "Màu xanh dương sử dụng cho khu vực nào?",
+    "options": [
+     "Khu vực có nguy cơ cao",
+     "Khu vực có nguy cơ trung bình -  phi thực phẩm",
+     "Khu vực có nguy cơ trung bình -  dịch vụ ẩm thực",
+     "Khu vực có nguy cơ thấp"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "cm-canh-quan-moi-truong-vscc-2026-65",
+    "no": 65,
+    "text": "Khu vực nào sau đây thì sử dụng công cụ dụng cụ mã hóa màu đỏ?",
+    "options": [
+     "Bồn tiểu; Sàn nhà; Thùng Rác",
+     "Bồn tiểu; Sàn nhà; Văn phòng",
+     "Bồn tiểu; Cửa Sổ; Thùng Rác",
+     "Vệ sinh chung"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "cm-canh-quan-moi-truong-vscc-2026-66",
+    "no": 66,
+    "text": "Khu vực nào sau đây thì sử dụng công cụ dụng cụ mã hóa màu xanh dương?",
+    "options": [
+     "Vệ sinh chung; Văn phòng;  Cửa sổ",
+     "Bồn tiểu; Sàn nhà; Văn phòng",
+     "Bồn tiểu; Cửa Sổ; Thùng Rác",
+     "Bồn tiểu"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "cm-canh-quan-moi-truong-vscc-2026-67",
+    "no": 67,
+    "text": "Các mối nguy hóa học liên quan đến hóa chất trong vệ sinh môi trường bao gồm?",
+    "options": [
+     "Kích ứng da; nhạy cảm đường hô hấp",
+     "Ăn mòn; cháy nổ hóa học",
+     "Ăn mòn",
+     "Nổ và cháy nổ hóa học"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "cm-canh-quan-moi-truong-vscc-2026-68",
+    "no": 68,
+    "text": "Đâu là một trong những nguyên tắc tối thiểu cho các khu vực tập kết rác ngoài trời?",
+    "options": [
+     "Có đầy đủ thiết bị chữa cháy",
+     "Nền sàn là nền đất để thấm thoát nước tốt",
+     "Ở gần khu vực khách để tiện thu gom và tập kết rác",
+     "Không được để vòi nước ở khu tập kết"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "cm-canh-quan-moi-truong-vscc-2026-69",
+    "no": 69,
+    "text": "Đâu không phải là một trong những nguyên tắc tối thiểu cho các khu vực tập kết rác ngoài trời?",
+    "options": [
+     "Có đầy đủ thiết bị chữa cháy",
+     "Ở gần khu vực khách để tiện thu gom và tập kết rác",
+     "Sàn nhà phải được làm bằng vật liệu không thấm nước",
+     "Vòi được kết nối với nguồn cấp nước"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "cm-canh-quan-moi-truong-vscc-2026-70",
+    "no": 70,
+    "text": "Tần suất vệ sinh định kì đối với khu vực có nguy cơ cao hoặc sử dụng nhiều là bao lâu?",
+    "options": [
+     "Hàng ngày",
+     "Hàng Tuần",
+     "Hàng tháng",
+     "Hàng Qúy (Theo Mùa)"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "cm-canh-quan-moi-truong-vscc-2026-71",
+    "no": 71,
+    "text": "Tần suất vệ sinh định kì đối với khu vực có nguy cơ hoặc sử dụng mức trung bình là bao lâu?",
+    "options": [
+     "Hàng ngày",
+     "Hàng Tuần",
+     "Hàng tháng",
+     "Hàng Qúy (Theo Mùa)"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "cm-canh-quan-moi-truong-vscc-2026-72",
+    "no": 72,
+    "text": "Tần suất vệ sinh định kì đối với khu vực có nguy cơ thấp hoặc ít sử dụng là bao lâu?",
+    "options": [
+     "Hàng ngày",
+     "Hàng Tuần",
+     "Hàng tháng",
+     "Hàng Qúy (Theo Mùa)"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "cm-canh-quan-moi-truong-vscc-2026-73",
+    "no": 73,
+    "text": "Tần suất vệ sinh định kì đối với hoạt động lau dọn quy mô lớn là bao lâu?",
+    "options": [
+     "Hàng ngày",
+     "Hàng Tuần",
+     "Hàng tháng",
+     "Hàng Qúy (Theo Mùa)"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "cm-canh-quan-moi-truong-vscc-2026-74",
+    "no": 74,
+    "text": "Đâu là một số nhiệm vụ chính được bộ phận Vệ Sinh Môi Trường Công Cộng thực hiện hàng ngày?",
+    "options": [
+     "Vệ sinh trước khi mở cửa; Đổ và xử lí thùng rác; Quét và nhặt rác",
+     "Vệ sinh trước khi mở cửa; không đổ thùng rác; Quét và nhặt rác",
+     "Vệ sinh trước sau khi mở cửa; Đổ và xử lí thùng rác; Nhặt rác",
+     "Nhặt rác"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "cm-canh-quan-moi-truong-vscc-2026-75",
+    "no": 75,
+    "text": "Trong thời gian vận hành kiểm tra tình trạng thùng rác, đổ rác/vệ sinh theo yêu cầu với tần suất ít nhất là bao lâu một lần?",
+    "options": [
+     "4 giờ một lần",
+     "5 giờ một lần",
+     "6 giờ một lần",
+     "8 giờ một lần"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "cm-canh-quan-moi-truong-vscc-2026-76",
+    "no": 76,
+    "text": "Đâu là ý đúng của một trong các bước của quy trình vệ sinh bồn cầu?",
+    "options": [
+     "Lau bên ngoài và thành xung quanh bồn cầu bằng vải đỏ",
+     "Lau bên ngoài và thành xung quanh bồn cầu bằng vải xanh lá cây",
+     "Lau bên ngoài và thành xung quanh bồn cầu bằng vải xanh dương",
+     "Lau bên ngoài và thành xung quanh bồn cầu bằng vải nâu sẫm"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "cm-canh-quan-moi-truong-vscc-2026-77",
+    "no": 77,
+    "text": "Thiết bị có mã màu đỏ với khu vực nhà vệ sinh chỉ được sử dụng ở đâu?",
+    "options": [
+     "Nhà vệ sinh",
+     "Gương nhà vệ sinh",
+     "Cửa nhà vệ sinh",
+     "Không sử dụng mã màu đỏ cho nhà vệ sinh"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "cm-canh-quan-moi-truong-vscc-2026-78",
+    "no": 78,
+    "text": "Bắt buộc sử dụng Biển Báo Sàn Ướt khi nào?",
+    "options": [
+     "Bất cứ khi nào có nguy cơ trượt ngã",
+     "Khi trơn khách ngã",
+     "Khi trời nắng",
+     "Khi trời mưa"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "cm-canh-quan-moi-truong-vscc-2026-79",
+    "no": 79,
+    "text": "Biển Báo Sàn Ướt có chân đứng màu gì?",
+    "options": [
+     "Xanh",
+     "Đỏ",
+     "Tím",
+     "Vàng"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "cm-canh-quan-moi-truong-vscc-2026-80",
+    "no": 80,
+    "text": "Biển Báo Sàn Ướt có biểu tượng gì?",
+    "options": [
+     "Cảnh Báo",
+     "Cấm",
+     "Hướng Dẫn",
+     "Xin lỗi đã làm phiền"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "cm-canh-quan-moi-truong-vscc-2026-81",
+    "no": 81,
+    "text": "Đâu là một loại công cụ thủ công trong công tác vệ sinh?",
+    "options": [
+     "Cây lau và xe đẩy",
+     "Máy hút bụi",
+     "Máy chà sàn",
+     "Máy rửa áp lực"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "cm-canh-quan-moi-truong-vscc-2026-82",
+    "no": 82,
+    "text": "Khăn lau có cần mã hóa màu không?",
+    "options": [
+     "Không",
+     "Bắt buộc mã hóa màu",
+     "Ca ngày thì có, ca đêm thì không",
+     "Ca ngày thì không, ca đêm thì có"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "cm-canh-quan-moi-truong-vscc-2026-83",
+    "no": 83,
+    "text": "Xô lau có cần mã hóa màu không?",
+    "options": [
+     "Không",
+     "Bắt buộc mã hóa màu",
+     "Ca ngày thì có, ca đêm thì không",
+     "Ca ngày thì không, ca đêm thì có"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "cm-canh-quan-moi-truong-vscc-2026-84",
+    "no": 84,
+    "text": "Xô vệ sinh có cần mã hóa màu không?",
+    "options": [
+     "Không",
+     "Bắt buộc mã hóa màu",
+     "Ca ngày thì có, ca đêm thì không",
+     "Ca ngày thì không, ca đêm thì có"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "cm-canh-quan-moi-truong-vscc-2026-85",
+    "no": 85,
+    "text": "Theo Sổ tay dành cho nhân viên vệ sinh do SWH ban hành ngày 25/08/2022 thiết bị vệ sinh là gì?",
+    "options": [
+     "Là vật dụng cần thiết để giữ cho Công viên không chỉ sạch sẽ mà còn không có mầm bệnh.",
+     "Là các thiết bị giảm mệt mỏi trong công việc và tăng năng suất -  tiết kiệm thời gian.",
+     "Là các thiết bị có khả năng cơ động cao.",
+     "Là các thiết bị có khả năng vệ sinh cao."
+    ],
+    "answer": 0
+   },
+   {
+    "id": "cm-canh-quan-moi-truong-vscc-2026-86",
+    "no": 86,
+    "text": "Theo Sổ tay dành cho nhân viên vệ sinh do SWH ban hành ngày 25/08/2022 chất thải đặc biệt là gì?",
+    "options": [
+     "Các vật liệu có thể phân hủy sinh học và có nguồn gốc từ thực vật hoặc động vật.",
+     "Các vật liệu có thể được tái chế, chẳng hạn như nhựa, thủy tinh, nhôm, giấy.",
+     "Các vật liệu độc hại, gây hại cho môi trường hoặc các loại được thu gom bởi các công ty chuyên ngành.",
+     "Các vật liệu không phải chất hữu cơ, không thể tái chế và không thể được coi là \"Chất thải đặc biệt\"."
+    ],
+    "answer": 2
+   },
+   {
+    "id": "cm-canh-quan-moi-truong-vscc-2026-87",
+    "no": 87,
+    "text": "Theo Sổ tay dành cho nhân viên vệ sinh do SWH ban hành ngày 25/08/2022 đâu là một trong những tiêu chuẩn áp dụng cho thùng chứa rác?",
+    "options": [
+     "Đảm bảo bỏ rác đúng nơi quy định, gần các tòa nhà để tiện đi lại.",
+     "Được làm từ nhựa nhiệt dẻo (HDPE) hoặc vật liệu cứng, có thể rửa được.",
+     "Không tạo điều kiện cho sự xuất hiện của các động vật gây hại.",
+     "Có hệ thống thiết bị chữa cháy."
+    ],
+    "answer": 1
+   },
+   {
+    "id": "cm-canh-quan-moi-truong-vscc-2026-88",
+    "no": 88,
+    "text": "Theo Sổ tay dành cho nhân viên vệ sinh do SWH ban hành ngày 25/08/2022 khi xử lý rác thủy tinh cần bịt kín khi thùng chứa đầy khoảng bao nhiêu?",
+    "options": [
+     "Bịt kín thùng chứa khi đầy 2/4.",
+     "Bịt kín thùng chứa khi đầy 3/4.",
+     "Bịt kín thùng chứa khi đầy 1/4.",
+     "Bịt kín khi thùng chứa đã đầy hẳn và không thể bỏ thêm rác thải vào nữa."
+    ],
+    "answer": 1
+   },
+   {
+    "id": "cm-canh-quan-moi-truong-vscc-2026-89",
+    "no": 89,
+    "text": "Theo Sổ tay dành cho nhân viên vệ sinh do SWH ban hành ngày 25/08/2022 khi vệ sinh các điểm tiếp xúc, lau bề mặt bằng giẻ lau sạch màu gì?",
+    "options": [
+     "Màu vàng.",
+     "Màu xanh lá.",
+     "Màu xanh dương.",
+     "Màu đỏ"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "cm-canh-quan-moi-truong-vscc-2026-90",
+    "no": 90,
+    "text": "Theo Sổ tay dành cho nhân viên vệ sinh do SWH ban hành ngày 25/08/2022 vệ sinh và khử trùng thường được thực hiện theo mấy quy trình?",
+    "options": [
+     "2 quy trình riêng biệt",
+     "3 quy trình riêng biệt",
+     "4 quy trình riêng biệt",
+     "5 quy trình riêng biệt"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "cm-canh-quan-moi-truong-vscc-2026-91",
+    "no": 91,
+    "text": "Khi lau tường, vách ngăn, gương trong nhà vệ sinh thì dùng khăn màu gì?",
+    "options": [
+     "Màu đỏ",
+     "Màu vàng",
+     "Màu xanh lá",
+     "Màu xanh dương"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "cm-canh-quan-moi-truong-vscc-2026-92",
+    "no": 92,
+    "text": "Theo Sổ tay dành cho nhân viên vệ sinh do SWH ban hành ngày 25/08/2022 5 loại dụng cụ bắt buộc phải hóa mã màu là những loại nào?",
+    "options": [
+     "Xô lau, đầu cây lau, gạt nước, khăn lau, đồ hốt rác và chổi quét.",
+     "Khăn lau, gang tay, xô vệ sinh, xô lau, đầu cây lau.",
+     "Khăn lau, gang tay, gạt nước, xô vệ sinh, xô lau.",
+     "Xô lau, đầu cây lau, khăn lau, đồ hốt rác và chổi quét, xô vệ sinh."
+    ],
+    "answer": 3
+   },
+   {
+    "id": "cm-canh-quan-moi-truong-vscc-2026-93",
+    "no": 93,
+    "text": "Mối nguy hại hóa học được quy định trong Sổ tay dành cho nhân viên vệ sinh do SWH ban hành ngày 25/08/2022 bao gồm?",
+    "options": [
+     "Axit, thuốc trừ sâu, carbon monoxide, chất lỏng dễ cháy, khói hàn, bụi silica và sợi thủy tinh.",
+     "Các thiết bị đang sử dụng quá nặng để bưng bê hoặc di chuyển, tiếng ồn khi vận hành.",
+     "Liên cầu, tụ cầu, vi khuẩn.",
+     "Vi khuẩn, axit, thuốc trừ sâu."
+    ],
+    "answer": 0
+   },
+   {
+    "id": "cm-canh-quan-moi-truong-vscc-2026-94",
+    "no": 94,
+    "text": "Theo Sổ tay dành cho nhân viên vệ sinh định nghĩa như thế nào là an toàn?",
+    "options": [
+     "Cẩn thận là an toàn.",
+     "Chăm chỉ là an toàn.",
+     "Sạch sẽ là an toàn.",
+     "Chất lượng là an toàn."
+    ],
+    "answer": 0
+   },
+   {
+    "id": "cm-canh-quan-moi-truong-vscc-2026-95",
+    "no": 95,
+    "text": "Khu vực kinh doanh được quy định trong sổ tay dành cho nhân viên vệ sinh do SWH ban hành ngày 25/08/2022 là những khu vực nào?",
+    "options": [
+     "Điểm tham quan, khu vực ăn uống, nhà kho, văn phòng.",
+     "Nhà bếp, quầy phục vụ trực tiếp, nhà kho, xưởng.",
+     "Lối đi, sân vườn, hành lang, nhà bếp, khu rác thải.",
+     "Điểm tham quan, khu vực ăn uống, lối đi, sân vườn, nhà vệ sinh, thang máy, hành lang."
+    ],
+    "answer": 3
+   },
+   {
+    "id": "cm-canh-quan-moi-truong-vscc-2026-96",
+    "no": 96,
+    "text": "Theo Sổ tay dành cho nhân viên vệ sinh do SWH ban hành ngày 25/08/2022 Tần suất vệ sinh các khu tập kết rác ngoài trời là bao lâu?",
+    "options": [
+     "Hàng ngày",
+     "Hàng Tuần",
+     "Hàng tháng",
+     "Hàng Qúy (Theo Mùa)"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "cm-canh-quan-moi-truong-vscc-2026-97",
+    "no": 97,
+    "text": "Các tác nhân Nấm men, nấm mốc, ký sinh trùng thuộc mối nguy hại nào?",
+    "options": [
+     "Vật lý.",
+     "Hóa học.",
+     "Sinh học/vi sinh.",
+     "Hóa lý."
+    ],
+    "answer": 2
+   },
+   {
+    "id": "cm-canh-quan-moi-truong-vscc-2026-98",
+    "no": 98,
+    "text": "Theo Sổ tay dành cho nhân viên vệ sinh do SWH ban hành ngày 25/08/2022 công cụ thủ công bao gồm những loại gì?",
+    "options": [
+     "Bàn chải, chổi, khăn lau, máy quét điện, máy chà sàn.",
+     "Bàn chải, chổi, khăn lau, thùng rác, cây lau và xe đẩy, bọt biển.",
+     "Máy quét điện, máy hút bụi, máy đánh bóng, máy chà sàn, máy hóa hơi, máy rửa áp lực.",
+     "Máy hút bụi, máy chà sàn, máy rửa áp lực, chổi, cây lau và xe đẩy."
+    ],
+    "answer": 1
+   },
+   {
+    "id": "cm-canh-quan-moi-truong-vscc-2026-99",
+    "no": 99,
+    "text": "Cây lau và xe đẩy thuộc loại thiết bị nào?",
+    "options": [
+     "Thiết bị thủ công.",
+     "Máy móc thiết bị điện.",
+     "Thiết bị bảo hộ.",
+     "Thiết bị công nghiệp."
+    ],
+    "answer": 0
+   },
+   {
+    "id": "cm-canh-quan-moi-truong-vscc-2026-100",
+    "no": 100,
+    "text": "Một trong những phương pháp mà nhân viên vệ sinh cần làm để kiểm soát sự xâm nhập của động vật gây hại ở mức tối thiểu là gì?",
+    "options": [
+     "Mở tất cả các lỗ hổng.",
+     "Luôn dọn dẹp mọi thứ rơi vãi xung quanh thùng chứa rác ngay lập tức.",
+     "Các cửa phải được mở để tạo sự thông thoáng.",
+     "Đảm bảo bỏ rác đúng nơi quy định, gần các tòa nhà để tiện đi lại."
+    ],
+    "answer": 1
+   },
+   {
+    "id": "cm-canh-quan-moi-truong-vscc-2026-101",
+    "no": 101,
+    "text": "Theo Sổ tay dành cho nhân viên vệ sinh do SWH ban hành ngày 25/08/2022 các vật cứng hoặc sắc nhọn có thể gây thương tích như vết cắt, vết thương thuộc mối nguy hại nào?",
+    "options": [
+     "Mối nguy sinh học.",
+     "Mối nguy hóa học.",
+     "Mối nguy vật lý.",
+     "Mối nguy hóa lý."
+    ],
+    "answer": 2
+   },
+   {
+    "id": "cm-canh-quan-moi-truong-vscc-2026-102",
+    "no": 102,
+    "text": "Khi vệ sinh khu vực văn phòng, cửa sổ thì nên dùng khăn lau màu gì?",
+    "options": [
+     "Màu xanh dương",
+     "Màu xanh lá",
+     "Màu vàng",
+     "Màu đỏ"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "cm-canh-quan-moi-truong-vscc-2026-103",
+    "no": 103,
+    "text": "Theo Sổ tay dành cho nhân viên vệ sinh do SWH ban hành ngày 25/08/2022 Mỡ nhà bếp, dầu, hóa chất, nguy cơ sinh học thuộc nhóm chất thải nào?",
+    "options": [
+     "Chất thải hữu cơ.",
+     "Chất thải có thể tái chế.",
+     "Chất thải đặc biệt.",
+     "Chất thải thông thường."
+    ],
+    "answer": 2
+   },
+   {
+    "id": "cm-canh-quan-moi-truong-vscc-2026-104",
+    "no": 104,
+    "text": "Khi xe thu gom không đạt khối lượng quy định cần làm gì?",
+    "options": [
+     "Ghi lại và bỏ qua",
+     "Tự ý xác nhận vận chuyển",
+     "Giải trình, xin ý kiến quản lý trực tiếp để xác nhận vận chuyển",
+     "Báo bảo trì xử lý"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "cm-canh-quan-moi-truong-vscc-2026-105",
+    "no": 105,
+    "text": "Sau khi thu gom rác tại các kho, nhân viên phải làm gì tiếp theo?",
+    "options": [
+     "Rửa xe thu gom",
+     "Dọn dẹp, vệ sinh sạch sẽ thùng rác, khu vực tập kết, sắp xếp thùng gọn gàng",
+     "Rời khỏi khu vực ngay",
+     "Kiểm tra dụng cụ"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "cm-canh-quan-moi-truong-vscc-2026-106",
+    "no": 106,
+    "text": "Khi vận chuyển rác, nhân viên cần chú ý điều gì để đảm bảo vệ sinh môi trường?",
+    "options": [
+     "Tránh để rơi rác thải trong quá trình vận chuyển",
+     "Rút ngắn thời gian vận chuyển",
+     "Không cần dọn sau khi xong",
+     "Giữ khoảng cách với xe khác"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "cm-canh-quan-moi-truong-vscc-2026-107",
+    "no": 107,
+    "text": "Khi làm việc trong kho rác, nhân viên phải mang đầy đủ gì để đảm bảo an toàn?",
+    "options": [
+     "Nón bảo hộ và khẩu trang",
+     "Găng tay, ủng và quần áo bảo hộ",
+     "Áo phản quang",
+     "Kính bảo hộ"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "cm-canh-quan-moi-truong-vscc-2026-108",
+    "no": 108,
+    "text": "Pin, ắc quy thải thuộc loại chất thải nào và được lưu trữ ra sao?",
+    "options": [
+     "Rác sinh hoạt, thùng kín",
+     "Rác tái chế, bao nilon",
+     "Rác phế liệu, thùng thường",
+     "Chất thải nguy hại dạng rắn, thùng chứa riêng biệt"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "cm-canh-quan-moi-truong-vscc-2026-109",
+    "no": 109,
+    "text": "Bao bì đựng hóa chất và giẻ lau dính dầu mỡ phải lưu trữ thế nào?",
+    "options": [
+     "Trong túi nilon có dán nhãn loại chất thải",
+     "Cùng với rác sinh hoạt",
+     "Trong thùng rác chung",
+     "Trong thùng kim loại"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "cm-canh-quan-moi-truong-vscc-2026-110",
+    "no": 110,
+    "text": "Khi có sự cố bất thường như mất mát, hư hỏng thiết bị, nhân viên cần làm gì?",
+    "options": [
+     "Tự sửa chữa",
+     "Báo cáo ngay cho cấp trên",
+     "Báo đồng nghiệp",
+     "Ghi vào sổ theo dõi cuối ca"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "cm-canh-quan-moi-truong-vscc-2026-111",
+    "no": 111,
+    "text": "Mục đích của việc chụp ảnh và xác nhận trong quá trình thu gom rác là gì?",
+    "options": [
+     "Để kiểm tra điện thoại nhân viên",
+     "Để chia sẻ hình ảnh công việc",
+     "Để lưu lại thông tin, diễn biến trong quá trình thực hiện",
+     "Để báo cáo cho truyền thông"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "cm-canh-quan-moi-truong-vscc-2026-112",
+    "no": 112,
+    "text": "Sau khi hoàn thành công việc, khu vực tập kết rác phải đảm bảo thế nào?",
+    "options": [
+     "Còn lại ít nhất 1 thùng rác",
+     "Sạch sẽ, gọn gàng, không còn rác rơi vãi",
+     "Có rác phế liệu để hôm sau xử lý",
+     "Không cần vệ sinh"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "cm-canh-quan-moi-truong-vscc-2026-113",
+    "no": 113,
+    "text": "Các loại rác nguy hại cần phải được làm gì trước khi vận chuyển?",
+    "options": [
+     "Đổ chung với rác sinh hoạt",
+     "Bỏ trong bao tải lớn",
+     "Chôn tại chỗ",
+     "Dán nhãn phân loại và báo cáo cấp trên"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "cm-canh-quan-moi-truong-vscc-2026-114",
+    "no": 114,
+    "text": "Dầu diesel, dầu thải thuộc loại chất thải nào?",
+    "options": [
+     "Rác sinh hoạt",
+     "Rác phế liệu",
+     "Chất thải nguy hại dạng lỏng",
+     "Rác tái chế"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "cm-canh-quan-moi-truong-vscc-2026-115",
+    "no": 115,
+    "text": "Bóng đèn huỳnh quang, compact hư hỏng được lưu trữ thế nào?",
+    "options": [
+     "Trong thùng chứa riêng biệt",
+     "Cùng thùng với lon sơn",
+     "Trong bao nilon",
+     "Đặt chung với pin thải"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "cm-canh-quan-moi-truong-vscc-2026-116",
+    "no": 116,
+    "text": "Việc dán nhãn tên cho các thùng chứa chất thải có ý nghĩa gì?",
+    "options": [
+     "Làm đẹp thùng rác",
+     "Phân biệt, thuận lợi cho công tác thu gom và xử lý",
+     "Giúp tiết kiệm chi phí",
+     "Để tránh bị phạt"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "cm-canh-quan-moi-truong-vscc-2026-117",
+    "no": 117,
+    "text": "Loại rác nào phải vận chuyển hằng ngày?",
+    "options": [
+     "Rác sinh hoạt",
+     "Rác phế liệu",
+     "Rác nguy hại",
+     "Rác tái chế"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "cm-canh-quan-moi-truong-vscc-2026-118",
+    "no": 118,
+    "text": "Mục tiêu chung của việc phân loại và quản lý rác thải là gì?",
+    "options": [
+     "Giảm chi phí nhân sự",
+     "Tiết kiệm vật tư",
+     "Thu gom đúng loại, đúng quy định và bảo vệ môi trường",
+     "Tăng tốc độ xe chở rác"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "cm-canh-quan-moi-truong-vscc-2026-119",
+    "no": 119,
+    "text": "Bộ phận vệ sinh cần đảm bảo điều gì khi thực hiện công việc?",
+    "options": [
+     "Tiết kiệm tối đa chi phí",
+     "Giảm nhân sự",
+     "Hoàn thành nhanh nhất",
+     "An toàn và vệ sinh lao động"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "cm-canh-quan-moi-truong-vscc-2026-120",
+    "no": 120,
+    "text": "Khi phát hiện chênh lệch khối lượng rác, bộ phận cần làm gì?",
+    "options": [
+     "Bỏ qua",
+     "Phải giải trình nguyên nhân, chụp ảnh, báo cáo quản lý trực tiếp để xác nhận và đảm bảo minh bạch trong vận chuyển.",
+     "Tự điều chỉnh",
+     "Chờ chỉ đạo"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "cm-canh-quan-moi-truong-vscc-2026-121",
+    "no": 121,
+    "text": "Tại sao cần định mức tiêu hao vật tư?",
+    "options": [
+     "Để kiểm soát chi phí, tránh lãng phí và giúp lập ngân sách sát thực tế hoạt động.",
+     "Để quản lý nhân sự",
+     "Để tiết kiệm hóa chất",
+     "Để ghi nhận doanh thu"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "cm-canh-quan-moi-truong-vscc-2026-122",
+    "no": 122,
+    "text": "Tại sao cần tham mưu về tiêu chuẩn nghề, thiết bị, hóa chất?",
+    "options": [
+     "Để tiết kiệm chi phí",
+     "Nhằm đảm bảo chất lượng vệ sinh, an toàn cho nhân viên và hình ảnh chuyên nghiệp cho khu du lịch.",
+     "Để đạt doanh thu",
+     "Để thay thế nhanh"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "cm-canh-quan-moi-truong-vscc-2026-123",
+    "no": 123,
+    "text": "Khi gặp vật sắc nhọn (kim tiêm, mảnh kính vỡ), nhân viên nên thực hiện như nào sau đây?",
+    "options": [
+     "Nhặt bằng tay không",
+     "Dùng kẹp gắp chuyên dụng và găng tay bảo hộ",
+     "Dùng chân đá vào thùng rác",
+     "Bỏ qua"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "cm-canh-quan-moi-truong-vscc-2026-124",
+    "no": 124,
+    "text": "Phân loại rác giúp ích gì cho công viên?",
+    "options": [
+     "Giảm chi phí, tăng hiệu quả xử lý",
+     "Tốn thời gian",
+     "Không có lợi",
+     "Chỉ để làm màu"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "cm-canh-quan-moi-truong-vscc-2026-125",
+    "no": 125,
+    "text": "Nước rửa sàn khu công cộng nên chọn loại có tính chất nào sau đây?",
+    "options": [
+     "Có mùi thơm nhẹ, an toàn môi trường",
+     "Tẩy và ăn mòn cực mạnh",
+     "Dầu nhớt",
+     "Không cần rửa"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "cm-canh-quan-moi-truong-vscc-2026-126",
+    "no": 126,
+    "text": "Thu gom rác nhựa xử lý như nào là đúng trong các phương án sau?",
+    "options": [
+     "Gom riêng, chuyển cho đơn vị tái chế",
+     "Đổ chung với rác hữu cơ",
+     "Đốt",
+     "Chôn"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "cm-canh-quan-moi-truong-vscc-2026-127",
+    "no": 127,
+    "text": "Khi mưa lớn không có gió mạnh hay sấm sét, công việc nào sau đây của tổ vệ sinh cần ưu tiên?",
+    "options": [
+     "Dừng làm đi về kho tập trung",
+     "Dọn lá, rác chắn cống, rãnh thoát nước, tránh tắc gây ngập úng",
+     "Về nhà",
+     "Không làm gì cả"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "cm-canh-quan-moi-truong-vscc-2026-128",
+    "no": 128,
+    "text": "Vì sao cần khử khuẩn khu vực vệ sinh công cộng hằng ngày?",
+    "options": [
+     "Tránh mùi hôi và lây nhiễm bệnh",
+     "Trang trí",
+     "Cho đẹp mắt",
+     "Tiết kiệm nước"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "cm-canh-quan-moi-truong-vscc-2026-129",
+    "no": 129,
+    "text": "Khi gặp sự cố hóa chất đổ ra sàn thì chúng ta cần làm gì?",
+    "options": [
+     "Dùng giẻ lau ngay",
+     "Cách ly khu vực, đeo bảo hộ, dùng vật liệu thấm hút",
+     "Phun nước xối",
+     "Tiếp tục làm"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "cm-canh-quan-moi-truong-vscc-2026-130",
+    "no": 130,
+    "text": "Mục tiêu chính của công tác vệ sinh công cộng trong công viên là gì?",
+    "options": [
+     "Tăng năng suất lao động",
+     "Đảm bảo môi trường sạch, an toàn, thẩm mỹ cho khách tham quan",
+     "Tạo chỗ nghỉ ngơi cho nhân viên",
+     "Giảm chi phí vận hành"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "cm-canh-quan-moi-truong-vscc-2026-131",
+    "no": 131,
+    "text": "Biểu tượng “đang vệ sinh” được đặt trước cửa khu vực nhằm mục đích nào sau đây?",
+    "options": [
+     "Trang trí",
+     "Cảnh báo với khách hàng",
+     "Để trưng dụng",
+     "Quảng cáo"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "cm-canh-quan-moi-truong-vscc-2026-132",
+    "no": 132,
+    "text": "Khi vệ sinh sàn khu quảng trường bằng gạch granite, thì phương pháp dùng nào sau đây là đúng?",
+    "options": [
+     "Dùng hóa chất có tính tẩy mạnh",
+     "Dùng dung dịch trung tính và máy chà sàn nhẹ",
+     "Dùng nước muối và chổi sắt cọ mạnh",
+     "Dùng hóa chất có tính tẩy mạnh và chổi sắt cọ mạnh"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "cm-canh-quan-moi-truong-vscc-2026-133",
+    "no": 133,
+    "text": "Nếu hóa chất tẩy rửa không có nhãn mác, nên thực hiện như nào?",
+    "options": [
+     "Vẫn dùng",
+     "Báo cấp quản lý và ngừng sử dụng",
+     "Pha đại",
+     "Bỏ vào thùng rác"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "cm-canh-quan-moi-truong-vscc-2026-134",
+    "no": 134,
+    "text": "Không được để hóa chất dưới ánh nắng trực tiếp hoặc trong bất kỳ điều kiện nào trên bao nhiêu độ?",
+    "options": [
+     "40 độ",
+     "45 độ",
+     "50 độ",
+     "55 độ"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "cm-canh-quan-moi-truong-vscc-2026-135",
+    "no": 135,
+    "text": "Thiết bị bảo vệ da bao gồm những gì?",
+    "options": [
+     "Kính bảo hộ.",
+     "Gang tay, Bộ đồ hóa học, tạp dề hóa chất.",
+     "Bộ đồ hóa học, tạp dề.",
+     "Gang tay, màng chống giọt bắn."
+    ],
+    "answer": 1
+   },
+   {
+    "id": "cm-canh-quan-moi-truong-vscc-2026-136",
+    "no": 136,
+    "text": "Thiết bị sơ cứu để đối phó với các tình huống được nêu trong Bảng dữ liệu an toàn hóa chất phải có sẵn trong vòng bao nhiêu phút đi bộ từ khu vực làm việc?",
+    "options": [
+     "3 phút.",
+     "4 phút.",
+     "5 phút.",
+     "6 phút."
+    ],
+    "answer": 2
+   },
+   {
+    "id": "cm-canh-quan-moi-truong-vscc-2026-137",
+    "no": 137,
+    "text": "Bảng dữ liệu an toàn hóa chất phải đặt ở đâu?",
+    "options": [
+     "Luôn đặt sẵn ở bất kì vị trí nào nơi hóa chất được trữ và sử dụng.",
+     "Đặt ở kệ lưu trữ.",
+     "Đặt khu vực lối vào.",
+     "Bên trong tủ chống cháy."
+    ],
+    "answer": 0
+   },
+   {
+    "id": "cm-canh-quan-moi-truong-vscc-2026-138",
+    "no": 138,
+    "text": "Đâu là một trong số những quy định đối với phương tiện lưu trữ hóa chất?",
+    "options": [
+     "Thiết bị bảo hộ cá nhân phải luôn được sử dụng theo đúng hướng dẫn của nhà cung cấp.",
+     "Hóa chất không bao giờ được trữ trong chai nước, hộp đựng thực phẩm hoặc những đồ chứa khác có thể khiến mọi người nhầm lẫn về thành phần hóa chất bên trong.",
+     "Tránh tiếp xúc hóa chất trực tiếp với da.",
+     "Khi mang hóa chất đến các điểm trực, một số hóa chất có thể được đựng vào chai nước để thuận tiện hơn."
+    ],
+    "answer": 1
+   },
+   {
+    "id": "cm-canh-quan-moi-truong-vscc-2026-139",
+    "no": 139,
+    "text": "Bàng dữ liệu an toàn vật liệu của hóa chất cần chứa những thông tin gì?",
+    "options": [
+     "Tính chất hóa học của mỗi loại hóa chất; Các biện pháp bảo vệ và phòng ngừa an toàn khi xử lý, trữ và vận chuyển hóa chất.",
+     "Tính vật lý , các mối nguy hại đến sức khỏe và môi trường; Các biện pháp bảo vệ và phòng ngừa an toàn khi xử lý, trữ và vận chuyển hóa chất.",
+     "Tính chất hóa học của mỗi loại hóa chất; Tính vật lý , các mối nguy hại đến sức khỏe và môi trường; Các biện pháp bảo vệ và phòng ngừa an toàn khi xử lý, trữ và vận chuyển hóa chất.",
+     "Tính chất hóa học của mỗi loại hóa chất; Tính vật lý , các mối nguy hại đến sức khỏe và môi trường."
+    ],
+    "answer": 2
+   },
+   {
+    "id": "cm-canh-quan-moi-truong-vscc-2026-140",
+    "no": 140,
+    "text": "Theo Quy định quản lý chất thải nguy hại tại Khối SHE, pin và ắc quy chì thải thuộc nhóm chất thải nào?",
+    "options": [
+     "Chất thải có tính độc",
+     "Chất thải có tính ăn mòn",
+     "Chất thải có thành phần dễ cháy nổ",
+     "Chất thải có tính lây nhiễm"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "cm-canh-quan-moi-truong-vscc-2026-141",
+    "no": 141,
+    "text": "Bao bì đựng hóa chất tẩy rửa mạnh đã sử dụng được xếp vào nhóm chất thải nguy hại nào?",
+    "options": [
+     "Chất thải có tính lây nhiễm",
+     "Chất thải có kim loại nặng",
+     "Chất thải có tính độc",
+     "Chất thải có tính ăn mòn"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "cm-canh-quan-moi-truong-vscc-2026-142",
+    "no": 142,
+    "text": "Khi nhặt được kim tiêm, băng gạc trong khu vực công cộng, nhân viên xác định đây là chất thải nguy hại thuộc nhóm nào?",
+    "options": [
+     "Chất thải có tính lây nhiễm",
+     "Chất thải có tính độc",
+     "Chất thải thuốc và hóa chất độc hại",
+     "Chất thải có tính ăn mòn"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "cm-canh-quan-moi-truong-vscc-2026-143",
+    "no": 143,
+    "text": "Kim loại hoặc nhựa thải lẫn dầu mỡ thải (trừ dầu mỡ thực phẩm) được quản lý như thế nào?",
+    "options": [
+     "Được quản lý là chất thải rắn sinh hoạt",
+     "Được quản lý là chất thải công nghiệp thông thường",
+     "Được quản lý là hỗn hợp chất thải nguy hại",
+     "Được quản lý là chất thải tái chế"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "cm-canh-quan-moi-truong-vscc-2026-144",
+    "no": 144,
+    "text": "Tấm lợp amiăng xi măng đã qua sử dụng được xác định như thế nào?",
+    "options": [
+     "Luôn là CTNH vì trong thành phần có amiăng",
+     "Không phải CTNH, trừ khi có lẫn hoặc chứa thành phần nguy hại khác vượt ngưỡng CTNH",
+     "Là chất thải tái chế, được bán cho đơn vị thu mua phế liệu",
+     "Là chất thải rắn sinh hoạt, thu gom cùng rác thông thường"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "cm-canh-quan-moi-truong-vscc-2026-145",
+    "no": 145,
+    "text": "Chất thải chỉ được gọi là “dầu thải” hoặc “hóa chất thải” khi nào?",
+    "options": [
+     "Khi chất thải có mùi dầu hoặc mùi hóa chất rõ rệt",
+     "Khi thành phần dầu hoặc hóa chất chiếm từ 70% trở lên trong chất thải",
+     "Khi thành phần dầu hoặc hóa chất chiếm từ 50% trở lên trong chất thải",
+     "Khi thành phần dầu hoặc hóa chất chiếm từ 30% trở lên trong chất thải"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "cm-canh-quan-moi-truong-vscc-2026-146",
+    "no": 146,
+    "text": "Chủ nguồn thải phải phân loại chất thải nguy hại bắt đầu từ thời điểm nào?",
+    "options": [
+     "Từ khi đơn vị vận chuyển đến tiếp nhận chất thải",
+     "Vào cuối mỗi tháng, khi tổng hợp số liệu báo cáo",
+     "Từ khi đưa vào khu vực lưu giữ CTNH của cơ sở hoặc khi chuyển giao cho đơn vị xử lý",
+     "Từ khi cân và ghi khối lượng vào sổ theo dõi"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "cm-canh-quan-moi-truong-vscc-2026-147",
+    "no": 147,
+    "text": "Nhân viên phát hiện một loại chất thải mới phát sinh, chưa có trong danh mục CTNH của cơ sở. Việc nên làm là gì?",
+    "options": [
+     "Tự dán nhãn theo loại chất thải gần giống nhất",
+     "Báo bộ phận được phân công quản lý CTNH để xác định, phân loại và cập nhật danh mục",
+     "Bỏ vào rác sinh hoạt vì chưa có mã CTNH tương ứng",
+     "Tạm thời bỏ chung vào thùng CTNH đang có sẵn trong kho"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "cm-canh-quan-moi-truong-vscc-2026-148",
+    "no": 148,
+    "text": "Vì sao không được để chung các loại CTNH không tương thích với nhau?",
+    "options": [
+     "Vì làm giảm dung tích sử dụng của kho lưu giữ",
+     "Vì khó ghi chép khối lượng của từng loại chất thải",
+     "Vì đơn vị xử lý sẽ tính thêm phí phân loại lại",
+     "Vì có thể xảy ra phản ứng hóa học gây mất an toàn hoặc ô nhiễm môi trường"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "cm-canh-quan-moi-truong-vscc-2026-149",
+    "no": 149,
+    "text": "Khi thu gom CTNH từ khu vực phát sinh về khu vực lưu giữ, nhân viên phải bảo đảm yêu cầu nào?",
+    "options": [
+     "Thu gom riêng, không để rò rỉ, phát tán hoặc trộn lẫn với loại chất thải khác",
+     "Chỉ cần che phủ bằng bạt trong suốt quá trình di chuyển",
+     "Gom chung các loại để giảm số lượt vận chuyển trong ngày",
+     "Vận chuyển ngay bằng xe thu gom rác sinh hoạt cho nhanh"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "cm-canh-quan-moi-truong-vscc-2026-150",
+    "no": 150,
+    "text": "Chất thải nguy hại được lưu giữ tại cơ sở tối đa bao lâu kể từ thời điểm phát sinh?",
+    "options": [
+     "Không quá 06 tháng",
+     "Không quá 01 năm",
+     "Không quá 02 năm",
+     "Không quá 03 tháng"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "cm-canh-quan-moi-truong-vscc-2026-151",
+    "no": 151,
+    "text": "Trường hợp phải lưu giữ CTNH quá thời hạn quy định do chưa tìm được đơn vị xử lý phù hợp, cơ sở phải làm gì?",
+    "options": [
+     "Báo cáo định kỳ hằng năm về việc lưu giữ với cơ quan chuyên môn về bảo vệ môi trường cấp tỉnh",
+     "Chuyển sang lưu giữ chung với chất thải rắn sinh hoạt",
+     "Tự tiêu hủy phần chất thải tồn để giải phóng kho",
+     "Chỉ cần ghi vào sổ theo dõi nội bộ của bộ phận"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "cm-canh-quan-moi-truong-vscc-2026-152",
+    "no": 152,
+    "text": "Yêu cầu đối với bao bì lưu chứa chất thải nguy hại là gì?",
+    "options": [
+     "Bao bì mềm phải buộc kín, bao bì cứng phải có nắp đậy kín",
+     "Bao bì mềm để hở miệng cho thoát hơi, bao bì cứng đậy kín",
+     "Cả hai loại đều để hở để tránh tích tụ áp suất bên trong",
+     "Bao bì mềm buộc kín, bao bì cứng không cần nắp đậy"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "cm-canh-quan-moi-truong-vscc-2026-153",
+    "no": 153,
+    "text": "Đối với chất thải lỏng, bùn thải dạng nhão hoặc CTNH dễ bay hơi, mức chứa tối đa trong thiết bị lưu chứa là bao nhiêu?",
+    "options": [
+     "Không vượt quá 75% dung tích thiết bị",
+     "Không vượt quá 95% dung tích thiết bị",
+     "Chứa đầy đến mép trên của thiết bị",
+     "Không vượt quá 90% dung tích thiết bị"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "cm-canh-quan-moi-truong-vscc-2026-154",
+    "no": 154,
+    "text": "Khoảng cách an toàn tối thiểu từ mặt chất thải đến mép trên của thiết bị lưu chứa CTNH là bao nhiêu?",
+    "options": [
+     "15 cm",
+     "20 cm",
+     "05 cm",
+     "10 cm"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "cm-canh-quan-moi-truong-vscc-2026-155",
+    "no": 155,
+    "text": "Bảng hiệu bắt buộc gắn tại khu vực lưu giữ chất thải nguy hại có nội dung là gì?",
+    "options": [
+     "KHO CHẤT THẢI NGUY HẠI",
+     "KHU TẬP KẾT RÁC THẢI",
+     "KHU VỰC HẠN CHẾ RA VÀO",
+     "KHO HÓA CHẤT – CẤM LỬA"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "cm-canh-quan-moi-truong-vscc-2026-156",
+    "no": 156,
+    "text": "Dấu hiệu cảnh báo hình xương sọ và hai khúc xương bắt chéo cảnh báo loại chất thải nào?",
+    "options": [
+     "Chất thải lây nhiễm trùng",
+     "Chất thải có tính ăn mòn",
+     "Chất thải dễ cháy",
+     "Chất thải có chứa chất độc hại"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "cm-canh-quan-moi-truong-vscc-2026-157",
+    "no": 157,
+    "text": "Dấu hiệu cảnh báo hình ba vòng khuẩn lạc cảnh báo loại chất thải nào?",
+    "options": [
+     "Chất thải có tính ăn mòn",
+     "Chất thải chứa chất gây bệnh hoặc nguồn vi trùng gây bệnh",
+     "Chất thải chứa thành phần độc hại cho hệ sinh thái",
+     "Chất thải có chất oxy hóa"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "cm-canh-quan-moi-truong-vscc-2026-158",
+    "no": 158,
+    "text": "Dấu hiệu cảnh báo hình bàn tay trần bị chất lỏng từ ống nghiệm rơi xuống cảnh báo điều gì?",
+    "options": [
+     "Chất thải có chất oxy hóa",
+     "Chất thải gây độc cấp tính",
+     "Chất thải có tính ăn mòn",
+     "Chất thải dễ cháy"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "cm-canh-quan-moi-truong-vscc-2026-159",
+    "no": 159,
+    "text": "Khu vực lưu giữ chất thải nguy hại có bắt buộc phải là một kho riêng biệt không?",
+    "options": [
+     "Bắt buộc phải là kho riêng biệt, có tường bao và khóa",
+     "Chỉ bắt buộc khi khối lượng CTNH vượt 1.000 kg/năm",
+     "Không bắt buộc, nhưng phải được bố trí, thiết kế và quản lý đáp ứng yêu cầu kỹ thuật",
+     "Do tổ trưởng bộ phận quyết định theo thực tế mặt bằng"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "cm-canh-quan-moi-truong-vscc-2026-160",
+    "no": 160,
+    "text": "Thiết bị lưu chứa CTNH được phép đặt ngoài trời, không cần mái che kín trong trường hợp nào?",
+    "options": [
+     "Khi chất thải ở dạng rắn, không có nguy cơ chảy tràn",
+     "Khi thiết bị lưu chứa có dung tích lớn hơn 02 m³",
+     "Khi thiết bị đã có nắp đậy kín và khóa chốt",
+     "Khi thời tiết khô ráo, không có mưa trong ngày"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "cm-canh-quan-moi-truong-vscc-2026-161",
+    "no": 161,
+    "text": "Khu vực lưu giữ CTNH phải có biện pháp gì đối với nước mưa?",
+    "options": [
+     "Ngăn nước mưa từ bên ngoài chảy tràn vào khu vực lưu giữ",
+     "Để hở một phần mái cho nước mưa làm mát kho",
+     "Dẫn nước mưa vào khu vực để rửa sàn kho định kỳ",
+     "Xả nước rửa sàn kho ra hệ thống thoát nước mưa"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "cm-canh-quan-moi-truong-vscc-2026-162",
+    "no": 162,
+    "text": "Vị trí khu vực lưu giữ CTNH nên được bố trí ở đâu?",
+    "options": [
+     "Tại vị trí thấp nhất của mặt bằng để dễ thoát nước",
+     "Xa nguồn nước, cống rãnh, khu vực công cộng và khu vực có nguy cơ ngập lụt",
+     "Gần nhà vệ sinh công cộng để thuận tiện lấy nước",
+     "Gần cổng ra vào chính để xe vận chuyển dễ tiếp cận"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "cm-canh-quan-moi-truong-vscc-2026-163",
+    "no": 163,
+    "text": "Ngoài biển báo, tại kho CTNH còn phải bố trí nội dung gì để nhân sự sử dụng khi có sự cố?",
+    "options": [
+     "Danh sách số điện thoại của các nhà cung cấp",
+     "Bảng kê khối lượng rác thu gom hằng ngày",
+     "Bảng hướng dẫn hoặc sơ đồ xử lý sự cố chất thải nguy hại",
+     "Bảng phân công ca trực của bộ phận vệ sinh"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "cm-canh-quan-moi-truong-vscc-2026-164",
+    "no": 164,
+    "text": "Theo Danh mục kiểm tra BM-SHE/QĐVH3901, kho CTNH phải được bố trí như thế nào?",
+    "options": [
+     "Đặt sát cửa ra vào để thuận tiện bốc xếp",
+     "Gọn gàng, có lối đi, không che khuất lối thoát hiểm",
+     "Xếp càng cao càng tốt để tiết kiệm mặt sàn",
+     "Xếp kín tối đa diện tích sàn để tiết kiệm không gian"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "cm-canh-quan-moi-truong-vscc-2026-165",
+    "no": 165,
+    "text": "Việc tiếp cận khu vực lưu giữ CTNH được quy định như thế nào?",
+    "options": [
+     "Mở tự do để các bộ phận chủ động đổ chất thải",
+     "Cho phép khách tham quan vào khi có nhân viên đi kèm",
+     "Chỉ đóng cửa vào ban đêm, ban ngày mở thông thoáng",
+     "Phải được kiểm soát, không để người không phận sự tiếp cận"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "cm-canh-quan-moi-truong-vscc-2026-166",
+    "no": 166,
+    "text": "Theo mô tả công việc, mục tiêu chính của vị trí Giám sát vệ sinh tại khu vực công cộng là gì?",
+    "options": [
+     "Quản lý doanh thu dịch vụ thuê mặt bằng",
+     "Đảm bảo cảnh quan, vệ sinh và chất lượng môi trường công cộng đáp ứng tiêu chuẩn vận hành",
+     "Quản lý hoạt động bán hàng của các đối tác",
+     "Thực hiện công tác tuyển dụng lao động"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "cm-canh-quan-moi-truong-vscc-2026-167",
+    "no": 167,
+    "text": "Trong cơ cấu quản lý, đối tượng mà Giám sát vệ sinh cần trực tiếp theo dõi, kiểm tra và điều phối hàng ngày là?",
+    "options": [
+     "Nhà thầu và nhân sự thực hiện công tác vệ sinh",
+     "Bộ phận bán vé",
+     "Cửa hàng kinh doanh",
+     "Bộ phận tài chính"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "cm-canh-quan-moi-truong-vscc-2026-168",
+    "no": 168,
+    "text": "Một trong những nhiệm vụ thường xuyên của Giám sát vệ sinh là?",
+    "options": [
+     "Quản lý doanh thu bán lẻ",
+     "Giám sát việc thực hiện tiêu chuẩn vệ sinh tại các khu vực được phân công",
+     "Kiểm tra hợp đồng kinh doanh",
+     "Phê duyệt kế hoạch đầu tư"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "cm-canh-quan-moi-truong-vscc-2026-169",
+    "no": 169,
+    "text": "Vì sao Giám sát vệ sinh phải thực hiện kiểm tra hiện trường theo kế hoạch và đột xuất trong suốt ca làm việc?",
+    "options": [
+     "Để giảm số lượng lao động nhà thầu",
+     "Để đảm bảo các tiêu chuẩn vệ sinh được duy trì liên tục và phát hiện kịp thời các điểm không phù hợp",
+     "Để tăng thời gian làm việc của nhân viên",
+     "Để phục vụ công tác chấm công"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "cm-canh-quan-moi-truong-vscc-2026-170",
+    "no": 170,
+    "text": "Việc điều phối nhân sự vệ sinh giữa các khu vực trong cùng thời điểm nhằm đạt mục đích nào?",
+    "options": [
+     "Giảm nhu cầu trang bị dụng cụ",
+     "Đáp ứng khối lượng công việc thực tế và duy trì chất lượng dịch vụ",
+     "Giảm diện tích vệ sinh theo kế hoạch",
+     "Tăng thời gian nghỉ của nhân viên"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "cm-canh-quan-moi-truong-vscc-2026-171",
+    "no": 171,
+    "text": "Trong dịp lễ hội, lượng khách tăng cao đột biến làm phát sinh nhiều điểm tập kết rác ngoài dự kiến. Hành động phù hợp nhất?",
+    "options": [
+     "Chờ nhà thầu tự cân đối nhân lực",
+     "Giảm tần suất kiểm tra chất lượng",
+     "Điều phối bổ sung nhân lực, ưu tiên xử lý các khu vực đông khách và giám sát kết quả thực hiện",
+     "Tạm ngừng thu gom tại các khu vực xa trung tâm"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "cm-canh-quan-moi-truong-vscc-2026-172",
+    "no": 172,
+    "text": "Một nội dung cần kiểm tra hằng ngày đối với nhà thầu vệ sinh là?",
+    "options": [
+     "Giá trị doanh thu tháng",
+     "Số lượng nhân sự thực tế so với định biên và hợp đồng",
+     "Tỷ lệ nghỉ phép năm",
+     "Sản lượng bán hàng"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "cm-canh-quan-moi-truong-vscc-2026-173",
+    "no": 173,
+    "text": "Nhà thầu vệ sinh có trách nhiệm thực hiện công việc theo?",
+    "options": [
+     "Kinh nghiệm cá nhân của nhân viên",
+     "Phạm vi công việc và tiêu chuẩn chất lượng đã quy định",
+     "Đề xuất của khách bất kỳ",
+     "Ý kiến của từng tổ trưởng"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "cm-canh-quan-moi-truong-vscc-2026-174",
+    "no": 174,
+    "text": "Mục đích của việc đánh giá nhà thầu định kỳ là gì?",
+    "options": [
+     "Theo dõi doanh thu của nhà thầu",
+     "Đánh giá mức độ đáp ứng yêu cầu dịch vụ theo hợp đồng",
+     "Lập kế hoạch tuyển dụng nhân viên mới",
+     "Xác định nhu cầu mua sắm tài sản"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "cm-canh-quan-moi-truong-vscc-2026-175",
+    "no": 175,
+    "text": "Khi phát hiện nhà thầu thường xuyên không đạt yêu cầu về chất lượng vệ sinh, Giám sát vệ sinh cần?",
+    "options": [
+     "Bỏ qua nếu chưa có phản ánh của khách",
+     "Đánh giá nguyên nhân, yêu cầu khắc phục và theo dõi kết quả thực hiện",
+     "Cắt toàn bộ khối lượng công việc",
+     "Tăng KPI cho phù hợp thực tế"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "cm-canh-quan-moi-truong-vscc-2026-176",
+    "no": 176,
+    "text": "Việc kiểm tra quân số nhà thầu vào đầu ca làm việc giúp?",
+    "options": [
+     "Kiểm soát doanh thu dịch vụ",
+     "Đảm bảo nguồn lực đáp ứng yêu cầu vận hành trong ngày",
+     "Quản lý tài sản cố định",
+     "Giảm nhu cầu đào tạo"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "cm-canh-quan-moi-truong-vscc-2026-177",
+    "no": 177,
+    "text": "Nhà thầu liên tục thiếu nhân sự trong một tuần khiến nhiều khu vực không được vệ sinh đúng tần suất. Cần làm gì?",
+    "options": [
+     "Chờ kỳ đánh giá tháng",
+     "Tự thực hiện toàn bộ công việc thay nhà thầu",
+     "Lập biên bản, yêu cầu bổ sung nhân sự và theo dõi biện pháp khắc phục",
+     "Cắt giảm diện tích vệ sinh"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "cm-canh-quan-moi-truong-vscc-2026-178",
+    "no": 178,
+    "text": "Tại sao cần kết hợp kiểm tra định kỳ và kiểm tra đột xuất?",
+    "options": [
+     "Để kéo dài thời gian giám sát",
+     "Để đánh giá khách quan tình trạng thực tế của dịch vụ",
+     "Để giảm thời gian làm việc nhà thầu",
+     "Để tăng khối lượng hồ sơ"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "cm-canh-quan-moi-truong-vscc-2026-179",
+    "no": 179,
+    "text": "Việc theo dõi khắc phục sau kiểm tra có ý nghĩa gì?",
+    "options": [
+     "Hoàn thiện hồ sơ lưu trữ",
+     "Đảm bảo lỗi được xử lý triệt để và không tái diễn",
+     "Giảm khối lượng công việc giám sát",
+     "Tăng số lượng nhân viên"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "cm-canh-quan-moi-truong-vscc-2026-180",
+    "no": 180,
+    "text": "Khu vực vệ sinh công cộng liên tục bị đánh giá thấp. Hành động phù hợp nhất?",
+    "options": [
+     "Giảm tần suất kiểm tra",
+     "Chỉ ghi nhận trong báo cáo",
+     "Phân tích nguyên nhân gốc, yêu cầu biện pháp cải tiến và giám sát việc thực hiện",
+     "Chuyển trách nhiệm cho bộ phận khác"
+    ],
+    "answer": 2
+   }
+  ],
+  "group": "Cảnh quan và VSCC"
+ },
+ {
+  "id": "anbm",
+  "name": "ANBM",
+  "questions": [
+   {
+    "id": "anbm-1",
+    "no": 1,
+    "text": "QĐ CS ANBMTT được đưa ra nhằm đảm bảo các mục đích gì?",
+    "options": [
+     "Đảm bảo tính bí mật, tính minh bạch, tính sẵn sàng",
+     "Đảm bảo tính bảo mật, tính minh bạch, tính sẵn sàng",
+     "Đảm bảo tính bí mật, tính toàn vẹn, tính sẵn sàng",
+     "Đảm bảo tính bảo mật, tính minh bạch, tính linh hoạt"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "anbm-2",
+    "no": 2,
+    "text": "Theo QĐ CS ANBMTT, công tác đào tạo nâng cao nhận thức ANTT phải được thực hiện định kỳ tối thiểu?",
+    "options": [
+     "1 lần/năm",
+     "Theo kế hoạch đề xuất đầu năm",
+     "Không yêu cầu",
+     "2 lần/năm"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "anbm-3",
+    "no": 3,
+    "text": "Theo QĐ CS ANBMTT, CBNV cần làm gì ngay sau khi được tuyển dụng?",
+    "options": [
+     "Chụp email thư mời làm việc và chia sẻ lên internet",
+     "CBNV ký cam kết bảo mật thông tin (NDA)",
+     "CBNV gửi tất cả các thông tin cá nhân cho các bên không liên quan",
+     "CBNV chia sẻ các thông tin về hợp đồng lao động ra bên ngoài"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "anbm-4",
+    "no": 4,
+    "text": "Theo QĐ CS ANBMTT, trong trường hợp thông tin được phân loại “Mật” hoặc “Tuyệt mật” thì CBNV cần làm những gì?",
+    "options": [
+     "Chủ động không để lộ thông tin dưới bất kỳ hình thức nào.Không chia sẻ, trao đổi khi chưa được phép/phê duyệt và dùng máy hủy tài liệu bản cứng khi không còn sử dụng",
+     "Chia sẻ cho các CBNV/bộ phận không liên quan",
+     "Gửi vào email cá nhân để sử dụng về sau",
+     "In ra bản cứng và mang về nhà để đọc"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "anbm-5",
+    "no": 5,
+    "text": "Theo QĐ CS ANBMTT, trước khi thanh lý hoặc chuyển quyền sở hữu tài sản CNTT cho đối tác bên ngoài, thông tin phải được xử lý như thế nào?",
+    "options": [
+     "Xóa, tiêu hủy hoàn toàn, đảm bảo không thể phục hồi",
+     "Chỉ thực hiện xóa, tiêu hủy với thông tin Mật, Tuyệt mật",
+     "Chỉ thực hiện xóa, tiêu hủy với thông tin Nội bộ, Mật, Tuyệt mật",
+     "Không quy định"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "anbm-6",
+    "no": 6,
+    "text": "Theo QĐ CS ANBMTT, trường hợp chuyển quyền sở hữu tài sản CNTT trong nội bộ, thông tin phải được xử lý như thế nào?",
+    "options": [
+     "Không quy định",
+     "Xóa, tiêu hủy hoàn toàn, đảm bảo không thể phục hồi",
+     "Thông tin Nội bộ, Mật, Tuyệt mật phải được xóa đảm bảo không thể khôi phục",
+     "Thông tin Mật, Tuyệt mật phải được xóa đảm bảo không thể khôi phục"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "anbm-7",
+    "no": 7,
+    "text": "Theo QĐ CS ANBMTT, CBNV có được phép tự ý truy cập, tải về và cài đặt các phần mềm lên máy tính hay không?",
+    "options": [
+     "Không được phép",
+     "Được phép tự ý cài đặt nếu phần mềm nằm trong danh sách đã phê duyệt",
+     "Không quy định",
+     "Được phép"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "anbm-8",
+    "no": 8,
+    "text": "Theo QĐ CS ANBMTT, khi phát hiện dấu hiệu bất thường trên máy tính hoặc nghi ngờ bị tấn công, CBNV cần:",
+    "options": [
+     "Báo ngay cho Quản lý trực tiếp",
+     "Báo ngay cho bộ phận Hành chính",
+     "Báo ngay cho bộ phận Nhân sự",
+     "Báo ngay cho bộ phận IT"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "anbm-9",
+    "no": 9,
+    "text": "Theo QĐ CS ANBMTT, CBNV có được phép lưu trữ dữ liệu cá nhân lên máy chủ chia sẻ file của Tập đoàn?",
+    "options": [
+     "Được phép lưu trữ nhưng giới hạn dung lượng file",
+     "Không quy định",
+     "Được phép",
+     "Không được phép"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "anbm-10",
+    "no": 10,
+    "text": "Theo QĐ CS ANBMTT, CBNV có được phép kết nối máy tính vào mạng bên ngoài như wifi công cộng, mạng di động 3G/4G/5G.",
+    "options": [
+     "Được phép",
+     "Chỉ được phép kết nối vào mạng di động 3G/4G/5G",
+     "Không được phép",
+     "Không quy định"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "anbm-11",
+    "no": 11,
+    "text": "Theo QĐ CS ANBMTT, CBNV có được phép thực hiện Archiving email trên máy tính hay không?",
+    "options": [
+     "Được phép",
+     "Không quy định",
+     "Được phép Archiving email trong vòng 1 tháng",
+     "Không được phép"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "anbm-12",
+    "no": 12,
+    "text": "Theo QĐ CS ANBMTT, CBNV có được phép thực hiện cấu hình tự động gửi/chuyển tiếp (auto-forward) các email nội bộ Sun Group ra các email bên ngoài hệ thống của Tập đoàn (gmail, yahoo...).",
+    "options": [
+     "Được phép",
+     "Được phép thực hiện nhưng chỉ forward về email của chính mình",
+     "Không được phép",
+     "Không quy định"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "anbm-13",
+    "no": 13,
+    "text": "Theo QĐ CS ANBMTT, trong trường hợp nào thì CBNV được phép forward thư trao đổi của các CBLĐ từ cấp TGĐ trở lên cho cấp dưới và các bộ phận khác?",
+    "options": [
+     "Không có quy định cụ thể",
+     "Nội dung thuộc nhóm thông tin Công khai",
+     "Nội dung có bút phê đồng ý của LĐ",
+     "Nội dung phê duyệt để người nhận có thể tiếp tục triển khai công việc"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "anbm-14",
+    "no": 14,
+    "text": "Theo QĐ CS ANBMTT, cán bộ nhân viên Sun Group đang làm việc từ xa tại đia điểm công cộng (quán cafe, sân bay…) cần gửi gấp một tài liệu “Nội bộ” cho đồng nghiệp. Hành động nào sau đây là đúng quy định ANBM?",
+    "options": [
+     "Chụp màn hình gửi qua Messenger",
+     "Gửi qua Zalo cá nhân để nhanh hơn",
+     "Tải lên Google Drive cá nhân rồi chia sẻ link",
+     "Gửi qua email công ty sử dụng kết nối VPN an toàn"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "anbm-15",
+    "no": 15,
+    "text": "Theo QĐ CS ANBMTT, khi cán bộ nhân viên cần sử dụng thiết bị lưu trữ ngoài (USB, ổ cứng di động, thẻ nhớ…) để phục vụ công việc, họ phải làm gì?",
+    "options": [
+     "Báo cho đồng nghiệp để ghi nhận",
+     "Tự sử dụng nếu dữ liệu không mật",
+     "Chỉ cần đăng ký với bộ phận IT",
+     "Phải được CBLĐ có thẩm quyền phê duyệt, thời hạn tối đa 6 tháng"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "anbm-16",
+    "no": 16,
+    "text": "Theo QĐ CS ANBMTT, việc trao đổi thông tin “Nội bộ”, “Mật” hoặc “Tuyệt mật” của Tập đoàn tại nơi công cộng (như quán cà phê, sân bay...) được quy định như thế nào?",
+    "options": [
+     "Không được phép trao đổi tại địa điểm công cộng",
+     "Chỉ được phép khi sử dụng kênh truyền thông an toàn và được phê duyệt",
+     "Được phép nếu không có người ngoài nghe thấy",
+     "Được phép nếu thông tin không liên quan dự án"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "anbm-17",
+    "no": 17,
+    "text": "Theo QĐ CS ANBMTT, việc sử dụng máy tính cá nhân phục vụ công việc được quy định như thế nào?",
+    "options": [
+     "Được phép nếu được quản lý trực tiếp đồng ý bằng email",
+     "Được phép đối với nhân viên làm việc từ xa",
+     "Không sử dụng; trường hợp ngoại lệ phải được phê duyệt và kiểm tra tuân thủ quy định ANBM",
+     "Được phép nếu máy có phần mềm chống virus"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "anbm-18",
+    "no": 18,
+    "text": "Quy định chính sách ANBMTT áp dụng cho những đối tượng nào?",
+    "options": [
+     "Tất cả cán bộ nhân viên của Tập Đoàn Sun Group, bao gồm nhân viên toàn thời gian, bán thời gian và nhân viên tạm thời đang làm việc tại Tập đoàn và đơn vị thành viên Sun Group (ĐVTVSG), các cá nhân, đơn vị bên thứ ba tham gia vào các nghiệp vụ phát triển, vận hành, quản lý và sử dụng tài sản Công nghệ Thông tin (CNTT) của Sun Group",
+     "Tất cả cán bộ nhân viên của Tập Đoàn Sun Group, bao gồm nhân viên toàn thời gian, bán thời gian và nhân viên tạm thời đang làm việc tại Tập đoàn và đơn vị thành viên Sun Group (ĐVTVSG). Các cá nhân, đơn vị bên thứ ba tham gia vào các nghiệp vụ phát triển, vận hành, quản lý và sử dụng tài sản Công nghệ Thông tin (CNTT) của Sun Group không cần thiết phải tuân thủ quy định này",
+     "Tất cả cán bộ nhân viên của Tập Đoàn Sun Group, bao gồm nhân viên toàn thời gian, bán thời gian và nhân viên tạm thời đang làm việc tại Tập đoàn và đơn vị thành viên Sun Group (ĐVTVSG).",
+     "Tất cả cán bộ nhân viên của Tập Đoàn Sun Group (không bao gồm nhân viên bán thời gian và nhân viên tạm thời đang làm việc tại Tập đoàn), các cá nhân, đơn vị bên thứ ba tham gia vào các nghiệp vụ phát triển, vận hành, quản lý và sử dụng tài sản Công nghệ Thông tin (CNTT) của Sun Group"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "anbm-19",
+    "no": 19,
+    "text": "Đâu là chính sách ANBM dành cho nhân sự?",
+    "options": [
+     "CBNV phải ký cam kết bảo mật thông tin (NDA) ngay sau 2 tháng thử việc",
+     "CBNV phải ký kết điều khoản về cam kết bảo mật thông tin với Sungroup trong và sau khi làm việc tại Sungroup. Quyền truy cập vào các tài sản CNTT phải được vô hiệu hóa ngay lập tức đối với nhân viên nghỉ việc",
+     "Quyền truy cập vào các tài sản CNTT phải được vô hiệu hóa ngay lập tức đối với nhân viên nghỉ việc",
+     "CBNV phải ký kết điều khoản về cam kết bảo mật thông tin với Sungroup trong và sau khi làm việc tại Sungroup"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "anbm-20",
+    "no": 20,
+    "text": "Anh/Chị cần cẩn trọng và cảnh giác khi nhận được những yêu cầu nào sau đây?",
+    "options": [
+     "Yêu cầu đổi mật khẩu đã sắp hết hạn từ hệ thống gửi đến với địa chỉ đổi mật khẩu là https://matkhau.sungroup.com.vn",
+     "Yêu cầu gửi báo cáo công việc được giao qua email công ty cho CBLĐ",
+     "Yêu cầu thanh toán tiền gấp vào tài khoản mới từ đối tác hoặc yêu cầu mở tập tin đính kèm trong email từ những địa chỉ lạ",
+     "Tất cả đáp án trên"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "anbm-21",
+    "no": 21,
+    "text": "Đơn vị làm gì khi chuyển quyền sở hữu máy tính từ một CBNV đã nghỉ việc sang cho CBNV mới tuyển dụng?",
+    "options": [
+     "Vì CBNV mới tuyển dụng nhằm thay thế cho CBNV cũ đã nghỉ việc nên chuyển giao toàn bộ máy tính và dữ liệu trên máy tính của nhân viên cũ cho nhân viên mới cho thuận tiện",
+     "Yêu cầu CBNV tại đơn vị thực hiện lệnh xóa dữ liệu \"Delete\" trên máy tính của CBNV cũ trước khi bàn giao sang CBNV mới tuyển dụng",
+     "Yêu cầu và giám sát bộ phận CNTT tại đơn vị xóa đảm bảo không thể khôi phục đối với các dữ liệu thuộc nhóm \"mật\" và \"tuyệt mật\" trên máy tính trước khi chuyển",
+     "Yêu cầu CBNV mới tuyển dụng ký cam kết bảo mật thông tin sau đó mới chuyển giao máy tính của CBNV cũ và dữ liệu trên máy tính cho CBNV mới"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "anbm-22",
+    "no": 22,
+    "text": "Một đồng nghiệp tải phần mềm không có bản quyền từ trên mạng và chia sẻ với anh/chị để cài đặt. Anh/Chị nên làm gì ?",
+    "options": [
+     "Cài đặt phần mềm và sử dụng vì nhu cầu công việc đang cần gấp",
+     "Cố gắng cài thử, nếu chương trình Antivirus phát hiện thì không dùng thôi !",
+     "Từ chối và yêu cầu đồng nghiệp liên hệ với bộ phận CNTT để được hỗ trợ nhu cầu cài đặt phần mềm.",
+     "Tất cả phương án trên"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "anbm-23",
+    "no": 23,
+    "text": "Chính sách nào sau đây là chính sách quản lý truy cập hệ thống mạng nội bộ của tập đoàn",
+    "options": [
+     "Để đảm bảo công việc, Ban CNTT đảm bảo toàn bộ các CBNV/CBLĐ của tập đoàn đều khó thể truy cập từ xa vào hệ thống mạng nội bộ của Sungroup",
+     "Việc thiết lập các truy cập từ xa vào hệ thống mạng nội bộ của Sun Group dựa trên nhu cầu công việc và phải được phê duyệt của lãnh đạo Đơn vị và LĐTĐ",
+     "Khi có nhu cầu truy cập từ xa vào hệ thống mạng nội bộ của Sun Group, CBNV/CBLĐ gửi yêu cầu trực tiếp tới BCNTT Tập Đoàn yêu cầu hỗ trợ phân quyền truy cập đảm bảo kịp thời nhu cầu công việc",
+     "Để đảm bảo tốc độ truy cập hệ thống nội bộ Sungroup, toàn bộ các hệ thống của Sungroup cần phải đưa ra internet từ đó không có phân biệt mạng nội bộ tập đoàn và mạng ngoài tập đoàn."
+    ],
+    "answer": 1
+   },
+   {
+    "id": "anbm-24",
+    "no": 24,
+    "text": "Anh/Chị nhận được điện thoại của người xưng là Thanh tra Tập đoàn, yêu cầu cung cấp ngay mật khẩu đăng nhập máy tính phục vụ thanh tra. Anh/Chị sẽ làm gì trong trường hợp này?",
+    "options": [
+     "Ngay lập tức cung cấp mật khẩu để tránh bị phiền hà.",
+     "Cẩn thận xem lại có CBNV Tập đoàn có ai tên như vậy không, nếu đúng thì cung cấp ngay để tránh phiền hà",
+     "Không chia sẻ mật khẩu qua điện thoại và thực hiện chia sẻ qua email",
+     "Không chia sẻ thông tin mật khẩu"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "anbm-25",
+    "no": 25,
+    "text": "Sử dụng máy tính cá nhân để làm việc được quy định như thế nào?",
+    "options": [
+     "Không sử dụng máy tính, thiết bị cá nhân phục vụ công việc.",
+     "Trường hợp ngoại lệ phải được Cán bộ Lãnh đạo có thẩm quyền phê duyệt",
+     "Máy tính cá nhân phải được cấu hình tuân thủ tất cả Quy định, tiêu chuẩn an ninh bảo mật của Sun Group và phải được Bộ phận CNTT kiểm tra trước khi kết nối vào mạng nội bộ",
+     "Tất cả các đáp án trên"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "anbm-26",
+    "no": 26,
+    "text": "Thời gian hiệu lực tối đa cho các yêu cầu ngoại lệ (truy cập mạng xã hội, lưu trữ trực tuyến, chat...) là?",
+    "options": [
+     "90 ngày",
+     "180 ngày",
+     "365 ngày",
+     "Không giới hạn thời gian"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "anbm-27",
+    "no": 27,
+    "text": "Chính sách an ninh bảo mật thông tin quy định quy định việc sử dụng email như thế nào ?",
+    "options": [
+     "Nghiêm cấm sử dụng tài khoản email khác ngoài hệ thống email của Sungroup (như Yahoo, Hotmail, Gmail ...) để trao đổi thông tin trong quá trình xử lý công việc",
+     "Nghiêm cấm sử dụng tài khoản email khác ngoài hệ thống email của Sungroup (như Yahoo, Hotmail, Gmail ..) cho mục đích cá nhân",
+     "Cho phép sử dụng tài khoản email khác ngoài hệ thống email của Sungroup (như Yahoo, Hotmail, Gmail ...) để trao đổi thông tin trong quá trình xử lý công việc",
+     "Không cấm sử dụng Yahoo, Gmail"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "anbm-28",
+    "no": 28,
+    "text": "Trang https://matkhau.sungroup.com.vn là trang web dùng để làm gì ?",
+    "options": [
+     "Cổng thông tin quản lý tài khoản Sun Group",
+     "Website quản lý mật khẩu người dùng cuối",
+     "Website bảo mật mật khẩu người dùng cuối",
+     "Cổng thông tin Sun Group"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "anbm-29",
+    "no": 29,
+    "text": "Theo chính sách ANBM của Sun Group, CBNV không được phép sử dụng địa chỉ email của Sun Group trong trường hợp nào?",
+    "options": [
+     "Đăng ký thành viên trên các diễn đàn công cộng, mạng xã hội, hoặc bất kỳ thao tác nào tiềm ẩn nguy cơ lộ địa chỉ email của Sun Group",
+     "Gửi email cho đối tác bên ngoài",
+     "Đăng ký email Gmail, Yahoo",
+     "Gửi email chứa đường link"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "anbm-30",
+    "no": 30,
+    "text": "Trách nhiệm đảm bảo an ninh thông tin là của ai?",
+    "options": [
+     "Ban Công nghệ Thông tin",
+     "CBLD cao cấp",
+     "Bộ phận An ninh bảo mật",
+     "Tất cả Cán bộ nhân viên"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "anbm-31",
+    "no": 31,
+    "text": "Hành động nào sau đây được coi là tuân thủ quy định chính sách ANBM?",
+    "options": [
+     "Chia sẻ dữ liệu của Tập đoàn ra bên ngoài mà chưa được cấp phép phê duyệt",
+     "Tự cài đặt phần mềm không bản quyền có chứa virus",
+     "Không truy cập các website không liên quan nội dung công việc",
+     "Chia sẻ mật khẩu đăng nhập vào máy tính, ứng dụng cho người khác biết"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "anbm-32",
+    "no": 32,
+    "text": "Tài liệu nào sau đây được coi là thông tin công khai có thể chia sẻ ra bên ngoài Tập đoàn?",
+    "options": [
+     "Quy định nội bộ chung",
+     "Thông cáo báo chí, tài liệu tiếp thị và các báo cáo tài chính đã công bố",
+     "Mật khẩu",
+     "Lương, thưởng, kỷ luật lao động"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "anbm-33",
+    "no": 33,
+    "text": "Sử dụng email trong các trường hợp nào sau đây được coi là vi phạm?",
+    "options": [
+     "Không gởi đính kèm các loại tệp thực thi như: .exe, .com, .bat, .sh.js…",
+     "Sử dụng email của Tập đoàn cho mục đích cá nhân và sử dụng email cá nhân để gửi trên danh nghĩa của Sun Group hoặc cấu hình tự động gửi/chuyển tiếp (auto-forward) các email nội bộ Sun Group ra các email bên ngoài hệ thống của Tập đoàn (gmail, yahoo...) hoặc đồng bộ dữ liệu từ hòm thư email công ty với hòm thư bên ngoài Internet",
+     "Không được mở các link, tệp đính kèm từ email lạ hoặc không rõ nguồn gốc.",
+     "Đặt mật khẩu cho file chứa thông tin được phân loại \"mật\" hoặc \"tuyệt mật\" khi gửi qua email"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "anbm-34",
+    "no": 34,
+    "text": "Anh/Chị bấm vào một đường dẫn trong email, trên màn hình hiện lên thông báo, dữ liệu trên máy đã bị mã hóa và yêu cầu trả tiền chuộc để lấy lại dữ liệu. Anh/Chị sẽ làm gì?",
+    "options": [
+     "Không thông báo cho ai, tiếp tục làm việc bình thường vì dữ liệu đã lưu trên máy chủ",
+     "Không thông báo cho ai, trả tiền chuộc theo yêu cầu để khôi phục lại dữ liệu bị mã hóa",
+     "Chuyển tiếp email nhận được cho đồng nghiệp làm việc trong lĩnh vực CNTT ở cơ quan cũ để nhờ trợ giúp",
+     "Dừng sử dụng, ngắt máy tính ra khỏi mạng và thông báo ngay cho bộ phận CNTT/ANBM"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "anbm-35",
+    "no": 35,
+    "text": "Anh/Chị nhận được email truyền thông về An Toàn Thông Tin từ bcntt@sungroup.com.vn. Khi nhận được mail này, Anh/Chị sẽ làm gì",
+    "options": [
+     "Bỏ qua không đọc vì còn bận nhiều công việc khác",
+     "Đợi CBLĐ có chỉ đạo rồi mới thực hiện.",
+     "Đọc kỹ và nghiêm túc thực hiện theo các hướng dẫn trong email",
+     "Đọc qua cho biết, chắc mấy việc đó không xảy ra với mình"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "anbm-36",
+    "no": 36,
+    "text": "Để tăng tính sẵn sàng của dữ liệu quan trọng, Anh/Chị cần thực hiện những hành động nào sau đây?",
+    "options": [
+     "Lưu dữ liệu quan trọng định kỳ lên Data Room được quy hoạch của TĐ & ĐVTVSG",
+     "Xóa các dữ liệu ít quan trọng hơn để còn nhiều dung lượng cho các dữ liệu quan trọng",
+     "Lưu các dữ liệu quan trọng ra USB cá nhân",
+     "Lưu các dữ liệu quan trọng ra các dịch vụ lưu trữ online các nhân trên Internet như GoogleDrive, DropBox..."
+    ],
+    "answer": 0
+   },
+   {
+    "id": "anbm-37",
+    "no": 37,
+    "text": "Theo QĐ CS ANBMTT, CBNV có được phép sử dụng email Sun Group/Các CTTV để đăng ký truy cập vào các diễn đàn trang mạng, tổ chức ngoài trên mạng Internet không?",
+    "options": [
+     "Không qui định",
+     "Được phép",
+     "Không được phép",
+     "Được phép cho các ứng dụng phổ thông như google, Facebook"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "anbm-38",
+    "no": 38,
+    "text": "Anh/Chị nhận được email dưới tên của Tổ chức Y tế thế giới WHO yêu cầu mở tập tin đính kèm để xem cách phòng tránh dịch bệnh Covid. Anh/Chị xử lý như thế nào?",
+    "options": [
+     "Mở tài liệu đính kèm ra xem thông tin.",
+     "Không mở tập tin đính kèm và chuyển tiếp dưới dạng đính kèm (Forward as attachment) cho CNTT/ANBM để kiểm tra.",
+     "Chuyển tiếp (Forward) email này tới nhiều đồng nghiệp được biết thông tin.",
+     "Chuyển tiếp (Forward) email tới tài khoản cá nhân để mở ra xem sau giờ làm việc"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "anbm-39",
+    "no": 39,
+    "text": "Anh/Chị nhận được điện thoại xưng là nhân viên ngân hàng, đọc đúng thông tin cá nhân của Anh/Chị và yêu cầu cung cấp thông tin mật khẩu Ngân hàng trực tuyến để hỗ trợ tra soát giao dich. Anh/Chị sẽ xử lý như thế nào?",
+    "options": [
+     "Không cung cấp mật khẩu",
+     "Cung cấp mật khẩu vì các thông tin nhân viên đó cung cấp đều chính xác",
+     "Cung cấp mật khẩu sau khi xác nhận được tên và chi nhánh làm việc của nhân viên đó",
+     "Cung cấp mật khẩu qua điện thoại, mật khẩu sẽ được cung cấp an toàn cho nhân viên đó qua email"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "anbm-40",
+    "no": 40,
+    "text": "Để gửi tài liệu chứa thông tin mật/tuyệt mật qua email, Anh/Chị dùng phương án nào?",
+    "options": [
+     "Gửi tập tin qua email cho đồng nghiệp, và cc cho CBLĐ hai bên biết để kiểm soát công việc.",
+     "Đặt mật khẩu cho tập tin, rồi gửi tập tin và mật khẩu qua mail cho đồng nghiệp",
+     "Không gửi qua email vì đây là tài liệu chứa thông tin mật/tuyệt mật",
+     "Đặt mật khẩu cho tập tin, rồi gửi qua email cho đồng nghiệp. Mật khẩu mở tập tin sẽ được gửi qua kênh khác như tin nhắn, điện thoại,..."
+    ],
+    "answer": 3
+   },
+   {
+    "id": "anbm-41",
+    "no": 41,
+    "text": "Anh/Chị dự họp với đối tác tiềm năng do CBLĐ giới thiệu. Sau buổi họp, đối tác đề nghị gửi tài liệu nội bộ luôn để có thể hỗ trợ ngày cho dự án. Anh/Chị giải quyết như thế nào?",
+    "options": [
+     "Xin phê duyệt của CBLĐ và yêu cầu đối tác ký cam kết không tiết lộ thông tin (NDA) trước khi gửi tài liệu.",
+     "Gửi luôn vì thấy công việc được triển khai nhanh hơn kế hoạch",
+     "Gửi tài liệu cho đối tác và CC cho CBLĐ kiểm soát công việc",
+     "Tất cả phương án trên"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "anbm-42",
+    "no": 42,
+    "text": "Vai trò và trách nhiệm của mỗi CBNV trong việc đảm bảo an ninh thông tin là gì?",
+    "options": [
+     "Nắm rõ và tuân thủ theo các Quy định, quy trình và hướng dẫn về ANTT, Báo cáo kịp thời cho Bộ phận hỗ trợ người dùng hoặc An ninh Bảo mật ngay khi phát hiện",
+     "Chia sẻ các sự cố thông tin xảy ra tại Sun Group ra ngoài để toàn xã hội cùng biết và phòng tránh",
+     "Đọc quy định hướng dẫn nhưng không làm theo",
+     "Chỉ báo cáo cho quản lý mà không káo cáo kịp thời cho Bộ phận hỗ trợ người dùng hoặc An ninh Bảo mật ngay khi phát hiện"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "anbm-43",
+    "no": 43,
+    "text": "Thông tin được phân loại bao gồm các nhóm nào?",
+    "options": [
+     "Thấp, trung bình, cao, nghiêm trọng",
+     "Công khai, nội bộ, mật, tuyệt mật",
+     "Công khai, không hạn chế, hạn chế, rất hạn chế",
+     "Word, Excel, Powerpoint, PDF"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "anbm-44",
+    "no": 44,
+    "text": "Trường hợp nào sau đây được xem là vi phạm khi sử dụng máy tính?",
+    "options": [
+     "Sử dụng máy tính của tập đoàn và được join của domain Tập đoàn & ĐVTVSG",
+     "Sử dụng máy tính cá nhân để phục vụ công việc mà chưa được phê duyệt ngoại lệ",
+     "Máy tính được cài đặt bản Ghost/ hệ điều hành có bản quyền của Tập đoàn",
+     "Máy tính được cài đặt đầy đủ phần mềm bảo vệ virus của Tập đoàn"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "anbm-45",
+    "no": 45,
+    "text": "Trường hợp mặc định nhóm các website/dịch vụ internet sau đây bị chặn",
+    "options": [
+     "Mạng xã hội, chia sẻ file, lưu trữ trực tuyến, chat, dịch vụ email, media streaming, website độc hại nội dung không lành mạnh",
+     "Trang tìm kiếm google.com",
+     "Trang giao dịch ngân hàng internet banking",
+     "Website tập đoàn và các đơn vị thành viên"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "anbm-46",
+    "no": 46,
+    "text": "Những điều nào sau đây được coi là đúng khi truy cập website/dịch vụ internet?",
+    "options": [
+     "Sử dụng internet cho mục đích cá nhân trong giờ làm việc.",
+     "Truy cập internet trực tiếp từ wifi điện thoại 3G/4G phát ra khi đang kết nội mạng nội bộ Tập đoàn",
+     "Không truy cập các trang web có nội dung xấu, chống phá nhà nước,vi phạm pháp luật và không tải về và cài đặt phần mềm, các tệp độc hại hoặc file, nội dung chiếm băng thông.",
+     "Truy cập các nhóm website mặc định bị chặn mà không phục vụ công việc liên quan được thẩm định và phê duyệt"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "anbm-47",
+    "no": 47,
+    "text": "Sử dụng mạng nội bộ hoặc mạng internet của Tập đoàn & ĐVTVSG như thế nào được coi là vi phạm ?",
+    "options": [
+     "Không xem video giải trí trong giờ làm việc",
+     "Không lưu trữ dữ liệu cá nhân trên máy chủ chia sẻ file của Tập đoàn.",
+     "không sử dụng các công cụ để tấn công, theo dõi, thay đổi luồng thông tin truyền trên mạng nội bộ.",
+     "Cài đặt/kết nối các thiết bị CNTT (wifi, switch, máy tính, điện thoại thông minh...) trái phép trong mạng nội bộ"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "anbm-48",
+    "no": 48,
+    "text": "Khi nhận được các email lạ, không rõ nguồn gốc, CBNV cần làm gì?",
+    "options": [
+     "Forward mail cho CBNV không liên quan khác cùng biết",
+     "Mở xem tệp đính kèm chứa thông tin gì",
+     "Không mở các link, tệp đính kèm và thông báo ngay cho bộ phận ANMB/ CNTT để được hỗ trợ",
+     "Mở link đính kèm và làm theo hướng dẫn trong email"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "anbm-49",
+    "no": 49,
+    "text": "Do yêu cầu công việc, Anh/Chị được cung cấp nhiều tài khoản khác nhau để truy cập các hệ thống ứng dụng nghiệp vụ khác nhau. Anh/Chị không nên làm gì với mật khẩu của các tài khoản này?",
+    "options": [
+     "Viết các mật khẩu này ra giấy hoặc lưu trên tập tin không được mã hóa",
+     "Đặt mật khẩu của các tài khoản này giống nhau hoàn toàn",
+     "Chia sẻ mật khẩu với đồng nghiệp",
+     "Tất cả phương án trên"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "anbm-50",
+    "no": 50,
+    "text": "Anh/Chị nhận được email từ một địa chỉ lạ thông báo Anh/Chị đã trúng thưởng 1 chiếc Iphone và yêu cầu Anh/Chị mở tập tin đính kèm để biết thêm chi tiết. Anh/Chị nên làm gì?",
+    "options": [
+     "Mở tập tin đính kèm ngay lập tức.",
+     "Trả lời lại email để hỏi chi tiết về giải thưởng.",
+     "Không mở tập tin đính kèm và xóa ngay email đó hoặc thông báo tới IT nếu Anh/Chị không chắc chắn phải làm gì",
+     "Chia sẻ thông tin với đồng nghiệp để tham gia cùng"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "anbm-51",
+    "no": 51,
+    "text": "Anh/Chị nên làm gì nếu nghĩ rằng mật khẩu của mình đã bị lộ và bị sử dụng trái phép?",
+    "options": [
+     "Thay đổi mật khẩu ngay lập tức và báo cho bộ phận CNTT/ANBM",
+     "Tiếp tục sử dụng chờ đến khi hệ thống thông báo mới phải đổi.",
+     "Không cần làm gì",
+     "Chia sẻ mật khẩu lộ với đồng nghiệp"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "anbm-52",
+    "no": 52,
+    "text": "Để phục vụ công việc, Anh/Chị cần sử dụng một số phần mềm Tập đoàn chưa mua bản quyền. Anh/Chị sẽ xử lý như thế nào?",
+    "options": [
+     "Tải bộ cài có sẵn trên mạng, dùng key chia sẻ trên cộng đồng mạng (hoặc crack) để cài đặt, gỡ bỏ khi sử dụng xong.",
+     "Tải và chạy chương trình không cần cài đặt (portable), xóa bỏ ngay khi sử dụng xong.",
+     "Không tải, cài đặt các phần mềm không có bản quyền, crack và trình CBLĐ để mua bản quyền cho phần mềm phục vụ công việc và thông báo Bộ phận CNTT để nhận tư vấn, hỗ trợ",
+     "Tải và cài đặt phần mềm dùng thử, hết hạn dùng thử sẽ crack để dùng tiếp"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "anbm-53",
+    "no": 53,
+    "text": "Anh/Chị nghi ngờ có ai đó truy cập trái phép vào máy tính của mình. Anh/Chị nên làm gì trong tình huống này?",
+    "options": [
+     "Tiếp tục theo dõi thêm và sẽ đổi mật khẩu sau",
+     "Bỏ qua vì cho rằng chuyện đó không quan trọng hoặc sẽ được xử lý bởi cán bộ CNTT",
+     "Đổi ngay mật khẩu truy cập máy tính của mình",
+     "Tất cả phương án trên"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "anbm-54",
+    "no": 54,
+    "text": "Anh/Chị cần nhớ mật khẩu cho nhiều tài khoản và phải thay đổi định kỳ, một trong những cách để Anh/Chị quản lý mật khẩu an toàn là gì?",
+    "options": [
+     "Ghi mật khẩu ra giấy dán ở góc màn hình hoặc sổ tay, hay ghi vào file Word lưu trên máy",
+     "Sử dụng mật khẩu gắn với tên tuổi, ngày sinh nhật hoặc chức danh, đáp ứng tiêu chuẩn bảo mật về đặt mật khẩu",
+     "Đặt chung mật khẩu cho tất cả tài khoản",
+     "Dùng chương trình quản lý mật khẩu (ví dụ: keepass) để lưu mật khẩu dưới dạng mã hóa hoặc file được lưu mật khẩu có độ dài phức tạp"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "anbm-55",
+    "no": 55,
+    "text": "Đối tác đến văn phòng làm việc của Sun Group muốn sử dụng internet thì hướng dẫn nào sau đây là đúng",
+    "options": [
+     "Kết nối mạng wifi guest (wifi dành riêng cho khách)",
+     "Kết nốt mạng office",
+     "Sử dụng 3G/4G",
+     "sử dụng mạng Lan"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "anbm-56",
+    "no": 56,
+    "text": "Khi mật khẩu email sắp hết hạn, bạn có thể tự đổi mật khẩu mới tại website nào sau đây:",
+    "options": [
+     "https://matkhau.sungroup.com.vn",
+     "Đổi mật khẩu trên My SGR",
+     "Đổi mật khẩu trên Outlook",
+     "Đổi mật khẩu trên Microsoft"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "anbm-57",
+    "no": 57,
+    "text": "Theo QĐ CS ANBMTT, chủ quản dữ liệu là ai?",
+    "options": [
+     "Người đứng đầu cao nhất của các đơn vị TVSG hoặc lãnh đạo các Khối/Vùng tùy theo từng loại dữ liệu",
+     "CBNV CNTT",
+     "Phòng/ Ban/ Bộ phận CNTT",
+     "CBNV Sun Group sử dụng dữ liệu"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "anbm-58",
+    "no": 58,
+    "text": "Theo QĐ CS ANBMTT, khi lưu trữ, đăng tải, chia sẻ thông tin của Sun Group lên Internet, CBNV cần có sự phê duyệt của",
+    "options": [
+     "Báo ngay cho bộ phận IT",
+     "Cấp quản lý trực tiếp",
+     "Báo ngay cho bộ phận Nhân sự",
+     "Cấp có thẩm quyền"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "anbm-59",
+    "no": 59,
+    "text": "Theo QĐ CS ANBMTT, nhóm email của cả Tập đoàn do đơn vị nào quản lý?",
+    "options": [
+     "Ban CNTT Tập đoàn",
+     "Ban TTVH",
+     "Ban Nhân sự Tập đoàn",
+     "VP BĐH"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "anbm-60",
+    "no": 60,
+    "text": "Theo QĐ CS ANBMTT, khi thông tin thuộc nhiều danh mục phân loại thì tài sản thông tin sẽ được phân loại theo nhóm nào?",
+    "options": [
+     "Cao nhất",
+     "Nội bộ",
+     "Mật",
+     "Tuyệt mật"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "anbm-61",
+    "no": 61,
+    "text": "Theo QĐ CS ANBMTT, công tác đào tạo nâng cao nhận thức ANAT TT cần thực hiện định kỳ tối thiểu bao nhiêu lần/năm?",
+    "options": [
+     "2 lần/năm",
+     "4 lần/năm",
+     "1 lần/năm",
+     "3 lần/năm"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "anbm-62",
+    "no": 62,
+    "text": "Theo QĐ CS ANBMTT, trong trường hợp thông tin không được phân loại thì thông tin này được mặc định phân loại thuộc nhóm nào?",
+    "options": [
+     "Mật",
+     "Tuyệt mật",
+     "Nội bộ",
+     "Công khai"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "anbm-63",
+    "no": 63,
+    "text": "Theo QĐ CS ANBMTT, nội dung trách nhiệm sau đây là của bộ phận nào? - Xây dựng và cập nhật các Quy định, quy trình và hướng dẫn về ANTT. - Định kỳ thực hiện đánh giá tuân thủ với các Quy định, tiêu chuẩn, hướng dẫn và quy định ANTT đã ban hành. Triển khai các chương trình ANTT nhằm đảm bảo tính bí mật, toàn vẹn và sẵn sàng của thông tin trong Tập đoàn",
+    "options": [
+     "Bộ phận nhân sự",
+     "Cán bộ nhân viên SG",
+     "Bộ phận An ninh bảo mật - Ban CNTT",
+     "Chủ quản dữ liệu"
+    ],
+    "answer": 2
+   }
+  ],
+  "group": "Full Nghị quyết và Kiến thức chung"
+ },
+ {
+  "id": "c3-van-hoa-nq126",
+  "name": "C3 - Văn hóa NQ126",
+  "questions": [
+   {
+    "id": "c3-van-hoa-nq126-1",
+    "no": 1,
+    "text": "Trong nội dung Tầm nhìn Sun Group, các lĩnh vực đầu tư chiến lược của Sun Group là gì?",
+    "options": [
+     "Du lịch nghỉ dưỡng, Vui chơi giải trí, Bất động sản, Tài chính Ngân hàng",
+     "Du lịch nghỉ dưỡng, Vui chơi giải trí, Bất động sản, Đầu tư hạ tầng",
+     "Du lịch nghỉ dưỡng, Vui chơi giải trí, Bất động sản, Biểu diễn Nghệ thuật",
+     "Du lịch nghỉ dưỡng, Vui chơi giải trí, Bất động sản, Dịch vụ y tế"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "c3-van-hoa-nq126-2",
+    "no": 2,
+    "text": "Để thể hiện GTCL Chất lượng, các sản phẩm và dịch vụ của Sun Group cần đảm bảo điều gì?",
+    "options": [
+     "Kiến tạo những chuẩn mực về sản phẩm/dịch vụ mới mẻ, cao cấp và vượt trội hơn những chuẩn mực mà thị trường đang có",
+     "Hướng đến sự độc đáo riêng có hoặc hiếm có, khó có thể sao chép được",
+     "Chất lượng hướng đến chuẩn mực quốc tế và bền vững với thời gian",
+     "Sang trọng, có tính thẩm mỹ, ý nghĩa sâu sắc, giá trị kinh tế, giá trị sử dụng vượt trội"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "c3-van-hoa-nq126-3",
+    "no": 3,
+    "text": "Thể hiện GTCL Đẳng cấp, Sun Group tiên phong kiến tạo những chuẩn mực như thế nào về sản phẩm/dịch vụ?",
+    "options": [
+     "Mới mẻ, cao cấp và vượt trội hơn những chuẩn mực mà thị trường đang có",
+     "Gắn với sự phát triển bền vững, gìn giữ môi trường sống ổn định, xanh, sạch và văn minh",
+     "Hướng đến chuẩn mực chung của thị trường",
+     "Độc đáo riêng có hoặc hiếm có, khó có thể sao chép được trong sản phẩm/dịch vụ"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "c3-van-hoa-nq126-4",
+    "no": 4,
+    "text": "Thể hiện GTCL Khác biệt, Sun Group hướng đến yếu tố gì trong trong sản phẩm/dịch vụ?",
+    "options": [
+     "Hướng đến chuẩn mực quốc tế và bền vững với thời gian",
+     "Sự độc đáo riêng có hoặc hiếm có, khó có thể sao chép được",
+     "Mới mẻ, cao cấp và vượt trội hơn những chuẩn mực mà thị trường đang có",
+     "Gắn với sự phát triển bền vững, gìn giữ môi trường sống ổn định, xanh, sạch và văn minh"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "c3-van-hoa-nq126-5",
+    "no": 5,
+    "text": "Với các nhiệm vụ được giao dù có khó khăn, thách thức; mỗi thành viên Sun Group cần thể hiện tinh thần Nhiệt tâm của mình thế nào?",
+    "options": [
+     "Tuân thủ mọi chuẩn mực của Tập đoàn và hoàn thành mọi nhiệm vụ được giao đúng chất lượng và tiến độ cam kết.",
+     "Tin tưởng tuyệt đối, sẵn sàng đấu tranh và hy sinh lợi ích cá nhân để theo đuổi lý tưởng và khát vọng của Tập đoàn.",
+     "Tiên phong đi đầu, dám nhận và chịu trách nhiệm đến cùng nhiệm vụ được giao.",
+     "Sáng tạo, đổi mới, đảm bảo kết quả công việc đạt hiệu quả cao hơn."
+    ],
+    "answer": 2
+   },
+   {
+    "id": "c3-van-hoa-nq126-6",
+    "no": 6,
+    "text": "Phê và tự phê là hoạt động mang bản sắc riêng của Người Sun Group và luôn được triển khai thực chất, chân thành; hoạt động này nhằm đẩy mạnh GTCL nào?",
+    "options": [
+     "Đẳng cấp",
+     "Trung thành và trung thực",
+     "Trình độ chuyên môn cao",
+     "Khác biệt"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "c3-van-hoa-nq126-7",
+    "no": 7,
+    "text": "Triết lý về Người Sun Group đã định nghĩa rõ về tiêu chí HIỀN và TÀI; theo đó tiêu chí HIỀN được mô tả như thế nào?",
+    "options": [
+     "Vượt trội trong năng lực chuyên môn, hướng đến đa năng, có thể làm nhiều việc với hiệu quả cao",
+     "Luôn hành động theo những GTCL của Người Sun Group, tự hào làm gương, chia sẻ niềm tin, lan tỏa giá trị của Sun Group tới đồng nghiệp",
+     "Vừa sống khiêm nhường, trung thực, tự trọng vừa hết lòng hỗ trợ, động viên đồng nghiệp với tinh thần trách nhiệm vì tập thể và vì cộng đồng",
+     "Sống văn minh, cởi mở học hỏi, hoàn thiện bản thân để theo kịp với thời cuộc và sự phát triển của tổ chức, của xã hội"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "c3-van-hoa-nq126-8",
+    "no": 8,
+    "text": "Triết lý về Người Sun Group đã định nghĩa rõ về tiêu chí HIỀN và TÀI; theo đó tiêu chí TÀI được mô tả như thế nào?",
+    "options": [
+     "Luôn hành động theo những GTCL của Người Sun Group, tự hào làm gương, chia sẻ niềm tin, lan tỏa giá trị của Sun Group tới đồng nghiệp và là nguồn cảm hứng cho đồng nghiệp",
+     "Sống khiêm nhường, trung thực, tự trọng vừa hết lòng hỗ trợ, động viên đồng nghiệp với tinh thần trách nhiệm vì tập thể và vì cộng đồng",
+     "Luôn là tấm gương với đồng nghiệp và cấp dưới về năng lực, tinh thần nhiệt huyết, tiên phong, dám dấn thân, dám nghĩ, dám làm, biết làm và dám chịu trách nhiệm",
+     "Chủ động học hỏi, nỗ lực hoàn thiện bản thân và luôn xem sự trưởng thành liên tục của bản thân là yếu tố nền tảng và thước đo cho sự bền vững của tập thể, của Sun Group, của cộng đồng và của đất nước Việt Nam"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "c3-van-hoa-nq126-9",
+    "no": 9,
+    "text": "Theo Triết lý về Người Sun Group, Hiền Tài của Sun Group thể hiện tinh thần làm gương và lan tỏa thông qua điều gì?",
+    "options": [
+     "Vượt trội trong năng lực chuyên môn, hướng đến đa năng, có thể làm nhiều việc với hiệu quả cao",
+     "Luôn hành động theo những GTCL của Người Sun Group, tự hào làm gương, chia sẻ niềm tin, lan tỏa giá trị của Sun Group tới đồng nghiệp và là nguồn cảm hứng cho đồng nghiệp",
+     "Nhiệt huyết, quyết tâm, dấn thân và chịu trách nhiệm đến cùng với công việc mình được giao; đồng thời luôn phối hợp tốt với đồng nghiệp",
+     "Luôn sống lạc quan, tích cực, tràn đầy hi vọng, niềm vui và hạnh phúc"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "c3-van-hoa-nq126-10",
+    "no": 10,
+    "text": "Hoạt động đầu tư và kinh doanh của Sun Group phải luôn đảm bảo được các triết lý nào?",
+    "options": [
+     "Triết lý về sự đẳng cấp; Triết lý về chất lượng; Triết lý về sự khác biệt.",
+     "Triết lý về lòng yêu nước; Triết lý về sự nhân văn; Triết lý \"Đứng trên vai người khổng lồ\".",
+     "Triết lý về sự nhân văn; Triết lý về sự hài hòa; Triết lý \"Đứng trên vai người khổng lồ\".",
+     "Triết lý về lòng yêu nước; Triết lý về sự hài hòa; Triết lý \"Đứng trên vai người khổng lồ\"."
+    ],
+    "answer": 3
+   },
+   {
+    "id": "c3-van-hoa-nq126-11",
+    "no": 11,
+    "text": "Trong triết lý xây dựng và phát triển văn hóa, với yếu tố \"Bản sắc'', Người Sun Group luôn đặt tiêu chí gì lên hàng đầu?",
+    "options": [
+     "Dấn thân",
+     "Học hỏi",
+     "Kỷ luật",
+     "Sáng tạo"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "c3-van-hoa-nq126-12",
+    "no": 12,
+    "text": "\"Người Sun Group không tự mãn với những thành công đã đạt được mà luôn khao khát phá vỡ những kỷ lục của chính mình, luôn đảm bảo chất lượng, đẳng cấp, khác biệt và tính nhân văn trong mọi việc, công trình sau tốt hơn công trình trước\"; Đây là nội dung thể hiện yếu tố nào trong Triết lý xây dựng và phát triển văn hóa của Sun Group?",
+    "options": [
+     "Bản sắc",
+     "Hội nhập",
+     "Kế thừa",
+     "Lan tỏa"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "c3-van-hoa-nq126-13",
+    "no": 13,
+    "text": "Trong Triết lý xây dựng văn hóa của Sun Group, yếu tố Hội nhập cho biết Văn hóa Sun Group đã, đang và sẽ tiếp tục được bổ sung các tiêu chí văn hóa hiện đại; điều này nhằm mục tiêu gì?",
+    "options": [
+     "Đảo sự phát triển của Sun Group luôn có sự đồng hành của những tập đoàn lớn, những cá nhân có tên tuổi và uy tín",
+     "Góp phần nâng cao vị thế đất nước, nâng cao chất lượng sống của người dân, làm đẹp, làm giàu cho Tổ quốc",
+     "Đảm bảo mỗi người Sun Group đều hiểu, cập nhật và tận dụng những thay đổi về công nghệ của thế giới vào các hoạt động sống và làm việc",
+     "Đảm bảo sự hội nhập của Sun Group cũng như Người Sun Group với môi trường phát triển năng động, văn minh và hiện đại của thế giới"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "c3-van-hoa-nq126-14",
+    "no": 14,
+    "text": "Người Sun Group luôn chủ động lan tỏa các giá trị tốt đẹp tới đồng nghiệp để cùng nhau xây dựng tập thể Người Sun Group là đại diện của Người Việt Nam mới các đặc điểm gì?",
+    "options": [
+     "Phẩm chất cao đẹp, có năng lực và trình độ chuyên môn cao, khỏe cả về thể chất và tinh thần",
+     "Có lý tưởng, khát vọng, kỷ luật, trách nhiệm, quyết tâm thay đổi những gì mình đang có, hướng tới những thay đổi vượt bậc và những giá trị tốt đẹp hơn",
+     "Vượt trội trong năng lực chuyên môn, hướng đến đa năng, có thể làm nhiều việc với hiệu quả cao",
+     "Khỏe mạnh về thể chất, có sức bền, sự dẻo dai, chịu được áp lực công việc cao, có thói quen rèn luyện thể dục thể thao đều đặn"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "c3-van-hoa-nq126-15",
+    "no": 15,
+    "text": "Nội dung nào sau đây là một trong những yêu cầu đối với Lãnh đạo và Quản lý Sun Group?",
+    "options": [
+     "Luôn khẳng định vai trò Người đứng đầu với tầm nhìn chiến lược, tư duy làm chủ, thể hiện rõ nét tinh thần dám dấn thân, dám nghĩ, dám làm, biết làm và dám chịu trách nhiệm.",
+     "Sun Group hướng tới xây dựng môi trường là nơi đến để sống, nơi luôn mang lại nguồn cảm hứng, sự yêu đời, yêu người cho mỗi Người Sun Group.",
+     "Người Sun Group luôn cho rằng “Không có công việc tầm thường, chỉ có con người tầm thường”; thành công chung của Tập đoàn được đóng góp từ tất cả các cá nhân ở mọi vị trí.",
+     "Thành công của đồng nghiệp cũng là thành công của bản thân mình và là thành công chung của cả Tập đoàn."
+    ],
+    "answer": 0
+   },
+   {
+    "id": "c3-van-hoa-nq126-16",
+    "no": 16,
+    "text": "Nội dung nào sau đây thể hiện một trong các yêu cầu về Năng lực cạnh tranh của Người Sun Group trong thời kì mới?",
+    "options": [
+     "Sống văn minh, cởi mở học hỏi, hoàn thiện bản thân để theo kịp với thời cuộc và sự phát triển của tổ chức, của xã hội.",
+     "Tìm hiểu, lựa chọn thưởng thức nhằm nâng cao khả năng cảm thụ về các loại hình nghệ thuật.",
+     "Tiên phong sáng tạo, đổi mới, tạo ra những lợi thế cạnh tranh độc đáo, khác biệt cho Việt Nam trên cộng đồng quốc tế.",
+     "Thông hiểu và thuần thục ít nhất một ngoại ngữ thông dụng để nâng cao khả năng hội nhập."
+    ],
+    "answer": 2
+   },
+   {
+    "id": "c3-van-hoa-nq126-17",
+    "no": 17,
+    "text": "Trong các yêu cầu về Sức khỏe của Người Sun Group thời kỳ mới, không hút thuốc, hạn chế bia rượu và cân bằng công việc và cuộc sống thuộc yếu tố nào?",
+    "options": [
+     "Lối sống lành mạnh",
+     "Tinh thần khỏe mạnh",
+     "Ý thức vì cộng đồng",
+     "Thể chất khỏe mạnh"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "c3-van-hoa-nq126-18",
+    "no": 18,
+    "text": "Theo GTCL \"Trung thành và trung thực\", khi được giao nhiệm vụ, Người Sun Group cần hoàn thành như thế nào?",
+    "options": [
+     "Triển khai một cách sáng tạo, linh hoạt, đổi mới và hoàn thành đúng deadline",
+     "Hoàn thành trước deadline và đảm bảo có đầy đủ ý kiến của Đơn vị các cấp",
+     "Hoàn thành đúng chất lượng và tiến độ cam kết",
+     "Hoàn thành đạt chất lượng yêu cầu và đảm bảo có đầy đủ ý kiến của Đơn vị các cấp"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "c3-van-hoa-nq126-19",
+    "no": 19,
+    "text": "Yêu cầu về Sức khỏe của Người Sun Group trong thời kì mới bao gồm những yếu tố nào?",
+    "options": [
+     "Ý thức tốt - Nhân cách tốt - Tinh thần tốt.",
+     "Sức khỏe tốt - Tinh thần tốt - Lối sống tốt.",
+     "Thể chất khỏe mạnh - Tinh thần khỏe mạnh - Năng suất lao động cao.",
+     "Thể chất khỏe mạnh - Tinh thần khỏe mạnh - Lối sống lành mạnh."
+    ],
+    "answer": 3
+   },
+   {
+    "id": "c3-van-hoa-nq126-20",
+    "no": 20,
+    "text": "Yêu cầu về Phẩm chất của Người Sun Group trong thời kì mới bao gồm những yếu tố nào?",
+    "options": [
+     "Sức khỏe tốt - Tinh thần tốt - Lối sống tốt.",
+     "Thể chất khỏe mạnh - Tinh thần khỏe mạnh - Lối sống lành mạnh.",
+     "Ý thức tốt - Nhân cách tốt - Tinh thần tốt.",
+     "Yêu nước - Lý tưởng - Khiêm nhường - Nhân cách tốt"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "c3-van-hoa-nq126-21",
+    "no": 21,
+    "text": "Trong Môi trường phát triển Người Sun Group, môi trường làm việc Sun Group xác định yếu tố nào là thước đo sự đóng góp của mỗi người?",
+    "options": [
+     "Năng lực, kinh nghiệm và thành tích",
+     "Văn hóa, nhân văn và tinh thần học hỏi",
+     "Mức độ gắn kết và sự hài lòng",
+     "Tính kỷ luật, ý thức trách nhiệm, kết quả cuối cùng"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "c3-van-hoa-nq126-22",
+    "no": 22,
+    "text": "Theo Triết lý về Người Sun Group, yếu tố “TÀI” lấy điều gì làm thước đo cho sự bền vững của tập thể, của Sun Group, của cộng đồng và của đất nước Việt Nam?",
+    "options": [
+     "Kết quả kinh doanh của đơn vị",
+     "Sự trưởng thành liên tục của bản thân",
+     "Mức độ đóng góp cho cộng đồng",
+     "Dám chịu trách nhiệm đến cùng nhiệm vụ"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "c3-van-hoa-nq126-23",
+    "no": 23,
+    "text": "Theo yêu cầu đối với CBLĐ/CBQL Sun Group, Người đứng đầu không chỉ là chỗ dựa cho nhân viên mà còn giữ vai trò gì đối với tổ chức?",
+    "options": [
+     "Nền tảng văn hóa",
+     "Lực đẩy cho sự phát triển",
+     "Sợi dây kết nối",
+     "Thước đo thành công"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "c3-van-hoa-nq126-24",
+    "no": 24,
+    "text": "Theo GTCL Nhiệt tâm, cách ứng xử với đồng nghiệp được yêu cầu như thế nào?",
+    "options": [
+     "Thẳng thắn phê bình và cùng tiến bộ",
+     "Lắng nghe, đồng cảm, giúp đỡ, bảo vệ đồng nghiệp",
+     "Ưu tiên hoàn thành mục tiêu cá nhân",
+     "Cạnh tranh công bằng và tự chịu trách nhiệm"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "c3-van-hoa-nq126-25",
+    "no": 25,
+    "text": "Nội dung sau đây thể hiện triết lý hoạt động nào của Sun Group? \"Góp phần nâng cao vị thế đất nước, nâng cao chất lượng sống của người dân, làm đẹp, làm giàu cho Tổ quốc để mỗi con người – không chỉ Người Sun Group, mà là người Việt Nam luôn có thể tự hào khi bước ra thế giới.\"",
+    "options": [
+     "Triết lý về tinh thần tự hào Sun Group",
+     "Triết lý về sự hài hòa",
+     "Triết lý về lòng yêu nước",
+     "Triết lý đứng trên vai người khổng lồ"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "c3-van-hoa-nq126-26",
+    "no": 26,
+    "text": "Người Sun Group luôn có thái độ chia sẻ, hỗ trợ và thẳng thắn góp ý trên tinh thần xây dựng; tự hào, hạnh phúc với thành công của đồng nghiệp và cấp dưới bởi Người Sun Group hiểu rõ điều gì?",
+    "options": [
+     "Hạt giống tốt chỉ nảy mầm và phát triển khi có môi trường thuận lợi",
+     "Không có công việc tầm thường, chỉ có con người tầm thường",
+     "Thành công của đồng nghiệp cũng là thành công của bản thân mình và là thành công chung của cả Tập đoàn",
+     "Ngước lên cao để thấy mình còn thấp, nhìn xuống thấp để biết mình chưa cao"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "c3-van-hoa-nq126-27",
+    "no": 27,
+    "text": "Theo Triết lý về Người Sun Group, trong yếu tố “Làm gương và lan tỏa” Hiền tài của Sun Group sẽ hành động theo điều gì?",
+    "options": [
+     "Chuẩn mực của từng lĩnh vực đầu tư",
+     "Mục tiêu kinh doanh của đơn vị",
+     "GTCL của Người Sun Group",
+     "Triết lý hoạt động của Tập đoàn"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "c3-van-hoa-nq126-28",
+    "no": 28,
+    "text": "Theo GTCL “Trung thành và trung thực”, Người Sun Group cần hoàn thành mọi nhiệm vụ được giao như thế nào?",
+    "options": [
+     "Sáng tạo, đổi mới để kết quả công việc đạt hiệu quả cao hơn",
+     "Chủ động học hỏi, nỗ lực hoàn thiện bản thân",
+     "Hoàn thành mọi nhiệm vụ được giao đúng chất lượng và tiến độ cam kết",
+     "Dám nhận và chịu trách nhiệm đến cùng nhiệm vụ được giao"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "c3-van-hoa-nq126-29",
+    "no": 29,
+    "text": "Theo Triết lý Hiền Tài, nội dung nào thuộc phẩm chất “HIỀN”?",
+    "options": [
+     "Tạo lợi thế cạnh tranh độc đáo cho Việt Nam",
+     "Vừa cống hiến hết mình, vừa sống chân thành, yêu thương và quan tâm đồng nghiệp",
+     "Thông hiểu ít nhất một ngoại ngữ thông dụng",
+     "Chủ động học hỏi để nâng cao năng lực chuyên môn"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "c3-van-hoa-nq126-30",
+    "no": 30,
+    "text": "Theo văn hóa Tập đoàn, Triết lý Sun Group bao gồm những nội dung gì?",
+    "options": [
+     "Triết lý con người; Triết lý hoạt động; Triết lý xây dựng",
+     "Triết lý về Người Sun Group; Triết lý văn hóa; Triết lý xây dựng",
+     "Triết lý kinh doanh; Triết lý hoạt động; Triết lý con người",
+     "Triết lý về Người Sun Group; Triết lý hoạt động; Triết lý xây dựng và phát triển văn hóa"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "c3-van-hoa-nq126-31",
+    "no": 31,
+    "text": "Sun PhuQuoc Airways tập trung phát triển các đường bay quốc tế đưa du khách đến Phú Quốc. Định hướng tạo dấu ấn riêng này thể hiện rõ nhất GTCL nào của Sun Group?",
+    "options": [
+     "Đẳng cấp",
+     "Nhiệt tâm",
+     "Khác biệt",
+     "Chất lượng"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "c3-van-hoa-nq126-32",
+    "no": 32,
+    "text": "Tại Capella Hanoi, mỗi phòng nghỉ kể một câu chuyện về huyền thoại opera qua thiết kế và kỷ vật nghệ thuật, mang đến trải nghiệm lưu trú đậm chất cá nhân. Điều đó thể hiện rõ nhất giá trị văn hóa nào của Sun Group?",
+    "options": [
+     "Chất lượng",
+     "Triết lý về lòng yêu nước",
+     "Trình độ chuyên môn cao",
+     "Khác biệt"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "c3-van-hoa-nq126-33",
+    "no": 33,
+    "text": "Các công trình sản phẩm của Phú Quốc liên tục nhận được các giải thưởng uy tín của thế giới thể hiện GTCL nào của Tập đoàn",
+    "options": [
+     "Đẳng cấp",
+     "Chất lượng",
+     "Trình độ chuyên môn cao",
+     "Bản sắc"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "c3-van-hoa-nq126-34",
+    "no": 34,
+    "text": "Tại Sun Group \"Việc đẩy mạnh công tác Tư tưởng - Văn hóa hướng tới .....sẽ thúc đẩy Người Sun Group cùng nhìn về một hướng\", nội dung còn thiếu trong dấu \"...\" là gì?",
+    "options": [
+     "Cùng nhắm đến một mục tiêu, tạo sự liên kết chắc chắn",
+     "Thấm nhuần và thực hành chung một hệ Tư tưởng - Văn hóa",
+     "Chung tay hiện thực hóa Sứ mệnh, Tầm nhìn, Giá trị cốt lõi, Triết lý hoạt động của Tập đoàn",
+     "Phát triển bền vững"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "c3-van-hoa-nq126-35",
+    "no": 35,
+    "text": "Trong GTCL của người Sun Group từ khóa nào không phải là ưu tiên để đánh giá Trình độ chuyên môn cao?",
+    "options": [
+     "Trình độ học vấn",
+     "Khiêm nhường",
+     "Sáng tạo",
+     "Học hỏi"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "c3-van-hoa-nq126-36",
+    "no": 36,
+    "text": "Trong triết lý về Người Sun Group, người có chữ Hiền trong \"Hiền Tài\" phải hiểu được điều gì?",
+    "options": [
+     "Công việc tại Sun Group cũng chính là cuộc sống mà họ vừa cống hiến hết mình vừa sống chân thành, yêu thương, quan tâm tới đồng nghiệp",
+     "Cần chủ động học hỏi, nỗ lực hoàn thiện bản thân và luôn xem sự trưởng thành liên tục của bản thân là yếu tố nền tảng và thước đo cho sự bền vững của tập thể",
+     "Trách nhiệm và sự đóng góp của bản thân đối với sự thành công và lớn mạnh của Sun Group",
+     "Tầm quan trọng của văn hóa mang đậm bản sắc Sun Group đối với sự phát triển bền vững của Sun Group trong tương lai lâu dài"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "c3-van-hoa-nq126-37",
+    "no": 37,
+    "text": "Công trình Nhà hát Opera Hà Nội bên Hồ Tây được Sun Group xây dựng dựa trên những triết lý hoạt động nào?",
+    "options": [
+     "Triết lý về lòng yêu nước Triết lý về sự hài hòa",
+     "Triết lý về sự hài hòa Triết lý đứng trên vai người khổng lồ",
+     "Triết lý về lòng yêu nước Triết lý đứng trên vai người khổng lồ",
+     "Triết lý về lòng yêu nước Triết lý về sự hài hòa Triết lý đứng trên vai người khổng lồ"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "c3-van-hoa-nq126-38",
+    "no": 38,
+    "text": "Trong triết lý xây dựng và phát triển văn hóa, \"Trách nhiệm của Sun Group, không chỉ lan tỏa các giá trị tốt đẹp trong nội bộ Tập đoàn mà bằng những hành động cụ thể, góp phần lan tỏa những giá trị văn hóa tới đối tác, cộng đồng, hướng tới mục tiêu ...\" điền nội dung còn thiếu vào chỗ trống?",
+    "options": [
+     "Xây dựng xã hội ngày một tốt đẹp và nhân văn hơn.",
+     "Xây dựng người Việt Nam mới với phẩm chất, năng lực, sức khỏe bắt kịp thời cuộc.",
+     "Xây dựng xã hội công bằng, dân chủ, văn minh",
+     "Vươn mình trong kỷ nguyên mới"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "c3-van-hoa-nq126-39",
+    "no": 39,
+    "text": "Theo yêu cầu về “Năng suất lao động” của Người Sun Group trong thời kỳ mới, mức năng suất được hướng tới là gì?",
+    "options": [
+     "Năng suất lao động cao, ngang bằng nước tiên tiến nhất Đông Nam Á",
+     "Năng suất lao động cao, ngang bằng các nước phát triển trên thế giới",
+     "Năng suất lao động cao, ngang bằng nước tiên tiến nhất Châu Á",
+     "Cao hơn mức trung bình của Việt Nam"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "c3-van-hoa-nq126-40",
+    "no": 40,
+    "text": "Theo định hướng đối với tập thể Người Sun Group, mỗi cá nhân cần phấn đấu học hỏi và nâng cấp bản thân trở thành ai?",
+    "options": [
+     "Người dẫn đầu Sun Group",
+     "Chuyên gia Sun Group",
+     "Đại sứ Văn hóa Sun Group",
+     "Cán bộ nguồn Sun Group"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "c3-van-hoa-nq126-41",
+    "no": 41,
+    "text": "“Hiền Tài của Sun Group là những người hiểu được trách nhiệm và sự đóng góp của bản thân đối với sự thành công và lớn mạnh của Sun Group” nội dung trên mô tả Triết lý nào về Người Sun Group?",
+    "options": [
+     "Hiền",
+     "Tài",
+     "Làm gương và lan tỏa",
+     "Nhiệt tâm"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "c3-van-hoa-nq126-42",
+    "no": 42,
+    "text": "Trong nội dung về Lý tưởng Sun Group dưới đây, từ còn thiếu trong dấu ba chấm là gì? \"Lý tưởng của Sun Group là cùng chung một con thuyền, cùng người cầm lái đưa Sun Group tới những bến bờ vinh quang bằng những công trình….\".",
+    "options": [
+     "Đẳng cấp, chất lượng, khác biệt.",
+     "Ghi dấu ấn vượt thời gian.",
+     "Có đẳng cấp quốc tế.",
+     "Hàng đầu Việt Nam."
+    ],
+    "answer": 1
+   },
+   {
+    "id": "c3-van-hoa-nq126-43",
+    "no": 43,
+    "text": "Trong nội dung về Lý tưởng Sun Group dưới đây, từ còn thiếu trong dấu ba chấm là gì? \"Lý tưởng của Sun Group là cùng chung …, cùng … đưa Sun Group tới những bến bờ vinh quang bằng những công trình ghi dấu ấn vượt thời gian\".",
+    "options": [
+     "Một chuyến xe; một con đường.",
+     "Một chiến lược; một Lãnh đạo.",
+     "Một con thuyền; người cầm lái.",
+     "Một con thuyền; một đội ngũ."
+    ],
+    "answer": 2
+   },
+   {
+    "id": "c3-van-hoa-nq126-44",
+    "no": 44,
+    "text": "Trong nội dung về Lý tưởng Sun Group dưới đây, từ còn thiếu trong dấu ba chấm là gì? \"Lý tưởng của Sun Group là cùng chung một con thuyền, cùng người cầm lái đưa Sun Group tới …. bằng những công trình ghi dấu ấn vượt thời gian\".",
+    "options": [
+     "Những bến bờ vinh quang.",
+     "Đích.",
+     "Những bến bờ hạnh phúc.",
+     "Sự trường tồn."
+    ],
+    "answer": 0
+   },
+   {
+    "id": "c3-van-hoa-nq126-45",
+    "no": 45,
+    "text": "Sun Group mang trên mình sứ mệnh gì để luôn kiên định với mục tiêu tìm đến những vùng đất giàu tiềm năng nhưng chưa được khai thác đúng tầm, làm thay đổi vùng đất ấy, kiến tạo và đóng góp cho xã hội những công trình, sản phẩm/dịch vụ có đẳng cấp chất lượng vượt trội, trường tồn với thời gian?",
+    "options": [
+     "Người yêu nước",
+     "Hạt giống tốt",
+     "Hiền tài",
+     "Người Khai Mở"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "c3-van-hoa-nq126-46",
+    "no": 46,
+    "text": "Mang trên mình sứ mệnh Người Khai Mở, một trong những mục tiêu Sun Group kiên định là \"Góp phần xây dựng … với phẩm chất, năng lực, kỹ năng, tri thức bắt kịp với thời cuộc.\". Từ còn thiếu trong dấu ba chấm là gì?",
+    "options": [
+     "Người Việt Nam mới.",
+     "Người Hiền Tài.",
+     "Người Tài.",
+     "Người Sun Group mới"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "c3-van-hoa-nq126-47",
+    "no": 47,
+    "text": "Mang trên mình sứ mệnh Người Khai Mở, một trong những mục tiêu Sun Group kiên định là tìm đến những vùng đất giàu tiềm năng nhưng chưa được khai thác đúng tầm, làm thay đổi những vùng đất ấy, kiến tạo và đóng góp cho xã hội những công trình, sản phẩm/dịch vụ thế nào?",
+    "options": [
+     "Đẳng cấp, chất lượng, khác biệt.",
+     "Ghi dấu ấn vượt thời gian.",
+     "Chất lượng vượt trội",
+     "Đẳng cấp chất lượng vượt trội, trường tồn theo thời gian"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "c3-van-hoa-nq126-48",
+    "no": 48,
+    "text": "Mang trên mình sứ mệnh Người Khai Mở, một trong những mục tiêu Sun Group kiên định là gì?",
+    "options": [
+     "Sun Group sẽ tập hợp về mình những \"Hiền Tài\" thay vì \"Người Tài\".",
+     "Kiên quyết đấu tranh chống lại sự vô cảm, vô tâm và thiếu trách nhiệm với những nghĩa vụ phải hoàn thành.",
+     "Tìm đến những vùng đất giàu tiềm năng nhưng chưa được khai thác đúng tầm, làm thay đổi những vùng đất ấy, kiến tạo và đóng góp cho xã hội những công trình, sản phẩm/dịch vụ có đẳng cấp chất lượng vượt trội và trường tồn theo thời gian",
+     "Triệt để thực hiện tinh thần tiết kiệm, chống lãng phí, nêu cao khẩu hiệu \"Lãng phí là tội ác\"."
+    ],
+    "answer": 2
+   },
+   {
+    "id": "c3-van-hoa-nq126-49",
+    "no": 49,
+    "text": "Mang trên mình sứ mệnh Người Khai Mở, một trong những mục tiêu Sun Group kiên định là gì?",
+    "options": [
+     "Sun Group sẽ tập hợp về mình những \"Hiền Tài\" thay vì \"Người Tài\".",
+     "Trở thành một trong những Tập đoàn kinh tế tư nhân Việt Nam có quy mô và đẳng cấp quốc tế, lấy lĩnh vực Du lịch nghỉ dưỡng, Vui chơi giải trí, Bất động sản và Đầu tư hạ tầng làm lĩnh vực đầu tư chiến lược.",
+     "Đảm bảo sự hài hòa giữa lợi ích doanh nghiệp và lợi ích cộng đồng.",
+     "Góp phần nâng cao vị thế đất nước, nâng cao chất lượng sống của người dân, làm đẹp, làm giàu cho Tổ quốc và đưa Việt Nam trở thành điểm đến hấp dẫn của thế giới"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "c3-van-hoa-nq126-50",
+    "no": 50,
+    "text": "Mang trên mình sứ mệnh Người Khai Mở, một trong những mục tiêu Sun Group kiên định là Góp phần nâng cao vị thế đất nước, nâng cao chất lượng cuộc sống của người dân, làm đẹp, làm giàu cho Tổ Quốc, đưa Việt Nam trở thành điểm đến như thế nào?",
+    "options": [
+     "Hấp dẫn của thế giới.",
+     "Hấp dẫn nhất thế giới",
+     "Có nhiều công trình ghi dấu ấn vượt thời gian.",
+     "Có nhiều công trình kỷ lục thế giới."
+    ],
+    "answer": 0
+   },
+   {
+    "id": "c3-van-hoa-nq126-51",
+    "no": 51,
+    "text": "Mang trên mình sứ mệnh Người Khai Mở, một trong những mục tiêu Sun Group kiên định là \"Góp phần nâng cao …., nâng cao chất lượng cuộc sống của người dân, làm đẹp, làm giàu cho Tổ Quốc, đưa Việt Nam trở thành điểm đến hấp dẫn của thế giới.\". Từ còn thiếu trong dấu ba chấm là gì?",
+    "options": [
+     "Sức khỏe",
+     "Vị thế đất nước",
+     "Tài sản đất nước",
+     "Vị thế của người Việt Nam"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "c3-van-hoa-nq126-52",
+    "no": 52,
+    "text": "Mang trên mình sứ mệnh Người Khai Mở, một trong những mục tiêu Sun Group kiên định là góp phần xây dựng con người Việt Nam mới với những đặc điểm gì?",
+    "options": [
+     "Văn minh, chuyên nghiệp, nhân văn",
+     "Yêu nước, kỷ luật, giỏi chuyên môn",
+     "Phẩm chất, năng lực và sức khỏe bắt kịp thời cuộc",
+     "Trung thành, trung thực, nhiệt tâm"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "c3-van-hoa-nq126-53",
+    "no": 53,
+    "text": "Nội dung nào sau đây phản ánh KHÔNG ĐÚNG \"Tầm nhìn\" của Sun Group?",
+    "options": [
+     "Trở thành một trong những Tập đoàn kinh tế tư nhân Việt Nam có quy mô và đẳng cấp quốc tế; lấy lĩnh vực Du lịch nghỉ dưỡng, Vui chơi giải trí, Bất động sản và Đầu tư hạ tầng làm lĩnh vực đầu tư chiến lược.",
+     "Luôn thuộc nhóm các công ty dẫn đầu trong lĩnh vực đầu tư mà Sun Group tham gia",
+     "Tiên phong trong việc xây dựng văn hóa du lịch: văn minh, chuyên nghiệp và nhân văn ở Việt Nam",
+     "Sun Group không giữ người bằng tiền và không đón nhận những người đến với Tập đoàn chỉ vì tiền."
+    ],
+    "answer": 3
+   },
+   {
+    "id": "c3-van-hoa-nq126-54",
+    "no": 54,
+    "text": "\"Người Sun Group sẽ luôn khẳng định vai trò Người đứng đầu với tầm nhìn chiến lược, tư duy làm chủ, thể hiện rõ nét tinh thần dám dấn thân, dám nghĩ, dám làm, biết làm và dám chịu trách nhiệm với nhiệm vụ mình được giao và kết quả của đơn vị, đội nhóm mà mình phụ trách\", nội dung này thể hiện vai trò của ai?",
+    "options": [
+     "Lãnh đạo.",
+     "Quản lý.",
+     "Lãnh đạo và Quản lý.",
+     "Người Việt Nam mới."
+    ],
+    "answer": 2
+   },
+   {
+    "id": "c3-van-hoa-nq126-55",
+    "no": 55,
+    "text": "Trong nội dung Tầm nhìn Sun Group, Sun Group tiên phong xây dựng văn hóa du lịch bao gồm những yếu tố gì?",
+    "options": [
+     "Văn hóa, văn minh, chuyên nghiệp, nhân văn",
+     "Bài bản, thân thiện, chuyên nghiệp, nhân văn",
+     "Bài bản, văn minh, chuyên nghiệp, lan tỏa",
+     "Văn minh, chuyên nghiệp, nhân văn"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "c3-van-hoa-nq126-56",
+    "no": 56,
+    "text": "\"Người Sun Group trung thành với lý tưởng, tầm nhìn, sứ mệnh của Tập đoàn, đặt tiêu chí kỷ luật lên hàng đầu, luôn sẵn sàng làm việc trong môi trường áp lực và tự tạo áp lực để tôi luyện tinh thần đương đầu với khó khăn thử thách\" -đây là một trong các nội dung của yếu tố văn hóa nào của Sun Group?",
+    "options": [
+     "Kế thừa",
+     "Hội nhập",
+     "Lan tỏa",
+     "Bản sắc"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "c3-van-hoa-nq126-57",
+    "no": 57,
+    "text": "Mang trên mình sứ mệnh Người Khai Mở, một trong những mục tiêu Sun Group kiên định là \"Góp phần nâng cao vị thế đất nước, nâng cao ..., làm đẹp, làm giàu cho Tổ Quốc và đưa Việt Nam trở thành điểm đến hấp dẫn của thế giới.\". Từ còn thiếu trong dấu ba chấm là gì?",
+    "options": [
+     "Vị thế của người Việt Nam",
+     "Chất lượng sống của người dân",
+     "Trí tuệ người Việt Nam",
+     "Sức khỏe người Việt Nam"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "c3-van-hoa-nq126-58",
+    "no": 58,
+    "text": "Nội dung nào sau đây KHÔNG thể hiện sứ mệnh Sun Group?",
+    "options": [
+     "Tìm đến những vùng đất giàu tiềm năng nhưng chưa được khai thác đúng tầm, làm thay đổi những vùng đất ấy, kiến tạo và đóng góp cho xã hội những công trình, sản phẩm/dịch vụ có đẳng cấp chất lượng vượt trội, trường tồn theo thời gian.",
+     "Sun Group sẽ tập hợp về mình những \"Hiền Tài\" thay vì \"Người Tài\".",
+     "Góp phần nâng cao vị thế đất nước, nâng cao chất lượng cuộc sống của người dân, làm đẹp, làm giàu cho Tổ Quốc, đưa Việt Nam trở thành điểm đến hấp dẫn của thế giới.",
+     "Góp phần xây dựng con người Việt Nam mới với phẩm chất, năng lực, kỹ năng, tri thức bắt kịp với thời cuộc."
+    ],
+    "answer": 1
+   },
+   {
+    "id": "c3-van-hoa-nq126-59",
+    "no": 59,
+    "text": "Nội dung sau đây thể hiện giá trị cốt lõi nào đối với Tập đoàn Sun Group: \"Đảm bảo chất lượng sản phẩm và dịch vụ hướng dến chuẩn mực quốc tế và bền vững với thời gian.\"?",
+    "options": [
+     "Chất lượng",
+     "Đẳng cấp",
+     "Khác biệt",
+     "Không thể hiện giá trị cốt lõi nào đối với Tập đoàn."
+    ],
+    "answer": 0
+   },
+   {
+    "id": "c3-van-hoa-nq126-60",
+    "no": 60,
+    "text": "Nội dung nào sau đây thể hiện giá trị cốt lõi \"Chất lượng\" của Tập đoàn Sun Group?",
+    "options": [
+     "Phát triển hướng tới những thế hệ mai sau, nuôi dưỡng và gìn giữ môi trường sống ổn định, xanh, sạch và văn minh.",
+     "Tiên phong kiến tạo những chuẩn mực về sản phẩm/dịch vụ mới mẻ, cao cấp và vượt trội hơn những chuẩn mực mà thị trường đang có.",
+     "Hướng đến sự độc đáo riêng có hoặc hiếm có, khó có thể sao chép được trong sản phẩm/dịch vụ.",
+     "Đảm bảo sự phát triển của mình luôn có sự đồng hành của những tập đoàn lớn, những cá nhân có tên tuổi và uy tín, các công trình luôn gắn với các thương hiệu lớn trên thế giới."
+    ],
+    "answer": 0
+   },
+   {
+    "id": "c3-van-hoa-nq126-61",
+    "no": 61,
+    "text": "Nội dung sau đây thể hiện giá trị cốt lõi nào đối với Tập đoàn Sun Group: \"Hướng đến sự độc đáo riêng có hoặc hiếm có, khó có thể sao chép được trong sản phẩm/dịch vụ\"?",
+    "options": [
+     "Chất lượng",
+     "Đẳng cấp",
+     "Khác biệt",
+     "Không thể hiện giá trị cốt lõi nào đối với Tập đoàn."
+    ],
+    "answer": 2
+   },
+   {
+    "id": "c3-van-hoa-nq126-62",
+    "no": 62,
+    "text": "Nội dung nào sau đây KHÔNG phải là giá trị cốt lõi đối với Người Sun Group?",
+    "options": [
+     "Trung thành và trung thực.",
+     "Nhiệt tâm.",
+     "Trình độ chuyên môn cao.",
+     "Đẳng cấp."
+    ],
+    "answer": 3
+   },
+   {
+    "id": "c3-van-hoa-nq126-63",
+    "no": 63,
+    "text": "Nội dung nào sau đây thể hiện giá trị cốt lõi \"Chất lượng\" của Tập đoàn Sun Group?",
+    "options": [
+     "Đảm bảo sự hài hòa giữa lợi ích doanh nghiệp và lợi ích cộng đồng, cân bằng giữa phát triển với bảo tồn.",
+     "Đảm bảo chất lượng sản phẩm và dịch vụ hướng đến chuẩn mực quốc tế và bền vững với thời gian.",
+     "Tôn trọng và vì con người, mang lại giá trị phục vụ lợi ích và sự phát triển của cộng đồng và Người Sun Group.",
+     "Sản phẩm/dịch vụ sang trọng, có tính thẩm mỹ, ý nghĩa sâu sắc, giá trị kinh tế và giá trị sử dụng vượt trội so với thị trường chung trong lĩnh vực hoạt động và được công nhận bởi các tổ chức quốc tế có uy tín."
+    ],
+    "answer": 1
+   },
+   {
+    "id": "c3-van-hoa-nq126-64",
+    "no": 64,
+    "text": "Nội dung sau đây thể hiện giá trị cốt lõi nào đối với Tập đoàn Sun Group: \"Sản phẩm/dịch vụ nhận được sự ghi nhận và trân trọng của cộng đồng trong nước và quốc tế\"?",
+    "options": [
+     "Chất lượng",
+     "Đẳng cấp",
+     "Khác biệt",
+     "Không thể hiện giá trị cốt lõi nào đối với Tập đoàn."
+    ],
+    "answer": 1
+   },
+   {
+    "id": "c3-van-hoa-nq126-65",
+    "no": 65,
+    "text": "Nội dung nào sau đây KHÔNG thể hiện giá trị cốt lõi \"Đẳng cấp\" của Tập đoàn Sun Group?",
+    "options": [
+     "Tôn trọng và vì con người, mang lại giá trị phục vụ lợi ích, sự phát triển của cộng đồng và Người Sun Group.",
+     "Tiên phong kiến tạo những chuẩn mực về sản phẩm/dịch vụ mới mẻ, cao cấp và vượt trội hơn những chuẩn mực mà thị trường đang có.",
+     "Sản phẩm/dịch vụ sang trọng, có tính thẩm mỹ, ý nghĩa sâu sắc, giá trị kinh tế, giá trị sử dụng vượt trội so với thị trường chung trong lĩnh vực hoạt động, được công nhận bởi các tổ chức quốc tế có uy tín và được sự ghi nhận, trân trọng của cộng đồng trong nước và quốc tế.",
+     "Táo bạo tìm kiếm những cơ hội để làm vượt trội những gì người khác không làm, không dám làm hoặc không thể làm."
+    ],
+    "answer": 3
+   },
+   {
+    "id": "c3-van-hoa-nq126-66",
+    "no": 66,
+    "text": "Nội dung nào sau đây thể hiện giá trị cốt lõi \"Khác biệt\" của Tập đoàn Sun Group?",
+    "options": [
+     "Đảm bảo chất lượng sản phẩm và dịch vụ hướng dến chuẩn mực quốc tế và bền vững với thời gian.",
+     "Góp phần nâng cao vị thế đất nước, nâng cao chất lượng sống của người dân, làm đẹp, làm giàu cho Tổ quốc.",
+     "Hướng đến sự độc đáo riêng có hoặc hiếm có, khó có thể sao chép được trong sản phẩm/dịch vụ.",
+     "Sản phẩm/dịch vụ nhận được sự ghi nhận và trân trọng của cộng đồng trong nước và quốc tế."
+    ],
+    "answer": 2
+   },
+   {
+    "id": "c3-van-hoa-nq126-67",
+    "no": 67,
+    "text": "Nội dung nào sau đây thể hiện giá trị cốt lõi \"Trung thành và trung thực\" đối với Người Sun Group?",
+    "options": [
+     "Tin tưởng tuyệt đối, sẵn sàng đấu tranh và hy sinh lợi ích cá nhân để theo đuổi lý tưởng và khát vọng của Tập đoàn.",
+     "Sun Group hướng tới xây dựng môi trường lý tưởng để làm việc và vui sống, là nơi mang lại nguồn cảm hứng, sự yêu đời, yêu người cho mỗi Người Sun Group .",
+     "Khiêm nhường, thực chất, không ngừng học hỏi hoàn thiện bản thân.",
+     "Sáng tạo, đổi mới, đảm bảo kết quả công việc đạt hiệu quả cao hơn."
+    ],
+    "answer": 0
+   },
+   {
+    "id": "c3-van-hoa-nq126-68",
+    "no": 68,
+    "text": "Nội dung nào sau đây thể hiện giá trị cốt lõi \"Trình độ chuyên môn cao\" đối với Người Sun Group?",
+    "options": [
+     "Tuân thủ mọi chuẩn mực của Tập đoàn và hoàn thành mọi nhiệm vụ được giao đúng chất lượng và tiến độ cam kết.",
+     "Có tinh thần yêu nước, tự hào chia sẻ và hành động để gìn giữ những truyền thống của dân tộc Việt Nam",
+     "Tin tưởng vào những việc mình làm, truyền cảm hứng và thúc đẩy người khác làm việc và sống tốt hơn.",
+     "Sáng tạo, đổi mới, đảm bảo kết quả công việc đạt hiệu quả cao hơn."
+    ],
+    "answer": 3
+   },
+   {
+    "id": "c3-van-hoa-nq126-69",
+    "no": 69,
+    "text": "Nội dung sau đây thể hiện giá trị cốt lõi nào đối với Người Sun Group: \" Tuân thủ mọi chuẩn mực của Tập đoàn và hoàn thành mọi nhiệm vụ được giao đúng chất lượng và tiến độ cam kết.\"?",
+    "options": [
+     "Trung thành và trung thực.",
+     "Nhiệt tâm.",
+     "Trình độ chuyên môn cao.",
+     "Không thể hiện giá trị cốt lõi nào đối với Người Sun Group."
+    ],
+    "answer": 0
+   },
+   {
+    "id": "c3-van-hoa-nq126-70",
+    "no": 70,
+    "text": "Nội dung sau đây thể hiện giá trị cốt lõi nào đối với Người Sun Group: \"Công bằng, nhân văn trong mọi việc; lắng nghe, đồng cảm, giúp đỡ, bảo vệ đồng nghiệp chân thành và không ngần ngại.\"?",
+    "options": [
+     "Trung thành và trung thực.",
+     "Nhiệt tâm.",
+     "Trình độ chuyên môn cao.",
+     "Không thể hiện giá trị cốt lõi nào đối với Người Sun Group."
+    ],
+    "answer": 1
+   },
+   {
+    "id": "c3-van-hoa-nq126-71",
+    "no": 71,
+    "text": "Nội dung sau đây thể hiện giá trị cốt lõi nào đối với Người Sun Group: \"Khiêm nhường, thực chất, không ngừng học hỏi hoàn thiện bản thân.\"?",
+    "options": [
+     "Trung thành và trung thực.",
+     "Nhiệt tâm.",
+     "Trình độ chuyên môn cao.",
+     "Không thể hiện giá trị cốt lõi nào đối với Người Sun Group."
+    ],
+    "answer": 2
+   },
+   {
+    "id": "c3-van-hoa-nq126-72",
+    "no": 72,
+    "text": "Nội dung sau đây thể hiện giá trị cốt lõi nào đối với Người Sun Group: \"Sẵn sàng tự phê và phê những khuyết điểm của bản thân và người khác một cách trực diện để cùng trưởng thành\"?",
+    "options": [
+     "Trình độ chuyên môn cao.",
+     "Không thể hiện giá trị cốt lõi nào đối với Người Sun Group.",
+     "Trung thành và trung thực.",
+     "Nhiệt tâm."
+    ],
+    "answer": 0
+   },
+   {
+    "id": "c3-van-hoa-nq126-73",
+    "no": 73,
+    "text": "Nội dung sau đây thể hiện giá trị cốt lõi nào đối với Người Sun Group: \"Tin tưởng vào những việc mình làm, truyền cảm hứng và thúc đẩy người khác làm việc và sống tốt hơn\"?",
+    "options": [
+     "Trình độ chuyên môn cao.",
+     "Không thể hiện giá trị cốt lõi nào đối với Người Sun Group.",
+     "Nhiệt tâm.",
+     "Trung thành và trung thực."
+    ],
+    "answer": 2
+   },
+   {
+    "id": "c3-van-hoa-nq126-74",
+    "no": 74,
+    "text": "Nội dung nào sau đây thể hiện giá trị cốt lõi \"Nhiệt tâm\" đối với Người Sun Group?",
+    "options": [
+     "Trung thực, chính trực, kiên định trong công việc và cuộc sống.",
+     "Tiên phong đi đầu, dám nhận và chịu trách nhiệm đến cùng nhiệm vụ được giao.",
+     "Tuân thủ mọi chuẩn mực của Tập đoàn và hoàn thành mọi nhiệm vụ được giao đúng chất lượng và tiến độ cam kết.",
+     "Lạc quan, tích cực, luôn tràn đầy hi vọng, niềm vui và hạnh phúc."
+    ],
+    "answer": 1
+   },
+   {
+    "id": "c3-van-hoa-nq126-75",
+    "no": 75,
+    "text": "Giá trị cốt lõi đối với Người Sun Group là gì?",
+    "options": [
+     "Trung thành; Trung thực; Nhiệt tâm.",
+     "Trung thành và trung thực; Nhiệt tâm; Trình độ chuyên môn cao.",
+     "Trung thành; Sáng tạo; Nhiệt tâm.",
+     "Trung thành và trung thực; Nhiệt tình; Trình độ chuyên môn cao."
+    ],
+    "answer": 1
+   },
+   {
+    "id": "c3-van-hoa-nq126-76",
+    "no": 76,
+    "text": "Trong nội dung Tinh thần của Người Sun Group dưới đây, từ còn thiếu trong dấu ba chấm là gì? \"...… của Người Sun Group là trên những chặng đường cống hiến chứ không chỉ là đích đến.\"",
+    "options": [
+     "Lý tưởng.",
+     "Sứ mệnh.",
+     "Hạnh phúc.",
+     "Niềm vui."
+    ],
+    "answer": 2
+   },
+   {
+    "id": "c3-van-hoa-nq126-77",
+    "no": 77,
+    "text": "Nội dung nào sau đây thể hiện Lý tưởng Sun Group?",
+    "options": [
+     "Lý tưởng của Sun Group là cùng chung một con thuyền, cùng người cầm lái đưa Sun Group tới những bến bờ vinh quang bằng những công trình ghi dấu ấn vượt thời gian.",
+     "Lý tưởng của Sun Group là tìm đến những vùng đất giàu tiềm năng nhưng chưa được khai thác đúng tầm, làm thay đổi những vùng đất ấy, kiến tạo và đóng góp cho xã hội những công trình, sản phẩm/dịch vụ có đẳng cấp chất lượng vượt trội, trường tồn theo thời gian.",
+     "Lý tưởng của Sun Group là góp phần nâng cao vị thế đất nước, nâng cao chất lượng sống của người dân, làm đẹp, làm giàu cho Tổ Quốc, đưa Việt Nam trở thành điểm đến hấp dẫn của thế giới.",
+     "Lý tưởng của Sun Group là trở thành một trong những Tập đoàn kinh tế tư nhân Việt Nam có quy mô và đẳng cấp quốc tế."
+    ],
+    "answer": 0
+   },
+   {
+    "id": "c3-van-hoa-nq126-78",
+    "no": 78,
+    "text": "\"Chất lượng - Đẳng cấp - Khác biệt\" thể hiện nội dung gì trong Tư tưởng - Văn hóa Sun Group?",
+    "options": [
+     "Lý tưởng Sun Group.",
+     "Sứ mệnh Sun Group.",
+     "Tầm nhìn Sun Group.",
+     "Giá trị cốt lõi đối với Tập đoàn Sun Group."
+    ],
+    "answer": 3
+   },
+   {
+    "id": "c3-van-hoa-nq126-79",
+    "no": 79,
+    "text": "Tiêu chí nào sau đây nằm trong Triết lý về Người Sun Group?",
+    "options": [
+     "Sun Group sẽ tập hợp về mình những \"Hiền tài\" thay vì \"Người tài\".",
+     "Sun Group sẵn sàng đón nhận những người đến với Tập đoàn chỉ vì tiền và giữ người bằng tiền.",
+     "Sun Group sẽ chỉ chú trọng tập hợp về mình những \"Người tài\".",
+     "Sun Group xây dựng môi trường làm việc áp lực, đòi hỏi cao để giúp CBNV nâng cao năng lực của mình."
+    ],
+    "answer": 0
+   },
+   {
+    "id": "c3-van-hoa-nq126-80",
+    "no": 80,
+    "text": "Tôn chỉ về sự phát triển của Sun Group là gì?",
+    "options": [
+     "Phát triển bền vững",
+     "Phát triển hài hòa",
+     "Phát triển nhanh, mạnh và hài hòa",
+     "Phát triển nhanh mạnh và dẫn đầu mọi lĩnh vực đầu tư mà Sun Group tham gia"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "c3-van-hoa-nq126-81",
+    "no": 81,
+    "text": "Trong nội dung Đối với cá nhân Người Sun Group dưới đây, từ còn thiếu trong dấu ba chấm là gì? \"Người Sun Group luôn chủ động lan tỏa các giá trị tốt đẹp đó tới đồng nghiệp để cùng nhau xây dựng Tập thể Người Sun Group là đại diện của ...... với phẩm chất cao đẹp, có năng lực và trình độ chuyên môn cao, có sức khỏe tốt cả về thể chất và tinh thần. \"",
+    "options": [
+     "Người Việt Nam mới.",
+     "Con người mới.",
+     "Người tài.",
+     "Hiền tài."
+    ],
+    "answer": 0
+   },
+   {
+    "id": "c3-van-hoa-nq126-82",
+    "no": 82,
+    "text": "\"Hiền tài của Sun Group hiểu được tầm quan trọng của văn hóa mang đậm bản sắc Sun Group đối với sự phát triển bền vững của Sun Group trong tương lai lâu dài. Do đó, họ luôn hành động theo những giá trị cốt lõi của Người Sun Group, tự hào làm gương, chia sẻ niềm tin, lan tỏa giá trị của Sun Group tới đồng nghiệp và là nguồn cảm hứng cho đồng nghiệp\". Đây là nội dung nào trong Triết lý về Người Sun Group?",
+    "options": [
+     "Làm gương và lan tỏa",
+     "Hiền",
+     "Tài",
+     "Nhân văn"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "c3-van-hoa-nq126-83",
+    "no": 83,
+    "text": "Nội dung nào sau đây KHÔNG thể hiện Triết lý về Người Sun Group?",
+    "options": [
+     "Hiền tài của Sun Group hiểu được công việc tại Sun Group cũng chính là cuộc sống mà họ vừa cống hiến hết mình vừa sống chân thành, yêu thương, quan tâm tới đồng nghiệp.",
+     "Hiền tài của Sun Group là những người hiểu được trách nhiệm và sự đóng góp của bản thân đối với sự thành công và lớn mạnh của Sun Group.",
+     "Sun Group luôn xác định một tư tưởng “Sun Group không giữ người bằng tiền và không đón nhận những người đến với Tập đoàn chỉ vì tiền”.",
+     "Hiền tài của Sun Group hiểu được tầm quan trọng của văn hóa mang đậm bản sắc Sun Group đối với sự phát triển bền vững của Sun Group trong tương lai lâu dài."
+    ],
+    "answer": 2
+   },
+   {
+    "id": "c3-van-hoa-nq126-84",
+    "no": 84,
+    "text": "Trong nội dung Đối với cá nhân Người Sun Group, Người Sun Group phấn đấu trở thành “….....” thay vì “Người tài”. Từ còn thiếu trong dấu ba chấm là gì?",
+    "options": [
+     "Người Việt Nam mới.",
+     "Con người mới.",
+     "Người tốt.",
+     "Hiền tài."
+    ],
+    "answer": 3
+   },
+   {
+    "id": "c3-van-hoa-nq126-85",
+    "no": 85,
+    "text": "\"Hiền tài của Sun Group là những người hiểu được trách nhiệm và sự đóng góp của bản thân đối với sự thành công và lớn mạnh của Sun Group. Do đó, họ chủ động học hỏi, nỗ lực hoàn thiện bản thân và luôn xem sự trưởng thành liên tục của bản thân là yếu tố nền tảng và thước đo cho sự bền vững của tập thể, của Sun Group, của cộng đồng và của đất nước Việt Nam.\" Đây là nội dung nào trong Triết lý về Người Sun Group?",
+    "options": [
+     "Làm gương và lan tỏa",
+     "Hiền",
+     "Tài",
+     "Nhiệt tâm"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "c3-van-hoa-nq126-86",
+    "no": 86,
+    "text": "Trong nội dung dưới đây, từ còn thiếu trong dấu ba chấm là gì? \"... của Sun Group là cùng chung một con thuyền, cùng người cầm lái đưa Sun Group tới những bến bờ vinh quang bằng những công trình ghi dấu ấn vượt thời gian\".",
+    "options": [
+     "Lý tưởng.",
+     "Sứ mệnh.",
+     "Niềm tin.",
+     "Văn hóa."
+    ],
+    "answer": 0
+   },
+   {
+    "id": "c3-van-hoa-nq126-87",
+    "no": 87,
+    "text": "Trong triết lý về Người Sun Group,\"Hiền tài\" của Sun Group được định nghĩa là người như thế nào?",
+    "options": [
+     "Là những người \"vừa hồng vừa chuyên\".",
+     "Là những người \"vừa hồng vừa chuyên\" - vừa có đức vừa có tài - Vừa có nhân cách tốt vừa có năng lực chuyên môn giỏi.",
+     "Là những người có thể chất khỏe mạnh, tinh thần khỏe mạnh, lối sống lành mạnh",
+     "Là những người vừa có nhân cách tốt vừa có năng lực chuyên môn giỏi."
+    ],
+    "answer": 1
+   },
+   {
+    "id": "c3-van-hoa-nq126-88",
+    "no": 88,
+    "text": "Nội dung nào sau đây là một trong những yêu cầu đối với cá nhân Người Sun Group?",
+    "options": [
+     "Cán bộ Lãnh đạo và Quản lý của Sun Group luôn biết thu phục và không ngại sử dụng những người giỏi hơn mình, chú trọng phát hiện và đào tạo cán bộ cấp dưới có năng lực trở thành cán bộ nguồn để sẵn sàng gánh vác và tiếp quản nhiệm vụ từ các thế hệ đi trước;",
+     "Người Sun Group luôn cho rằng “Không có công việc tầm thường, chỉ có con người tầm thường”; thành công chung của Tập đoàn được đóng góp từ tất cả các cá nhân ở mọi vị trí.",
+     "Thành công của đồng nghiệp cũng là thành công của bản thân mình và là thành công chung của cả Tập đoàn.",
+     "Sun Group hướng tới xây dựng môi trường lý tưởng để làm việc và vui sống, là nơi mang lại nguồn cảm hứng, sự yêu đời, yêu người cho mỗi Người Sun Group."
+    ],
+    "answer": 0
+   },
+   {
+    "id": "c3-van-hoa-nq126-89",
+    "no": 89,
+    "text": "Với tôn chỉ phát triển bền vững, một trong những mục tiêu chính Sun Group phấn đấu đạt được là gì?",
+    "options": [
+     "Góp phần xây dựng con người Việt Nam mới với phẩm chất, năng lực, kỹ năng, tri thức bắt kịp với thời cuộc.",
+     "Góp phần nâng cao vị thế đất nước, nâng cao chất lượng cuộc sống của người dân, làm đẹp, làm giàu cho Tổ Quốc, đưa Việt Nam trở thành điểm đến hấp dẫn của thế giới.",
+     "Trở thành một trong những Tập đoàn kinh tế tư nhân Việt Nam có quy mô và đẳng cấp quốc tế; lấy lĩnh vực Du lịch nghỉ dưỡng, Vui chơi giải trí, Bất động sản và Đầu tư hạ tầng làm lĩnh vực đầu tư chiến lược",
+     "Kiên quyết đấu tranh chống lại sự vô cảm, vô tâm và thiếu trách nhiệm với những nghĩa vụ phải hoàn thành."
+    ],
+    "answer": 2
+   },
+   {
+    "id": "c3-van-hoa-nq126-90",
+    "no": 90,
+    "text": "Trong nội dung Đối với tập thể Người Sun Group dưới đây, câu còn thiếu trong dấu ba chấm là gì? \"Người Sun Group xác định, “............”, theo đó, mỗi cá nhân phấn đấu học hỏi và nâng cấp bản thân, phấn đấu trở thành Đại sứ Văn hóa Sun Group, khẳng định tình yêu với Tập đoàn và niềm tự hào khi là thành viên của Tập thể Sun Group, tập thể với lý tưởng cao đẹp đang góp phần xây dựng hình ảnh Người Việt Nam mới trong lao động, đóng góp cho sự phát triển của đất nước.\"",
+    "options": [
+     "Sun Group là tập thể của những người con yêu nước.",
+     "Không có công việc tầm thường, chỉ có con người tầm thường.",
+     "Sun Group không giữ người bằng tiền và không đón nhận những người đến với Tập đoàn chỉ vì tiền.",
+     "Phấn đấu trở thành “Hiền tài” thay vì “Người tài”."
+    ],
+    "answer": 0
+   },
+   {
+    "id": "c3-van-hoa-nq126-91",
+    "no": 91,
+    "text": "Với tôn chỉ phát triển bền vững, một trong những mục tiêu chính Sun Group phấn đấu đạt được là gì?",
+    "options": [
+     "Luôn thuộc nhóm các công ty dẫn đầu trong lĩnh vực đầu tư mà Sun Group tham gia.",
+     "Góp phần nâng cao vị thế đất nước, nâng cao chất lượng cuộc sống của người dân, làm đẹp, làm giàu cho Tổ Quốc, đưa Việt Nam trở thành điểm đến hấp dẫn của thế giới.",
+     "Tìm đến những vùng đất giàu tiềm năng nhưng chưa được khai thác đúng tầm, làm thay đổi những vùng đất ấy, kiến tạo và đóng góp cho xã hội những công trình, sản phẩm/dịch vụ có đẳng cấp chất lượng vượt trội, trường tồn theo thời gian.",
+     "Cân bằng giữa phát triển với bảo tồn, tôn trọng các giá trị của thiên nhiên."
+    ],
+    "answer": 0
+   },
+   {
+    "id": "c3-van-hoa-nq126-92",
+    "no": 92,
+    "text": "Trong nội dung Đối với tập thể Người Sun Group có nêu rõ Người Sun Group dù đang ở bất cứ vị trí nào, thực hiện bất cứ công việc nào cũng sẽ luôn nỗ lực hết mình để hoàn thành xuất sắc vai trò, nhiệm vụ của mình. Bởi lẽ, Người Sun Group luôn cho rằng “…..........”; thành công chung của Tập đoàn được đóng góp từ tất cả các cá nhân ở mọi vị trí.\" Câu còn thiếu trong dấu ba chấm là gì?",
+    "options": [
+     "Sun Group là tập thể của những người con yêu nước.",
+     "Không có công việc tầm thường, chỉ có con người tầm thường.",
+     "Thành công của đồng nghiệp cũng là thành công của bản thân mình và là thành công chung của cả Tập đoàn.",
+     "Hạnh phúc của Người Sun Group là trên những chặng đường cống hiến chứ không chỉ là đích đến."
+    ],
+    "answer": 1
+   },
+   {
+    "id": "c3-van-hoa-nq126-93",
+    "no": 93,
+    "text": "Nội dung nào sau đây KHÔNG thể hiện Tinh thần của Người Sun Group?",
+    "options": [
+     "Hạnh phúc của Người Sun Group là trên những chặng đường cống hiến chứ không chỉ là đích đến.",
+     "Sun Group không giữ người bằng tiền và không đón nhận những người đến với Tập đoàn chỉ vì tiền.",
+     "Thành công của đồng nghiệp cũng là thành công của bản thân mình và là thành công chung của cả Tập đoàn.",
+     "Thắng không kiêu, bại không nản"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "c3-van-hoa-nq126-94",
+    "no": 94,
+    "text": "Với triết lý về lòng yêu nước, hoạt động đầu tư và kinh doanh của Sun Group phải luôn đảm bảo được điều gì?",
+    "options": [
+     "Đảm bảo sự phát triển của Sun Group là luôn tối đa hóa lợi nhuận nằm nâng cao chất lượng sống của người dân, làm đẹp, làm giàu cho Tổ Quốc.",
+     "Đảm bảo sự phát triển của Sun Group là luôn nhằm việc nâng cao chất lượng sống của người dân, làm đẹp, làm giàu cho Tổ Quốc.",
+     "Đảm bảo sự phát triển của Sun Group là luôn nhằm việc nâng cao vị thế đất nước, tối đa hóa lợi nhuận nằm nâng cao chất lượng sống của người dân, làm đẹp, làm giàu cho Tổ Quốc, góp phần làm cho mỗi con người không chỉ Sun Group mà là người Việt Nam luôn có thể tự hào khi bước ra thế giới.",
+     "Đảm bảo sự phát triển của Sun Group là luôn nhằm việc nâng cao vị thế đất nước, nâng cao chất lượng sống của người dân, làm đẹp, làm giàu cho Tổ quốc để mỗi con người – không chỉ Người Sun Group, mà là người Việt Nam luôn có thể tự hào khi bước ra thế giới."
+    ],
+    "answer": 3
+   },
+   {
+    "id": "c3-van-hoa-nq126-95",
+    "no": 95,
+    "text": "Trong nội dung về Tinh thần của Người Sun Group dưới đây, câu còn thiếu trong dấu ba chấm là gì? Với tinh thần “......”, Sun Group luôn xác định một tư tưởng “......” vì người Sun Group hiểu rằng, mỗi bước đi của Người Sun Group là những bước đi hạnh phúc nhằm thực hiện những mục tiêu và lý tưởng cao đẹp, nhân văn của bản thân và của Tập đoàn.",
+    "options": [
+     "Hạnh phúc của Người Sun Group là trên những chặng đường cống hiến chứ không chỉ là đích đến; Sun Group không giữ người bằng tiền và không đón nhận những người đến với Tập đoàn chỉ vì tiền.",
+     "Hạt giống tốt chỉ nảy mầm và phát triển khi có môi trường thuận lợi; Sun Group không giữ người bằng tiền và không đón nhận những người đến với Tập đoàn chỉ vì tiền.",
+     "Hạnh phúc của Người Sun Group là trên những chặng đường cống hiến chứ không chỉ là đích đến; Không có công việc tầm thường, chỉ có con người tầm thường.",
+     "Người Sun Group luôn phấn đấu trở thành “Hiền tài” thay vì “Người tài”; Hạt giống tốt chỉ nảy mầm và phát triển khi có môi trường thuận lợi."
+    ],
+    "answer": 0
+   },
+   {
+    "id": "c3-van-hoa-nq126-96",
+    "no": 96,
+    "text": "Với triết lý về sự hài hòa, hoạt động đầu tư và kinh doanh của Sun Group phải luôn đảm bảo được điều gì?",
+    "options": [
+     "Sự hài hòa giữa lợi ích doanh nghiệp và lợi ích cộng đồng, cân bằng giữa phát triển với bảo tồn, tôn trọng các giá trị của thiên nhiên và con người, khai thác hiệu quả tiềm năng thiên nhiên và hướng tới sự hài lòng tối đa của khách hàng.",
+     "Sự cân bằng giữa phát triển với bảo tồn, tôn trọng các giá trị của thiên nhiên và con người và hướng tới sự hài lòng của khách hàng.",
+     "Sự hài hòa giữa lợi ích doanh nghiệp và lợi ích cộng đồng, khai thác hiệu quả các giá trị của thiên nhiên và con người, và hướng tới sự hài lòng tối đa của khách hàng.",
+     "Sự hài hòa giữa lợi ích doanh nghiệp và lợi ích cộng đồng, cân bằng giữa phát triển với bảo tồn, tôn trọng các giá trị của thiên nhiên, con người và hướng tới sự hài lòng tối đa của khách hàng"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "c3-van-hoa-nq126-97",
+    "no": 97,
+    "text": "Nội dung nào sau đây thể hiện triết lý \"Đứng trên vai những người khổng lồ\" của Sun Group?",
+    "options": [
+     "Đảm bảo sự phát triển của mình luôn có sự đồng hành của những tập đoàn lớn, những cá nhân có tên tuổi và uy tín, các công trình luôn gắn với các thương hiệu lớn trên thế giới._x000D_",
+     "Đảm bảo sự phát triển của mình luôn có sự đồng hành của các cơ quan nhà nước và các Công ty/Tập đoàn lớn ở Việt Nam.",
+     "Đảm bảo sự phát triển của mình luôn có sự đồng hành của những người nổi tiếng, có uy tín trong mọi lĩnh vực trên thế giới.",
+     "Đảm bảo sự phát triển của mình luôn có sự đồng hành của những nhân sự tốt nhất thế giới trong các lĩnh vực mình tham gia."
+    ],
+    "answer": 0
+   },
+   {
+    "id": "c3-van-hoa-nq126-98",
+    "no": 98,
+    "text": "Nội dung sau đây thể hiện triết lý hoạt động nào của Sun Group? \"Đảm bảo sự phát triển của Sun Group là luôn nhằm việc nâng cao vị thế đất nước, nâng cao chất lượng sống của người dân, làm đẹp, làm giàu cho Tổ Quốc, góp phần làm cho mỗi con người không chỉ Sun Group mà là người Việt Nam luôn có thể tự hào khi bước ra thế giới.\"",
+    "options": [
+     "Triết lý về sự hài hòa",
+     "Triết lý về lòng yêu nước",
+     "Triết lý \"Đứng trên vai những người khổng lồ\"",
+     "Triết lý về tinh thần học hỏi"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "c3-van-hoa-nq126-99",
+    "no": 99,
+    "text": "Một trong các triết lý hoạt động của Sun Group là gì?",
+    "options": [
+     "Triết lý về sự nhân văn",
+     "Triết lý về sự khác biệt",
+     "Triết lý về sự hài hòa",
+     "Triết lý về sự sáng tạo"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "c3-van-hoa-nq126-100",
+    "no": 100,
+    "text": "Trong nội dung Triết lý về sự hài hòa: \"đảm bảo sự hài hòa giữa lợi ích doanh nghiệp và lợi ích cộng đồng, cân bằng giữa phát triển với ....., tôn trọng các giá trị của thiên nhiên, con người và hướng tới sự hài lòng tối đa của khách hàng\"; từ còn thiếu trong dấu ba chấm là gì?",
+    "options": [
+     "Gìn giữ",
+     "Khai thác",
+     "Bảo tồn",
+     "Tái tạo"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "c3-van-hoa-nq126-101",
+    "no": 101,
+    "text": "Hoạt động đầu tư và kinh doanh của Sun Group phải luôn đảm bảo được mấy triết lý?",
+    "options": [
+     "1",
+     "2",
+     "3",
+     "4"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "c3-van-hoa-nq126-102",
+    "no": 102,
+    "text": "Yêu cầu đối với Người Sun Group trong thời kỳ mới cần hội tụ những yếu tố gì?",
+    "options": [
+     "Phẩm chất - Năng lực - Sức khỏe.",
+     "Yêu nước - Lý tưởng - Khiêm nhường.",
+     "Nhân cách tốt - Ý thức tốt - Sức khỏe tốt.",
+     "Năng suất lao động cao - Sức khỏe tốt - Biết cảm nhận nghệ thuật."
+    ],
+    "answer": 0
+   },
+   {
+    "id": "c3-van-hoa-nq126-103",
+    "no": 103,
+    "text": "Nội dung nào sau đây KHÔNG PHẢI là triết lý hoạt động của Sun Group?",
+    "options": [
+     "Triết lý về sự nhân văn",
+     "Triết lý về lòng yêu nước",
+     "Triết lý về sự hài hòa",
+     "Triết lý \"Đứng trên vai những người khổng lồ\""
+    ],
+    "answer": 0
+   },
+   {
+    "id": "c3-van-hoa-nq126-104",
+    "no": 104,
+    "text": "Nội dung nào sau đây thể hiện một trong các yếu tố về Phẩm chất của Người Sun Group trong thời kì mới?",
+    "options": [
+     "Có tinh thần yêu nước, tự hào chia sẻ và hành động để gìn giữ những truyền thống của dân tộc Việt Nam: đoàn kết, cần cù, tiết kiệm, chịu khó, cầu tiến, ham học hỏi.",
+     "Khỏe mạnh về thể chất, có sức bền, sự dẻo dai, chịu được áp lực công việc cao, có thói quen rèn luyện thể dục thể thao đều đặn.",
+     "Tìm hiểu, lựa chọn thưởng thức nhằm nâng cao khả năng cảm thụ về các loại hình nghệ thuật.",
+     "Lạc quan, tích cực, luôn tràn đầy hi vọng, niềm vui và hạnh phúc."
+    ],
+    "answer": 0
+   },
+   {
+    "id": "c3-van-hoa-nq126-105",
+    "no": 105,
+    "text": "Nội dung sau đây thể hiện yếu tố nào trong Phẩm chất của Người Sun Group trong thời kì mới? \"Có lý tưởng, khát vọng, kỷ luật, trách nhiệm, quyết tâm thay đổi những gì mình đang có, hướng tới những thay đổi vượt bậc và những giá trị tốt đẹp hơn.\"",
+    "options": [
+     "Yêu nước.",
+     "Lý tưởng.",
+     "Khiêm nhường.",
+     "Nhân cách tốt."
+    ],
+    "answer": 1
+   },
+   {
+    "id": "c3-van-hoa-nq126-106",
+    "no": 106,
+    "text": "Từ còn thiếu trong dấu ba chấm sau đây là gì? \"Triết lý ….: Đảm bảo sự phát triển của mình luôn có sự đồng hành của những tập đoàn lớn, những cá nhân có tên tuổi và uy tín, các công trình luôn gắn với các thương hiệu lớn trên thế giới.\"",
+    "options": [
+     "Về lòng yêu nước",
+     "Về sự hài hòa",
+     "Đứng trên vai người khổng lồ",
+     "Phát triển bền vững"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "c3-van-hoa-nq126-107",
+    "no": 107,
+    "text": "Đối với triết lý Xây dựng và phát triển văn hóa, Sun Group kiên định với các yếu tố nào?",
+    "options": [
+     "Kế thừa; Hội nhập; Bản sắc; Lan tỏa",
+     "Đẳng cấp; Chất lượng; Khác biệt",
+     "Trung thành và Trung thực; Nhiệt tâm; Trình độ chuyên môn cao",
+     "Yêu nước; Hài hòa; Đứng trên vai người khổng lồ"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "c3-van-hoa-nq126-108",
+    "no": 108,
+    "text": "Văn hóa Sun Group được chắt lọc và kế thừa từ những giá trị tốt đẹp của văn hóa nào?",
+    "options": [
+     "Văn hóa các nước Châu Á",
+     "Văn hóa mới trong thời kỳ hội nhập của Việt Nam",
+     "Văn hóa đa dạng của các nước trên thế giới",
+     "Văn hóa truyền thống dân tộc Việt Nam"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "c3-van-hoa-nq126-109",
+    "no": 109,
+    "text": "Yêu cầu về Năng lực (Kiến thức – Kỹ năng – Kinh nghiệm) của Người Sun Group trong thời kì mới bao gồm những yếu tố nào?",
+    "options": [
+     "Năng lực cạnh tranh - Năng suất lao động - Tư duy hội nhập - Ý thức vì cộng đồng - Cảm thụ nghệ thuật.",
+     "Năng lực cạnh tranh - Tư duy hội nhập - Cảm thụ nghệ thuật.",
+     "Năng suất lao động cao - Sức khỏe tốt - Biết cảm nhận nghệ thuật.",
+     "Nhân cách tốt - Ý thức tốt - Sức khỏe tốt."
+    ],
+    "answer": 0
+   },
+   {
+    "id": "c3-van-hoa-nq126-110",
+    "no": 110,
+    "text": "Nội dung sau đây thể hiện yếu tố nào trong Năng lực của Người Sun Group trong thời kì mới? \"Vượt trội trong năng lực chuyên môn, hướng đến đa năng, có thể làm nhiều việc với hiệu quả cao; có năng suất lao động cao, ngang bằng nước tiên tiến nhất trong khu vực Đông Nam Á.\"",
+    "options": [
+     "Năng lực cạnh tranh.",
+     "Năng suất lao động.",
+     "Ý thức vì cộng đồng.",
+     "Cảm thụ nghệ thuật."
+    ],
+    "answer": 1
+   },
+   {
+    "id": "c3-van-hoa-nq126-111",
+    "no": 111,
+    "text": "Văn hóa Sun Group đã, đang và sẽ tiếp tục được bổ sung các tiêu chí văn hóa nào nhằm đảm bảo sự hội nhập của Sun Group cũng như Người Sun Group với môi trường phát triển năng động, văn minh và hiện đại của thế giới?",
+    "options": [
+     "Văn hóa hiện đại",
+     "Văn hóa truyền thống",
+     "Văn hóa nước ngoài",
+     "Văn hóa học hỏi"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "c3-van-hoa-nq126-112",
+    "no": 112,
+    "text": "Nội dung sau đây thể hiện yếu tố nào trong Năng lực của Người Sun Group trong thời kì mới? \"Thích nghi, nắm bắt rõ văn hóa quốc gia, vùng miền, tổ chức để gia tăng cơ hội hội nhập; thông hiểu và thuần thục ít nhất một ngoại ngữ thông dụng để nâng cao khả năng hội nhập\"",
+    "options": [
+     "Năng lực cạnh tranh.",
+     "Năng suất lao động.",
+     "Tư duy hội nhập.",
+     "Cảm thụ nghệ thuật."
+    ],
+    "answer": 2
+   },
+   {
+    "id": "c3-van-hoa-nq126-113",
+    "no": 113,
+    "text": "Nội dung sau đây thể hiện yếu tố nào trong Năng lực của Người Sun Group trong thời kì mới? \"Tìm hiểu, lựa chọn thưởng thức nhằm nâng cao khả năng cảm thụ về các loại hình nghệ thuật.\"?",
+    "options": [
+     "Năng lực cạnh tranh.",
+     "Năng suất lao động.",
+     "Tư duy hội nhập.",
+     "Cảm thụ nghệ thuật."
+    ],
+    "answer": 3
+   },
+   {
+    "id": "c3-van-hoa-nq126-114",
+    "no": 114,
+    "text": "Yếu tố Lan tỏa trong Triết lý xây dựng và phát triển Văn hóa Sun Group được thể hiện ra sao?",
+    "options": [
+     "Không chỉ lan tỏa các giá trị tốt đẹp trong nội bộ Tập đoàn mà bằng những hành động cụ thể, góp phần lan tỏa những giá trị văn hóa tới đối tác, cộng đồng, hướng tới mục tiêu xây dựng xã hội ngày một tốt đẹp và nhân văn hơn",
+     "Không chỉ lan toả các giá trị tốt đẹp trong nội bộ Tập đoàn mà bằng những hành động cụ thể góp phần xây dựng xã hội ngày một tốt đẹp, nhân văn hơn.",
+     "Lan tỏa các giá trị tốt đẹp trong nội bộ Tập đoàn, hướng tới mục tiêu xây dựng xã hội ngày một tốt đẹp hơn.",
+     "Lan tỏa các giá trị tốt đẹp tới cộng đồng, hướng tới mục tiêu xây dựng xã hội ngày một tốt đẹp, nhân văn hơn."
+    ],
+    "answer": 0
+   },
+   {
+    "id": "c3-van-hoa-nq126-115",
+    "no": 115,
+    "text": "\"Văn hóa Sun Group được … từ những giá trị tốt đẹp của văn hóa truyền thống dân tộc Việt Nam.\"; từ còn thiếu trong dấu ba chấm là gì?",
+    "options": [
+     "Kế thừa và phát huy",
+     "Sàng lọc và phát triển",
+     "Chắt lọc và kế thừa",
+     "Chọn lọc và gìn giữ"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "c3-van-hoa-nq126-116",
+    "no": 116,
+    "text": "Nội dung nào sau đây thể hiện yêu cầu về Năng suất lao động của Người Sun Group trong thời kì mới?",
+    "options": [
+     "Hiểu, cập nhật và tận dụng những thay đổi về công nghệ của thế giới vào các hoạt động sống và làm việc.",
+     "Thông hiểu và thuần thục ít nhất một ngoại ngữ thông dụng để nâng cao khả năng hội nhập.",
+     "Vượt trội trong năng lực chuyên môn, hướng đến đa năng, có thể làm nhiều việc với hiệu quả cao",
+     "Tìm hiểu, lựa chọn thưởng thức nhằm nâng cao khả năng cảm thụ về các loại hình nghệ thuật."
+    ],
+    "answer": 2
+   },
+   {
+    "id": "c3-van-hoa-nq126-117",
+    "no": 117,
+    "text": "\"Người Sun Group không bằng lòng với những thành công đã đạt được, khao khát phá vỡ những kỷ lục của chính mình, công trình sau tốt hơn công trình trước.\"; đây là một trong các nội dung của yếu tố văn hóa nào của Sun Group?",
+    "options": [
+     "Kế thừa",
+     "Hội nhập",
+     "Lan tỏa",
+     "Bản sắc"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "c3-van-hoa-nq126-118",
+    "no": 118,
+    "text": "Bên cạnh các yếu tố: Kế thừa - Hội nhập - Bản sắc, Văn hóa Sun Group còn kiên định với yếu tố nào?",
+    "options": [
+     "Nhân văn",
+     "Lan tỏa",
+     "Trung thực",
+     "Nhiệt tâm"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "c3-van-hoa-nq126-119",
+    "no": 119,
+    "text": "Nội dung nào sau đây thể hiện Ý thức vì cộng đồng của Người Sun Group trong thời kì mới?",
+    "options": [
+     "Tư duy phát triển bền vững, hội nhập quốc tế, gìn giữ tài nguyên, bảo vệ môi trường sống",
+     "Có tinh thần yêu nước, tự hào chia sẻ và hành động để gìn giữ những truyền thống của dân tộc Việt Nam",
+     "Có khả năng lan tỏa, truyền cảm hứng và gắn kết sức mạnh của đội ngũ.",
+     "Tìm hiểu, lựa chọn thưởng thức nhằm nâng cao khả năng cảm thụ về các loại hình nghệ thuật."
+    ],
+    "answer": 0
+   },
+   {
+    "id": "c3-van-hoa-nq126-120",
+    "no": 120,
+    "text": "\"Quyết liệt tự phê và phê một cách trực diện đối với những điểm yếu của bản thân và đồng nghiệp để cùng trưởng thành\"; đây là một trong các nội dung của yếu tố văn hóa nào của Sun Group?",
+    "options": [
+     "Bản sắc",
+     "Lan tỏa",
+     "Hội nhập",
+     "Kế thừa"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "c3-van-hoa-nq126-121",
+    "no": 121,
+    "text": "Nội dung nào sau đây thể hiện yêu cầu về Năng lực cảm thụ nghệ thuật của Người Sun Group trong thời kì mới?",
+    "options": [
+     "Hiểu, cập nhật và tận dụng những thay đổi về công nghệ của thế giới vào các hoạt động sống và làm việc.",
+     "Có năng suất lao động cao, ngang bằng nước tiên tiến nhất trong khu vực Đông Nam Á.",
+     "Thích nghi, nắm bắt rõ văn hóa quốc gia, vùng miền, tổ chức để gia tăng cơ hội hội nhập.",
+     "Tìm hiểu, lựa chọn thưởng thức nhằm nâng cao khả năng cảm thụ về các loại hình nghệ thuật"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "c3-van-hoa-nq126-122",
+    "no": 122,
+    "text": "“Văn hóa Sun Group đã, đang và sẽ tiếp tục được bổ sung các tiêu chí văn hóa hiện đại, nhằm đảm bảo sự hội nhập của Sun Group cũng như Người Sun Group với môi trường phát triển năng động, văn minh và hiện đại của thế giới.” Đây là nội dung của yếu tố văn hóa nào của Sun Group?",
+    "options": [
+     "Kế thừa",
+     "Hội nhập",
+     "Lan tỏa",
+     "Bản sắc"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "c3-van-hoa-nq126-123",
+    "no": 123,
+    "text": "\"Lạc quan, tích cực, luôn tràn đầy hi vọng, niềm vui và hạnh phúc.\" Nội dung này thể hiện yếu tố gì về Sức khỏe của Người Sun Group trong thời kì mới?",
+    "options": [
+     "Thể chất khỏe mạnh.",
+     "Tinh thần khỏe mạnh.",
+     "Lối sống lành mạnh.",
+     "Tinh thần thể dục thể thao"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "c3-van-hoa-nq126-124",
+    "no": 124,
+    "text": "“Trách nhiệm của Sun Group, không chỉ lan tỏa các giá trị tốt đẹp trong nội bộ Tập đoàn mà bằng những hành động cụ thể, góp phần lan tỏa những giá trị văn hóa tới đối tác, cộng đồng, hướng tới mục tiêu xây dựng xã hội ngày một tốt đẹp và nhân văn hơn” Đây là nội dung của yếu tố văn hóa nào của Sun Group?",
+    "options": [
+     "Kế thừa",
+     "Hội nhập",
+     "Lan tỏa",
+     "Bản sắc"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "c3-van-hoa-nq126-125",
+    "no": 125,
+    "text": "\"Không hút thuốc, hạn chế rượu bia, biết thụ hưởng và cân bằng công việc và cuộc sống.\" - là một trong các yêu cầu của yếu tố nào trong Sức khỏe của Người Sun Group trong thời kỳ mới?",
+    "options": [
+     "Nhân cách tốt.",
+     "Tư duy hội nhập.",
+     "Lối sống lành mạnh.",
+     "Ý thức vì cộng đồng."
+    ],
+    "answer": 2
+   },
+   {
+    "id": "c3-van-hoa-nq126-126",
+    "no": 126,
+    "text": "\"Văn hóa Sun Group được chắt lọc, kế thừa những giá trị tốt đẹp của văn hóa truyền thống dân tộc Việt Nam.\" Đây là nội dung của yếu tố văn hóa nào của Sun Group?",
+    "options": [
+     "Kế thừa",
+     "Hội nhập",
+     "Lan tỏa",
+     "Bản sắc"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "c3-van-hoa-nq126-127",
+    "no": 127,
+    "text": "CBLĐ/CBQL Sun Group bên cạnh việc là tấm gương về tinh thần kỷ luật, thể hiện rõ nét vai trò/trách nhiệm của người đứng đầu; biết lắng nghe, khích lệ, truyền cảm hứng để đội ngũ cùng chung vai góp sức đạt mục tiêu chung thì còn cần thể hiện điều gì?",
+    "options": [
+     "Là niềm tin - chỗ dựa cho nhân viên, bao bọc cho nhân viên nếu mắc lỗi sai; động viên đội ngũ khi nỗ lực hết sức mà kết quả chưa tốt",
+     "Là tấm gương về năng lực chuyên môn vượt trội để có thể hướng dẫn cho nhân viên những kỹ thuật sâu trong chuyên môn mà nhân viên chưa giỏi",
+     "Là chỗ dựa cho nhân viên - lực đẩy cho sự phát triển của tổ chức",
+     "Là niềm tin - chỗ dựa cho nhân viên, luôn thể hiện sự nhân văn, yêu thương với CBNV trong mọi hoàn cảnh"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "c3-van-hoa-nq126-128",
+    "no": 128,
+    "text": "Người Sun Group luôn sống khiêm nhường, thực chất, giản dị với triết lý nào?",
+    "options": [
+     "Thành công của đồng nghiệp cũng là thành công của bản thân mình và là thành công chung của cả Tập đoàn.",
+     "Hạt giống tốt chỉ nảy mầm và phát triển khi có môi trường thuận lợi.",
+     "Hạnh phúc của Người Sun Group là trên những chặng đường cống hiến chứ không chỉ là đích đến.",
+     "Ngước lên cao để thấy mình còn thấp, nhìn xuống thấp để biết mình chưa cao."
+    ],
+    "answer": 3
+   },
+   {
+    "id": "c3-van-hoa-nq126-129",
+    "no": 129,
+    "text": "Người Sun Group phấn đấu trở thành “Hiền Tài” thay vì “Người tài”; đảm bảo hội tụ đủ các giá trị cốt lõi “Trung thành và trung thực – Nhiệt tâm – Trình độ chuyên môn cao” và cần thể hiện điều gì?",
+    "options": [
+     "Thể hiện khả năng lan tỏa, truyền cảm hứng mọi lúc, mọi nơi",
+     "Thể hiện các giá trị cốt lõi bằng hành vi cụ thể",
+     "Thể hiện tinh thần sẻ chia, thông cảm với các hạn chế và yếu điểm của đồng nghiệp",
+     "Thể hiện khả năng cảm thụ về các loại hình nghệ thuật"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "c3-van-hoa-nq126-130",
+    "no": 130,
+    "text": "Người Sun Group xác định, “Sun Group là tập thể của những người con yêu nước”, theo đó, mỗi cá nhân phấn đấu học hỏi và nâng cấp bản thân, phấn đấu trở thành hình mẫu nào?",
+    "options": [
+     "Đại sứ Văn hóa Sun Group",
+     "Cán bộ nguồn",
+     "Người Việt Nam mới",
+     "CBLĐ/CBQL cấp 2+"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "c3-van-hoa-nq126-131",
+    "no": 131,
+    "text": "Nội dung nào sau đây thể hiện Tư duy hội nhập của Người Sun Group trong thời kì mới?",
+    "options": [
+     "Có năng suất lao động cao, ngang bằng nước tiên tiến nhất trong khu vực Đông Nam Á.",
+     "Thích nghi, nắm bắt rõ văn hóa quốc gia, vùng miền, tổ chức để gia tăng cơ hội hội nhập.",
+     "Có lối sống lành mạnh, không hút thuốc, hạn chế rượu bia, biết thụ hưởng và cân bằng công việc và cuộc sống.",
+     "Có khả năng lan tỏa, truyền cảm hứng và gắn kết sức mạnh của đội ngũ."
+    ],
+    "answer": 1
+   },
+   {
+    "id": "c3-van-hoa-nq126-132",
+    "no": 132,
+    "text": "Nội dung nào sau đây thể hiện yếu tố Lan tỏa trong Triết lý xây dựng văn hóa của Sun Group?",
+    "options": [
+     "Người Sun Group luôn chủ động lan tỏa các giá trị tốt đẹp đó tới đồng nghiệp để cùng nhau xây dựng tập thể Người Sun Group là đại diện của Người Việt Nam mới",
+     "Không chỉ lan tỏa các giá trị tốt đẹp trong nội bộ Tập đoàn mà bằng những hành động cụ thể, góp phần lan tỏa những giá trị văn hóa tới đối tác, cộng đồng, hướng tới mục tiêu xây dựng xã hội ngày một tốt đẹp và nhân văn hơn",
+     "Góp phần nâng cao vị thế đất nước, nâng cao chất lượng sống của người dân, làm đẹp, làm giàu cho Tổ quốc",
+     "Tiên phong trong việc xây dựng văn hóa du lịch: văn minh, chuyên nghiệp và nhân văn ở Việt Nam"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "c3-van-hoa-nq126-133",
+    "no": 133,
+    "text": "Nội dung sau đây thể hiện yếu tố nào trong Phẩm chất của Người Sun Group trong thời kì mới? \"Sống ngay thẳng, trung thực, lương thiện, yêu thương và quan tâm chân thành đến những người xung quanh.\"",
+    "options": [
+     "Nhân cách tốt",
+     "Nhân văn",
+     "Khiêm nhường",
+     "Yêu nước"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "c3-van-hoa-nq126-134",
+    "no": 134,
+    "text": "Thấm nhuần triết lý “Hạt giống tốt chỉ nảy mầm và phát triển khi có môi trường thuận lợi”, Sun Group hướng tới xây dựng Môi trường làm việc như thế nào?",
+    "options": [
+     "Môi trường làm việc Văn hóa – Nhân văn song hành với Trách nhiệm – Kỷ luật",
+     "Môi trường làm việc văn hóa - nhân văn song hành cùng trung thành, gắn bó",
+     "Môi trường làm việc đề cao sáng tạo và linh hoạt",
+     "Môi trường làm việc áp lực và hiệu quả cao"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "c3-van-hoa-nq126-135",
+    "no": 135,
+    "text": "Theo văn hóa Sun Group, nếu “Văn hóa” là sợi chỉ đỏ xuyên suốt, kết nối các Vùng/Khối/Ban chức năng và các Đơn vị thành viên Sun Group thì \"Tư tưởng\" được coi là gì trong việc định hướng phát triển?",
+    "options": [
+     "Sợi chỉ đỏ",
+     "Kim chỉ nam",
+     "Hoa tiêu",
+     "Điều kỳ diệu"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "c3-van-hoa-nq126-136",
+    "no": 136,
+    "text": "Theo Chương 3 nghị quyết 126, Điền vào chỗ trống: Người Sun Group tin tưởng vào những việc mình làm, ____ và thúc đẩy người khác làm việc và sống tốt hơn.",
+    "options": [
+     "Giám sát",
+     "Truyền cảm hứng",
+     "Hỗ trợ",
+     "Quản lý"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "c3-van-hoa-nq126-137",
+    "no": 137,
+    "text": "Yếu tố nào nói về việc Người Sun Group không tự mãn mà luôn khao khát phá vỡ kỷ lục của chính mình, công trình sau tốt hơn công trình trước?",
+    "options": [
+     "Kế thừa",
+     "Hội nhập",
+     "Bản sắc",
+     "Lan tỏa"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "c3-van-hoa-nq126-138",
+    "no": 138,
+    "text": "Tinh thần của Người Sun Group về hạnh phúc được thể hiện như thế nào?",
+    "options": [
+     "Sungroup là tập thể những người con yêu nước",
+     "Hạnh phúc là trên những chặng đường cống hiến chứ không chỉ là đích đến",
+     "Không có công việc tầm thường, chỉ có con người tầm thường",
+     "Hạnh phúc là được ghi nhận"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "c3-van-hoa-nq126-139",
+    "no": 139,
+    "text": "Môi trường làm việc Sun Group hướng tới xây dựng là gì?",
+    "options": [
+     "Năng động – Sáng tạo song hành với Hiệu quả – Tốc độ",
+     "Văn hóa – Nhân văn song hành với Trách nhiệm – Kỷ luật",
+     "Chuyên nghiệp – Hiện đại song hành với Số hóa",
+     "Mở – Kết nối song hành với Đổi mới"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "c3-van-hoa-nq126-140",
+    "no": 140,
+    "text": "Trong môi trường làm việc Sun Group, yếu tố nào được xác định là thước đo cho sự đóng góp của mỗi người?",
+    "options": [
+     "Văn hóa Sun Group",
+     "Giá trị nhân văn",
+     "Tính kỷ luật, ý thức trách nhiệm, kết quả cuối cùng",
+     "Thâm niên công tác"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "c3-van-hoa-nq126-141",
+    "no": 141,
+    "text": "Nhóm Phẩm chất của Người Sun Group thời kỳ mới gồm những yếu tố nào?",
+    "options": [
+     "Yêu nước, Lý tưởng, Khiêm nhường, Nhân cách tốt",
+     "Cạnh tranh, Năng suất, Hội nhập",
+     "Thể chất, Tinh thần, Lối sống",
+     "Trung thực, Nhiệt tâm, Chuyên môn"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "c3-van-hoa-nq126-142",
+    "no": 142,
+    "text": "Phẩm chất nào gắn với việc có khát vọng, kỷ luật, trách nhiệm, quyết tâm thay đổi hướng tới giá trị tốt đẹp hơn?",
+    "options": [
+     "Yêu nước",
+     "Lý tưởng",
+     "Khiêm nhường",
+     "Nhân cách tốt"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "c3-van-hoa-nq126-143",
+    "no": 143,
+    "text": "Phẩm chất Khiêm nhường của Người Sun Group đòi hỏi kiên quyết đấu tranh với những hiện tượng nào?",
+    "options": [
+     "Tham nhũng, lãng phí",
+     "Tự diễn biến, tự chuyển hóa, bệnh ngôi sao, bệnh sống ảo",
+     "Quan liêu, cửa quyền",
+     "Trì trệ, bảo thủ"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "c3-van-hoa-nq126-144",
+    "no": 144,
+    "text": "Năng lực nào hướng tới đạt năng suất lao động cao, ngang bằng nước tiên tiến nhất khu vực Đông Nam Á?",
+    "options": [
+     "Năng lực cạnh tranh",
+     "Năng suất lao động",
+     "Tư duy hội nhập",
+     "Ý thức vì cộng đồng"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "c3-van-hoa-nq126-145",
+    "no": 145,
+    "text": "Năng lực nào gắn với tư duy phát triển bền vững, gìn giữ tài nguyên, bảo vệ môi trường sống?",
+    "options": [
+     "Năng lực cạnh tranh",
+     "Tư duy hội nhập",
+     "Ý thức vì cộng đồng",
+     "Cảm thụ nghệ thuật"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "c3-van-hoa-nq126-146",
+    "no": 146,
+    "text": "Đâu KHÔNG thuộc nhóm Năng lực của Người Sun Group thời kỳ mới?",
+    "options": [
+     "Năng lực cạnh tranh",
+     "Tư duy hội nhập",
+     "Lối sống lành mạnh",
+     "Cảm thụ nghệ thuật"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "c3-van-hoa-nq126-147",
+    "no": 147,
+    "text": "Lối sống lành mạnh của Người Sun Group bao gồm yêu cầu nào?",
+    "options": [
+     "Ăn chay và tập gym",
+     "Không hút thuốc, hạn chế rượu bia, biết hưởng thụ và cân bằng công việc và cuộc sống",
+     "Ngủ đủ giấc",
+     "Đi bộ mỗi ngày"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "c3-van-hoa-nq126-148",
+    "no": 148,
+    "text": "Nội dung sau đây thể hiện giá trị cốt lõi nào đối với Người Sun Group: “Trung thực, chính trực, kiên định trong công việc và cuộc sống\"?",
+    "options": [
+     "Trung thành và trung thực.",
+     "Trình độ chuyên môn cao.",
+     "Không thể hiện giá trị cốt lõi nào đối với Người Sun Group.",
+     "Nhiệt tâm."
+    ],
+    "answer": 0
+   },
+   {
+    "id": "c3-van-hoa-nq126-149",
+    "no": 149,
+    "text": "Nội dung sau đây thể hiện giá trị cốt lõi nào đối với Tập đoàn Sun Group: \"Phát triển hướng tới những thế hệ mai sau, nuôi dưỡng và gìn giữ môi trường sống ổn định, xanh, sạch và văn minh\"?",
+    "options": [
+     "Chất lượng",
+     "Khác biệt",
+     "Đẳng cấp",
+     "Không thể hiện giá trị cốt lõi nào đối với Tập đoàn"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "c3-van-hoa-nq126-150",
+    "no": 150,
+    "text": "Nội dung nào sau đây KHÔNG thể hiện sứ mệnh Sun Group?",
+    "options": [
+     "Tiên phong trong việc xây dựng văn hóa du lịch: văn minh, chuyên nghiệp và nhân văn ở Việt Nam.",
+     "Góp phần xây dựng Người Việt Nam mới với phẩm chất, năng lực và sức khỏe bắt kịp thời cuộc.",
+     "Tìm đến những vùng đất giàu tiềm năng nhưng chưa được khai thác đúng tầm, làm thay đổi những vùng đất ấy, kiến tạo và đóng góp cho xã hội những công trình, sản phẩm/dịch vụ có đẳng cấp chất lượng vượt trội, trường tồn theo thời gian.",
+     "Góp phần nâng cao vị thế đất nước, nâng cao chất lượng sống của người dân, làm đẹp, làm giàu cho Tổ quốc và đưa Việt Nam trở thành điểm đến hấp dẫn của thế giới."
+    ],
+    "answer": 0
+   },
+   {
+    "id": "c3-van-hoa-nq126-151",
+    "no": 151,
+    "text": "Nội dung nào sau đây thể hiện giá trị cốt lõi \"Nhiệt tâm\" đối với Người Sun Group?",
+    "options": [
+     "Trung thực, chính trực, kiên định trong công việc và cuộc sống",
+     "Công bằng, nhân văn trong mọi việc; lắng nghe, đồng cảm, giúp đỡ, bảo vệ đồng nghiệp chân thành và không ngần ngại",
+     "Hết lòng hỗ trợ, động viên đồng nghiệp với tinh thần trách nhiệm vì tập thể và vì cộng đồng",
+     "Quyết liệt tự phê và phê một cách trực diện những điểm yếu của bản thân và đồng nghiệp để cùng trưởng thành"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "c3-van-hoa-nq126-152",
+    "no": 152,
+    "text": "Việc đồng hành đưa Michelin Guide tới Việt Nam đã thể hiện triết lý hoạt động nào của Sun Group?",
+    "options": [
+     "Triết lý xây dựng và phát triển văn hóa; Triết lý về lòng yêu nước",
+     "Triết lý \"Đứng trên vai người khổng lồ”; Triết lý về lòng yêu nước",
+     "Triết lý về sự khác biệt; Triết lý đứng trên vai người khổng lồ",
+     "Triết lý \"Đứng trên vai người khổng lồ”; Triết lý phát triển bền vững"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "c3-van-hoa-nq126-153",
+    "no": 153,
+    "text": "Môi trường làm việc Sun Group bên cạnh việc xác định lấy Văn hóa Sun Group là nền tảng, Giá trị nhân văn là sợi dây kết nối thì thước đo cho sự đóng góp của mỗi Người Sun Group là gì?",
+    "options": [
+     "Tính kỷ luật và khả năng lan tỏa, truyền cảm hứng",
+     "Đáp ứng các tiêu chuẩn về năng lực chuyên môn, năng lực cốt lõi",
+     "Thâm niên làm việc của CBNV",
+     "Tính kỷ luật, ý thức trách nhiệm, kết quả cuối cùng"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "c3-van-hoa-nq126-154",
+    "no": 154,
+    "text": "Nội dung sau đây thể hiện giá trị cốt lõi nào đối với Tập đoàn Sun Group: \"Tôn trọng và vì con người, mang lại giá trị phục vụ lợi ích, sự phát triển của cộng đồng và Người Sun Group\"?",
+    "options": [
+     "Chất lượng",
+     "Khác biệt",
+     "Không thể hiện giá trị cốt lõi nào đối với Tập đoàn",
+     "Đẳng cấp"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "c3-van-hoa-nq126-155",
+    "no": 155,
+    "text": "Trong thời gian qua Tập đoàn đẩy mạnh triển khai các hoạt động về nâng cao sức khỏe như rèn luyện thể dục thể thao, kiểm tra thể lực, không hút thuốc, chiến dịch Người Sun Group Khỏe thể chất - Sáng tâm hồn - Giàu tri thức,... Việc này nhằm hoàn thành điều gì?",
+    "options": [
+     "Sứ mệnh Sun Group",
+     "Lý tưởng Sun Group",
+     "Giá trị cốt lõi Đẳng cấp",
+     "Giá trị cốt lõi Khác biệt"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "c3-van-hoa-nq126-156",
+    "no": 156,
+    "text": "Nội dung sau đây thể hiện yếu tố nào trong Phẩm chất của Người Sun Group trong thời kì mới? \"Sống giản dị, thực chất; không khoa trương, kiêu ngạo, tự mãn; kiên quyết đấu tranh với hiện tượng tự diễn biến, tự chuyển hóa, bệnh ngôi sao, bệnh sống ảo để hướng tới kết quả thực chất.\"",
+    "options": [
+     "Khiêm nhường",
+     "Thực chất",
+     "Nhân cách tốt",
+     "Đạo đức tốt"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "c3-van-hoa-nq126-157",
+    "no": 157,
+    "text": "Trong nội dung Tinh thần của Người Sun Group sau đây, từ còn thiếu trong dấu ba chấm là gì? \"Hạnh phúc của Người Sun Group là trên những chặng đường cống hiến chứ... là đích đến.\"",
+    "options": [
+     "Không nhất định",
+     "Không cần",
+     "Không chỉ",
+     "Không phải"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "c3-van-hoa-nq126-158",
+    "no": 158,
+    "text": "Nội dung nào sau đây thể hiện giá trị cốt lõi \"Khác biệt\" của Tập đoàn Sun Group?",
+    "options": [
+     "Tôn trọng và vì con người, mang lại giá trị phục vụ lợi ích, sự phát triển của cộng đồng và Người Sun Group.",
+     "Đảm bảo sự hài hòa giữa lợi ích doanh nghiệp và lợi ích cộng đồng, cân bằng giữa phát triển với bảo tồn.",
+     "Góp phần nâng cao vị thế đất nước, nâng cao chất lượng sống của người dân, làm đẹp, làm giàu cho Tổ quốc.",
+     "Táo bạo tìm kiếm những cơ hội để làm vượt trội những gì người khác không làm, không dám làm hoặc không thể làm để tạo ra những công trình có giá trị văn hóa vật thể và phi vật thể trường tồn theo thời gian."
+    ],
+    "answer": 3
+   },
+   {
+    "id": "c3-van-hoa-nq126-159",
+    "no": 159,
+    "text": "Người Sun Group hiểu rằng, mỗi bước đi của Người Sun Group là những bước đi hạnh phúc nhằm thực hiện những mục tiêu và lý tưởng cao đẹp, nhân văn của bản thân và của Tập đoàn vì vậy Người Sun Group luôn xác định một tư tưởng gì?",
+    "options": [
+     "Sun Group không giữ người bằng tiền và không đón nhận những người đến với Tập đoàn chỉ vì tiền",
+     "Thành công của đồng nghiệp cũng là thành công của bản thân mình và là thành công chung của cả Tập đoàn",
+     "Sun Group là tập thể của những người con yêu nước",
+     "Không có công việc tầm thường, chỉ có con người tầm thường"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "c3-van-hoa-nq126-160",
+    "no": 160,
+    "text": "Theo giá trị cốt lõi Trung thành và trung thực của Người Sun Group, khi được giao thực hiện một nhiệm vụ với yêu cầu cụ thể về deadline hoàn thành; sự tuân thủ và trách nhiệm của người nhận nhiệm vụ thể hiện qua điều gì?",
+    "options": [
+     "Hoàn thành đúng deadline và đạt chất lượng yêu cầu",
+     "Hoàn thành đạt chất lượng yêu cầu và đảm bảo có đầy đủ ý kiến của Đơn vị các cấp",
+     "Triển khai một cách sáng tạo, linh hoạt, đổi mới và hoàn thành đúng deadline",
+     "Hoàn thành trước deadline và đảm bảo có đầy đủ ý kiến của Đơn vị các cấp"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "c3-van-hoa-nq126-161",
+    "no": 161,
+    "text": "Mỗi Cán bộ Lãnh đạo và Quản lý Sun Group luôn chủ động rèn luyện phát triển bản thân, không ngừng trau dồi kỹ năng lãnh đạo, nâng cao năng lực thực thi để hướng tới điều gì?",
+    "options": [
+     "Theo đuổi và đạt kết quả cao nhất trong công việc",
+     "Góp phần xây dựng Người Việt Nam mới với phẩm chất, năng lực và sức khỏe bắt kịp thời cuộc.",
+     "Là tấm gương về tinh thần kỷ luật và năng lực lãnh đạo cho CBNV",
+     "Đáp ứng yêu cầu của Tập đoàn về năng lực lãnh đạo"
+    ],
+    "answer": 0
+   }
+  ],
+  "group": "Full Nghị quyết và Kiến thức chung"
+ },
+ {
+  "id": "c4-nvtt-2026",
+  "name": "C4 - NVTT 2026",
+  "questions": [
+   {
+    "id": "c4-nvtt-2026-1",
+    "no": 1,
+    "text": "Theo NVTT về công tác Kinh doanh 2026, yêu cầu chú trọng mở rộng và xúc tiến thị trường quốc tế trọng điểm nhằm gia tăng độ phủ và giá trị thương hiệu hướng đến những thị trường nào?",
+    "options": [
+     "Hàn Quốc, Trung Quốc & Đông Nam Á",
+     "Malaysia, Singapore & Hàn Quốc",
+     "Đông Bắc Á, Trung Đông và Châu Phi",
+     "Đông Bắc Á, Đông Nam Á, Ấn Độ, Nga và CIS"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "c4-nvtt-2026-2",
+    "no": 2,
+    "text": "Theo NVTT về công tác Kinh doanh 2026, vai trò của Hàng không trong hệ sinh thái Sun Group là gì?",
+    "options": [
+     "Là cầu nối đưa khách hàng tới các điểm đến trọng điểm của Tập đoàn",
+     "Phát triển thêm các tuyến bay quốc tế mới",
+     "Chú trọng tăng trưởng lượt khách, doanh thu",
+     "Mở rộng hợp tác với các hãng hàng không quốc tế"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "c4-nvtt-2026-3",
+    "no": 3,
+    "text": "Đâu KHÔNG là hành động then chốt của NVTT về công tác Kinh doanh 2026?",
+    "options": [
+     "Chú trọng triển khai hoạt động thâm canh cho từng mảng kinh doanh đảm bảo phù hợp với từng sản phẩm và phân khúc khách hàng",
+     "Khai thác hiệu quả hệ sinh thái Sun Group",
+     "Tăng cường các hoạt động quảng bá, truyền thông điểm đến và sản phẩm hệ sinh thái",
+     "Phát triển các nền tảng số nhằm tăng cường kết nối và nâng cao trỉa nghiệm đối tác, đại lý và kênh phân phối"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "c4-nvtt-2026-4",
+    "no": 4,
+    "text": "Theo NVTT về công tác Kinh doanh 2026, đâu là yêu cầu chú trọng thâm canh với mảng Hàng không, Y tế?",
+    "options": [
+     "Đảm bảo chất lượng dịch vụ cao cấp và ổn định, gia tăng tỷ lệ lấp đầy đối với các cơ sở du lịch nghỉ dưỡng",
+     "chú trọng tăng trưởng lượt khách, doanh thu (đặc biệt doanh thu ngoài vé, doanh thu show diễn)",
+     "Đảm bảo an toàn và chất lượng dịch vụ cao cấp xuyên suốt quá trình vận hành và phục vụ khách hàng",
+     "Triển khai hoạt động kinh doanh, vận hành tại các địa bàn trọng điểm theo kế hoạch được duyệt"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "c4-nvtt-2026-5",
+    "no": 5,
+    "text": "Theo NVTT về công tác Chuyển đổi số - Công nghệ 2026, yêu cầu xây dựng, chuẩn hóa và khai thác dữ liệu nhằm phục vụ mục đích nào?",
+    "options": [
+     "Hình thành tư duy làm việc dựa trên dữ liệu.",
+     "Tăng cường kết nối và nâng cao trải nghiệm đối tác.",
+     "Phục vụ quản trị, điều hành và ra quyết định; gia tăng giá trị dữ liệu phục vụ chiến lược phát triển dài hạn của Tập đoàn.",
+     "Thúc đẩy hiệu quả hoạt động kinh doanh."
+    ],
+    "answer": 2
+   },
+   {
+    "id": "c4-nvtt-2026-6",
+    "no": 6,
+    "text": "Đâu là hành động then chốt của NVTT về công tác Chuyển đổi số - Công nghệ 2026?",
+    "options": [
+     "Đẩy mạnh ứng dụng khoa học công nghệ, chuyển đổi số trong công tác phát triển dự án và đầu tư xây dựng",
+     "Quản lý và kiểm soát chi phí hiệu quả nhằm đảm bảo hoàn thành các chỉ tiêu tài chính, đồng thời thúc đẩy sự tăng trưởng bền vững",
+     "Phát triển các nền tảng số nhằm tăng cường kết nối và nâng cao trải nghiệm đối tác, đại lý và kênh phân phối",
+     "Nâng tầm trải nghiệm khách hàng bằng việc bổ sung các sản phẩm kinh doanh đẳng cấp, khác biệt đạt tiêu chuẩn quốc tế"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "c4-nvtt-2026-7",
+    "no": 7,
+    "text": "Theo NVTT công tác Chuyển đổi số & công nghệ 2026, CBNV được định hướng hình thành tư duy làm việc dựa trên những nền tảng nào?",
+    "options": [
+     "Kỷ luật, trách nhiệm, kết quả",
+     "Chất lượng, đẳng cấp, khác biệt",
+     "Dữ liệu, công nghệ, tự động hóa",
+     "Phân cấp, phân quyền, kiểm soát"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "c4-nvtt-2026-8",
+    "no": 8,
+    "text": "Theo NVTT công tác Chuyển đổi số & công nghệ 2026, Sun Group lấy đối tượng nào làm trung tâm khi kết nối trải nghiệm toàn hệ sinh thái?",
+    "options": [
+     "CBNV",
+     "Khách hàng",
+     "Đại lý",
+     "Đối tác"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "c4-nvtt-2026-9",
+    "no": 9,
+    "text": "Theo NVTT 2026, đội ngũ PTDA & ĐTXD được định hướng nâng cao năng lực thực thi theo hướng nào?",
+    "options": [
+     "Linh hoạt – tinh gọn – tối ưu nguồn lực",
+     "Tinh gọn – tinh nhuệ",
+     "Kỷ luật, đa năng đa nhiệm, học tập chủ động",
+     "Đồng bộ – hiện đại – linh hoạt"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "c4-nvtt-2026-10",
+    "no": 10,
+    "text": "Đâu là hành động chủ chốt trong NVTT về công tác PTDA & ĐTXD 2026?",
+    "options": [
+     "Đẩy mạnh số hóa toàn diện hoạt động kiểm soát",
+     "Thiết lập cơ chế kiểm soát, giám sát chủ động",
+     "Quản lý và kiểm soát chi phí hiệu quả",
+     "Thúc đẩy thực thi GTCL trong phát triển nguồn lực bền vững"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "c4-nvtt-2026-11",
+    "no": 11,
+    "text": "Theo NVTT về công tác PTDA & ĐTXD 2026, việc tích cực nghiên cứu và đưa vào vận hành các giải pháp kỹ thuật hiện đại, thân thiện với môi trường nhằm hướng tới điều gì?",
+    "options": [
+     "Hướng tới mô hình quản lý thông minh và bền vững",
+     "Giảm giấy tờ nội bộ, rút ngắn thời gian xử lý",
+     "Hoàn thiện trải nghiệm và năng lực số của CBNV",
+     "Gia tăng doanh thu ngắn hạn"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "c4-nvtt-2026-12",
+    "no": 12,
+    "text": "Theo NVTT về công tác PTDA & ĐTXD 2026, tập trung thúc đẩy công tác pháp lý và đầu tư xây dựng tại các dự án trọng tâm nhằm đảm bảo điều gì?",
+    "options": [
+     "Tăng cường bảo mật dữ liệu và an ninh mạng",
+     "Đảm bảo đúng tiến độ, chất lượng, đáp ứng nhu cầu phát triển trong ngắn và trung hạn",
+     "Gia tăng độ phủ thương hiệu",
+     "Nâng tầm trải nghiệm khách hàng"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "c4-nvtt-2026-13",
+    "no": 13,
+    "text": "Theo NVTT công tác Nhân sự 2026, Tập đoàn định hướng xây dựng môi trường làm việc hài hòa, đa dạng về những yếu tố nào?",
+    "options": [
+     "Vị trí công tác và ngành nghề",
+     "Vùng miền và nền tảng văn hóa",
+     "Thế hệ và quốc tịch",
+     "Chuyên môn và kinh nghiệm"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "c4-nvtt-2026-14",
+    "no": 14,
+    "text": "Theo NVTT về công tác Nhân sự 2026, yêu cầu quy hoạch và phát triển nguồn nhân lực phải phù hợp với yếu tố nào?",
+    "options": [
+     "Năng lực số của CBNV",
+     "Hoạt động kinh doanh - vận hành.",
+     "Chiến lược phát triển bền vững của Tập đoàn",
+     "Chiến lược ngắn hạn"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "c4-nvtt-2026-15",
+    "no": 15,
+    "text": "Theo NVTT về công tác Nhân sự 2026, mô hình tổ chức được thiết kế và vận hành theo định hướng nào?",
+    "options": [
+     "Đa năng - đa nhiệm.",
+     "Tập trung - chuyên sâu - công nghệ.",
+     "Mở rộng - tăng trưởng - đa ngành.",
+     "Linh hoạt - tinh gọn - tối ưu nguồn lực."
+    ],
+    "answer": 3
+   },
+   {
+    "id": "c4-nvtt-2026-16",
+    "no": 16,
+    "text": "Đâu là hành động chủ chốt trong NVTT về công tác Nhân sự 2026?",
+    "options": [
+     "Tiếp tục duy trì và củng cố công tác đối ngoại để có sự ủng hộ đa chiều từ các cấp chính quyền, chuyên gia và đối tác",
+     "Đẩy mạnh số hóa toàn diện công tác quản trị và vận hành nhân sự",
+     "Nâng cao vai trò Người đứng đầu trong việc chủ trì và chịu trách nhiệm cao nhất về công tác TTVH",
+     "Xây dựng môi trường \"Nói thật – Làm đúng – Báo cáo kịp thời\""
+    ],
+    "answer": 1
+   },
+   {
+    "id": "c4-nvtt-2026-17",
+    "no": 17,
+    "text": "Theo NVTT về công tác TTVH 2026, Đội ngũ nòng cốt triển khai văn hóa tại các đơn vị được xác định là lực lượng nào?",
+    "options": [
+     "Đội ngũ Đại sứ văn hóa và Truyền thông nội bộ kiêm nhiệm",
+     "Đội ngũ Hạt nhân Văn hóa",
+     "Các CBNV có thâm niên từ 3 năm trở lên",
+     "Đội ngũ CBLĐ/CBQL"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "c4-nvtt-2026-18",
+    "no": 18,
+    "text": "Đâu là hành động chủ chốt trong NVTT về công tác TTVH năm 2026?",
+    "options": [
+     "Tăng cường các hoạt động quảng bá, truyền thông điểm đến và sản phẩm hệ sinh thái.",
+     "Thúc đẩy thực thi giá trị cốt lõi trong phát triển nguồn nhân lực bền vững, phát huy tinh thần kỷ luật, đa năng đa nhiệm, học tập chủ động.",
+     "Thiết lập hệ thống công cụ kiểm soát, đánh giá mức độ trưởng thành văn hóa trên toàn Tập đoàn.",
+     "Đẩy mạnh đào tạo phổ cập nhằm nâng cao năng lực số, hình thành tư duy làm việc dựa trên dữ liệu, công nghệ, tự động hóa."
+    ],
+    "answer": 2
+   },
+   {
+    "id": "c4-nvtt-2026-19",
+    "no": 19,
+    "text": "Theo NVTT công tác TTVH 2026, các giá trị văn hóa Tập đoàn cần được thúc đẩy để thấm sâu và thể hiện ở đâu?",
+    "options": [
+     "Quản trị, điều hành và ra quyết định",
+     "Công việc, hành vi và đời sống hàng ngày",
+     "Đào tạo, truyền thông và đánh giá",
+     "Sản phẩm, dịch vụ và trải nghiệm"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "c4-nvtt-2026-20",
+    "no": 20,
+    "text": "Theo NVTT công tác TTVH 2026, ai có vai trò chủ trì và chịu trách nhiệm cao nhất về công tác Tư tưởng Văn hóa?",
+    "options": [
+     "Đại sứ Văn hóa",
+     "Truyền thông nội bộ kiêm nhiệm",
+     "Người đứng đầu",
+     "Ban Tư tưởng Văn hóa"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "c4-nvtt-2026-21",
+    "no": 21,
+    "text": "Theo NVTT công tác Thanh tra kiểm soát 2026, việc ra quyết định dựa trên dữ liệu và các chỉ số cảnh báo xu hướng nhằm mục tiêu gì?",
+    "options": [
+     "Tăng cường phòng ngừa và kiểm soát chủ động",
+     "Xác định trách nhiệm và xử lý sai phạm sau khi có kết luận kiểm tra",
+     "Bảo đảm hoàn thành các chỉ tiêu tài chính và thúc đẩy tăng trưởng bền vững",
+     "Ghi nhận hiệu quả thực thi văn hóa tại từng đơn vị và thúc đẩy cải tiến liên tục"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "c4-nvtt-2026-22",
+    "no": 22,
+    "text": "Nội dung nào sau đây là hành động then chốt của NVTT về công tác Thanh tra - Kiểm soát 2026?",
+    "options": [
+     "Xây dựng hệ thống đánh giá và đãi ngộ gắn với hiệu suất công việc và giá trị đóng góp.",
+     "Thiết lập cơ chế tự chịu trách nhiệm và bắt buộc đánh giá kiểm soát (CSA) tại Đơn vị",
+     "Thiết lập cơ chế kiểm soát, giám sát chủ động, đặc biệt chú trọng công tác kiểm soát rủi ro, chi phí nhằm hạn chế tối đa việc phát sinh gây chậm tiến độ, lãng phí.",
+     "Thiết lập hệ thống công cụ kiểm soát, đánh giá mức độ trưởng thành văn hóa trên toàn Tập đoàn."
+    ],
+    "answer": 1
+   },
+   {
+    "id": "c4-nvtt-2026-23",
+    "no": 23,
+    "text": "Theo NVTT công tác Thanh tra kiểm soát năm 2026, nguồn lực giám sát cần tập trung vào nhóm lĩnh vực trọng yếu nào?",
+    "options": [
+     "Đầu tư xây dựng, bất động sản, hàng không và y tế",
+     "Pháp lý dự án, Cung ứng, Công nghệ thông tin và Tài chính",
+     "Hàng không, Y tế, Đầu tư xây dựng",
+     "Pháp lý dự án, đầu tư xây dựng, Bất động sản và Cung ứng"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "c4-nvtt-2026-24",
+    "no": 24,
+    "text": "Trong NVTT về công tác Thanh tra kiểm soát năm 2026, môi trường kiểm soát được xây dựng theo định hướng nào?",
+    "options": [
+     "Kỷ luật – Trách nhiệm – Hiệu quả",
+     "Nói thật – Làm đúng – Báo cáo kịp thời",
+     "Tinh gọn – Độc lập – Chuyên sâu",
+     "Minh bạch – Chủ động – Kịp thời"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "c4-nvtt-2026-25",
+    "no": 25,
+    "text": "Nhằm khai thác hiệu quả hệ sinh thái Sun Group, lĩnh vực nào được xem là cầu nối đưa khách hàng tới các điểm đến trọng điểm của Tập đoàn?",
+    "options": [
+     "Bất động sản",
+     "Hàng không",
+     "Y tế",
+     "Du lịch"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "c4-nvtt-2026-26",
+    "no": 26,
+    "text": "Trong NVTT về công tác Chuyển đổi số và công nghệ năm 2026, việc hoàn thiện nền tảng, kiến trúc và hạ tầng công nghệ cần hoàn hiện theo hướng nào?",
+    "options": [
+     "Theo hướng tinh gọn - tinh nhuệ",
+     "Theo hướng đồng bộ, hiện đại, linh hoạt",
+     "Tinh gọn mô hình tổ chức",
+     "Chuẩn hóa công cụ kiểm soát"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "c4-nvtt-2026-27",
+    "no": 27,
+    "text": "Trong NVTT về công tác PTDA & ĐTXD năm 2026, việc đẩy mạnh ứng dụng khoa học công nghệ, chuyển đổi số trong công tác phát triển dự án nhằm hướng tới mô hình quản lý nào?",
+    "options": [
+     "Tập trung và hiện đại",
+     "Thông minh và bền vững",
+     "Linh hoạt và tinh gọn",
+     "Số hóa và tự động"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "c4-nvtt-2026-28",
+    "no": 28,
+    "text": "Theo NVTT về công tác Nhân sự năm 2026, việc thúc đẩy thực thi giá trị cốt lõi trong phát triển nguồn nhân lực bền vững nhằm phát huy tinh thần nào của Người Sun Group?",
+    "options": [
+     "Sáng tạo và đổi mới",
+     "Kỷ luật, đa năng đa nhiệm, học tập chủ động",
+     "Đoàn kết và hợp tác",
+     "Trách nhiệm và cống hiến"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "c4-nvtt-2026-29",
+    "no": 29,
+    "text": "Trong NVTT về công tác Thanh tra kiểm soát năm 2026, đâu là một trong các lĩnh vực trọng yếu được tổ chức giám sát theo định hướng tập trung nguồn lực?",
+    "options": [
+     "Nhân sự",
+     "Cung ứng",
+     "Marketing",
+     "Tài chính"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "c4-nvtt-2026-30",
+    "no": 30,
+    "text": "Đâu không phải là hành động chủ chốt tại NVTT về công tác kinh doanh năm 2026?",
+    "options": [
+     "Khai thác hiệu quả hệ sinh thái Sun Group,",
+     "Quản lý và kiểm soát chi phí hiệu quả",
+     "Nâng tầm trải nghiệm khách hàng",
+     "Đẩy mạnh ứng dụng khoa học công nghệ, chuyển đổi số"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "c4-nvtt-2026-31",
+    "no": 31,
+    "text": "Theo NVTT về công tác Kinh doanh, việc bổ sung các sản phẩm kinh doanh đẳng cấp, khác biệt đạt tiêu chuẩn quốc tế, chất lượng dịch vụ xứng tầm, đồng thời tối ưu các tiện ích bổ trợ nhằm mục đích gì?",
+    "options": [
+     "Khai thác hiệu quả hệ sinh thái Sun Group",
+     "Nâng tầm trải nghiệm khách hàng",
+     "Quản lý và kiểm soát chi phí hiệu quả",
+     "Tăng cường các hoạt động quảng bá, truyền thông điểm đến và sản phẩm hệ sinh thái"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "c4-nvtt-2026-32",
+    "no": 32,
+    "text": "Theo NVTT về công tác Chuyển đổi số & Công nghệ, việc triển khai các sáng kiến Chuyển đổi số, tập trung cá nhân hóa trải nghiệm, gia tăng mức độ hài lòng, gắn kết và giá trị vòng đời khách hàng hướng tới điều gì?",
+    "options": [
+     "Lấy khách hàng làm trung tâm, kết nối trải nghiệm toàn hệ sinh thái",
+     "Phát triển các nền tảng số nhằm tăng cường kết nối và nâng cao trải nghiệm đối tác",
+     "Hoàn thiện trải nghiệm và năng lực số của CBNV",
+     "Hoàn thiện nền tảng, kiến trúc và hạ tầng công nghệ"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "c4-nvtt-2026-33",
+    "no": 33,
+    "text": "Theo NVTT về công tác Chuyển đổi số & Công nghệ, hành động nào nhằm phục vụ quản trị, điều hành và ra quyết định; đồng thời mở rộng kết nối, gia tăng giá trị dữ liệu phục vụ chiến lược phát triển dài hạn của Tập đoàn?",
+    "options": [
+     "Hoàn thiện trải nghiệm và năng lực số của CBNV",
+     "Hoàn thiện nền tảng, kiến trúc và hạ tầng công nghệ",
+     "Tập trung xây dựng, chuẩn hóa và khai thác dữ liệu",
+     "Phát triển các nền tảng số nhằm tăng cường kết nối và nâng cao trải nghiệm đối tác"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "c4-nvtt-2026-34",
+    "no": 34,
+    "text": "Đâu không phải là nội dung của NVTT về công tác Phát triển & Đầu tư dự án năm 2026?",
+    "options": [
+     "Tích cực nghiên cứu và đưa vào vận hành các giải pháp kỹ thuật hiện đại, thân thiện với môi trường, hướng tới mô hình quản lý thông minh và bền vững.",
+     "Thiết lập cơ chế kiểm soát, giám sát chủ động, đặc biệt chú trọng công tác kiểm soát rủi ro, chi phí",
+     "Đảm bảo đúng tiến độ, chất lượng, đáp ứng nhu cầu phát triển trong dài hạn",
+     "Nghiên cứu, phát triển dự án tại các địa bàn mới và các dự án PPP"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "c4-nvtt-2026-35",
+    "no": 35,
+    "text": "Chương trình Happy Saturdays là minh chứng cụ thể hóa cho mục tiêu nào trong NVTT về công tác Nhân sự năm 2026?",
+    "options": [
+     "Thiết kế và vận hành mô hình tổ chức linh hoạt – tinh gọn – tối ưu nguồn lực",
+     "Quy hoạch và phát triển nguồn nhân lực phù hợp với chiến lược phát triển bền vững của Tập đoàn",
+     "Xây dựng hệ thống đánh giá và đãi ngộ gắn với hiệu suất công việc và giá trị đóng góp",
+     "Xây dựng môi trường làm việc hài hòa, đa dạng thế hệ, quốc tịch trên toàn Tập đoàn."
+    ],
+    "answer": 1
+   },
+   {
+    "id": "c4-nvtt-2026-36",
+    "no": 36,
+    "text": "Theo NVTT về công tác Nhân sự năm 2026, việc đa dạng hóa chính sách đãi ngộ được thực hiện trên cơ sở nào?",
+    "options": [
+     "Hiệu suất công việc và giá trị đóng góp",
+     "Nhóm ngành nghề và vùng miền",
+     "Khả năng và tiềm năng phát triển",
+     "Vị trí và chức danh"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "c4-nvtt-2026-37",
+    "no": 37,
+    "text": "Theo NVTT về công tác TTVH năm 2026, cần nâng cao vai trò Người đứng đầu trong hoạt động nào?",
+    "options": [
+     "Chủ trì và chịu trách nhiệm cao nhất về công tác TTVH",
+     "Xây dựng đội ngũ phát triển văn hóa vững mạnh",
+     "Đảm bảo KPI và mục tiêu nhiệm vụ trọng tâm đề ra",
+     "Nâng cao doanh thu và hiệu quả hoạt động kinh doanh vận hành"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "c4-nvtt-2026-38",
+    "no": 38,
+    "text": "Theo NVTT về công tác Kiểm soát năm 2026, công cụ nào giúp thiết lập cơ chế tự chịu trách nhiệm và bắt buộc đánh giá kiểm soát tại Đơn vị?",
+    "options": [
+     "KRI",
+     "RM",
+     "RCM",
+     "CSA"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "c4-nvtt-2026-39",
+    "no": 39,
+    "text": "Theo NVTT về công tác Kiểm soát năm 2026, việc củng cố hệ thống kiểm soát tập trung, độc lập theo mô hình 3 tuyến cần đảm bảo yêu cầu nào?",
+    "options": [
+     "Ra quyết định dựa trên dữ liệu và các chỉ số cảnh báo xu hướng, tăng cường phòng ngừa và kiểm soát chủ động",
+     "Hoàn thiện cơ chế bảo vệ người tố giác và quy trình xử lý minh bạch",
+     "Chuẩn hóa năng lực nhân sự, xây dựng đội ngũ chuyên gia có năng lực, kinh nghiệm trong các hoạt động kiểm soát chuyên sâu",
+     "Nâng cao tốc độ, minh bạch và khả năng cảnh báo cho các lĩnh vực trọng yếu"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "c4-nvtt-2026-40",
+    "no": 40,
+    "text": "Theo NVTT công tác TTVH 2026, hoạt động Tư tưởng văn hóa cần được triển khai theo định hướng nào?",
+    "options": [
+     "Linh hoạt - tinh gọn - tối ưu nguồn lực",
+     "Vừa đồng bộ vừa linh hoạt",
+     "Vừa tinh gọn vừa tinh nhuệ",
+     "Đồng bộ - hiện đại - linh hoạt"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "c4-nvtt-2026-41",
+    "no": 41,
+    "text": "Theo NVTT về công tác Kinh doanh 2026, việc quản lý và kiểm soát chi phí hiệu quả nhằm mục tiêu gì?",
+    "options": [
+     "Tăng chi phí marketing để mở rộng thị trường",
+     "Mở rộng và xúc tiến thị trường quốc tế trọng điểm",
+     "Đảm bảo hoàn thành các chỉ tiêu tài chính đồng thời thúc đẩy sự tăng trưởng bền vững",
+     "Nâng tầm trải nghiệm khách hàng thông qua sản phẩm đẳng cấp, khác biệt"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "c4-nvtt-2026-42",
+    "no": 42,
+    "text": "Theo NVTT công tác PTDA & ĐTXD, việc nghiên cứu và đưa vào vận hành các giải pháp kỹ thuật hiện đại, thân thiện với môi trường hướng tới mô hình nào?",
+    "options": [
+     "Quản lý linh hoạt và chuyên sâu",
+     "Quản lý tinh gọn và phân quyền",
+     "Quản lý tập trung và kiểm soát chặt",
+     "Quản lý thông minh và bền vững"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "c4-nvtt-2026-43",
+    "no": 43,
+    "text": "Theo bạn đâu là chủ đề nhiệm vụ trong tâm năm 2026 của Tập đoàn?",
+    "options": [
+     "Đổi mới sáng tạo và tăng tốc",
+     "Thâm canh, tối ưu hiệu quả kinh doanh và phát triển bền vững",
+     "Chuyển đổi kép toàn diện",
+     "Hội nhập và bứt phá"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "c4-nvtt-2026-44",
+    "no": 44,
+    "text": "Năm 2026, Nghị quyết Sun Group xác định gồm có bao nhiêu nhiệm vụ trọng tâm?",
+    "options": [
+     "05 nhiệm vụ",
+     "06 nhiệm vụ",
+     "07 nhiệm vụ",
+     "08 nhiệm vụ"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "c4-nvtt-2026-45",
+    "no": 45,
+    "text": "Trong NVTT số 02 nghị quyết 126 về công tác đẩy mạnh ứng dụng chuyển đổi số- công nghệ, chú trọng kết nối hệ sinh thái thì yếu tố nào được coi là yếu tố trung tâm?",
+    "options": [
+     "Công nghệ",
+     "Khách hàng",
+     "Dữ liệu",
+     "Nhân sự"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "c4-nvtt-2026-46",
+    "no": 46,
+    "text": "Trong NVTT số 05 nghị quyết 126, bộ công cụ chuẩn của công tác kiểm soát nội bộ bao gồm những công cụ nào?",
+    "options": [
+     "RM, RCM, CSA, KRI",
+     "KPI, RM, CSA, KRI",
+     "OKR, KRI, RM, CSA",
+     "BSC, RM, CSA, KRI"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "c4-nvtt-2026-47",
+    "no": 47,
+    "text": "Trong NVTT số 05 nghị quyết 126, kiểm soát nội bộ cần xây dựng môi trương \"Nói thật – Làm đúng –…...\". Hãy điền cụm từ còn thiếu vào dấu 3 chấm",
+    "options": [
+     "Báo cáo kịp thời",
+     "Kiểm tra thường xuyên",
+     "Minh bạch rõ ràng",
+     "Trách nhiệm cao"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "c4-nvtt-2026-48",
+    "no": 48,
+    "text": "Theo nghị quyết 126, NVTT 01 chú trọng triển khai hoạt động thâm canh cho từng mảng kinh doanh, đâu là chỉ tiêu cần gia tăng đối với mảng Giải trí- nghỉ dưỡng?",
+    "options": [
+     "Số lượng phòng",
+     "Tỷ lệ lấp đầy",
+     "Số nhân viên",
+     "Diện tích mặt bằng cho thuê"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "c4-nvtt-2026-49",
+    "no": 49,
+    "text": "Theo bạn đâu là mục tiêu của việc tăng cường quảng bá, truyền thông điểm đến và sản phẩm hệ sinh thái trong NVTT số 01?",
+    "options": [
+     "Tăng doanh thu ngắn hạn",
+     "Gia tăng độ phủ và giá trị thương hiệu",
+     "Giảm chi phí marketing",
+     "Mở rộng quy mô nhân sự"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "c4-nvtt-2026-50",
+    "no": 50,
+    "text": "Theo bạn việc nâng tầm trải nghiệm của khách hàng trong NVTT số 01 nhằm hướng tới nâng cao yếu tố nào?",
+    "options": [
+     "Số lượng khách hàng mới",
+     "Mức độ hài lòng, giá trị chi tiêu và vòng đời của khách hàng",
+     "Thị phần thị trường",
+     "Tốc độ phục vụ"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "c4-nvtt-2026-51",
+    "no": 51,
+    "text": "Trong NVTT số 01, việc khai thác hiệu quả hệ sinh thái Sun Group sẽ mang lại hành trình trải nghiệm cho khách hàng như thế nào?",
+    "options": [
+     "Nhanh chóng và tiện lợi",
+     "Liền mạch và nhất quán",
+     "Đa dạng và phong phú",
+     "Cao cấp và sang trọng"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "c4-nvtt-2026-52",
+    "no": 52,
+    "text": "Theo NQ126, NVTT số 02, việc phát triển các nền tảng số nhằm tăng cường kết nối và nâng cao trải nghiệm cho nhóm đối tượng nào?",
+    "options": [
+     "Khách hàng cuối",
+     "Đối tác, đại lý và kênh phân phối",
+     "Cán bộ nhân viên",
+     "Khách hàng trong nước"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "c4-nvtt-2026-53",
+    "no": 53,
+    "text": "Trong NVTT số 02, việc hoàn thiện nền tảng, kiến trúc và hạ tầng công nghệ cần thực hiện theo hướng nào?",
+    "options": [
+     "Tiết kiệm chi phí",
+     "Đồng bộ, hiện đại, linh hoạt",
+     "Tập trung và khép kín",
+     "Phân tán và độc lập"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "c4-nvtt-2026-54",
+    "no": 54,
+    "text": "Trong NVTT số 02, nhằm đảm bảo hệ thống vận hành ổn định, tin cậy và sẵn sàng kết nối toàn bộ hệ sinh thái thì yếu tố nào cần được chú trọng và tăng cường?",
+    "options": [
+     "Mở rộng băng thông",
+     "Bảo mật dữ liệu và an ninh mạng",
+     "Nâng cấp phần cứng",
+     "Đào tạo người dùng"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "c4-nvtt-2026-55",
+    "no": 55,
+    "text": "Trong NVTT số 03, việc rà soát cơ cấu và xây dựng đội ngũ phát triển dự án cần thực hiện theo hướng nào?",
+    "options": [
+     "Mở rộng – đa dạng",
+     "Tinh gọn - tinh nhuệ",
+     "Tập trung – thống nhất",
+     "Chuyên môn hóa"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "c4-nvtt-2026-56",
+    "no": 56,
+    "text": "Trong NVTT số 03, việc tiếp tục duy trì và củng cố công tác đối ngoại nhằm hướng tới sự ủng hộ đa chiều từ những bên nào?",
+    "options": [
+     "Cổ đông và nhà đầu tư",
+     "Các cấp chính quyền, chuyên gia và đối tác",
+     "Khách hàng và đối tác",
+     "Truyền thông và báo chí"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "c4-nvtt-2026-57",
+    "no": 57,
+    "text": "Trong NVTT số 04, việc xây dựng hệ thống đánh giá và đãi ngộ nhân sự cần gắn với yếu tố nào?",
+    "options": [
+     "Thâm niên công tác",
+     "Hiệu suất công việc và giá trị đóng góp",
+     "Vị trí và chức danh",
+     "Bằng cấp chuyên môn"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "c4-nvtt-2026-58",
+    "no": 58,
+    "text": "Nhiệm vụ trọng tâm số 05 của năm 2026 có tên là gì?",
+    "options": [
+     "Xây dựng văn hóa Sun Group",
+     "Đẩy mạnh triển khai Toàn dân làm văn hóa",
+     "Phát triển con người Sun Group",
+     "Lan tỏa giá trị văn hóa"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "c4-nvtt-2026-59",
+    "no": 59,
+    "text": "Trong nhiệm vụ Toàn dân làm văn hóa, ai sẽ là người được yêu cầu cam kết nêu gương và chịu trách nhiệm cao nhất về công tác TTVH?",
+    "options": [
+     "Ban Tư tưởng Văn hóa",
+     "Người đứng đầu",
+     "Đại sứ văn hóa",
+     "Toàn thể CBNV"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "c4-nvtt-2026-60",
+    "no": 60,
+    "text": "Khẩu hiệu được lan tỏa tới toàn thể CBNV trong NVTT số 05 là gì?",
+    "options": [
+     "Văn hóa là sức mạnh",
+     "Toàn dân làm văn hóa",
+     "Mỗi người một đại sứ",
+     "Văn hóa Sun Group"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "c4-nvtt-2026-61",
+    "no": 61,
+    "text": "Trong NVTT số 06, Hệ thống kiểm soát tập trung, độc lập được củng cố theo mô hình nào?",
+    "options": [
+     "Mô hình 2 tuyến",
+     "Mô hình 3 tuyến",
+     "Mô hình 4 tuyến",
+     "Mô hình ma trận"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "c4-nvtt-2026-62",
+    "no": 62,
+    "text": "Trong NVTT số 06, việc đẩy mạnh số hóa hoạt động kiểm soát nhằm nâng cao những yếu tố nào?",
+    "options": [
+     "Chất lượng và độ chính xác",
+     "Tốc độ, minh bạch và khả năng cảnh báo",
+     "Hiệu quả và tiết kiệm",
+     "Tự động và thông minh"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "c4-nvtt-2026-63",
+    "no": 63,
+    "text": "Trong NVTT số 03, Việc nghiên cứu, phát triển dự án tại các địa bàn mới và dự án PPP nhằm tạo ra điều gì?",
+    "options": [
+     "Tăng doanh thu ngắn hạn",
+     "Đột phá trong dài hạn",
+     "Mở rộng quỹ đất",
+     "Giảm rủi ro pháp lý"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "c4-nvtt-2026-64",
+    "no": 64,
+    "text": "Trong NVTT số 05, Việc xây dựng và phát triển đội ngũ nòng cốt triển khai văn hóa được thực hiện ở đâu?",
+    "options": [
+     "Tại Tập đoàn",
+     "Tại các đơn vị",
+     "Tại Vùng/Khối",
+     "Tại Ban chức năng"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "c4-nvtt-2026-65",
+    "no": 65,
+    "text": "Trong NVTT số 01, Các thị trường quốc tế trọng điểm khu vực Đông Bắc Á được xác định gồm những nước nào?",
+    "options": [
+     "Hàn Quốc, Đài Loan, Trung Quốc",
+     "Nhật Bản, Hàn Quốc, Trung Quốc",
+     "Trung Quốc, Hồng Kông, Đài Loan",
+     "Hàn Quốc, Nhật Bản, Đài Loan"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "c4-nvtt-2026-66",
+    "no": 66,
+    "text": "Theo NQ126, NVTT số 01, Thị trường nào KHÔNG nằm trong nhóm thị trường quốc tế trọng điểm Đông Nam Á được nêu?",
+    "options": [
+     "Thái Lan",
+     "Philippines",
+     "Indonesia",
+     "Singapore"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "c4-nvtt-2026-67",
+    "no": 67,
+    "text": "Theo NQ126, NVTT về công tác tư tưởng văn hóa, việc ứng dụng dữ liệu và công nghệ trong nhiệm vụ văn hóa nhằm mục đích gì?",
+    "options": [
+     "Tiết kiệm thời gian",
+     "Ghi nhận hiệu quả thực thi văn hóa và thúc đẩy cải tiến liên tục",
+     "Giảm chi phí đào tạo",
+     "Tăng tốc truyền thông"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "c4-nvtt-2026-68",
+    "no": 68,
+    "text": "Trong NVTT số 06, Hệ thống GRC tích hợp dự kiến triển khai trong giai đoạn nào?",
+    "options": [
+     "2026 – 2030",
+     "2027 – 2030",
+     "2026 – 2028",
+     "2028 – 2030"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "c4-nvtt-2026-69",
+    "no": 69,
+    "text": "Trong NVTT số 06 về kiểm soát nội bộ thì việc chuẩn hóa năng lực nhân sự, xây dựng đội ngũ chuyên gia có năng lực, kinh nghiệm sẽ hoạt động chủ yếu trong công tác nào?",
+    "options": [
+     "Quản trị nhân sự",
+     "Kiểm soát chuyên sâu",
+     "Phát triển dự án",
+     "Chuyển đổi số"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "c4-nvtt-2026-70",
+    "no": 70,
+    "text": "Trong NVTT số 05 về công tác TTVH thì đội ngũ nào sẽ trở thành lực lượng hạt nhân đắc lực đồng hành cùng CBLĐ/CBQL trong việc thực thi văn hóa?",
+    "options": [
+     "Đội ngũ quản lý cấp trung",
+     "Đội ngũ Đại sứ văn hóa và Truyền thông nội bộ kiêm nhiệm",
+     "Đội ngũ chuyên gia văn hóa",
+     "Đội ngũ nhân sự trẻ"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "c4-nvtt-2026-71",
+    "no": 71,
+    "text": "Trong NVTT số 04, Việc đa dạng hóa chính sách đãi ngộ được thực hiện theo những tiêu chí nào?",
+    "options": [
+     "Theo cấp bậc và chức danh",
+     "Theo nhóm ngành nghề và vùng miền",
+     "Theo thâm niên và hiệu suất",
+     "Theo trình độ và bằng cấp"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "c4-nvtt-2026-72",
+    "no": 72,
+    "text": "Trong NVTT số 04 thì nguồn nhân lực kế cận đa phân lớp của Sun Group được gọi tên là gì?",
+    "options": [
+     "SG Talent",
+     "SGEN",
+     "SG Leaders",
+     "SG Next"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "c4-nvtt-2026-73",
+    "no": 73,
+    "text": "Trong NVTT số 03, loại dự án nào được nêu là cơ hội tạo đột phá trong dài hạn?",
+    "options": [
+     "Dự án BT",
+     "Dự án PPP",
+     "Dự án BOT",
+     "Dự án FDI"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "c4-nvtt-2026-74",
+    "no": 74,
+    "text": "Theo NVTT về công tác Kinh doanh trong Nghị Quyết 126 của Tập đoàn, việc quản lý và kiểm soát chi phí hiệu quả nhằm mục tiêu gì?",
+    "options": [
+     "Tăng chi phí marketing để mở rộng thị trường",
+     "Đảm bảo hoàn thành các chỉ tiêu tài chính đồng thời thúc đẩy sự tăng trưởng bền vững",
+     "Nâng tầm trải nghiệm khách hàng thông qua sản phẩm đẳng cấp, khác biệt",
+     "Tăng giá bán sản phẩm"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "c4-nvtt-2026-75",
+    "no": 75,
+    "text": "Theo Nghị quyết 126 của Tập đoàn, yêu cầu đối với NVTT về công tác Thanh tra - Kiểm soát là gì?",
+    "options": [
+     "Tự động hóa công tác Thanh tra - Kiểm soát",
+     "Đổi mới công tác Thanh tra - Kiểm soát thân thiện, hiệu quả",
+     "Nâng cao năng lực và hoàn thiện hệ thống kiểm soát nội bộ",
+     "Hoàn thiện hệ thống Thanh tra - Kiểm soát đáp ứng yêu cầu phát triển của Tập đoàn"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "c4-nvtt-2026-76",
+    "no": 76,
+    "text": "Theo NVTT về công tác Kinh doanh trong Nghị Quyết 126 của Tập đoàn, vai trò của Hàng không trong hệ sinh thái Sun Group là gì?",
+    "options": [
+     "Mở rộng hợp tác với các hãng hàng không quốc tế",
+     "Chú trọng tăng trưởng lượt khách, doanh thu",
+     "Phát triển thêm các tuyến bay quốc tế mới",
+     "Là cầu nối đưa khách hàng tới các điểm đến trọng điểm của Tập đoàn, góp phần hoàn thành các mục tiêu kinh doanh, mang lại hành trình trải nghiệm khách hàng liền mạch và nhất quán."
+    ],
+    "answer": 3
+   },
+   {
+    "id": "c4-nvtt-2026-77",
+    "no": 77,
+    "text": "Theo Nghị quyết 126 của Tập đoàn, nội dung: \"Đẩy mạnh số hóa toàn diện hoạt động kiểm soát nhằm nâng cao tốc độ, minh bạch và khả năng cảnh báo cho các lĩnh vực trọng yếu\" là yêu cầu đối với NVTT nào?",
+    "options": [
+     "Phát triển và đầu tư các Dự án trọng tâm, trọng điểm theo định hướng phát triển bền vững",
+     "Đảm bảo nguồn nhân lực đáp ứng yêu cầu và nâng tầm công tác Quản trị nhân sự",
+     "Nâng cao năng lực và hoàn thiện hệ thống kiểm soát nội bộ",
+     "Đẩy mạnh triển khai Toàn dân làm văn hóa"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "c4-nvtt-2026-78",
+    "no": 78,
+    "text": "Theo Nghị quyết 126 của Tập đoàn, nội dung: “Lấy khách hàng làm trung tâm, kết nối trải nghiệm toàn hệ sinh thái thông qua triển khai các sáng kiến Chuyển đổi số, tập trung cá nhân hóa trải nghiệm, gia tăng mức độ hài lòng, gắn kết và giá trị vòng đời khách hàng, qua đó thúc đẩy hiệu quả kinh doanh tổng thể” là yêu cầu đối với Nhiệm vụ trọng tâm nào?",
+    "options": [
+     "Phát triển và đầu tư các Dự án trọng tâm, trọng điểm theo định hướng phát triển bền vững",
+     "Đảm bảo nguồn nhân lực đáp ứng yêu cầu và nâng tầm công tác Quản trị nhân sự",
+     "Đẩy mạnh ứng dụng Chuyển đổi số - Công nghệ, chú trọng kết nối hệ sinh thái",
+     "Tăng cường thâm canh, tối ưu hiệu quả kinh doanh hệ sinh thái"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "c4-nvtt-2026-79",
+    "no": 79,
+    "text": "Theo Nghị quyết 126 của Tập đoàn, định hướng của NVTT về công tác Phát triển & Đầu tư các dự án trọng tâm, trọng điểm là gì?",
+    "options": [
+     "Định hướng Xanh.",
+     "Định hướng phát triển bền vững.",
+     "Tối ưu hiệu quả kinh doanh hệ sinh thái.",
+     "Ghi dấu ấn vượt thời gian."
+    ],
+    "answer": 1
+   },
+   {
+    "id": "c4-nvtt-2026-80",
+    "no": 80,
+    "text": "Nội dung nào sau đây là yêu cầu đối với Nhiệm vụ trọng tâm về công tác Tư tưởng Văn hóa được đề cập trong Nghị quyết 126 của Tập đoàn?",
+    "options": [
+     "Gắn trách nhiệm vào ngân sách và hiệu quả hoạt động, đảm bảo thích ứng nhanh với tốc độ phát triển của hệ sinh thái.",
+     "Tiếp tục củng cố và phát triển nguồn nội bộ, nguồn kế cận SGEN đa phân lớp theo tiêu chí mới.",
+     "Nâng cao vai trò Người đứng đầu trong việc chủ trì và chịu trách nhiệm cao nhất về công tác TTVH.",
+     "Thúc đẩy thực thi giá trị cốt lõi trong phát triển nguồn nhân lực bền vững, phát huy tinh thần kỷ luật, đa năng đa nhiệm, học tập chủ động."
+    ],
+    "answer": 2
+   },
+   {
+    "id": "c4-nvtt-2026-81",
+    "no": 81,
+    "text": "Theo Nghị quyết 126 của Tập đoàn, nội dung nào sau đây là yêu cầu đối với NVTT về công tác Thanh tra - Kiểm soát?",
+    "options": [
+     "Thiết lập hệ thống công cụ kiểm soát, đánh giá mức độ trưởng thành văn hóa trên toàn Tập đoàn.",
+     "Xây dựng môi trường \"Nói thật - Làm đúng - Báo cáo kịp thời\", hoàn thiện cơ chế bảo vệ người tố giác và quy trình xử lý minh bạch.",
+     "Xây dựng hệ thống đánh giá và đãi ngộ gắn với hiệu suất công việc và giá trị đóng góp.",
+     "Thiết lập cơ chế kiểm soát, giám sát chủ động, đặc biệt chú trọng công tác kiểm soát rủi ro, chi phí nhằm hạn chế tối đa việc phát sinh gây chậm tiến độ, lãng phí."
+    ],
+    "answer": 1
+   },
+   {
+    "id": "c4-nvtt-2026-82",
+    "no": 82,
+    "text": "Theo Nghị quyết 126 của Tập đoàn, đâu là yêu cầu đối với NVTT về công tác TTVH?",
+    "options": [
+     "Thúc đẩy thực thi giá trị cốt lõi trong phát triển nguồn nhân lực bền vững, phát huy tinh thần kỷ luật, đa năng đa nhiệm, học tập chủ động.",
+     "Thiết lập hệ thống công cụ kiểm soát, đánh giá mức độ trưởng thành văn hóa trên toàn Tập đoàn.",
+     "Đẩy mạnh đào tạo phổ cập nhằm nâng cao năng lực số, hình thành tư duy làm việc dựa trên dữ liệu, công nghệ, tự động hóa.",
+     "Tăng cường các hoạt động quảng bá, truyền thông điểm đến và sản phẩm hệ sinh thái."
+    ],
+    "answer": 1
+   },
+   {
+    "id": "c4-nvtt-2026-83",
+    "no": 83,
+    "text": "Theo Nghị quyết 126 của Tập đoàn, một trong các yêu cầu liên quan đến nhiệm vụ trọng tâm trong công tác Chuyển đổi số - Công nghệ là gì?",
+    "options": [
+     "Quản lý và kiểm soát chi phí hiệu quả nhằm đảm bảo hoàn thành các chỉ tiêu tài chính, đồng thời thúc đẩy sự tăng trưởng bền vững.",
+     "Nâng tầm trải nghiệm khách hàng bằng việc bổ sung các sản phẩm kinh doanh đẳng cấp, khác biệt đạt tiêu chuẩn quốc tế.",
+     "Phát triển các nền tảng số nhằm tăng cường kết nối và nâng cao trải nghiệm đối tác, đại lý và kênh phân phối.",
+     "Đẩy mạnh ứng dụng khoa học công nghệ, chuyển đổi số trong công tác phát triển dự án và đầu tư xây dựng."
+    ],
+    "answer": 2
+   },
+   {
+    "id": "c4-nvtt-2026-84",
+    "no": 84,
+    "text": "Theo Nghị Quyết 126 của Tập đoàn, yêu cầu đối với NVTT về công tác Nhân sự là gì?",
+    "options": [
+     "Đảm bảo nguồn nhân lực đáp ứng yêu cầu và nâng tầm công tác Quản trị nhân sự",
+     "Phát triển các dự án trọng điểm",
+     "Đẩy mạnh chuyển đổi số trong kinh doanh",
+     "Tăng cường hoạt động quảng bá thị trường quốc tế"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "c4-nvtt-2026-85",
+    "no": 85,
+    "text": "Theo NVTT về công tác Nhân sự trong Nghị quyết 126 của Tập đoàn, hệ thống đánh giá và đãi ngộ được xây dựng gắn với yếu tố nào?",
+    "options": [
+     "Năng suất lao động.",
+     "Kết quả kinh doanh của Tập đoàn.",
+     "Khả năng ứng dụng công nghệ trong công việc.",
+     "Hiệu suất công việc và giá trị đóng góp."
+    ],
+    "answer": 3
+   },
+   {
+    "id": "c4-nvtt-2026-86",
+    "no": 86,
+    "text": "Theo NVTT về công tác Tư tưởng Văn hóa trong Nghị quyết 126 của Tập đoàn, các hoạt động đào tạo, truyền thông được triển khai nhằm mục tiêu gì?",
+    "options": [
+     "Thúc đẩy tinh thần học tập, phát triển bản thân.",
+     "Lan tỏa văn hóa sâu rộng cả bên trong và bên ngoài Tập đoàn.",
+     "Củng cố nhận thức và lan tỏa tinh thần “Toàn dân làm văn hóa” tới toàn thể CBNV.",
+     "Xây dựng môi trường làm việc hài hòa, đa dạng thế hệ và quốc tịch."
+    ],
+    "answer": 2
+   }
+  ],
+  "group": "Full Nghị quyết và Kiến thức chung"
+ },
+ {
+  "id": "cam-ket-ma-tuy",
+  "name": "Cam kết & Ma túy",
+  "questions": [
+   {
+    "id": "cam-ket-ma-tuy-1",
+    "no": 1,
+    "text": "Nhân viên kỹ thuật được bác sĩ kê thuốc hướng thần có thể ảnh hưởng đến khả năng phản xạ khi vận hành thiết bị. Nhân viên cần làm gì?",
+    "options": [
+     "Khai báo với người quản lý trực tiếp về việc sử dụng thuốc có thể ảnh hưởng đến khả năng vận hành an toàn",
+     "Vẫn làm việc bình thường vì thuốc được bác sĩ kê đơn",
+     "Chỉ cần khai báo nếu xuất hiện tác dụng phụ",
+     "Chỉ cần lưu lại đơn thuốc để xuất trình khi được yêu cầu"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "cam-ket-ma-tuy-2",
+    "no": 2,
+    "text": "Sau một sự cố vận hành, người trực tiếp liên quan không có biểu hiện bất thường và cho rằng mình không sử dụng chất ma túy. Theo quy định, việc xét nghiệm được thực hiện thế nào?",
+    "options": [
+     "Không cần xét nghiệm nếu không có dấu hiệu nghi vấn",
+     "Phải xét nghiệm sau sự cố đối với người liên quan trực tiếp",
+     "Chỉ xét nghiệm khi người quản lý có căn cứ nghi ngờ",
+     "Chỉ xét nghiệm nếu cơ quan Công an yêu cầu"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "cam-ket-ma-tuy-3",
+    "no": 3,
+    "text": "Một CBNV phát hiện đồng nghiệp có dấu hiệu đáng ngờ liên quan đến chất ma túy nhưng chưa có bằng chứng chắc chắn. Cách xử lý phù hợp nhất là gì?",
+    "options": [
+     "Thông báo rộng rãi cho đồng nghiệp để cùng theo dõi",
+     "Tự xác minh và chỉ báo cáo khi có bằng chứng chắc chắn",
+     "Báo cáo ngay qua kênh quy định khi có căn cứ nghi ngờ và bảo mật thông tin",
+     "Không báo cáo vì có thể ảnh hưởng đến đồng nghiệp"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "cam-ket-ma-tuy-4",
+    "no": 4,
+    "text": "Một nhân sự thuộc vị trí an toàn trọng yếu từ chối xét nghiệm ma túy theo kế hoạch đã được phê duyệt mà không có lý do chính đáng. Theo Thông báo, trường hợp này được xử lý thế nào?",
+    "options": [
+     "Chỉ lập biên bản nhắc nhở lần đầu",
+     "Cho phép tiếp tục làm việc nhưng bố trí xét nghiệm vào lần sau",
+     "Chỉ xử lý nếu sau đó chứng minh được người này đã sử dụng ma túy",
+     "Xử lý như trường hợp có kết quả xét nghiệm dương tính"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "cam-ket-ma-tuy-5",
+    "no": 5,
+    "text": "Một CBNV chủ động khai báo đã sử dụng trái phép chất ma túy trước khi bị phát hiện hoặc kiểm tra và cam kết tham gia điều trị, cai nghiện. Cách xử lý nào phù hợp nhất?",
+    "options": [
+     "Được xem xét là tình tiết giảm nhẹ; được hỗ trợ tiếp cận điều trị và không bố trí tại vị trí an toàn trọng yếu trong thời gian điều trị",
+     "Chỉ cần cam kết không tái phạm, không cần điều trị",
+     "Đương nhiên được miễn mọi hình thức kỷ luật",
+     "Vẫn bố trí tại vị trí an toàn trọng yếu nếu chưa có sự cố"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "cam-ket-ma-tuy-6",
+    "no": 6,
+    "text": "Đơn vị xảy ra vi phạm về ma túy. Qua xác minh, người đứng đầu đã không tổ chức phổ biến quy định, không kiểm tra và chậm báo cáo vụ việc. Nhận định nào đúng nhất?",
+    "options": [
+     "Chỉ chịu trách nhiệm nếu trực tiếp biết và che giấu hành vi vi phạm",
+     "Người đứng đầu không chịu trách nhiệm vì hành vi vi phạm do cá nhân thực hiện",
+     "Chỉ Ban Kiểm soát chịu trách nhiệm vì có chức năng giám sát",
+     "Người đứng đầu có thể chịu trách nhiệm liên đới do buông lỏng quản lý và chậm báo cáo"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "cam-ket-ma-tuy-7",
+    "no": 7,
+    "text": "Theo Bản cam kết, riêng đối với hành vi vi phạm về ma túy, người ký cam kết chấp nhận nội dung nào sau đây?",
+    "options": [
+     "Chỉ bị xử lý kỷ luật nội bộ, không chuyển cơ quan chức năng",
+     "Được tự khai báo nhiều lần để giảm nhẹ hình thức xử lý",
+     "Công ty chuyển hồ sơ đến cơ quan chức năng để xử lý theo quy định",
+     "Bị kéo dài thời hạn nâng lương không quá 06 tháng"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "cam-ket-ma-tuy-8",
+    "no": 8,
+    "text": "Theo Bản cam kết Thực thi văn hóa Tập đoàn, chống tham nhũng và gian lận, phòng chống ma túy và bảo mật thông tin, Bản cam kết được CBNV ký lại vào thời điểm nào?",
+    "options": [
+     "Tháng 01 hằng năm",
+     "Tháng 6 hằng năm, gắn với Tháng hành động phòng chống ma túy",
+     "Chỉ ký một lần khi ký HĐLĐ đầu tiên",
+     "Định kỳ 02 năm một lần"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "cam-ket-ma-tuy-9",
+    "no": 9,
+    "text": "Theo Bản cam kết, CBNV cam kết thể hiện bằng hành động cụ thể các Giá trị cốt lõi nào đối với Người Sun Group?",
+    "options": [
+     "Chất lượng – Đẳng cấp – Khác biệt",
+     "Kỷ luật – Trách nhiệm – Kết quả",
+     "Trung thành và Trung thực – Nhiệt tâm – Trình độ chuyên môn cao",
+     "Khiêm nhường – Thực chất – Tự phê bình"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "cam-ket-ma-tuy-10",
+    "no": 10,
+    "text": "Theo Bản cam kết, nhân sự mới ký HĐLĐ mà đang hút thuốc lá cam kết bỏ thuốc lá trong vòng bao lâu?",
+    "options": [
+     "03 tháng",
+     "06 tháng",
+     "12 tháng",
+     "Ngay khi ký HĐLĐ"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "cam-ket-ma-tuy-11",
+    "no": 11,
+    "text": "Theo Bản cam kết, CBNV góp phần xây dựng Người Việt Nam Mới với các tiêu chí nào, bắt đầu từ chính bản thân mình?",
+    "options": [
+     "Yêu nước – Kỷ luật – Trách nhiệm",
+     "Trung thành – Trung thực – Nhiệt tâm",
+     "Khiêm nhường – Thực chất – Tự trọng",
+     "Khỏe thể chất – Sáng tâm hồn – Giàu tri thức"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "cam-ket-ma-tuy-12",
+    "no": 12,
+    "text": "Theo Bản cam kết, loại quà tặng nào sau đây được xem là quà tặng mang tính xã giao, KHÔNG thuộc diện phải nộp lại?",
+    "options": [
+     "Phiếu mua hàng, thẻ quà tặng có giá trị nhỏ",
+     "Tiền bồi dưỡng nhân dịp lễ, Tết",
+     "Vé du lịch, nghỉ dưỡng do đối tác tài trợ",
+     "Thiệp và hoa chúc mừng nhân dịp các ngày đặc biệt, lịch Tết, kỷ yếu"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "cam-ket-ma-tuy-13",
+    "no": 13,
+    "text": "Theo Bản cam kết, trường hợp nhận quà tặng xã giao không thể từ chối, CBNV phải báo cáo người quản lý trực tiếp và nộp lại quà tặng trong thời hạn nào?",
+    "options": [
+     "Trong vòng 12 giờ",
+     "Trong vòng 48 giờ",
+     "Trong vòng 24 giờ hoặc sớm nhất có thể (trường hợp bất khả kháng như đi công tác, ốm…)",
+     "Trong vòng 07 ngày làm việc"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "cam-ket-ma-tuy-14",
+    "no": 14,
+    "text": "Theo Bản cam kết, quà tặng xã giao không thể từ chối phải được nộp lại cho bộ phận nào của Công ty?",
+    "options": [
+     "Bộ phận Hành chính Nhân sự",
+     "Ban Kiểm soát Tập đoàn",
+     "Bộ phận Kế toán",
+     "Người quản lý trực tiếp giữ và tự xử lý"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "cam-ket-ma-tuy-15",
+    "no": 15,
+    "text": "Theo Bản cam kết, \"gian lận\" được hiểu là:",
+    "options": [
+     "Hành vi vô ý làm sai quy trình dẫn đến thiệt hại cho Công ty",
+     "Hành vi có chủ ý gian dối hoặc lừa dối, hoặc lợi dụng sự tin tưởng của người khác để đạt được lợi ích cho cá nhân, đơn vị mình hoặc cho cá nhân, tổ chức khác",
+     "Hành vi không hoàn thành công việc đúng thời hạn được giao",
+     "Hành vi nhận quà tặng xã giao từ khách hàng, đối tác"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "cam-ket-ma-tuy-16",
+    "no": 16,
+    "text": "Theo Bản cam kết, trường hợp nào sau đây KHÔNG thuộc các trường hợp CBNV phải báo cáo Lãnh đạo cấp trên hoặc gửi thông tin tới hòm thư, số điện thoại tiếp nhận góp ý của Tập đoàn?",
+    "options": [
+     "Khi có bất đồng ý kiến cá nhân với đồng nghiệp về cách thức triển khai công việc",
+     "Khi nhận thấy rủi ro, sự việc có thể gây ảnh hưởng xấu tới lợi ích của Công ty",
+     "Khi nhận thức có nguy cơ hoặc phát sinh xung đột lợi ích tại Công ty",
+     "Khi nghi ngờ khách hàng, nhà thầu, đối tác có hành vi tham nhũng, gian lận"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "cam-ket-ma-tuy-17",
+    "no": 17,
+    "text": "Theo Bản cam kết, CBNV chỉ được sử dụng thuốc gây nghiện, thuốc hướng thần trong trường hợp nào?",
+    "options": [
+     "Khi được đồng nghiệp có chuyên môn y tế khuyên dùng",
+     "Khi đã thông báo cho người quản lý trực tiếp",
+     "Ngoài giờ làm việc và ngoài khuôn viên Công ty",
+     "Theo đúng đơn của cơ sở y tế có thẩm quyền"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "cam-ket-ma-tuy-18",
+    "no": 18,
+    "text": "Theo Bản cam kết, nghĩa vụ tuân thủ các quy định về an ninh bảo mật thông tin của CBNV được áp dụng trong khoảng thời gian nào?",
+    "options": [
+     "Chỉ trong thời gian thử việc",
+     "Trong suốt thời gian làm việc cũng như sau khi hợp đồng lao động kết thúc",
+     "Trong suốt thời gian làm việc và 12 tháng sau khi nghỉ việc",
+     "Chỉ trong thời gian làm việc tại Công ty"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "cam-ket-ma-tuy-19",
+    "no": 19,
+    "text": "Theo Thông báo về việc nghiêm cấm sử dụng, tàng trữ, vận chuyển, mua bán trái phép chất ma túy và các chất cấm, Tập đoàn hướng tới xây dựng môi trường làm việc như thế nào?",
+    "options": [
+     "\"Safe Workplace\" – nơi làm việc an toàn lao động",
+     "\"Zero Drug Workplace\" – môi trường làm việc an toàn, lành mạnh, không ma túy",
+     "\"Green Workplace\" – nơi làm việc xanh, không khói thuốc",
+     "\"Happy Workplace\" – nơi làm việc hạnh phúc"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "cam-ket-ma-tuy-20",
+    "no": 20,
+    "text": "Theo Thông báo về nghiêm cấm ma túy và chất cấm, đối tượng áp dụng bao gồm:",
+    "options": [
+     "Chỉ CBNV ký hợp đồng lao động chính thức",
+     "CBNV làm việc tại các vị trí an toàn trọng yếu",
+     "Toàn bộ CBNV không phân biệt hình thức hợp đồng (HĐLĐ, thử việc, thời vụ, cộng tác viên, thực tập sinh) và Đối tác bên thứ ba khi làm việc, ra vào, lưu trú tại địa bàn Tập đoàn quản lý",
+     "Toàn bộ CBNV, không bao gồm người lao động của nhà thầu, nhà cung cấp"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "cam-ket-ma-tuy-21",
+    "no": 21,
+    "text": "Theo Thông báo về nghiêm cấm ma túy và chất cấm, các hành vi bị nghiêm cấm được áp dụng trong phạm vi nào?",
+    "options": [
+     "Chỉ trong giờ làm việc",
+     "Chỉ trong khuôn viên Tập đoàn",
+     "Trong giờ làm việc và khi đi công tác",
+     "Cả trong và ngoài giờ làm việc, trong và ngoài khuôn viên Tập đoàn"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "cam-ket-ma-tuy-22",
+    "no": 22,
+    "text": "Theo Thông báo về nghiêm cấm ma túy và chất cấm, vị trí nào sau đây KHÔNG thuộc nhóm \"vị trí an toàn trọng yếu\" được liệt kê?",
+    "options": [
+     "Nhân viên hành chính văn phòng thực hiện soạn thảo, lưu trữ hồ sơ",
+     "Nhân viên vận hành thiết bị vui chơi",
+     "Nhân viên khai thác bay, phục vụ trên không",
+     "Lái xe điều khiển phương tiện vận tải, phương tiện chuyên dụng"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "cam-ket-ma-tuy-23",
+    "no": 23,
+    "text": "Theo Thông báo về nghiêm cấm ma túy và chất cấm, xét nghiệm sau sự cố được áp dụng bắt buộc trong trường hợp nào?",
+    "options": [
+     "Khi có tố giác của đồng nghiệp",
+     "Đối với người liên quan trực tiếp sau tai nạn lao động, sự cố vận hành, va chạm giao thông trong khi thực hiện nhiệm vụ",
+     "Khi CBNV khám sức khỏe định kỳ hằng năm",
+     "Khi tuyển dụng nhân sự mới"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "cam-ket-ma-tuy-24",
+    "no": 24,
+    "text": "Theo Thông báo về nghiêm cấm ma túy và chất cấm, hình thức xét nghiệm ngẫu nhiên được áp dụng đối với đối tượng nào?",
+    "options": [
+     "Toàn bộ CBNV Tập đoàn",
+     "CBNV có dấu hiệu nghi vấn hoặc bị tố giác",
+     "Nhóm vị trí an toàn trọng yếu, theo kế hoạch được Lãnh đạo Tập đoàn phê duyệt",
+     "Người lao động của Đối tác bên thứ ba"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "cam-ket-ma-tuy-25",
+    "no": 25,
+    "text": "Theo Thông báo về nghiêm cấm ma túy và chất cấm, CBNV từ chối, trốn tránh, trì hoãn hoặc can thiệp làm sai lệch kết quả xét nghiệm mà không có lý do chính đáng sẽ bị xử lý như thế nào?",
+    "options": [
+     "Nhắc nhở nội bộ và yêu cầu xét nghiệm lại",
+     "Khiển trách",
+     "Được bảo lưu, xét nghiệm lại vào đợt định kỳ tiếp theo",
+     "Xử lý như trường hợp có kết quả dương tính"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "cam-ket-ma-tuy-26",
+    "no": 26,
+    "text": "Theo Thông báo về nghiêm cấm ma túy và chất cấm, khi kết quả sàng lọc dương tính và người được kiểm tra yêu cầu xét nghiệm khẳng định, chi phí xét nghiệm khẳng định được xử lý ra sao?",
+    "options": [
+     "Tập đoàn chi trả; người vi phạm hoàn trả nếu kết quả khẳng định dương tính",
+     "Người được kiểm tra tự chi trả toàn bộ",
+     "Tập đoàn chi trả toàn bộ trong mọi trường hợp",
+     "Chia đôi chi phí giữa Tập đoàn và người được kiểm tra"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "cam-ket-ma-tuy-27",
+    "no": 27,
+    "text": "Theo Thông báo về nghiêm cấm ma túy và chất cấm, số Đường dây nóng liêm chính của Tập đoàn để báo cáo, tố giác vi phạm là:",
+    "options": [
+     "039.260.31.31",
+     "039.260.13.13",
+     "039.206.13.13",
+     "093.260.13.13"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "cam-ket-ma-tuy-28",
+    "no": 28,
+    "text": "Theo Thông báo về nghiêm cấm ma túy và chất cấm, hành vi trả đũa, trù dập người báo cáo trung thực bị xử lý như thế nào?",
+    "options": [
+     "Nhắc nhở nội bộ",
+     "Khiển trách",
+     "Xử lý kỷ luật ở mức tương đương hành vi vi phạm bị tố giác",
+     "Kéo dài thời hạn nâng lương không quá 06 tháng"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "cam-ket-ma-tuy-29",
+    "no": 29,
+    "text": "Theo Thông báo về nghiêm cấm ma túy và chất cấm, cơ chế CBNV chủ động tự khai báo được áp dụng như thế nào?",
+    "options": [
+     "Áp dụng không giới hạn số lần, được miễn xử lý kỷ luật",
+     "Áp dụng tối đa 02 lần, được miễn xử lý kỷ luật",
+     "Chỉ áp dụng đối với hành vi sử dụng, không áp dụng với hành vi mua bán, vận chuyển",
+     "Chỉ áp dụng một lần; được xem xét là tình tiết giảm nhẹ khi xử lý kỷ luật nếu tự khai báo trước khi bị phát hiện và cam kết tham gia điều trị, cai nghiện"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "cam-ket-ma-tuy-30",
+    "no": 30,
+    "text": "Theo Thông báo về nghiêm cấm ma túy và chất cấm, CBNV có hành vi sử dụng ma túy tại nơi làm việc bị áp dụng hình thức kỷ luật nào?",
+    "options": [
+     "Sa thải",
+     "Cách chức",
+     "Kéo dài thời hạn nâng lương không quá 06 tháng",
+     "Khiển trách"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "cam-ket-ma-tuy-31",
+    "no": 31,
+    "text": "Theo Thông báo về nghiêm cấm ma túy và chất cấm, các hành vi tàng trữ, vận chuyển, mua bán, tổ chức sử dụng, lôi kéo người khác sử dụng trái phép chất ma túy được xác định là vi phạm thuộc nhóm lỗi nào theo Nội quy Lao động?",
+    "options": [
+     "Vi phạm nghiêm trọng – nhóm L4",
+     "Vi phạm đặc biệt nghiêm trọng – nhóm L5",
+     "Vi phạm nghiêm trọng – nhóm L3",
+     "Vi phạm không nghiêm trọng – nhóm L2"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "cam-ket-ma-tuy-32",
+    "no": 32,
+    "text": "Theo Thông báo về nghiêm cấm ma túy và chất cấm, đối với CBNV có kết quả xét nghiệm dương tính hoặc bị bắt quả tang, Tập đoàn áp dụng biện pháp nào ngay lập tức?",
+    "options": [
+     "Chấm dứt hợp đồng lao động ngay trong ngày",
+     "Điều chuyển sang vị trí không trọng yếu",
+     "Đình chỉ công việc ngay lập tức để phục vụ xác minh, xử lý theo trình tự pháp luật lao động",
+     "Cho nghỉ phép năm để điều trị"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "cam-ket-ma-tuy-33",
+    "no": 33,
+    "text": "Theo Thông báo về nghiêm cấm ma túy và chất cấm, cá nhân người lao động của Đối tác bên thứ ba vi phạm sẽ bị xử lý như thế nào?",
+    "options": [
+     "Tạm đình chỉ quyền ra vào 30 ngày",
+     "Nhắc nhở và yêu cầu ký lại cam kết",
+     "Phạt tiền theo quy định nội bộ của Tập đoàn",
+     "Đình chỉ ngay và vĩnh viễn quyền ra vào, làm việc tại mọi cơ sở, công trường, dự án của Tập đoàn; thu hồi thẻ ra vào"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "cam-ket-ma-tuy-34",
+    "no": 34,
+    "text": "Theo Thông báo về nghiêm cấm ma túy và chất cấm, mối quan hệ giữa việc xử lý kỷ luật lao động và truy cứu trách nhiệm hình sự được quy định như thế nào?",
+    "options": [
+     "Là hai quy trình độc lập, được tiến hành song hành; việc cơ quan tố tụng đang xử lý không làm dừng quy trình kỷ luật nội bộ trong phạm vi pháp luật cho phép",
+     "Phải chờ kết quả truy cứu trách nhiệm hình sự mới được xử lý kỷ luật",
+     "Đã bị truy cứu trách nhiệm hình sự thì không xử lý kỷ luật lao động",
+     "Xử lý kỷ luật lao động xong mới chuyển hồ sơ cho cơ quan Công an"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "cam-ket-ma-tuy-35",
+    "no": 35,
+    "text": "Theo Thông báo về nghiêm cấm ma túy và chất cấm, Bộ phận phụ trách nhân sự Ban/Vùng/Khối/CTTV SG phải đảm bảo 100% CBNV trong phạm vi phụ trách hoàn thành ký Bản cam kết viết tay trước ngày nào?",
+    "options": [
+     "31/8/2026",
+     "30/9/2026",
+     "31/12/2026",
+     "31/01/2027"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "cam-ket-ma-tuy-36",
+    "no": 36,
+    "text": "Theo Thông báo về nghiêm cấm ma túy và chất cấm, MARCOM và BTTVH tổ chức tối thiểu 01 đợt truyền thông/năm về phòng, chống ma túy gắn với Tháng hành động phòng, chống ma túy vào tháng nào?",
+    "options": [
+     "Tháng 3",
+     "Tháng 9",
+     "Tháng 6",
+     "Tháng 12"
+    ],
+    "answer": 2
+   }
+  ],
+  "group": "Full Nghị quyết và Kiến thức chung"
+ },
+ {
+  "id": "full-nghi-quyet-va-kien-thuc-chung-kien-thuc-chung",
+  "name": "Kiến thức chung",
+  "questions": [
+   {
+    "id": "full-nghi-quyet-va-kien-thuc-chung-kien-thuc-chung-1",
+    "no": 1,
+    "text": "Sun Group được thành lập năm 1998 tại quốc gia nào?",
+    "options": [
+     "Ukraine",
+     "Việt Nam",
+     "Pháp",
+     "Singapore"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "full-nghi-quyet-va-kien-thuc-chung-kien-thuc-chung-2",
+    "no": 2,
+    "text": "Năm 2007 đánh dấu bước ngoặt nào trong hành trình Sun Group?",
+    "options": [
+     "Ra mắt Sun PhuQuoc Airways",
+     "Ra mắt chương trình Sun Signature",
+     "Thành lập tại Ukraine",
+     "Trở về Việt Nam, khởi nghiệp tại Đà Nẵng"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "full-nghi-quyet-va-kien-thuc-chung-kien-thuc-chung-3",
+    "no": 3,
+    "text": "Dự án Rixos Phu Quoc Vietnam tại Hòn Thơm được phát triển theo mô hình nghỉ dưỡng nào?",
+    "options": [
+     "Serviced residence, căn hộ dịch vụ cho lưu trú dài hạn",
+     "Boutique resort, khu nghỉ dưỡng quy mô nhỏ có bản sắc riêng",
+     "All-inclusive, nghỉ dưỡng trọn gói",
+     "Wellness retreat, nghỉ dưỡng chuyên biệt về sức khỏe"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "full-nghi-quyet-va-kien-thuc-chung-kien-thuc-chung-4",
+    "no": 4,
+    "text": "Ba công trình khai trương, thông tuyến cuối năm 2018 tạo dấu ấn kết nối Không – Thủy – Bộ tại Quảng Ninh là nhóm nào?",
+    "options": [
+     "Sân bay Đà Nẵng – Cảng tàu Hạ Long – Cao tốc Hạ Long–Vân Đồn",
+     "Sân bay Phú Quốc – Cảng tàu Hạ Long – Cao tốc Đà Nẵng–Quảng Ngãi",
+     "Sân bay Vân Đồn – Cảng tàu khách quốc tế Hạ Long – Cao tốc Hạ Long–Vân Đồn",
+     "Sân bay Vân Đồn – Cảng Hải Phòng – Cao tốc Nội Bài–Lào Cai"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "full-nghi-quyet-va-kien-thuc-chung-kien-thuc-chung-5",
+    "no": 5,
+    "text": "Công trình nào đánh dấu việc Sun Group khai trương khu du lịch Bà Nà năm 2009?",
+    "options": [
+     "Thác Thần Mặt Trời",
+     "Cầu Vàng",
+     "Tuyến cáp treo Suối Mơ – Bà Nà",
+     "Làng Pháp"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "full-nghi-quyet-va-kien-thuc-chung-kien-thuc-chung-6",
+    "no": 6,
+    "text": "Tại Quảng trường Thời Đại trong đại đô thị Sun Urban City ở Ninh Bình, biểu tượng nào gợi nhắc nghề truyền thống và bản sắc của vùng đất Hà Nam?",
+    "options": [
+     "Cánh buồm",
+     "Trống Đọi Tam",
+     "Tháp đồng hồ",
+     "Tượng Thánh Gióng"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "full-nghi-quyet-va-kien-thuc-chung-kien-thuc-chung-7",
+    "no": 7,
+    "text": "Một đồng nghiệp hỏi: hợp tác Sun Group – Marriott International công bố tháng 9/2026 mở rộng nhóm sản phẩm nào?",
+    "options": [
+     "Hãng hàng không, đội bay thân rộng và dịch vụ mặt đất",
+     "Bệnh viện, trung tâm chẩn đoán và phục hồi chức năng",
+     "Khách sạn, khu nghỉ dưỡng cao cấp và điểm đến MICE",
+     "Cảng biển, đường cao tốc và vận tải hàng hóa"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "full-nghi-quyet-va-kien-thuc-chung-kien-thuc-chung-8",
+    "no": 8,
+    "text": "Tại World Travel Awards 2026, Sun Group được vinh danh với danh hiệu nào?",
+    "options": [
+     "Thương hiệu bán lẻ hàng đầu châu Á",
+     "Tập đoàn du lịch hàng đầu châu Á",
+     "Nhà điều hành sân bay hàng đầu châu Á",
+     "Hãng hàng không hàng đầu châu Á"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "full-nghi-quyet-va-kien-thuc-chung-kien-thuc-chung-9",
+    "no": 9,
+    "text": "Một du khách muốn chiêm bái Tượng Phật Bà Tây Bổ Đà Sơn và Tôn tượng Bồ Tát Di Lặc trong hệ sinh thái Sun Group. Chị/anh giới thiệu điểm đến nào?",
+    "options": [
+     "Fansipan, Sa Pa",
+     "Núi Bà Đen, Tây Ninh",
+     "Hòn Thơm, Phú Quốc",
+     "Bà Nà, Đà Nẵng"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "full-nghi-quyet-va-kien-thuc-chung-kien-thuc-chung-10",
+    "no": 10,
+    "text": "Khu du lịch nào của Sun Group được WTA 2026 vinh danh ở cả hai hạng mục Công viên chủ đề hàng đầu châu Á và Cáp treo hàng đầu châu Á?",
+    "options": [
+     "Khu du lịch Bà Nà",
+     "Khu vui chơi Hòn Thơm",
+     "Khu du lịch Núi Bà Đen",
+     "Khu du lịch Fansipan"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "full-nghi-quyet-va-kien-thuc-chung-kien-thuc-chung-11",
+    "no": 11,
+    "text": "Cảng hàng không nào trong hệ sinh thái Sun Group được WTA 2026 vinh danh là sân bay khu vực hàng đầu châu Á?",
+    "options": [
+     "Cảng hàng không quốc tế Phú Quốc",
+     "Cảng hàng không quốc tế Cát Bi",
+     "Cảng hàng không quốc tế Đà Nẵng",
+     "Cảng hàng không quốc tế Vân Đồn"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "full-nghi-quyet-va-kien-thuc-chung-kien-thuc-chung-12",
+    "no": 12,
+    "text": "Điểm đến nào được Sun Group đưa tin đã vượt Bali trong bảng xếp hạng các đảo tuyệt vời nhất châu Á của Travel + Leisure năm 2026?",
+    "options": [
+     "Cát Bà",
+     "Côn Đảo",
+     "Lý Sơn",
+     "Phú Quốc"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "full-nghi-quyet-va-kien-thuc-chung-kien-thuc-chung-13",
+    "no": 13,
+    "text": "Michelin Key, danh hiệu vinh danh các cơ sở do Sun Group đầu tư năm 2026, đánh giá loại hình nào?",
+    "options": [
+     "Công viên chủ đề và khu vui chơi",
+     "Khách sạn và cơ sở lưu trú",
+     "Hãng hàng không và dịch vụ trên chuyến bay",
+     "Nhà hàng và trải nghiệm ẩm thực"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "full-nghi-quyet-va-kien-thuc-chung-kien-thuc-chung-14",
+    "no": 14,
+    "text": "Kỷ lục Guinness được công bố cho cáp treo Hòn Thơm gắn với đặc điểm nào?",
+    "options": [
+     "Tuyến cáp treo ba dây dài nhất thế giới",
+     "Trụ cáp treo cao nhất thế giới",
+     "Tuyến cáp treo có nhiều ga nhất thế giới",
+     "Cabin có sức chứa lớn nhất thế giới"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "full-nghi-quyet-va-kien-thuc-chung-kien-thuc-chung-15",
+    "no": 15,
+    "text": "Hệ thống cáp treo được Sun Group đưa vào hoạt động năm 2016, giúp du khách tiếp cận “Nóc nhà Đông Dương”, gắn với điểm đến nào?",
+    "options": [
+     "Fansipan, Sa Pa",
+     "Hòn Thơm, Phú Quốc",
+     "Núi Bà Đen, Tây Ninh",
+     "Bà Nà, Đà Nẵng"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "full-nghi-quyet-va-kien-thuc-chung-kien-thuc-chung-16",
+    "no": 16,
+    "text": "Trong hợp tác với Changi Airports International, mô hình “sân bay điểm đến” tại Phú Quốc được hiểu như thế nào?",
+    "options": [
+     "Sân bay kết nối chuyến bay với hệ thống kho bãi và logistics",
+     "Sân bay kết hợp vận chuyển với mua sắm, ẩm thực và các trải nghiệm hấp dẫn",
+     "Sân bay kết nối chuyến bay với đào tạo phi công và bảo dưỡng tàu bay",
+     "Sân bay kết nối chuyến bay thuê riêng với dịch vụ hàng không chung"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "full-nghi-quyet-va-kien-thuc-chung-kien-thuc-chung-17",
+    "no": 17,
+    "text": "Tại Skytrax World Airline Awards 2026, Sun PhuQuoc Airways được vinh danh ở hạng mục nào?",
+    "options": [
+     "Hãng hàng không giá rẻ tốt nhất châu Á",
+     "Hãng hàng không nghỉ dưỡng tốt nhất châu Á",
+     "Hãng hàng không tốt nhất thế giới",
+     "Hãng hàng không khu vực tốt nhất châu Á"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "full-nghi-quyet-va-kien-thuc-chung-kien-thuc-chung-18",
+    "no": 18,
+    "text": "Nhóm nào thể hiện đầy đủ sáu lĩnh vực hoạt động được Sun Group giới thiệu trên website chính thức?",
+    "options": [
+     "Bất động sản; giải trí nghỉ dưỡng; năng lượng; hàng không; giáo dục; nghệ thuật",
+     "Bất động sản; giải trí nghỉ dưỡng; hạ tầng; hàng không; ngân hàng; giáo dục",
+     "Bất động sản; giải trí nghỉ dưỡng; hạ tầng; hàng không; y tế; nghệ thuật",
+     "Bất động sản; giải trí nghỉ dưỡng; hạ tầng; hàng hải; y tế; nông nghiệp"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "full-nghi-quyet-va-kien-thuc-chung-kien-thuc-chung-19",
+    "no": 19,
+    "text": "Công trình nào ra mắt tại Bà Nà năm 2018, trở thành hình ảnh nhận diện nổi bật của du lịch Đà Nẵng?",
+    "options": [
+     "Nhà hát Opera Hà Nội",
+     "Cáp treo Nữ Hoàng",
+     "Cầu Vàng",
+     "Cầu Hôn"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "full-nghi-quyet-va-kien-thuc-chung-kien-thuc-chung-20",
+    "no": 20,
+    "text": "Một du khách muốn tham quan Cầu Hôn và xem các chương trình biểu diễn tại Thị trấn Hoàng Hôn. Bạn giới thiệu điểm đến nào?",
+    "options": [
+     "Sa Pa",
+     "Hạ Long",
+     "Đà Nẵng",
+     "Phú Quốc"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "full-nghi-quyet-va-kien-thuc-chung-kien-thuc-chung-21",
+    "no": 21,
+    "text": "Trong hành trình đưa Michelin Guide đến Việt Nam và tiếp tục đồng hành năm 2026, Sun Group đảm nhận vai trò nào?",
+    "options": [
+     "Đơn vị trực tiếp chấm và trao sao Michelin",
+     "Đối tác điểm đến",
+     "Cơ quan cấp phép hoạt động nhà hàng",
+     "Đơn vị quản lý toàn bộ nhà hàng trong cẩm nang"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "full-nghi-quyet-va-kien-thuc-chung-kien-thuc-chung-22",
+    "no": 22,
+    "text": "Khách sạn nào đánh dấu bước phát triển nghỉ dưỡng cao cấp của Sun Group khi khánh thành năm 2012?",
+    "options": [
+     "InterContinental Danang Sun Peninsula Resort",
+     "Capella Hanoi",
+     "Hotel de la Coupole – MGallery",
+     "JW Marriott Phu Quoc Emerald Bay Resort"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "full-nghi-quyet-va-kien-thuc-chung-kien-thuc-chung-23",
+    "no": 23,
+    "text": "Ba khách sạn do Sun Group đầu tư được Michelin Key vinh danh năm 2026 tại Hà Nội, Sa Pa và Đà Nẵng có điểm chung nổi bật nào trong cách tạo trải nghiệm?",
+    "options": [
+     "Cùng sử dụng câu chuyện thời trang Pháp cho mọi điểm đến",
+     "Cùng phát triển theo mô hình nghỉ dưỡng trọn gói trên đảo",
+     "Cùng lấy văn hóa và thiên nhiên của từng địa phương làm chất liệu trải nghiệm",
+     "Cùng lấy hoạt động vui chơi dưới nước làm trải nghiệm chủ đạo"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "full-nghi-quyet-va-kien-thuc-chung-kien-thuc-chung-24",
+    "no": 24,
+    "text": "Khách sạn nào do Sun Group đầu tư là đại diện duy nhất của Việt Nam trong danh sách 100 khách sạn tốt nhất thế giới do The World’s 50 Best công bố năm 2026?",
+    "options": [
+     "Hotel de la Coupole",
+     "La Festa Phu Quoc",
+     "New World Phu Quoc Resort",
+     "Capella Hanoi"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "full-nghi-quyet-va-kien-thuc-chung-kien-thuc-chung-25",
+    "no": 25,
+    "text": "Thành tựu nào được Anphabe ghi nhận cho Sun Group năm 2025, gắn trực tiếp với niềm tự hào của CBNV về môi trường làm việc?",
+    "options": [
+     "Top 100 Nơi làm việc tốt nhất Việt Nam",
+     "Sân bay khu vực hàng đầu châu Á",
+     "Tập đoàn du lịch hàng đầu châu Á",
+     "Khách sạn tốt nhất thế giới"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "full-nghi-quyet-va-kien-thuc-chung-kien-thuc-chung-26",
+    "no": 26,
+    "text": "Festival Island trong dự án Charmora City tại Nha Trang được định hướng trở thành điểm đến như thế nào?",
+    "options": [
+     "Khu nghỉ dưỡng biệt lập chủ yếu phục vụ nghỉ ngơi yên tĩnh",
+     "Đảo hành chính tập trung các cơ quan quản lý",
+     "Đảo lễ hội với các hoạt động giải trí và trải nghiệm cả ngày lẫn đêm",
+     "Đảo an cư chủ yếu phục vụ đời sống cư dân"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "full-nghi-quyet-va-kien-thuc-chung-kien-thuc-chung-27",
+    "no": 27,
+    "text": "Một khách hàng muốn tích điểm và hưởng đặc quyền khi sử dụng nhiều dịch vụ trong hệ sinh thái Sun Group. Chị/anh giới thiệu chương trình nào?",
+    "options": [
+     "Visit Vietnam",
+     "Sun Signature",
+     "Sun Property",
+     "Sun Air"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "full-nghi-quyet-va-kien-thuc-chung-kien-thuc-chung-28",
+    "no": 28,
+    "text": "Khi giới thiệu Sun Property cho một đồng nghiệp mới, mô tả nào đúng với định vị công bố của thương hiệu?",
+    "options": [
+     "Phát triển mạng lưới bệnh viện theo tiêu chuẩn quốc tế",
+     "Phát triển bất động sản cao cấp gắn với du lịch, nghỉ dưỡng",
+     "Phát triển chương trình tích điểm liên thông hệ sinh thái",
+     "Phát triển hàng không nghỉ dưỡng kết nối các điểm đến"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "full-nghi-quyet-va-kien-thuc-chung-kien-thuc-chung-29",
+    "no": 29,
+    "text": "Công trình nào trong chuỗi dự án phục vụ APEC 2027 tại Phú Quốc được khánh thành đầu tiên, vào tháng 4/2026?",
+    "options": [
+     "Trung tâm Hội nghị và Triển lãm APEC Phú Quốc",
+     "Bệnh viện Mặt Trời Hà Nội",
+     "Bệnh viện Mặt Trời Phú Quốc",
+     "Cảng hàng không quốc tế Phú Quốc"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "full-nghi-quyet-va-kien-thuc-chung-kien-thuc-chung-30",
+    "no": 30,
+    "text": "Huyền tích Am Tiên – quần thể du lịch tâm linh và di tích lịch sử do Sun Group triển khai – nằm tại tỉnh nào?",
+    "options": [
+     "Lào Cai",
+     "Quảng Ninh",
+     "Tây Ninh",
+     "Thanh Hóa"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "full-nghi-quyet-va-kien-thuc-chung-kien-thuc-chung-31",
+    "no": 31,
+    "text": "Cặp thương hiệu nào phản ánh hai hướng phát triển hàng không chung hạng sang và hàng không nghỉ dưỡng của Sun Group?",
+    "options": [
+     "Sun Air và Sun PhuQuoc Airways",
+     "Sun Air và Sun Property",
+     "Sun PhuQuoc Airways và Sun Signature",
+     "Sun Air và Sun Healthcare"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "full-nghi-quyet-va-kien-thuc-chung-kien-thuc-chung-32",
+    "no": 32,
+    "text": "Từ ngày 01/01/2026, Sun Group chính thức tiếp nhận vận hành cảng hàng không nào?",
+    "options": [
+     "Cảng hàng không quốc tế Cát Bi",
+     "Cảng hàng không quốc tế Phú Quốc",
+     "Cảng hàng không quốc tế Nội Bài",
+     "Cảng hàng không quốc tế Đà Nẵng"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "full-nghi-quyet-va-kien-thuc-chung-kien-thuc-chung-33",
+    "no": 33,
+    "text": "Thỏa thuận mua tàu bay Boeing 787-9 Dreamliner năm 2026 của Sun PhuQuoc Airways hướng tới mục tiêu nào?",
+    "options": [
+     "Phát triển năng lực bay đường dài, kết nối Phú Quốc với các thị trường quốc tế",
+     "Tăng năng lực chuyên chở hàng hóa trên các tuyến nội địa",
+     "Phát triển đội bay nhỏ phục vụ hành trình ngắm cảnh trên đảo",
+     "Phát triển hàng không chung phục vụ các chuyến bay thuê riêng"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "full-nghi-quyet-va-kien-thuc-chung-kien-thuc-chung-34",
+    "no": 34,
+    "text": "Sun PhuQuoc Airways bắt đầu khai thác thương mại vào thời điểm nào?",
+    "options": [
+     "Tháng 11/2024",
+     "Tháng 6/2026",
+     "Tháng 11/2026",
+     "Tháng 11/2025"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "full-nghi-quyet-va-kien-thuc-chung-kien-thuc-chung-35",
+    "no": 35,
+    "text": "Điểm khác biệt của mô hình hàng không nghỉ dưỡng Sun PhuQuoc Airways được thể hiện rõ nhất ở hành trình nào?",
+    "options": [
+     "Chuyến bay kết nối với lưu trú, vui chơi và dịch vụ tại điểm đến",
+     "Vận tải hàng hóa kết nối với kho bãi và dịch vụ logistics",
+     "Đào tạo phi công kết nối với bảo dưỡng kỹ thuật tàu bay",
+     "Chuyến bay thuê riêng kết nối với trải nghiệm ngắm cảnh cá nhân"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "full-nghi-quyet-va-kien-thuc-chung-kien-thuc-chung-36",
+    "no": 36,
+    "text": "Bệnh viện Mặt Trời Hà Nội và Bệnh viện Quốc tế Mặt Trời Phú Quốc thuộc hệ thống nào của Sun Group?",
+    "options": [
+     "Sun Property",
+     "Sun Airport",
+     "SHE",
+     "Sun Healthcare"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "full-nghi-quyet-va-kien-thuc-chung-kien-thuc-chung-37",
+    "no": 37,
+    "text": "Bệnh viện nào đánh dấu bước khởi đầu của hệ thống y tế Sun Group khi khánh thành năm 2024?",
+    "options": [
+     "Hai bệnh viện Mặt Trời tại Hà Nội và Phú Quốc cùng khánh thành",
+     "Bệnh viện Mặt Trời tại Hà Nội",
+     "Một cơ sở Mặt Trời mới tại Đà Nẵng",
+     "Bệnh viện Mặt Trời tại Phú Quốc"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "full-nghi-quyet-va-kien-thuc-chung-kien-thuc-chung-38",
+    "no": 38,
+    "text": "Sáng kiến nào được Sun Group bảo trợ từ năm 2017 để phát triển âm nhạc giao hưởng và làm phong phú đời sống tinh thần của công chúng?",
+    "options": [
+     "Show diễn Nụ Hôn Của Biển Cả",
+     "Nhà hát Opera Hà Nội",
+     "Lễ hội Pháo hoa Quốc tế Đà Nẵng (DIFF)",
+     "Dàn nhạc Giao hưởng Mặt Trời (SSO)"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "full-nghi-quyet-va-kien-thuc-chung-kien-thuc-chung-39",
+    "no": 39,
+    "text": "Bên cạnh phục vụ APEC 2027, việc Sun Group phát triển hạ tầng và dịch vụ tại Phú Quốc hướng tới lợi ích dài hạn nào?",
+    "options": [
+     "Nâng năng lực kết nối, đón khách quốc tế và phát triển điểm đến sau sự kiện",
+     "Tạo hệ thống dịch vụ chuyên biệt dành cho các đoàn đại biểu hội nghị",
+     "Tạo điểm đến chuyên tổ chức hội nghị, lấy khách công vụ làm thị trường chính",
+     "Tạo trung tâm trung chuyển hàng hóa, lấy logistics làm hướng phát triển chính"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "full-nghi-quyet-va-kien-thuc-chung-kien-thuc-chung-40",
+    "no": 40,
+    "text": "Dự án sân bay nào được Sun Group khởi công hạng mục dân dụng năm 2026, với nhà ga lấy cảm hứng từ văn hóa Champa?",
+    "options": [
+     "Cảng hàng không quốc tế Vân Đồn",
+     "Cảng hàng không dân dụng Phan Thiết",
+     "Cảng hàng không quốc tế Phú Quốc",
+     "Cảng hàng không quốc tế Đà Nẵng"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "full-nghi-quyet-va-kien-thuc-chung-kien-thuc-chung-41",
+    "no": 41,
+    "text": "Tại Fansipan, không gian nào giúp du khách trải nghiệm văn hóa vùng cao qua nghề thủ công, nghệ thuật dân gian và đời sống cộng đồng?",
+    "options": [
+     "Thị trấn Hoàng Hôn",
+     "Làng Pháp",
+     "Bản Mây",
+     "Chợ đêm Vui Phết"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "full-nghi-quyet-va-kien-thuc-chung-kien-thuc-chung-42",
+    "no": 42,
+    "text": "Mô hình nào giúp Bệnh viện Mặt Trời kết hợp chăm sóc y tế với không gian tiện nghi và trải nghiệm dịch vụ theo tiêu chuẩn quốc tế?",
+    "options": [
+     "Trung tâm chăm sóc sức khỏe cộng đồng",
+     "Trung tâm điều dưỡng dài hạn",
+     "Bệnh viện – khách sạn quốc tế",
+     "Bệnh viện chuyên phục hồi chức năng"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "full-nghi-quyet-va-kien-thuc-chung-kien-thuc-chung-43",
+    "no": 43,
+    "text": "Theo thông tin về DIFF 2026, việc Sun Group đồng hành tổ chức lễ hội pháo hoa góp phần phát triển Đà Nẵng theo hướng nào?",
+    "options": [
+     "Điểm đến hội nghị, lấy khách công vụ làm thị trường chính",
+     "Điểm đến thể thao, lấy các giải thi đấu làm động lực du lịch",
+     "Điểm đến lễ hội hấp dẫn, kích cầu du lịch và thúc đẩy kinh tế đêm",
+     "Điểm đến nghỉ dưỡng chăm sóc sức khỏe, lấy khoáng nóng làm thế mạnh"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "full-nghi-quyet-va-kien-thuc-chung-kien-thuc-chung-44",
+    "no": 44,
+    "text": "Công trình nào do Sun Group khởi công năm 2025 được định hướng trở thành nhà hát biểu diễn nghệ thuật mang tầm quốc tế?",
+    "options": [
+     "Da Nang Downtown",
+     "Trung tâm Hội nghị và Triển lãm APEC Phú Quốc",
+     "Nhà hát Opera Hà Nội",
+     "Sun Galaxy Complex"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "full-nghi-quyet-va-kien-thuc-chung-kien-thuc-chung-45",
+    "no": 45,
+    "text": "Trong hợp tác Sun Group – Petrolimex năm 2026, SAF được nghiên cứu để thúc đẩy chuyển đổi xanh trong lĩnh vực nào?",
+    "options": [
+     "Vận tải biển, thông qua nhiên liệu cho tàu du lịch",
+     "Nghỉ dưỡng, thông qua điện tái tạo cho khách sạn",
+     "Hàng không, thông qua nhiên liệu hàng không bền vững",
+     "Đường bộ, thông qua nhiên liệu sinh học cho ô tô"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "full-nghi-quyet-va-kien-thuc-chung-kien-thuc-chung-46",
+    "no": 46,
+    "text": "Nhóm hoạt động nào phù hợp với định hướng khai thác quanh năm của Sun Galaxy Complex tại Đà Nẵng?",
+    "options": [
+     "Lễ hội, sự kiện, biểu diễn nghệ thuật và giải trí",
+     "Mua sắm, giao dịch thương mại và trưng bày sản phẩm bán lẻ",
+     "Thi đấu thể thao, huấn luyện vận động viên và lưu trú đội tuyển",
+     "Nghỉ dưỡng, tắm khoáng nóng và chăm sóc sức khỏe"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "full-nghi-quyet-va-kien-thuc-chung-kien-thuc-chung-47",
+    "no": 47,
+    "text": "Hợp tác chiến lược giữa Sun Group và Keppel EaaS Việt Nam năm 2026 tập trung vào hướng nào để phát triển các điểm đến xanh?",
+    "options": [
+     "Tối ưu hóa năng lượng và các giải pháp chuyển đổi xanh",
+     "Mở rộng đội bay đường dài và dịch vụ hàng không",
+     "Phát triển khách sạn cao cấp và điểm đến MICE",
+     "Phát triển dữ liệu du lịch và thanh toán xuyên biên giới"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "full-nghi-quyet-va-kien-thuc-chung-kien-thuc-chung-48",
+    "no": 48,
+    "text": "Nền tảng nào thuộc hệ sinh thái du lịch số do Sun Group phát triển và vận hành, hướng tới kết nối dữ liệu, điểm đến và trải nghiệm du khách?",
+    "options": [
+     "Sun Signature",
+     "Visit Vietnam",
+     "Sun Property",
+     "Sun PhuQuoc Airways"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "full-nghi-quyet-va-kien-thuc-chung-kien-thuc-chung-49",
+    "no": 49,
+    "text": "SHE là tên viết tắt của Khối Giải trí Nghỉ dưỡng Sun Group với tên tiếng Anh nào?",
+    "options": [
+     "Sun Housing and Engineering.",
+     "Sun Heritage Education.",
+     "Sun Healthcare Enterprise.",
+     "Sun Hospitality and Entertainment."
+    ],
+    "answer": 3
+   },
+   {
+    "id": "full-nghi-quyet-va-kien-thuc-chung-kien-thuc-chung-50",
+    "no": 50,
+    "text": "Một du khách muốn nghỉ dưỡng kết hợp tắm khoáng nóng và trải nghiệm onsen trong hệ sinh thái Sun Group. Chị/anh giới thiệu điểm đến nào?",
+    "options": [
+     "Quang Hanh, Quảng Ninh.",
+     "Hòn Thơm, Phú Quốc.",
+     "Fansipan, Sa Pa.",
+     "Bà Nà, Đà Nẵng."
+    ],
+    "answer": 0
+   }
+  ],
+  "group": "Full Nghị quyết và Kiến thức chung"
+ },
+ {
+  "id": "noi-quy-lao-dong",
+  "name": "Nội quy lao động",
+  "questions": [
+   {
+    "id": "noi-quy-lao-dong-1",
+    "no": 1,
+    "text": "Theo Nội quy Lao động SG, thiệt hại KHÔNG NGHIÊM TRỌNG là thiệt hại có giá trị quy đổi tương đương:",
+    "options": [
+     "Từ trên 10 đến 20 tháng lương tối thiểu vùng",
+     "Không quá 10 tháng lương tối thiểu vùng",
+     "Không có thiệt hại về tài chính",
+     "Từ trên 20 tháng lương tối thiểu vùng"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "noi-quy-lao-dong-2",
+    "no": 2,
+    "text": "Theo Nội quy Lao động SG, thiệt hại NGHIÊM TRỌNG là thiệt hại có giá trị quy đổi tương đương:",
+    "options": [
+     "Không quá 10 tháng lương tối thiểu vùng",
+     "Từ trên 20 tháng lương tối thiểu vùng",
+     "Không có thiệt hại về tài chính",
+     "Từ trên 10 đến 20 tháng lương tối thiểu vùng"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "noi-quy-lao-dong-3",
+    "no": 3,
+    "text": "Theo Nội quy Lao động SG, một sự việc tiêu cực gây khủng hoảng truyền thông dẫn đến mất khách hàng lớn, đối tác chiến lược của Tập đoàn được quy về nhóm thiệt hại nào?",
+    "options": [
+     "Thiệt hại nghiêm trọng",
+     "Thiệt hại đặc biệt nghiêm trọng",
+     "Thiệt hại rất nghiêm trọng",
+     "Thiệt hại không nghiêm trọng"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "noi-quy-lao-dong-4",
+    "no": 4,
+    "text": "Theo Nội quy Lao động SG, \"Tái phạm\" được định nghĩa như thế nào?",
+    "options": [
+     "Là trường hợp NLĐ lặp lại hành vi vi phạm đã bị xử lý kỷ luật",
+     "Là trường hợp NLĐ lặp lại hành vi vi phạm đã bị xử lý kỷ luật mà chưa được xóa kỷ luật",
+     "Là trường hợp NLĐ lặp lại hành vi vi phạm đã được phát hiện",
+     "Là trường hợp NLĐ lặp lại hành vi vi phạm đã được phát hiện trong khoảng thời gian 1 tháng tính từ ngày phát hiện lần đầu"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "noi-quy-lao-dong-5",
+    "no": 5,
+    "text": "Theo nguyên tắc phiên nhóm lỗi vi phạm trong Nội quy lao động SG, có bao nhiêu nhóm lỗi tiêu chuẩn?",
+    "options": [
+     "5",
+     "3",
+     "2",
+     "4"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "noi-quy-lao-dong-6",
+    "no": 6,
+    "text": "Theo nguyên tắc phiên nhóm lỗi vi phạm trong Nội quy lao động SG, tình tiết nào sau đây THUỘC các tình tiết được xem xét để tăng nặng nhóm lỗi vi phạm?",
+    "options": [
+     "Người vi phạm tự nguyện sửa chữa, bồi thường thiệt hại hoặc khắc phục hậu quả",
+     "Vi phạm lần đầu và thuộc trường hợp không nghiêm trọng",
+     "Lợi dụng chức vụ, quyền hạn được Sun Group giao cho để thực hiện hành vi vi phạm",
+     "Người vi phạm là người đã có đóng góp quan trọng, trực tiếp vào sự hình thành và phát triển của Sun Group"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "noi-quy-lao-dong-7",
+    "no": 7,
+    "text": "Theo nguyên tắc phiên nhóm lỗi vi phạm trong Nội quy lao động SG, tình tiết nào sau đây KHÔNG THUỘC các tình tiết được xem xét để tăng nặng nhóm lỗi vi phạm?",
+    "options": [
+     "Có hành động gian dối",
+     "Vi phạm trong trường hợp bị hạn chế khả năng nhận thức",
+     "Lợi dụng chức vụ, quyền hạn được Sun Group giao cho để thực hiện hành vi vi phạm",
+     "Hành động tinh vi nhằm trốn tránh hoặc che giấu hành vi vi phạm"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "noi-quy-lao-dong-8",
+    "no": 8,
+    "text": "Theo Nội quy lao động SG, các hành vi vi phạm được phân thành bao nhiêu nhóm lỗi?",
+    "options": [
+     "03 nhóm lỗi",
+     "04 nhóm lỗi",
+     "06 nhóm lỗi",
+     "05 nhóm lỗi"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "noi-quy-lao-dong-9",
+    "no": 9,
+    "text": "Theo Nội quy lao động SG, nhóm lỗi nào sẽ bị xử lý kỷ luật hình thức Khiển trách",
+    "options": [
+     "Nhóm L3",
+     "Nhóm L4",
+     "Nhóm L5",
+     "Nhóm L2"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "noi-quy-lao-dong-10",
+    "no": 10,
+    "text": "Theo Nội quy lao động SG, sau khi đủ bao nhiêu năm làm việc liên tục tại Sun Group thì số ngày nghỉ phép năm của Người lao động được tăng thêm 01 ngày?",
+    "options": [
+     "04 năm",
+     "03 năm",
+     "05 năm",
+     "02 năm"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "noi-quy-lao-dong-11",
+    "no": 11,
+    "text": "Theo Nội quy lao động SG, thời hiệu xử lý kỷ luật (đối với các hành vi không liên quan đến tài chính, tài sản, tiết lộ bí mật công nghệ, kinh doanh) là:",
+    "options": [
+     "06 tháng, kể từ ngày xảy ra hành vi vi phạm",
+     "12 tháng, kể từ ngày phát hiện ra hành vi vi phạm",
+     "06 tháng, kể từ ngày phát hiện ra hành vi vi phạm",
+     "12 tháng, kể từ ngày xảy ra hành vi vi phạm"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "noi-quy-lao-dong-12",
+    "no": 12,
+    "text": "Theo Nội quy lao động SG, trình tự xử lý kỷ luật lao động:",
+    "options": [
+     "(1) Lập biên bản vi phạm/thu thập chứng cứ (2) Họp xử lý KLLĐ, lập biên bản họp (3) Ban hành Quyết định xử lý KLLĐ (4) Lưu hồ sơ",
+     "(1) Lập biên bản vi phạm/thu thập chứng cứ (2) Họp xử lý KLLĐ (3) Lập biên bản xử lý kỷ luật",
+     "(1) Lập biên bản vi phạm/thu thập chứng cứ (2) Họp xử lý KLLĐ (3) Ban hành Quyết định",
+     "(1) Họp xử lý KLLĐ (2) Ban hành Quyết định"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "noi-quy-lao-dong-13",
+    "no": 13,
+    "text": "Theo Nội quy lao động SG, tùy theo nhu cầu sản xuất kinh doanh của Tập đoàn như chia tách, sáp nhập các đơn vị, hoặc thay đổi cơ cấu tổ chức, tái cấu trúc lĩnh vực hoạt động, thay đổi quy trình công nghệ, máy móc, thiết bị sản xuất kinh doanh, địa điểm thực hiện, hoặc bù đắp vị trí bị khuyết thiếu hoặc đảm bảo vận hành thông suốt ….. thì người lao động cần:",
+    "options": [
+     "Ưu tiên theo lĩnh vực chuyên môn",
+     "Ưu tiên theo địa bàn cư trú",
+     "Tuân thủ quy định tạm thời điều chuyển",
+     "Tuân thủ quy định điều chuyển"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "noi-quy-lao-dong-14",
+    "no": 14,
+    "text": "Theo Pháp luật hiện hành, thời giờ làm việc bình thường theo ngày được quy định như thế nào?",
+    "options": [
+     "12h/ngày",
+     "08h/ngày",
+     "Không quá 08h/ngày",
+     "Không quá 12h/ngày"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "noi-quy-lao-dong-15",
+    "no": 15,
+    "text": "Thẩm quyền ra quyết định kỷ luật lao động",
+    "options": [
+     "Chủ tịch/Tổng giám đốc Vùng/Khối",
+     "Trưởng Ban Nhân sự TĐ",
+     "Tổng giám đốc Tập đoàn",
+     "Đại diện theo pháp luật của công ty, hoặc người được ủy quyền theo quy định của pháp luật"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "noi-quy-lao-dong-16",
+    "no": 16,
+    "text": "Theo Nội quy Lao động SG, Người lao động cố ý gây thương tích cho người khác tại nơi làm việc sẽ bị xử lý kỷ luật với hình thức:",
+    "options": [
+     "Khiển trách",
+     "Cách chức",
+     "Sa thải",
+     "Kéo dài thời hạn nâng lương không quá 6 tháng"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "noi-quy-lao-dong-17",
+    "no": 17,
+    "text": "Theo Nội quy lao động SG, đi muộn, về sớm, không chấm công vượt quá từ 04 lần trở lên so với số lần cho phép theo quy định trong một kỳ tính lương là hành vi vi phạm thuộc nhóm lỗi nào?",
+    "options": [
+     "L1",
+     "L2",
+     "L3",
+     "L4"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "noi-quy-lao-dong-18",
+    "no": 18,
+    "text": "Theo Nội quy lao động SG, đối tượng áp dụng của văn bản này gồm:",
+    "options": [
+     "Người lao động làm việc tại Sun Group, tùy theo loại hợp đồng",
+     "Người lao động làm việc tại Sun Group, tùy theo tình trạng hợp đồng đã giao kết",
+     "Người lao động làm việc tại Sun Group sau khi trở thành lao động chính thức",
+     "Toàn thể Người lao động làm việc tại Sun Group, không phân biệt loại hợp đồng"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "noi-quy-lao-dong-19",
+    "no": 19,
+    "text": "Theo Nội quy lao động SG, hành vi gian lận để được ghi nhận thời gian/kết quả làm việc, đào tạo, tập luyện không đúng thực tế thuộc nhóm lỗi nào?",
+    "options": [
+     "L1",
+     "L2",
+     "L3",
+     "L4"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "noi-quy-lao-dong-20",
+    "no": 20,
+    "text": "Thời giờ làm việc ban đêm được tính như thế nào?",
+    "options": [
+     "được tính từ 22:00 đêm đến 06:00 sáng hôm sau",
+     "được tính từ 23:00 đêm đến 07:00 sáng hôm sau",
+     "được tính từ 7:00 tối đến 7:00 sáng hôm sau",
+     "được tính từ 6:00 tối đến 12:00 sáng hôm sau"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "noi-quy-lao-dong-21",
+    "no": 21,
+    "text": "Theo Nội quy lao động SG, mức độ vi phạm được xếp theo bao nhiêu cấp độ?",
+    "options": [
+     "03 cấp độ (Không nghiêm trọng – Nghiêm trọng – Đặc biệt nghiêm trọng)",
+     "02 cấp độ (Nghiêm trọng – Đặc biệt nghiêm trọng)",
+     "01 cấp độ (Đặc biệt nghiêm trọng)",
+     "Không phân cấp độ"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "noi-quy-lao-dong-22",
+    "no": 22,
+    "text": "Theo Nội quy lao động SG, nội dung nào sau đây là căn cứ xác định thiệt hại đặc biệt nghiêm trọng?",
+    "options": [
+     "Giá trị thiệt hại quy đổi tương đương từ trên 20 tháng lương tối thiểu vùng, và/hoặc thiệt hại đặc biệt nghiêm trọng về lợi ích phi tài chính (uy tín, hình ảnh, thương hiệu, hoạt động kinh doanh, vận hành…) của Sun Group",
+     "Giá trị thiệt hại quy đổi tương đương không quá 10 tháng lương tối thiểu vùng, và/hoặc thiệt hại không nghiêm trọng về lợi ích phi tài chính của Sun Group",
+     "Giá trị thiệt hại quy đổi tương đương từ trên 10 đến 20 tháng lương tối thiểu vùng, và/hoặc thiệt hại nghiêm trọng về lợi ích phi tài chính của Sun Group",
+     "Không căn cứ trên giá trị thiệt hại vật chất; chỉ xét đến thiệt hại về lợi ích phi tài chính (uy tín, hình ảnh, thương hiệu…) của Sun Group"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "noi-quy-lao-dong-23",
+    "no": 23,
+    "text": "Theo Nội quy lao động SG, cán bộ nhân viên có hành vi vi phạm thuộc nhóm lỗi nào sẽ bị xử lý kỷ luật hình thức \"Cách chức\"?",
+    "options": [
+     "Nhóm L2",
+     "Nhóm L5",
+     "Nhóm L4",
+     "Nhóm L3"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "noi-quy-lao-dong-24",
+    "no": 24,
+    "text": "Theo Nội quy lao động SG, cán bộ nhân viên có hành vi vi phạm thuộc nhóm lỗi nào sẽ bị \"Nhắc nhở nội bộ\"",
+    "options": [
+     "Nhóm L1",
+     "Nhóm L2",
+     "Nhóm L3",
+     "Nhóm L4"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "noi-quy-lao-dong-25",
+    "no": 25,
+    "text": "Nếu hết thời hiệu hoặc còn thời hiệu nhưng không đủ 60 ngày thì được kéo dài thời hiệu để xử lý kỷ luật lao động hay không?",
+    "options": [
+     "Được kéo dài thời hiệu để xử lý kỷ luật lao động nhưng không quá 90 ngày kể từ ngày hết thời gian trên",
+     "Không vì đã hết thời hiệu",
+     "Được kéo dài thời hiệu để xử lý kỷ luật lao động nhưng không quá 60 ngày kể từ ngày hết thời gian trên",
+     "Tùy theo từng trường hợp"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "noi-quy-lao-dong-26",
+    "no": 26,
+    "text": "Theo NQLĐ Sun Group hiện hành, sau 5 năm làm việc liên tục trong điều kiện lần lượt là: Điều kiện bình thường/Điều kiện nặng nhọc độc hại/ĐK đặc biệt nặng nhọc, độc hại thì người lao động được hưởng bao nhiêu ngày phép?",
+    "options": [
+     "13/15/17",
+     "12/14/16",
+     "14/16/18",
+     "15/16/18"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "noi-quy-lao-dong-27",
+    "no": 27,
+    "text": "Theo NQLĐ Sun Group hiện hành, thiệt hại được xác định là \"không nghiêm trọng\" khi giá trị thiệt hại quy đổi tương đương:",
+    "options": [
+     "Không quá 10 tháng lương tối thiểu vùng",
+     "Từ trên 10 đến 20 tháng lương tối thiểu vùng",
+     "Từ trên 20 tháng lương tối thiểu vùng",
+     "Không quá 05 tháng lương tối thiểu vùng"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "noi-quy-lao-dong-28",
+    "no": 28,
+    "text": "Theo Nội quy lao động Sun Group, căn cứ nào xác định mức độ nghiêm trọng của các hành vi vi phạm?",
+    "options": [
+     "Chỉ thiệt hại về vật chất",
+     "Chỉ thiệt hại về tinh thần",
+     "Chỉ thiệt hại về uy tín",
+     "Giá trị thiệt hại vật chất quy đổi và/hoặc thiệt hại về lợi ích phi tài chính (uy tín, hình ảnh, thương hiệu, hoạt động kinh doanh, vận hành)"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "noi-quy-lao-dong-29",
+    "no": 29,
+    "text": "Theo Nội quy lao động Sun Group, nhóm lỗi nào sẽ bị xử lý kỷ luật hình thức \"Kéo dài thời hạn nâng lương không quá 06 tháng\"?",
+    "options": [
+     "Các hành vi thuộc nhóm L2; vi phạm từ lần thứ 3 trở lên các hành vi nhóm L1 trong 30 ngày kể từ ngày vi phạm lần đầu",
+     "Các hành vi thuộc nhóm L3; bị khiển trách mà tái phạm trong thời gian chưa xóa kỷ luật",
+     "Các hành vi thuộc nhóm L4",
+     "Các hành vi thuộc nhóm L5; bị kéo dài thời hạn nâng lương hoặc cách chức mà tái phạm trong thời gian chưa xóa kỷ luật"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "noi-quy-lao-dong-30",
+    "no": 30,
+    "text": "Theo Nội quy lao động Sun Group, nhóm lỗi nào sẽ bị xử lý kỷ luật hình thức \"Sa thải\"?",
+    "options": [
+     "Các hành vi thuộc nhóm L2; vi phạm từ lần thứ 3 trở lên các hành vi nhóm L1 trong 30 ngày kể từ ngày vi phạm lần đầu",
+     "Các hành vi thuộc nhóm L3; bị khiển trách mà tái phạm trong thời gian chưa xóa kỷ luật",
+     "Các hành vi thuộc nhóm L4",
+     "Các hành vi thuộc nhóm L5; bị kéo dài thời hạn nâng lương hoặc cách chức mà tái phạm trong thời gian chưa xóa kỷ luật"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "noi-quy-lao-dong-31",
+    "no": 31,
+    "text": "Theo Nội quy lao động Sun Group, nội dung nào sau đây KHÔNG thuộc danh mục hình thức kỷ luật?",
+    "options": [
+     "Nhắc nhở nội bộ",
+     "Khiển trách",
+     "Cách chức",
+     "Sa thải"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "noi-quy-lao-dong-32",
+    "no": 32,
+    "text": "Theo Nội quy Lao động SG, Người lao động không tuân thủ cam kết đã ký, các quy định, chính sách an ninh bảo mật thông tin, chống tham nhũng và gian lận tại từng thời kỳ của Sun Group mà CHƯA gây thiệt hại nghiêm trọng sẽ bị xử lý kỷ luật với hình thức:",
+    "options": [
+     "Khiển trách",
+     "Sa thải",
+     "Cách chức",
+     "Kéo dài thời hạn nâng lương không quá 06 tháng"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "noi-quy-lao-dong-33",
+    "no": 33,
+    "text": "Theo Nội quy Lao động SG, Người lao động nếu không tuân thủ các quy trình, quy định, nội quy an toàn vệ sinh lao động, bệnh nghề nghiệp để xảy ra hậu quả thiệt hại về người và tài sản của Sun Group, và/ hoặc gây ảnh hưởng đến uy tín, hình ảnh của Sun Group nhưng chưa đến mức truy cứu trách nhiệm hình sự theo quy định pháp luật thì sẽ bị xử lý kỷ luật với hình thức:",
+    "options": [
+     "Sa thải",
+     "Khiển trách",
+     "Kéo dài thời hạn nâng lương không quá 6 tháng",
+     "Cách chức"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "noi-quy-lao-dong-34",
+    "no": 34,
+    "text": "Theo Nội quy Lao động SG, Người lao động thông đồng với khách hàng gây ảnh hưởng/thiệt hại không nghiêm trọng hoặc đe dọa gây ảnh hưởng/thiệt hại không nghiêm trọng đến tài sản, lợi ích (uy tín, hình ảnh, thương hiệu…) của Tập đoàn sẽ bị xử lý kỷ luật với hình thức:",
+    "options": [
+     "Khiển trách",
+     "Cách chức",
+     "Kéo dài thời hạn nâng lương không quá 06 tháng",
+     "Sa thải"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "noi-quy-lao-dong-35",
+    "no": 35,
+    "text": "Theo Nội quy Lao động SG, Người lao động có hành vi trộm cắp, tham ô tại nơi làm việc sẽ bị xử lý kỷ luật với hình thức:",
+    "options": [
+     "Kéo dài thời hạn nâng lương không quá 6 tháng",
+     "Khiển trách",
+     "Cách chức",
+     "Sa thải"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "noi-quy-lao-dong-36",
+    "no": 36,
+    "text": "Theo Nội quy Lao động SG, Người lao động tự ý bỏ việc 05 ngày cộng dồn trong thời hạn 30 ngày hoặc 20 ngày cộng dồn trong thời hạn 365 ngày, tính từ ngày đầu tiên tự ý bỏ việc mà không có lý do chính đáng, sẽ bị xử lý kỷ luật với hình thức:",
+    "options": [
+     "Sa thải",
+     "Kéo dài thời hạn nâng lương không quá 6 tháng",
+     "Khiển trách",
+     "Cách chức"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "noi-quy-lao-dong-37",
+    "no": 37,
+    "text": "Theo Nội quy lao động SG, Người lao động vi phạm nhiều hành vi kỷ luật lao động sẽ bị xử lý:",
+    "options": [
+     "Một hoặc nhiều hình thức kỷ luật lao động",
+     "Chỉ được áp dụng một (01) hình thức xử lý kỷ luật cao nhất tương ứng với hành vi vi phạm nặng nhất",
+     "Có thể bị phạt tiền thay cho kỷ luật lao động",
+     "Nhiều hình thức kỷ luật lao động"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "noi-quy-lao-dong-38",
+    "no": 38,
+    "text": "Theo Nội quy lao động SG, đi muộn, về sớm từ 30 phút trở lên/lần mà chưa được sự đồng ý của cấp có thẩm quyền là hành vi vi phạm thuộc nhóm lỗi nào?",
+    "options": [
+     "L1",
+     "L2",
+     "L3",
+     "L4"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "noi-quy-lao-dong-39",
+    "no": 39,
+    "text": "Theo Nội quy Lao động SG, Người lao động hút thuốc lá (bao gồm cả thuốc lá điện tử), thuốc lào cả bên trong và bên ngoài khu vực thuộc quyền sở hữu, quản lý của Sun Group sẽ bị xử lý kỷ luật với hình thức:",
+    "options": [
+     "Nhắc nhở nội bộ",
+     "Khiển trách",
+     "Kéo dài thời hạn nâng lương không quá 06 tháng",
+     "Cách chức"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "noi-quy-lao-dong-40",
+    "no": 40,
+    "text": "Theo Nội quy Lao động SG, Người lao động uống bia, rượu trong giờ làm việc, tại nơi làm việc (trừ trường hợp tiếp khách theo quy định hoặc sự kiện đã được cấp có thẩm quyền cho phép) sẽ bị xử lý kỷ luật với hình thức:",
+    "options": [
+     "Khiển trách",
+     "Nhắc nhở nội bộ",
+     "Cách chức",
+     "Sa thải"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "noi-quy-lao-dong-41",
+    "no": 41,
+    "text": "Theo Nội quy lao động SG, nhân viên an ninh ngủ trong giờ làm việc tại vị trí có nguy cơ ảnh hưởng đến an ninh, an toàn tài sản, tính mạng con người là hành vi vi phạm thuộc nhóm lỗi nào?",
+    "options": [
+     "L1",
+     "L2",
+     "L4",
+     "L3"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "noi-quy-lao-dong-42",
+    "no": 42,
+    "text": "Theo Nội quy Lao động SG, Người lao động tự ý nghỉ việc từ 03 ngày đến dưới 05 ngày cộng dồn trong thời hạn 30 ngày mà không có lý do chính đáng sẽ bị xử lý kỷ luật với hình thức:",
+    "options": [
+     "Kéo dài thời hạn nâng lương không quá 06 tháng",
+     "Cách chức",
+     "Sa thải",
+     "Khiển trách"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "noi-quy-lao-dong-43",
+    "no": 43,
+    "text": "Theo Nội quy lao động SG, Người lao động nhận các khoản tiền hoặc lợi ích vật chất từ khách hàng nhưng trong vòng bao lâu không báo cáo cấp trên/quản lý trực tiếp và không nộp lại thì bị xếp vào nhóm lỗi L4?",
+    "options": [
+     "12 giờ",
+     "24 giờ",
+     "48 giờ",
+     "72 giờ"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "noi-quy-lao-dong-44",
+    "no": 44,
+    "text": "Theo Nội quy lao động SG, Người lao động có hành vi tranh cãi, quát nạt, to tiếng, tỏ thái độ hách dịch, gây khó khăn khi trao đổi với khách hàng, đối tác là hành vi vi phạm thuộc nhóm lỗi nào?",
+    "options": [
+     "L3",
+     "L1",
+     "L2",
+     "L4"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "noi-quy-lao-dong-45",
+    "no": 45,
+    "text": "Theo Nội quy Lao động SG, Người lao động không trung thực trong việc tự đánh giá hiệu quả công việc cá nhân sẽ bị xử lý kỷ luật với hình thức:",
+    "options": [
+     "Khiển trách",
+     "Cách chức",
+     "Kéo dài thời hạn nâng lương không quá 06 tháng",
+     "Nhắc nhở nội bộ"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "noi-quy-lao-dong-46",
+    "no": 46,
+    "text": "Theo Nội quy Lao động SG, Người lao động mạo danh, tự nhận là đại diện Sun Group khi chưa được ủy quyền sẽ bị xử lý kỷ luật với hình thức:",
+    "options": [
+     "Khiển trách",
+     "Kéo dài thời hạn nâng lương không quá 06 tháng",
+     "Sa thải",
+     "Cách chức"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "noi-quy-lao-dong-47",
+    "no": 47,
+    "text": "Theo Nội quy Lao động SG, Người lao động cung cấp, chia sẻ thông tin thuộc bí mật kinh doanh, bí mật công nghệ của Công ty cho bên thứ ba khi chưa được phép sẽ bị xử lý kỷ luật với hình thức:",
+    "options": [
+     "Sa thải",
+     "Cách chức",
+     "Kéo dài thời hạn nâng lương không quá 06 tháng",
+     "Khiển trách"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "noi-quy-lao-dong-48",
+    "no": 48,
+    "text": "Theo Nội quy lao động SG, Người lao động thực hiện phỏng vấn, chụp ảnh với các cơ quan ngôn luận với tư cách người đại diện của Sun Group khi chưa được cấp có thẩm quyền chấp thuận là hành vi vi phạm thuộc nhóm lỗi nào?",
+    "options": [
+     "L1",
+     "L3",
+     "L2",
+     "L4"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "noi-quy-lao-dong-49",
+    "no": 49,
+    "text": "Theo Nội quy Lao động SG, Người lao động có hành vi trả thù, trù dập người tố cáo vi phạm quấy rối tình dục tại nơi làm việc sẽ bị xử lý kỷ luật với hình thức:",
+    "options": [
+     "Khiển trách",
+     "Cách chức",
+     "Kéo dài thời hạn nâng lương không quá 06 tháng",
+     "Nhắc nhở nội bộ"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "noi-quy-lao-dong-50",
+    "no": 50,
+    "text": "Theo Nội quy lao động SG, CBNV vi phạm từ lần thứ 3 trở lên các hành vi thuộc nhóm lỗi L1 trong vòng 30 ngày kể từ ngày vi phạm lần đầu sẽ bị xếp vào nhóm lỗi nào?",
+    "options": [
+     "L1",
+     "L3",
+     "L4",
+     "L2"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "noi-quy-lao-dong-51",
+    "no": 51,
+    "text": "Theo Nội quy Lao động SG, CBNV đang bị xử lý kỷ luật kéo dài thời hạn nâng lương hoặc cách chức mà tái phạm trong thời gian chưa được xóa kỷ luật sẽ bị xử lý với hình thức:",
+    "options": [
+     "Sa thải",
+     "Cách chức",
+     "Kéo dài thời hạn nâng lương không quá 06 tháng",
+     "Khiển trách"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "noi-quy-lao-dong-52",
+    "no": 52,
+    "text": "Theo nguyên tắc phiên nhóm lỗi của Nội quy lao động SG, khi hành vi chưa đề cập cụ thể yếu tố thiệt hại nhưng thực tế xác định thiệt hại không nghiêm trọng với giá trị quy đổi từ 02 đến dưới 10 tháng lương tối thiểu vùng thì hành vi được phiên vào nhóm lỗi nào (trừ trường hợp Phụ lục 1 đã quy định nhóm cao hơn)?",
+    "options": [
+     "L2",
+     "L4",
+     "L3",
+     "L5"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "noi-quy-lao-dong-53",
+    "no": 53,
+    "text": "Theo Nội quy lao động SG, trường hợp Lãnh đạo có thẩm quyền áp dụng tình tiết tăng nặng thì nhóm lỗi được tăng tối đa bao nhiêu so với nhóm lỗi tiêu chuẩn?",
+    "options": [
+     "Không quá 01 nhóm lỗi",
+     "Không giới hạn",
+     "Không quá 03 nhóm lỗi",
+     "Không quá 02 nhóm lỗi"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "noi-quy-lao-dong-54",
+    "no": 54,
+    "text": "Theo Nội quy lao động SG, tình tiết nào sau đây được xem xét để TĂNG NẶNG nhóm lỗi?",
+    "options": [
+     "Lợi dụng chức vụ, quyền hạn được Sun Group giao cho để thực hiện hành vi vi phạm",
+     "Người vi phạm tự nguyện sửa chữa, bồi thường thiệt hại hoặc khắc phục hậu quả",
+     "Vi phạm lần đầu và thuộc trường hợp không nghiêm trọng",
+     "Người vi phạm thành khẩn khai báo, tích cực hợp tác trong quá trình giải quyết sự vụ"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "noi-quy-lao-dong-55",
+    "no": 55,
+    "text": "Theo Nội quy lao động SG, tình tiết nào sau đây KHÔNG thuộc nhóm tình tiết được xem xét để GIẢM NHẸ nhóm lỗi?",
+    "options": [
+     "Người vi phạm đã chủ động ngăn chặn hoặc làm giảm bớt tác hại của hành vi vi phạm",
+     "Có hành động gian dối, tinh vi nhằm trốn tránh hoặc che giấu hành vi vi phạm",
+     "Vi phạm vì bị người khác đe dọa hoặc cưỡng bức",
+     "Người vi phạm đã có đóng góp quan trọng, trực tiếp vào sự hình thành và phát triển của Sun Group"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "noi-quy-lao-dong-56",
+    "no": 56,
+    "text": "Theo Nội quy lao động SG, Người lao động bị xử lý kỷ luật cách chức, nếu không tiếp tục vi phạm KLLĐ thì đương nhiên được xóa kỷ luật sau bao lâu kể từ ngày bị xử lý?",
+    "options": [
+     "03 tháng",
+     "06 tháng",
+     "03 năm",
+     "01 năm"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "noi-quy-lao-dong-57",
+    "no": 57,
+    "text": "Theo Nội quy Lao động SG, CBLĐ/CBQL không hoàn thành nhiệm vụ thuộc trách nhiệm của mình dẫn đến NLĐ cấp dưới trực tiếp thực hiện hành vi vi phạm bị áp dụng hình thức kỷ luật tương ứng với nhóm L5 thì CBLĐ/CBQL đó sẽ bị xử lý kỷ luật với hình thức:",
+    "options": [
+     "Khiển trách",
+     "Kéo dài thời hạn nâng lương không quá 06 tháng",
+     "Sa thải",
+     "Cách chức"
+    ],
+    "answer": 3
+   }
+  ],
+  "group": "Full Nghị quyết và Kiến thức chung"
+ },
+ {
+  "id": "truyen-thong",
+  "name": "Truyền thông",
+  "questions": [
+   {
+    "id": "truyen-thong-1",
+    "no": 1,
+    "text": "Theo Quy định HĐ của CBNV trên PTTT liên quan tới các thông tin về TĐ, phương tiện truyền thông gồm những gì?",
+    "options": [
+     "Website và các diễn đàn như Webtretho (http://www.webtretho.com), Lamchame (http://www.lamchame.com), Otofun (http://www.otofun.net/forums)...",
+     "Mạng xã hội: Các trang mạng, ứng dụng di động như Facebook, Zalo, Instagram, Twitter, Youtube, TikTok, WordPress…; Website và các diễn đàn như Webtretho (http://www.webtretho.com), Lamchame ; Báo điện tử, báo giấy, trang tin, diễn đàn mạng xã hội, Đài phát thanh, kênh truyền hình của địa phương, trung ương hoặc nước ngoài...(http://www.lamchame.com), Otofun (http://www.otofun.net/forums)...",
+     "Báo điện tử, báo giấy, trang tin, diễn đàn mạng xã hội, Đài phát thanh, kênh truyền hình của địa phương, trung ương hoặc nước ngoài...",
+     "Mạng xã hội: Các trang mạng, ứng dụng di động như Facebook, Zalo, Instagram, Twitter, Youtube, TikTok, WordPress..."
+    ],
+    "answer": 1
+   },
+   {
+    "id": "truyen-thong-2",
+    "no": 2,
+    "text": "Theo Quy định HĐ của CBNV trên PTTT liên quan tới các thông tin về TĐ, thông tin bảo mật được định nghĩa tại Quy định hoạt động của CBNV trên phương tiện truyền thông liên quan đến thông tin Tập đoàn là gì?",
+    "options": [
+     "Là các tài liệu lưu hành nội bộ tại Sun Group và các đơn vị thành viên Sun Group",
+     "Là tất cả các tài liệu thông tin liên quan tới Sun Group",
+     "Là các tài liệu và thông tin của Tập đoàn hoặc liên quan đến Tập đoàn Sun Group, đơn vị thành viên Sun Group và/ hoặc hoạt động kinh doanh của các đơn vị này",
+     "Là các hồ sơ, hợp đồng thương mại; bí quyết kinh doanh và báo cáo tài chính của doanh nghiệp"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "truyen-thong-3",
+    "no": 3,
+    "text": "Theo Quy định HĐ của CBNV trên PTTT liên quan tới các thông tin về TĐ, đâu là các thông tin nội bộ hoặc các nội dung thuộc sở hữu của Tập đoàn mà CBNV không được phép chia sẻ lên các phương tiện truyền thông?",
+    "options": [
+     "Các thông tin không được chính thức công bố trên hệ thống báo chí, website chính thức và hệ thống fanpage của Tập đoàn",
+     "Số liệu, công cụ, thông tin, hình ảnh các sự kiện nội bộ, mức lương, thưởng",
+     "- Quy chế, quy định, thư từ trao đổi, tài liệu, định hướng, chương trình - Số liệu, công cụ, thông tin, hình ảnh các sự kiện nội bộ, mức lương, thưởng - Các thông tin không được chính thức công bố trên hệ thống báo chí, website chính thức và hệ thống fanpage của Tập đoàn",
+     "Quy chế, quy định, thư từ trao đổi, tài liệu, định hướng, chương trình"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "truyen-thong-4",
+    "no": 4,
+    "text": "Theo Quy định HĐ của CBNV trên PTTT liên quan tới các thông tin về TĐ, các đơn vị nào sau đây có trách nhiệm trong quy định hoạt động của CBNV trên phương tiện truyền thông liên quan đến thông tin Tập đoàn",
+    "options": [
+     "Ban Pháp Chế",
+     "Ban Đối ngoại",
+     "Ban Truyền thông",
+     "- Ban Truyền thông - Ban Đối ngoại - Ban Pháp chế"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "truyen-thong-5",
+    "no": 5,
+    "text": "Theo Quy định HĐ của CBNV trên PTTT liên quan tới các thông tin về TĐ, \"Quay chụp, đăng tải hình ảnh Lãnh đạo Tập đoàn lên các phương tiện truyền thông, cung cấp các thông tin, hình ảnh, bản ghi âm, ghi hình của các cá nhân Lãnh đạo Tập đoàn\" là điều",
+    "options": [
+     "Được thực hiện",
+     "Tùy theo từng sự kiện",
+     "Không được thực hiện",
+     "Không được thực hiện trừ khi có sự cho phép của cấp có thẩm quyền"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "truyen-thong-6",
+    "no": 6,
+    "text": "Theo Quy định HĐ của CBNV trên PTTT liên quan tới các thông tin về TĐ, đâu là hành vi khuyến khích CBNV thực hiện trong quy định hoạt động của CBNV trên phương tiện truyền thông liên quan đến thông tin TĐ",
+    "options": [
+     "Chia sẻ, tương tác các nội dung có lợi cho Tập đoàn, khơi gợi được lòng tự hào, tinh thần đoàn kết trong Tập đoàn. Những thông tin được chia sẻ là những thông tin được phát hành chính thống trên hệ thống báo chí, website chính thức và các kênh mạng xã hội chính thức của Tập đoàn và các thương hiệu trực thuộc",
+     "Thay mặt đại diện tập đoàn phát ngôn bảo vệ thương hiệu tập đoàn ngay khi xảy ra sự cố truyền thông",
+     "Sử dụng email tập đoàn để lập kênh Facebook, Tiktok... chia sẻ các thông tin về nơi làm việc, văn bản làm việc của tập đoàn",
+     "Cãi nhau, bảo vệ thương hiệu tập đoàn ngay khi phát hiện thông tin tiêu cực về tập đoàn trên MXH"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "truyen-thong-7",
+    "no": 7,
+    "text": "Theo Quy định HĐ của CBNV trên PTTT liên quan tới các thông tin về TĐ, những thông tin khuyến khích CBNV chia sẻ, tương tác trên MXH bao gồm những gì?",
+    "options": [
+     "Thông tin, hình ảnh về các công trường tại các dự án đang triển khai của Tập đoàn",
+     "Những thông tin được phát hành chính thống trên hệ thống báo chí, website chính thức và các kênh mạng xã hội chính thức của Tập đoàn và các thương hiệu trực thuộc (Youtube, Fanpage, Instagram, TikTok...)",
+     "Những thông tin về đối thủ cạnh tranh",
+     "Thông tin, hình ảnh Lãnh đạo Tập đoàn"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "truyen-thong-8",
+    "no": 8,
+    "text": "Theo Quy định HĐ của CBNV trên PTTT liên quan tới các thông tin về TĐ, CBNV được khuyến khích chia sẻ các nội dung có lợi cho Tập đoàn, khơi gợi được lòng tự hào, tinh thần đoàn kết trong Tập đoàn. Hành động nào dưới đây tuân thủ đúng Quy định?",
+    "options": [
+     "Chia sẻ các bài viết đăng tải trên Fanpage Sun Group cùng cảm xúc tự hào",
+     "Đăng tải thông tin về các công trường tại dự án đang triển khai của Sun Group để sử dụng như minh họa về việc đảm bảo an toàn lao động",
+     "Đăng tải hình ảnh, logo, các thương hiệu của Tập đoàn trong tất cả bài post trên trang cá nhân",
+     "Chia sẻ thông tin về các dự án mà Tập đoàn chưa công bố để tạo thuận lợi cho việc kinh doanh sau này"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "truyen-thong-9",
+    "no": 9,
+    "text": "Theo Quy định HĐ của CBNV trên PTTT liên quan tới các thông tin về TĐ, CBNV khi đăng ký các trang mạng xã hội cần lưu ý gì?",
+    "options": [
+     "Không sử dụng hòm thư cá nhân được Tập đoàn cung cấp",
+     "Chủ động tham gia bình luận, tương tác trên các kênh mạng xã hội chống phá, đi ngược với chủ trương, chính sách của Đảng và Nhà nước để tìm kiếm, phản biện các thông tin liên quan đến Tập đoàn được nhắc tới trong đó",
+     "Sử dụng hình ảnh các Lãnh đạo Tập đoàn để câu view",
+     "Sử dụng hình ảnh, logo của Tập đoàn, các ĐVTV để gia tăng mức độ uy tín"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "truyen-thong-10",
+    "no": 10,
+    "text": "Theo Quy định HĐ của CBNV trên PTTT liên quan tới các thông tin về TĐ, việc cán bộ nhân viên Sun Group tham dự các cuộc họp nội bộ Tập đoàn có chụp ảnh, quay video các nội dung báo cáo trong cuộc họp và đăng lên mạng xã hội là hành động vi phạm nội dung quy định nào sau đây?",
+    "options": [
+     "Đăng tải, chia sẻ những nội dung kinh tế, chính trị nhạy cảm ảnh hưởng tiêu cực tới Tập đoàn",
+     "- Đăng tải, chia sẻ những nội dung kinh tế, chính trị nhạy cảm ảnh hưởng tiêu cực tới Tập đoàn - Chia sẻ các thông tin nội bộ hoặc các nội dung thuộc sở hữu của Tập đoàn đến phương tiện truyền thông - Trả lời phỏng vấn của các cơ quan truyền thông về hoạt động của Tập đoàn khi không được ủy quyền",
+     "Chia sẻ các thông tin nội bộ hoặc các nội dung thuộc sở hữu của Tập đoàn đến phương tiện truyền thông",
+     "Trả lời phỏng vấn của các cơ quan truyền thông về hoạt động của Tập đoàn khi không được ủy quyền"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "truyen-thong-11",
+    "no": 11,
+    "text": "Theo Quy định HĐ của CBNV trên PTTT liên quan tới các thông tin về TĐ, khi gặp những thông tin sai lệch về tập đoàn, người Sun Group cần báo ngay cho đơn vị chuyên trách nào?",
+    "options": [
+     "Ban Kiểm Soát",
+     "Ban Đối Ngoại",
+     "Ban Truyền Thông",
+     "Ban Pháp Chế"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "truyen-thong-12",
+    "no": 12,
+    "text": "Theo Quy định HĐ của CBNV trên PTTT liên quan tới các thông tin về TĐ, CBNV Sun Group khi thấy các nội dung bàn luận về tình hình chính trị, chính sách kinh tế đầu tư của Nhà nước trên diễn đàn mạng xã hội, đã tham gia tranh luận gay gắt với danh nghĩa người Sun Group bảo vệ chủ trương định hướng đầu tư của Tập đoàn tại Việt Nam. CBNV trên đã vi phạm nhóm quy tắc ứng xử nào trên không gian mạng?",
+    "options": [
+     "KHÔNG sử dụng",
+     "Những hành vi nhạy cảm, rủi ro khác",
+     "KHÔNG đăng tải và/ hoặc chia sẻ",
+     "KHÔNG quay chụp và/hoặc đăng tải"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "truyen-thong-13",
+    "no": 13,
+    "text": "CBNV nhận được một tài liệu nội bộ về kế hoạch kinh doanh chưa công bố và gửi vào nhóm chat bạn bè bên ngoài Tập đoàn để tham khảo ý kiến. Theo Quy định HĐ của CBNV trên PTTT liên quan tới các thông tin về TĐ, hành vi này được hiểu như thế nào?",
+    "options": [
+     "Không được phép vì thông tin nội bộ thuộc phạm vi phải bảo mật, không phụ thuộc việc chia sẻ công khai hay riêng tư",
+     "Chỉ vi phạm khi tài liệu có đóng dấu “Mật”",
+     "Được phép nếu người nhận cam kết không chia sẻ",
+     "Được phép nếu không đăng công khai"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "truyen-thong-14",
+    "no": 14,
+    "text": "CBNV tự sử dụng logo Sun Group để thiết kế hình ảnh quảng cáo cho hoạt động kinh doanh cá nhân. Theo Quy định HĐ của CBNV trên PTTT liên quan tới các thông tin về TĐ, hành vi này:",
+    "options": [
+     "Không được phép sử dụng hình ảnh, logo, thương hiệu của Tập đoàn cho mục đích, lợi ích cá nhân",
+     "Được phép nếu không thu phí quảng cáo",
+     "Được phép nếu thiết kế đúng nhận diện",
+     "Được phép nếu CBNV đang làm việc tại Sun Group"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "truyen-thong-15",
+    "no": 15,
+    "text": "CBNV thấy một bài đăng trên mạng xã hội có nội dung chỉ trích Sun Group và muốn tham gia bình luận. Theo Quy định HĐ của CBNV trên PTTT liên quan tới các thông tin về TĐ, nguyên tắc nào phù hợp nhất?",
+    "options": [
+     "Có thể phản bác mạnh nếu thông tin bất lợi cho Tập đoàn",
+     "Không tham gia bình luận, tương tác theo chiều hướng bất lợi cho Tập đoàn; với thông tin sai lệch cần báo đơn vị chuyên trách để phối hợp xử lý",
+     "Có thể tranh luận nếu sử dụng tài khoản cá nhân",
+     "Có thể tham gia nếu không nhắc chức danh tại Sun Group"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "truyen-thong-16",
+    "no": 16,
+    "text": "\"Không tiết lộ, cung cấp, đăng tải thông tin bảo mật dưới bất kỳ hình thức nào, cho bất kỳ tổ chức, cá nhân nào khác, trừ trường hợp được phép tiết lộ theo phạm vi chức trách công việc, theo quy định của Tập đoàn và pháp luật\" là trách nhiệm của bên nào theo Quy định Hoạt động của CBNV trên phương tiện truyền thông liên quan đến các thông tin về TĐ?",
+    "options": [
+     "Ban Nhân sự Tập đoàn",
+     "Ban Truyền thông Tập đoàn",
+     "Ban Thanh Tra Tập đoàn",
+     "CBNV Sun Group"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "truyen-thong-17",
+    "no": 17,
+    "text": "CBNV không được làm gì khi không được ủy quyền?",
+    "options": [
+     "Trả lời phỏng vấn của các cơ quan truyền thông về hoạt động của Tập đoàn",
+     "Cả 3 phương án còn lại",
+     "Sử dụng chức danh CBNV Sun Group để tranh cãi trên các phương tiện truyền thông khi gặp thông tin bất lợi về Tập đoàn",
+     "Sử dụng logo các thương hiệu thành viên Sun Group cho hoạt động cá nhân"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "truyen-thong-18",
+    "no": 18,
+    "text": "Theo Quy định HĐ của CBNV trên PTTT liên quan tới các thông tin về TĐ, phương tiện truyền thông gồm những gì?",
+    "options": [
+     "Mạng xã hội: Các trang mạng, ứng dụng di động như Facebook, Zalo, Instagram, Twitter, Youtube, TikTok, WordPress...",
+     "Website và các diễn đàn như Webtretho (http://www.webtretho.com), Lamchame (http://www.lamchame.com), Otofun (http://www.otofun.net/forums)...",
+     "Báo điện tử, báo giấy, trang tin, diễn đàn mạng xã hội, Đài phát thanh, kênh truyền hình của địa phương, trung ương hoặc nước ngoài...",
+     "Cả 3 phương án còn lại"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "truyen-thong-19",
+    "no": 19,
+    "text": "Theo Quy định HĐ của CBNV trên PTTT liên quan tới các thông tin về TĐ, nội dung nào không phải là phương tiện truyền thông chính thống",
+    "options": [
+     "Website Tập đoàn",
+     "Truyền hình",
+     "Báo chí",
+     "Các kênh cộng đồng mạng xã hội uy tín"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "truyen-thong-20",
+    "no": 20,
+    "text": "Theo Quy định HĐ của CBNV trên PTTT liên quan tới các thông tin về TĐ, đâu là các thông tin nội bộ hoặc các nội dung thuộc sở hữu của Tập đoàn mà CBNV không được phép chia sẻ lên các phương tiện truyền thông?",
+    "options": [
+     "Quy chế, quy định, thư từ trao đổi, tài liệu, định hướng, chương trình.",
+     "Số liệu, công cụ, thông tin, hình ảnh các sự kiện nội bộ, mức lương, thưởng",
+     "Các thông tin không được chính thức công bố trên hệ thống báo chí, website chính thức và hệ thống fanpage của Tập đoàn",
+     "Cả 3 phương án còn lại"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "truyen-thong-21",
+    "no": 21,
+    "text": "Theo Quy định HĐ của CBNV trên PTTT liên quan tới các thông tin về TĐ, bên nào cần cẩn trọng và chịu trách nhiệm đối với việc cung cấp, phát ngôn bất kỳ thông tin, hình ảnh nào liên quan đến hoạt động, công trình của Tập đoàn, đảm bảo thông tin đưa ra là chính xác, trên cơ sở nguồn thông tin hợp lệ và đầy đủ ?",
+    "options": [
+     "CBNV Sun Group",
+     "Ban Truyền thông Tập đoàn",
+     "Ban Nhân sự Tập đoàn",
+     "Cả 3 phương án còn lại"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "truyen-thong-22",
+    "no": 22,
+    "text": "Theo Quy định HĐ của CBNV trên PTTT liên quan tới các thông tin về TĐ, các đơn vị nào có trách nhiệm trong quy định hoạt động của CBNV trên phương tiện truyền thông liên quan đến thông tin Tập đoàn",
+    "options": [
+     "Ban Truyền thông",
+     "CBNV",
+     "Ban Pháp Chế",
+     "Cả 3 phương án còn lại"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "truyen-thong-23",
+    "no": 23,
+    "text": "Theo Quy định HĐ của CBNV trên PTTT liên quan tới các thông tin về TĐ, \"Tiếp nhận thông tin được cung cấp từ các đơn vị chức năng liên quan để phân tích, xử lý thông tin, xác định mức độ vi phạm và đề xuất hình thức xử lý đối với từng trường hợp vi phạm cụ thể, báo cáo và trình duyệt Lãnh đạo Tập đoàn\" là trách nhiệm của đơn vị nào?",
+    "options": [
+     "Ban Truyền thông Tập đoàn",
+     "Ban Nhân sự Tập đoàn",
+     "Ban Kiểm soát Tập đoàn/Ban Thanh tra Tập đoàn/Bộ phận Thanh tra ĐVTV",
+     "Ban Pháp chế"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "truyen-thong-24",
+    "no": 24,
+    "text": "Theo Quy định HĐ của CBNV trên PTTT liên quan tới các thông tin về TĐ, CBNV không được làm gì khi không được ủy quyền?",
+    "options": [
+     "Sử dụng chức danh CBNV Sun Group để tranh cãi trên các phương tiện truyền thông khi gặp thông tin bất lợi về Tập đoàn",
+     "Sử dụng logo các thương hiệu thành viên Sun Group cho hoạt động cá nhân",
+     "Trả lời phỏng vấn của các cơ quan truyền thông về hoạt động của Tập đoàn",
+     "Cả 3 phương án còn lại đều sai"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "truyen-thong-25",
+    "no": 25,
+    "text": "Theo Quy định HĐ của CBNV trên PTTT liên quan tới các thông tin về TĐ, mục tiêu của Quy định hoạt động của CBNV trên phương tiện truyền thông liên quan đến thông tin TĐ là gì?",
+    "options": [
+     "Nâng cao ý thức của cán bộ nhân viên Tập đoàn trong các hoạt động trên phương tiện truyền thông, tối đa hóa hiệu quả cũng như các tác động tích cực của phương tiện truyền thông",
+     "Hạn chế các ảnh hưởng tiêu cực trên phương tiện truyền thông tới thương hiệu, hoạt động của Tập đoàn Sun Group (sau đây gọi tắt là Tập đoàn)",
+     "Sử dụng phương tiện truyền thông như một kênh tương tác tích cực, góp phần giới thiệu các hình ảnh, sản phẩm, dịch vụ, quảng bá thương hiệu và các hoạt động nổi bật của Tập đoàn tới khách hàng.",
+     "Tất cả các phương án còn lại"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "truyen-thong-26",
+    "no": 26,
+    "text": "Theo Quy định HĐ của CBNV trên PTTT liên quan tới các thông tin về TĐ, trong quy định hoạt động của CBNV trên phương tiện truyền thông liên quan đến thông tin TĐ, nội dung nào sau đây là trách nhiệm của mỗi CBNV Sun Group?",
+    "options": [
+     "Thực hiện việc rà soát, giám sát, phòng ngừa và phát hiện kịp thời các yếu tố bất lợi cho Tập đoàn bị gây ra bởi hoạt động của CBNV trên phương tiện truyền thông",
+     "Cẩn trọng và chịu trách nhiệm đối với việc cung cấp, phát ngôn bất kỳ thông tin, hình ảnh nào liên quan đến hoạt động, công trình của Tập đoàn",
+     "Kiểm soát các vấn đề an ninh bảo mật, xử lý hệ thống công nghệ thông tin, mạng nội bộ",
+     "Phối hợp với các đơn vị chức năng để giải quyết theo thực tế của từng sự vụ"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "truyen-thong-27",
+    "no": 27,
+    "text": "Theo Quy định HĐ của CBNV trên PTTT liên quan tới các thông tin về TĐ, \"Không tiết lộ, cung cấp, đăng tải thông tin bảo mật dưới bất kỳ hình thức nào, cho bất kỳ tổ chức, cá nhân nào khác, trừ trường hợp được phép tiết lộ theo phạm vi chức trách công việc, theo quy định của Tập đoàn và pháp luật\" là trách nhiệm của bên nào?",
+    "options": [
+     "Ban Truyền thông Tập đoàn",
+     "CBNV Sun Group",
+     "Ban Nhân sự Tập đoàn",
+     "Ban Thanh Tra Tập đoàn"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "truyen-thong-28",
+    "no": 28,
+    "text": "Theo Quy định HĐ của CBNV trên PTTT liên quan tới các thông tin về TĐ, việc nhân viên khách sạn chia sẻ thông tin về các nghệ sĩ nổi tiếng thế giới có booking phòng tại khách sạn với phóng viên/ admin mạng xã hội mảng văn hóa giải trí là hành động vi phạm các hành vi không được thực hiện nào trong Quy định hoạt động của CBNV trên phương tiện truyền thông liên quan đến thông tin Tập đoàn?",
+    "options": [
+     "Đăng tải, chia sẻ những nội dung kinh tế, chính trị nhạy cảm ảnh hưởng tiêu cực tới Tập đoàn",
+     "Chia sẻ các thông tin nội bộ hoặc các nội dung thuộc sở hữu của Tập đoàn đến phương tiện truyền thông",
+     "Trả lời phỏng vấn của các cơ quan truyền thông về hoạt động của Tập đoàn khi không được ủy quyền",
+     "Đăng tải, chia sẻ những nội dung kinh tế, chính trị nhạy cảm ảnh hưởng tiêu cực tới Tập đoàn; Chia sẻ các thông tin nội bộ hoặc các nội dung thuộc sở hữu của Tập đoàn đến phương tiện truyền thông; Trả lời phỏng vấn của các cơ quan truyền thông về hoạt động của Tập đoàn khi không được ủy quyền"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "truyen-thong-29",
+    "no": 29,
+    "text": "Theo QĐ hoạt động của CBNV trên PTTT liên quan tới các thông tin về TĐ, CBNV tham gia nhóm chính trị xã hội lấy danh nghĩa TĐ Sun Group để tranh luận gay gắt về những yếu tố chính trị nhạy cảm. CBNV trên đã vi phạm qui tắc ứng xử nào trên không gian mạng?",
+    "options": [
+     "KHÔNG quay chụp và/hoặc đăng tải",
+     "KHÔNG đăng tải và/hoặc chia sẻ",
+     "KHÔNG sử dụng",
+     "Những hành vi nhạy cảm rủi ro khác"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "truyen-thong-30",
+    "no": 30,
+    "text": "Theo QĐ hoạt động của CBNV trên PTTT liên quan tới các thông tin về TĐ, cuối tháng 7/2023 trong tâm điểm tin thời sự nhóm nhạc hàng đầu thế giới BLACK Pink đến biểu diễn tại Hà Nội, NV khách sạn Capella đã trả lời \"có nhóm nhạc Hàn Quốc đang lưu trú tại đây\" với nghệ nhân Ánh Tuyết. Nghệ nhân sau đó đã kể lại nội dung trên khi trả lời phỏng vấn báo chí. CBNV đã vi phạm các hành vi không được thự hiện nào trong QĐ hoạt động của CBNV trên PTTT liên quan đến thông tin TĐ?",
+    "options": [
+     "Đăng tải, chia sẻ nhứng nội dung kinh tế chính trị nhạy cảm gây ảnh hưởng tiêu cực tới TĐ. - Chia sẻ các thông tin nội bộ hoặc các nội dung thuộc sở hữu của TĐ đến PTTT. - Trả lời phỏng vấn của các cơ quan truyền thông về hoạt động của TĐ khi không được ủy quyền",
+     "Chia sẻ các thông tin nội bộ hoặc các nội dung thuộc sở hữu của TĐ đến PTTT",
+     "Đăng tải, chia sẻ nhứng nội dung kinh tế, chính trị nhạy cảm ảnh hưởng tiêu cực đến TĐ",
+     "Trả lời phỏng vấn của các cơ quan truyền thông về hoạt động của TĐ khi không được ủy quyền."
+    ],
+    "answer": 1
+   },
+   {
+    "id": "truyen-thong-31",
+    "no": 31,
+    "text": "Theo Quy định HĐ của CBNV trên PTTT liên quan tới các thông tin về TĐ, CBNV quay chụp toàn bộ quá trình thi công đến khi hình thành tượng Phật Bà Tây Bổ Đà Sơn, dựng thành phim và đăng lên MXH với mục đích lan tỏa tinh thần làm việc của Sun Group và vẻ đẹp của vùng đất Tây Ninh. Việc làm của CBNV trên có vi phạm quy định hoạt động của CBNV trên phương tiện truyền thông liên quan đến thông tin TĐ không?",
+    "options": [
+     "Không có đáp án nào đúng",
+     "Vi phạm nhưng không nghiêm trọng",
+     "Có vi phạm",
+     "Không vi phạm"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "truyen-thong-32",
+    "no": 32,
+    "text": "Theo QĐ hoạt động của CBNV trên PTTT liên quan tới các thông tin về TĐ, khi CBNV vi phạm các QĐ về hoạt động trên MXH, CBNV cần làm gì?",
+    "options": [
+     "Đăng tải thông tin đính chính ngay lập tức",
+     "Giao nộp thông tin tài khoản MXH cho LĐ dơn vị hoặc đơn vị chuyên trách",
+     "Xóa tài khoản MXH và viết đơn xin nghỉ việc",
+     "Gỡ bỏ thông tin hình ảnh trên MXH và tham gia khắc phục hậu quả khi được yêu cầu từ LĐ đơn vị hoặc đơn vị chuyên trách"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "truyen-thong-33",
+    "no": 33,
+    "text": "Khi gặp những thông tin sai lệch về tập đoàn, người Sun Group cần báo ngay cho đơn vị chuyên trách nào?",
+    "options": [
+     "Ban Pháp Chế",
+     "Ban Thanh tra",
+     "Ban Truyền thông",
+     "Cả 3 phương án còn lại"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "truyen-thong-34",
+    "no": 34,
+    "text": "Có bao nhiêu hành vi không được thực hiện trong quy định hoạt động của CBNV trên phương tiện truyền thông liên quan đến thông tin TĐ",
+    "options": [
+     "8",
+     "10",
+     "12",
+     "20"
+    ],
+    "answer": 2
+   }
+  ],
+  "group": "Full Nghị quyết và Kiến thức chung"
+ },
  {
   "id": "bo-de-anbm",
   "name": "Bộ đề ANBM",
@@ -9324,7 +17402,7 @@ window.QUESTION_BANKS = [
     "answer": 2
    }
   ],
-  "group": "Nội dung chung"
+  "group": "Nội dung chung_Bản cũ"
  },
  {
   "id": "nghi-quyet-2026",
@@ -10615,7 +18693,7 @@ window.QUESTION_BANKS = [
     "answer": 1
    }
   ],
-  "group": "Nội dung chung"
+  "group": "Nội dung chung_Bản cũ"
  },
  {
   "id": "nhiem-vu-trong-tam",
@@ -11102,7 +19180,7 @@ window.QUESTION_BANKS = [
     "answer": 2
    }
   ],
-  "group": "Nội dung chung"
+  "group": "Nội dung chung_Bản cũ"
  },
  {
   "id": "noi-quy-quy-che-noi-lam-viec",
@@ -12789,7 +20867,7 @@ window.QUESTION_BANKS = [
     "answer": 0
    }
   ],
-  "group": "Nội dung chung"
+  "group": "Nội dung chung_Bản cũ"
  },
  {
   "id": "bo-de-bt-gs-2025-bep",

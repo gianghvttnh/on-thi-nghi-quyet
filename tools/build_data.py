@@ -109,6 +109,17 @@ def group_of(path):
     return unicodedata.normalize("NFC", rel[0]) if len(rel) > 1 else "Khác"
 
 
+def previous_texts():
+    """id bộ đề → danh sách nội dung câu trong questions.js đang phát hành."""
+    if not OUT.exists():
+        return {}
+    src = OUT.read_text(encoding="utf-8").split("window.QUESTION_BANKS = ", 1)
+    if len(src) < 2:
+        return {}
+    banks = json.loads(src[1].rstrip().rstrip(";"))
+    return {b["id"]: [q["text"] for q in b["questions"]] for b in banks}
+
+
 def main():
     files = [p for p in SRC.rglob("*.xlsx") if not p.name.startswith("~$")]
     if not files:
@@ -116,11 +127,15 @@ def main():
     files.sort(key=lambda p: (group_of(p) == "Khác", group_of(p), p.stem))
     # Giữ id = slug(tên bộ đề) để không mất dữ liệu đã lưu; chỉ thêm tên nhóm khi trùng
     counts = Counter(slug(unicodedata.normalize("NFC", f.stem)) for f in files)
+    prev = previous_texts()
     banks, groups = [], []
     for f in files:
         group = group_of(f)
         sid = slug(unicodedata.normalize("NFC", f.stem))
-        bank, warnings = build_bank(f, sid if counts[sid] == 1 else slug(f"{group}-{f.stem}"))
+        bank, warnings = build_bank(f, sid)
+        # Trùng tên: bộ đã phát hành trước đó (cùng nội dung) giữ id cũ, bộ còn lại thêm tên nhóm
+        if counts[sid] > 1 and prev.get(sid) != [q["text"] for q in bank["questions"]]:
+            bank, warnings = build_bank(f, slug(f"{group}-{f.stem}"))
         bank["group"] = group
         if not groups or groups[-1]["name"] != group:
             groups.append({"name": group, "banks": []})
