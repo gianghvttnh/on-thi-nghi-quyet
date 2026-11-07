@@ -60,6 +60,7 @@ window.QUESTION_GROUPS = [
  {
   "name": "SBD Soát vé",
   "banks": [
+   "chuyen-mon-tpvh",
    "chuyen-mon-soat-ve"
   ]
  }
@@ -39930,6 +39931,2305 @@ window.QUESTION_BANKS = [
    }
   ],
   "group": "SBD PAT"
+ },
+ {
+  "id": "chuyen-mon-tpvh",
+  "name": "Chuyên môn TPVH",
+  "questions": [
+   {
+    "id": "chuyen-mon-tpvh-1",
+    "no": 1,
+    "text": "Theo Quy trình đề nghị, phê duyệt và tiếp Khách ngoại giao, vì sao đối với khách ngoại giao (KNG) phục vụ đối ngoại, hồ sơ không được điền tên đoàn khách?",
+    "options": [
+     "Vì mọi đoàn khách đều phải được ghi \ntên đầy đủ trên hồ sơ để phục vụ hậu kiểm",
+     "Để tránh trùng mã đoàn khách \nvới các đoàn khách khác trong ngày",
+     "Để đảm bảo yêu cầu bảo mật thông tin của đoàn khách đối ngoại",
+     "Vì hệ thống MySGR không hỗ trợ \nnhập tên khách hàng"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "chuyen-mon-tpvh-2",
+    "no": 2,
+    "text": "Theo Quy trình Quy trình xử lý phàn nàn và sự cố của khách hàng tại Khối SHE, nguyên tắc nào được đặt lên hàng đầu\ntrong các tình huống khẩn cấp?",
+    "options": [
+     "\"An toàn là trên hết\"",
+     "\"Xử lý nhanh, bỏ qua bước xác minh\"",
+     "\"Khách hàng luôn đúng\"",
+     "\"Ưu tiên phương án chi phí thấp nhất\""
+    ],
+    "answer": 0
+   },
+   {
+    "id": "chuyen-mon-tpvh-3",
+    "no": 3,
+    "text": "Theo tài liệu Hướng dẫn sử dụng Phân hệ Dịch vụ nội bộ \nhệ thống MySGR, đối tượng nào được đăng ký dịch vụ vé ưu đãi nội bộ?",
+    "options": [
+     "CBNV đang trong\n thời gian thử việc",
+     "Bất kỳ ai truy cập được vào hệ thống MySGR",
+     "Chỉ Cán bộ quản lý từ\n cấp Trưởng phòng trở lên",
+     "CBNV đã ký Hợp đồng lao động chính thức"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "chuyen-mon-tpvh-4",
+    "no": 4,
+    "text": "Theo Quy trình xử lý phàn nàn và sự cố của khách hàng tại Khối SHE, khi thấy khách hàng có dấu hiệu cần hỗ trợ, nhân\nviên cần tiếp cận trong khoảng thời gian bao lâu?",
+    "options": [
+     "Chờ khách hàng chủ động tìm đến nhân viên",
+     "Trong vòng ≤ 24 giờ",
+     "Trong vòng ≤ 5 phút",
+     "Trong vòng ≤ 30 giây"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "chuyen-mon-tpvh-5",
+    "no": 5,
+    "text": "Theo Quy trình xử lý phàn nàn và sự cố của khách hàng tại Khối SHE, thứ tự ưu tiên đúng khi nhân viên soát vé tiếp nhận\nkhiếu nại của khách hàng tại cổng vào là gì?",
+    "options": [
+     "Xử lý nội dung khiếu nại trước để khách hàng nhanh chóng vào cổng, sau đó mới hỏi thăm cảm xúc",
+     "Yêu cầu khách hàng xuất trình vé\n điện tử trước khi lắng nghe khiếu nại",
+     "Chuyển ngay cho quản lý ca xử lý trong mọi trường hợp, nhân viên soát vé không cần tiếp nhận",
+     "Ổn định cảm xúc khách hàng trước, sau đó mới xử lý nội dung khiếu nại"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "chuyen-mon-tpvh-6",
+    "no": 6,
+    "text": "Theo Quy định về Quản lý thẻ và kiểm soát ra vào tại Sun World, \"thẻ đối tác\" được áp dụng cho ai?",
+    "options": [
+     "Khách ngoại giao theo chỉ đạo \ncủa Lãnh đạo Tập đoàn",
+     "Đối tác đang thực hiện hợp đồng hợp tác kinh\n doanh tại ĐVTV SWG (bao gồm NV của Đối tác kinh doanh)",
+     "NV chính thức tại ĐVTV SWG theo Hợp đồng lao động đã ký",
+     "Cơ quan nhà nước (Quản lý rừng, Viễn thông, Phòng cháy chữa cháy, An ninh trật tự,…)"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "chuyen-mon-tpvh-7",
+    "no": 7,
+    "text": "Theo quy định đo chiều cao của Sun World, cách đo nào sau đây là đúng khi kiểm soát qua cổng cho khách hàng?",
+    "options": [
+     "Đứng thẳng lưng, gót chân chạm đất, đo tới đỉnh tóc",
+     "Đứng thẳng lưng, gót chân chạm đất,\n đo tới đỉnh đầu (không phải đỉnh tóc)",
+     "Gót chân chạm đất, đo tới đỉnh tóc",
+     "Đứng thẳng lưng, nhón chân, đo tới đỉnh đầu (không phải đỉnh tóc)"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "chuyen-mon-tpvh-8",
+    "no": 8,
+    "text": "Công viên mang thương hiệu Sun World nào không có Trung tâm giải trí gia đình (FEC)?",
+    "options": [
+     "Asia Park",
+     "Sun World Cat Ba",
+     "Sun World Ha Long",
+     "Sun World Ba Na Hills"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "chuyen-mon-tpvh-9",
+    "no": 9,
+    "text": "Theo SWG-ST-HB-04_Sổ tay Định hướng về an toàn cho nhân viên mới, thứ tự đúng khi sử dụng bình chữa cháy là gì?",
+    "options": [
+     "Hướng đầu phun lên ngọn lửa → Bóp van xả → Rút chốt → Quét qua lại",
+     "Gọi cứu hỏa → Rút chốt an toàn → Sơ tán → Quét qua lại",
+     "Bóp mạnh van xả → Rút chốt an toàn → Hướng đầu phun vào gốc đám cháy → Quét qua lại",
+     "Rút chốt an toàn → Hướng đầu phun vào gốc đám cháy → Bóp mạnh van xả → Quét qua lại"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "chuyen-mon-tpvh-10",
+    "no": 10,
+    "text": "Theo SHE-QĐ-VH33_Quy định Chương trình Dịch vụ Từ Tâm, số lượng Thẻ Wow được cấp phát hàng ngày tương ứng bao\nnhiêu % CBNV chính thức của đơn vị?",
+    "options": [
+     "5% CBNV chính thức đơn vị",
+     "2% CBNV chính thức đơn vị",
+     "1% CBNV chính thức đơn vị",
+     "10% CBNV chính thức đơn vị"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "chuyen-mon-tpvh-11",
+    "no": 11,
+    "text": "Nếu đồ vật bị rơi trong khu vực cấm, nhân viên cần phải làm gì?",
+    "options": [
+     "Mở cửa cho khách vào thu hồi đồ vật ra ngoài",
+     "Vào thu hồi đồ vật ra ngoài",
+     "Liên hệ với cán bộ quản lý để được hỗ trợ bố trí lịch với nhân viên kĩ thuật để thu hồi lại đồ vật",
+     "Thông báo cho quản lý vào thu hồi đồ vật ra ngoài"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "chuyen-mon-tpvh-12",
+    "no": 12,
+    "text": "Khi Nhân viên phát hiện có khách tranh cãi gay gắt, có dấu hiệu mất bình tĩnh, theo quy định về hành vi ứng xử, nhân\nviên nên làm gì",
+    "options": [
+     "Giữ thái độ bình tĩnh, nhẹ nhàng can thiệp, không chỉ tay hay to tiếng.",
+     "Quát lớn yêu cầu khách trật tự.",
+     "Gọi bảo vệ ngay và rời đi.",
+     "Đứng xa quan sát, tránh liên quan."
+    ],
+    "answer": 0
+   },
+   {
+    "id": "chuyen-mon-tpvh-13",
+    "no": 13,
+    "text": "Theo Sổ tay Dịch vụ khách hàng, khi giao tiếp với trẻ nhỏ cần lưu ý điều gì?",
+    "options": [
+     "Giải thích đầy đủ, sử dụng các thuật ngữ chuyên môn để trẻ hiểu rõ vấn đề",
+     "Ưu tiên trao đổi với người lớn đi cùng và hạn chế giao tiếp trực tiếp với trẻ để tránh làm trẻ mất tập trung",
+     "Hạ thấp người ngang bằng với trẻ nhỏ. Sử dụng từ ngữ đơn giản, dễ hiểu và kết hợp ngôn ngữ hình thể để tăng tính hình tượng cho câu nói",
+     "Giữ nguyên tư thế đứng và sử dụng cách giao tiếp như với người lớn để đảm bảo sự nghiêm túc, chuyên nghiệp"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "chuyen-mon-tpvh-14",
+    "no": 14,
+    "text": "Đâu là điều quan trọng nhất để trở thành “Ngôi sao Dịch vụ Từ Tâm”?",
+    "options": [
+     "Được khách hàng nước ngoài khen ngợi.Thể hiện tâm của người Sun Group trong mọi hành động.",
+     "Cố gắng đạt thật nhiều thẻ Wow.Thể hiện tâm của người Sun Group trong mọi hành động.",
+     "Thể hiện sự chuyên nghiệp: hình ảnh chỉnh chu, tác phong chuẩn mực và thái độ chân thành 6C, và tâm của người\nSun Group trong mọi hành động.",
+     "Thể hiện sự chuyên nghiệp: hình ảnh chỉnh chu, tác phong chuẩn mực và thái độ chân thành 6C. Làm việc lâu năm và\ncó nhiều kinh nghiệm."
+    ],
+    "answer": 2
+   },
+   {
+    "id": "chuyen-mon-tpvh-15",
+    "no": 15,
+    "text": "Quy định về chiều cao và quy định vào chơi đối với các trò chơi được thông báo tại vị trí nào trong công viên?",
+    "options": [
+     "Tại lối vào của mỗi trò chơi",
+     "Tại quầy thông tin",
+     "Tại quầy bán vé",
+     "Tại cổng công viên"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "chuyen-mon-tpvh-16",
+    "no": 16,
+    "text": "Nội dung nào sau đây liệt kê đúng bốn chìa khóa vận hành thành công của Sun World?",
+    "options": [
+     "An toàn - Năng động - Tạo cảm hứng - Dịch vụ",
+     "Hiệu quả - An toàn - Trình diễn - Dịch vụ",
+     "Hiệu quả - An toàn - Tạo cảm hứng - Dịch vụ",
+     "Hiệu quả - An toàn - Năng động - Tạo cảm hứng"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "chuyen-mon-tpvh-17",
+    "no": 17,
+    "text": "Theo SWG-QĐ-OPT-30_Quy định Quản lý ca trực vận hành tại Công viên Sun World, nếu công viên có 2 khu vực tách biệt\nlớn với thời gian di chuyển giữa 2 khu hơn 15 phút thì cần làm gì",
+    "options": [
+     "Đóng cửa một trong hai khu vực để dễ quản lý",
+     "Chỉ cần 1 CBLĐ trực luân phiên di chuyển giữa 2 khu vực trong ngày",
+     "Không cần thay đổi gì, vẫn duy trì 1 CBLĐ trực như bình thường",
+     "Cần chỉ định từ 02 CBLĐ trực trở lên để đảm bảo bao quát được từng khu vực"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "chuyen-mon-tpvh-18",
+    "no": 18,
+    "text": "Trong vòng 24h kể từ khi xảy ra sự cố, báo cáo sự cố cần nộp lại cho Bộ phận nào và vào thời điểm nào?",
+    "options": [
+     "Bộ phận kế toán trước khi kết thúc ca làm việc để tính chi phí tiêu hao sử dụng cho nạn nhân",
+     "Bộ phận an toàn vào ngày cuối cùng của tháng đó",
+     "Bộ phận an toàn trước khi kết thúc ca làm việc",
+     "Bộ phận vận hành vào ngày cuối cùng của tháng đó để rà soát không để các sự cố tương tự xảy ra"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "chuyen-mon-tpvh-19",
+    "no": 19,
+    "text": "Quy định về bảo mật thông tin khi thực hiện Báo cáo sự cố là gì?",
+    "options": [
+     "Không áp dụng bảo mật thông tin do rất nhiều cán bộ nhân viên đã chứng kiến",
+     "Không tiết lộ thông tin tới tất cả mọi người, ngoại trừ Giám đốc công ty",
+     "Không tiết lộ hoặc thảo luận chi tiết vụ việc với người khác, ngoại trừ CBQL của mình hoặc những người được Công ty\nủy quyền điều tra vụ việc",
+     "Chỉ tiết lộ thông tin vụ việc với Ban Kiểm soát Tập đoàn"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "chuyen-mon-tpvh-20",
+    "no": 20,
+    "text": "Theo Quy trình SHE-QT-CS01_Quy trình xử lý phàn nàn và sự cố của khách hàng, một sự việc phát sinh tại cổng soát vé\nđược xếp vào nhóm \"sự vụ cần xử lý nâng cao tại Đơn vị\" khi có dấu hiệu nào sau đây?",
+    "options": [
+     "Khách hàng thắc mắc về giờ mở cửa của công viên",
+     "Có nguy cơ ảnh hưởng đến truyền thông, báo chí, mạng xã hội",
+     "Phạm vi ảnh hưởng nhỏ, chỉ 1–2 khách hàng và nguyên nhân đã rõ ràng",
+     "Khách hàng chỉ yêu cầu đổi vị trí xếp hàng"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "chuyen-mon-tpvh-21",
+    "no": 21,
+    "text": "Điều nào sau đây KHÔNG nên làm trong lúc hỗ trợ khách hàng gặp vấn đề về sức khỏe?",
+    "options": [
+     "Khi di chuyển, phải thuận theo tốc độ của Khách.",
+     "Trò chuyện với Khách bằng chất giọng mềm mỏng và sự quan tâm chân thành.",
+     "Quan tâm thái quá, hỏi về nguồn gốc khiếm khuyết trên cơ thể Khách.",
+     "Không tự ý hỗ trợ khi chưa được Khách Hàng đồng ý, trừ trường hợp khẩn cấp!"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "chuyen-mon-tpvh-22",
+    "no": 22,
+    "text": "Khi xảy ra sự cố, loại sự cố nào sau đây phải được báo cáo?",
+    "options": [
+     "Sự cố “suýt gây ra” tai nạn. - Sự cố gây hư hỏng thiết bị - Sự cố gây thương tích cho Khách hàng hoặc Nhân viên.",
+     "Sự cố “suýt gây ra” tai nạn.",
+     "Sự cố gây hư hỏng thiết bị.",
+     "Sự cố gây thương tích cho Khách hàng hoặc Nhân viên."
+    ],
+    "answer": 0
+   },
+   {
+    "id": "chuyen-mon-tpvh-23",
+    "no": 23,
+    "text": "Là nơi du khách được ngâm mình thỏa thích trong làn nước. Ban đầu các Công viên này được kết hợp trong các Công\nviên Chủ đề, tuy nhiên xu hướng chung là chúng trở thành những Công viên độc lập?",
+    "options": [
+     "Công viên Biển",
+     "Công viên Hoang dã/Thảo cầm viên",
+     "Công viên Nước",
+     "Công viên Mạo hiểm"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "chuyen-mon-tpvh-24",
+    "no": 24,
+    "text": "Khi sấm sét trong bán kính 20km quanh Khu Vui chơi, những Trò Giải trí nào sau đây phải đóng cửa?",
+    "options": [
+     "Cáp treo",
+     "Đường trượt nước, Trò chơi trên nước và Hồ bơi",
+     "Cáp treo. - Trò Giải trí ngoài trời cao trên 5 mét. - Đường trượt nước, Trò chơi trên nước và Hồ bơi",
+     "Trò Giải trí ngoài trời cao trên 5 mét"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "chuyen-mon-tpvh-25",
+    "no": 25,
+    "text": "Vì sao danh mục kiểm tra trước giờ mở cửa phải được thực hiện hàng ngày?",
+    "options": [
+     "Để đánh giá hiệu quả kinh doanh",
+     "Để đảm bảo khu vực sạch sẽ, thiết bị an toàn và sẵn sàng phục vụ khách",
+     "Để hoàn thành hồ sơ giấy tờ",
+     "Để kiểm tra số lượng nhân viên"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "chuyen-mon-tpvh-26",
+    "no": 26,
+    "text": "Vì sao quy định thông báo đầu tiên trong tình huống bất thường/sự cố phải được thực hiện trong vòng 05 phút kể từ khi\nphát sinh?",
+    "options": [
+     "Để đảm bảo khách hàng được thông tin kịp thời, giảm hoang mang và tăng hiệu quả trấn an/an toàn ngay khi sự cố\nxảy ra",
+     "Vì đây là thời gian tối đa cho phép công viên dừng hoạt động trước khi bị phạt",
+     "Để đảm bảo đúng quy trình báo cáo nội bộ cho Ban Giám đốc trong thời gian quy định",
+     "Vì đây là thời gian quy định để nhân viên hoàn thành ca trực"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "chuyen-mon-tpvh-27",
+    "no": 27,
+    "text": "Trong bản cam kết An toàn, Nhân viên cam kết LUÔN CHỦ ĐỘNG TÌM KIẾM điều gì?",
+    "options": [
+     "Hình ảnh mẫu mực cho các đồng nghiệp.",
+     "Các rủi ro, sự cố, kể cả sự cố “suýt gây ra” tai nạn, báo cáo ngay, và sẵn sàng để DỪNG mọi hoạt động thiếu an toàn",
+     "Thời gian để giải lao.",
+     "Vị trí thuận lợi để ẩn nấp khi sự cố xảy ra."
+    ],
+    "answer": 1
+   },
+   {
+    "id": "chuyen-mon-tpvh-28",
+    "no": 28,
+    "text": "Theo Quy trình xử lý phàn nàn và sự cố của khách hàng tại Khối SHE, một sự việc được xếp vào nhóm \"sự vụ cần xử lý\nnâng cao tại Đơn vị\" khi có dấu hiệu nào sau đây?",
+    "options": [
+     "Phạm vi ảnh hưởng nhỏ, giới hạn trong 1–2 khách hàng và nguyên nhân đã rõ ràng",
+     "Khách hàng không đồng ý với phương án xử lý của bộ phận tiếp nhận ban đầu",
+     "Khách hàng chỉ yêu cầu đổi món trong thực đơn nhà hàng",
+     "Có nguy cơ ảnh hưởng đến truyền thông, báo chí, mạng xã hội"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "chuyen-mon-tpvh-29",
+    "no": 29,
+    "text": "Theo Quy định về cơ cấu bồi thường cho khách hàng - Mảng giải trí, việc mất mát tài sản vật chất gây ra bởi sự cố vận\nhành với tài sản giá trị cao (trên 5.000.000 VNĐ) sẽ được xử lý như thế nào?",
+    "options": [
+     "Bồi thường theo thỏa thuận với khách hàng",
+     "Hoàn tiên vé 100% và hỗ trợ Wowpass",
+     "Bồi thường bằng tiền mặt hoặc gói sản phẩm/dịch vụ/voucher của ĐVTV - tối đa 2.000.000 VNĐ",
+     "Bồi thường bằng tiền mặt hoặc gói sản phẩm/dịch vụ/voucher của ĐVTV - tối đa 5.000.000 VNĐ"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "chuyen-mon-tpvh-30",
+    "no": 30,
+    "text": "Các bước để sử dụng dịch vụ ưu đãi nội bộ mới tại các Công viên của Sun World được ban hành 2024 như thế nào?",
+    "options": [
+     "Bước 1: Truy cập Dịch vụ ưu đãi nội bộ trên ứng dụng MySGR. Bước 2: Đăng ký dịch vụ ưu đãi nội bộ hiện có. Bước 3:\nXuất trình mã QR Code thông tin CBNV để nhân viên CSKH xuất vé giấy",
+     "Bước 1: Truy cập Dịch vụ ưu đãi nội bộ trên ứng dụng MySGR. Bước 2: Đăng ký dịch vụ ưu đãi nội bộ hiện có. Bước 3:\nXuất trình mã QR Code thông tin CBNV và QR Code vé tại cổng soát vé Công viên",
+     "Bước 1: Truy cập Dịch vụ ưu đãi nội bộ trên ứng dụng SAP. Bước 2: Đăng ký dịch vụ ưu đãi nội bộ hiện có. Bước 3: Xuất \ntrình thẻ nhân viên để nhân viên soát vé hỗ trợ qua cổng nội bộ",
+     "Bước 1: Truy cập Dịch vụ ưu đãi nội bộ trên ứng dụng MySGR. Bước 2: Đăng ký dịch vụ ưu đãi nội bộ hiện có. Bước 3:\nXuất vé giấy để sử dụng dịch vụ"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "chuyen-mon-tpvh-31",
+    "no": 31,
+    "text": "Một thiết bị trò chơi tại công viên bị hỏng khiến 3 khách hàng bị mắc kẹt trên thiết bị trong 20 phút trước khi được giải\ncứu an toàn, không có thương tích. Theo Quy trình Báo cáo Sự cố, sự việc này cần được xử lý như thế nào?",
+    "options": [
+     "Chỉ cần ghi nhận vào báo cáo hàng tháng vào cuối tháng, không cần báo cáo khẩn",
+     "Chuyển toàn bộ hồ sơ ngay cho Ban Tài chính xử lý bồi thường trước khi báo cáo sự cố",
+     "Không cần báo cáo vì không có khách hàng nào bị thương tích",
+     "Được xem là tình huống nghiêm trọng (mắc kẹt hơn 15 phút) và phải báo cáo cho Nhóm báo cáo sự cố trong vòng 2\ngiờ kể từ khi xảy ra sự vụ"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "chuyen-mon-tpvh-32",
+    "no": 32,
+    "text": "Theo quy định về cơ cấu bồi thường mảng Giải trí - Khối SHE, khách hàng có thể nhận được voucher dịch vụ của công\nviên tối đa 300.000 VND, hoàn hủy vé hoặc đổi thời gian sử dụng dịch vụ trong trường hợp nào?",
+    "options": [
+     "Khách hàng phải chờ đợi trong khoảng thời gian từ 15 phút đến 30 phút do sự cố vận hành.",
+     "Khách hàng phải chờ đợi trong khoảng thời gian từ 30 phút đến 60 phút do sự cố vận hành.",
+     "Sản phẩm không giống như quảng cáo",
+     "Khách hàng phải chờ đợi trong khoảng thời gian dưới 15 phút do sự cố vận hành."
+    ],
+    "answer": 1
+   },
+   {
+    "id": "chuyen-mon-tpvh-33",
+    "no": 33,
+    "text": "Đâu KHÔNG phải là lưu ý khi chụp ảnh cho khách?",
+    "options": [
+     "Hãy tạo không khí vui vẻ bằng cách khuyến khích Khách đổi kiểu dáng",
+     "Đưa lại máy cho Khách, và nhớ khi chia tay Khách, hãy nói: “Chúc anh/chị/cả nhà có chuyến tham quan vui chơi vui vẻ\ntại Sun World!”",
+     "Chụp cho khách càng nhanh càng tốt, có ảnh cho khách là được.",
+     "Kiểm tra để đảm bảo hình không bị nhòe, rõ mặt của tất cả mọi người. Nếu không, chụp lại hình khác."
+    ],
+    "answer": 2
+   },
+   {
+    "id": "chuyen-mon-tpvh-34",
+    "no": 34,
+    "text": "Vào giữa buổi trưa cao điểm, CBQL trực bộ phận Vận hành trò chơi nhận thấy lượng khách tăng đột biến trong khi bộ\nphận Bán vé đang dư nhân sự do vắng khách. Theo Quy định Quản lý ca trực vận hành tại Công viên Sun World, ai có\nquyền quyết định điều phối nhân lực hỗ trợ giữa hai bộ phận này?",
+    "options": [
+     "CBQL trực bộ phận Vận hành trò chơi tự quyết định điều động nhân sự từ bộ phận khác mà không cần thông qua\nCBLĐ trực",
+     "CBLĐ trực phụ trách toàn Công viên (Park Duty Manager) có quyền quyết định về việc điều phối nhân lực hỗ trợ giữa\ncác bộ phận theo nhu cầu phục vụ khách tại từng thời điểm",
+     "Chỉ Giám đốc Công viên (không phải CBLĐ trực ca) mới có quyền quyết định, phải chờ phê duyệt sau đó mới thực\nhiện được",
+     "Không ai có quyền điều phối, mỗi bộ phận phải tự xoay sở với nhân sự hiện có"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "chuyen-mon-tpvh-35",
+    "no": 35,
+    "text": "Một trong những nguyên tắc tạo ra sự khác biệt giữa Công Viên mang thương hiệu Sun World so với các đối thủ cạnh\ntranh là gì ?",
+    "options": [
+     "Cung cấp một Dịch Vụ Từ Tâm cho Khách Hàng, thể hiện sự chuyên nghiệp của bản thân. Ngoài ra, chúng ta còn tìm\nnhững khoảnh khắc tuyệt vời để nâng dịch vụ lên đẳng cấp 5 sao.Từ đó tạo ra một môi trường kinh doanh tốt và một\nnơi làm việc tuyệt vời cho tất cả mọi người",
+     "Cung cấp một Dịch Vụ Từ Tâm cho Khách Hàng, thể hiện sự chuyên nghiệp của bản thân. Ngoài ra, chúng ta còn tìm\nnhững khoảnh khắc tuyệt vời để nâng dịch vụ lên tầm cao mới.Từ đó tạo ra một môi trường kinh doanh tốt và một\nnơi làm việc tuyệt vời cho tất cả mọi người",
+     "Cung cấp một Dịch Vụ Từ Tâm cho Khách Hàng, thể hiện sự chuyên nghiệp của bản thân và đội ngũ. Ngoài ra, chúng\nta còn tìm những khoảnh khắc tuyệt vời để nâng dịch vụ lên tầm cao mới.Từ đó tạo ra một môi trường kinh doanh tốt\nvà một nơi làm việc tuyệt vời cho tất cả mọi người",
+     "Cung cấp một Dịch Vụ Từ Tâm cho Khách Hàng, thể hiện sự chuyên nghiệp của đội ngũ. Ngoài ra, chúng ta còn tìm\nnhững khoảnh khắc tuyệt vời để nâng dịch vụ lên tầm cao mới.Từ đó tạo ra một môi trường kinh doanh tốt và một\nnơi làm việc tuyệt vời cho tất cả mọi người"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "chuyen-mon-tpvh-36",
+    "no": 36,
+    "text": "Cáp treo tại một công viên đột ngột dừng giữa chừng do sự cố kỹ thuật, dự kiến khắc phục trong 20 phút. Theo Quy định\nvề thông báo vận hành công viên tại Khối SHE, nhân viên vận hành cần thực hiện thông báo như thế nào cho đúng quy\nđịnh?",
+    "options": [
+     "Phát thông báo đầu tiên trong vòng 05 phút kể từ khi sự cố phát sinh, nội dung mang tính trấn an, và phát lại tối\nthiểu 05 phút/lần cho đến khi có cập nhật mới hoặc khôi phục hoạt động",
+     "Chỉ cần thông báo một lần duy nhất ngay khi sự cố xảy ra rồi im lặng chờ khắc phục xong mới thông báo lại",
+     "Không cần thông báo vì sự cố chỉ kéo dài 20 phút, thời gian ngắn không đáng kể",
+     "Chờ đến khi khắc phục xong hẳn mới thông báo một lần cho khách biết sự cố đã xảy ra"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "chuyen-mon-tpvh-37",
+    "no": 37,
+    "text": "Công viên có nhiều trò chơi đóng cửa trong quá trình Khách hàng tham quan. Khách than phiền với Anh/Chị. Là nhân\nviên khu vui chơi, Anh/Chị sẽ xử lý tình huống này như thế nào?",
+    "options": [
+     "Thông báo ngay lập tức tới Bộ phận Chăm sóc khách hàng để đến giải quyết vì việc xoa dịu khách hàng phàn nàn là\ncông việc của Bộ phận Chăm sóc khách hàng",
+     "Lắng nghe, chia sẻ và xin lỗi Khách hàng. Giải thích với khách hàng về việc các trò chơi đóng cửa để thực hiện công\ntác bảo trì định kỳ nhằm đảm bảo an toàn cho khách hàng. Nếu khách hàng có những phản ứng mạnh hơn như đòi bồi thường, chửi bới thì nhân viên thông báo tới quản lý trực tiếp để được hỗ trợ",
+     "Lắng nghe và chia sẻ với Khách nhưng không bình luận bất cứ điều gì vì đây mới chỉ là phàn nàn ở cấp độ nhẹ, nếu\nKhách hàng gay gắt lên thì sẽ đề nghị bồi thường theo mong muốn của khách. Sau đó liên hệ với Nhân viên Chăm sóc khách hàng để làm thủ tục bồi thường",
+     "Lắng nghe và chia sẻ với khách hàng. Nhanh chóng liên hệ với Nhân viên Chăm sóc khách hàng và cam kết với Khách\nhàng sẽ bồi thường một cách hợp lý"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "chuyen-mon-tpvh-38",
+    "no": 38,
+    "text": "Bạn thấy đồng nghiệp đứng dựa cột và nhắn tin riêng tại khu vực có khách. Theo quy định, hành vi này như thế nào?",
+    "options": [
+     "Không phù hợp vì vi phạm quy định hành vi ứng xử trong khu vực có khách",
+     "Được phép nếu không có khách đến hỏi",
+     "Được phép trong giờ thấp điểm",
+     "Chỉ vi phạm nếu quản lý nhìn thấy"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "chuyen-mon-tpvh-39",
+    "no": 39,
+    "text": "Một khách hàng tại cổng soát vé có biểu hiện choáng, mệt do thời tiết nắng nóng khi đang xếp hàng. Theo Quy trình\nSHE-QT-CS01_Quy trình xử lý phàn nàn và sự cố của khách hàng, Bộ phận Soát vé/CSKH cần ưu tiên thực hiện gì trước\ntiên?",
+    "options": [
+     "Ưu tiên hoàn tất thủ tục soát vé trước, sau đó mới hỗ trợ y tế",
+     "Ưu tiên đảm bảo an toàn sức khỏe cho khách hàng theo nguyên tắc \"An toàn là trên hết\", hỗ trợ y tế trước khi xử lý\ncác nội dung khác",
+     "Yêu cầu khách hàng tiếp tục xếp hàng vì chưa đến lượt soát vé",
+     "Lập tức yêu cầu khách hàng ký Biên bản sự việc trước khi được hỗ trợ"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "chuyen-mon-tpvh-40",
+    "no": 40,
+    "text": "Theo Quy trình đề nghị, phê duyệt và tiếp Khách ngoại giao, ai là người chịu trách nhiệm thực hiện bước \"Đề xuất chủ\ntrương\" khi có nhu cầu tiếp khách ngoại giao (KNG)?",
+    "options": [
+     "Đơn vị đặt dịch vụ",
+     "Kế toán trưởng (KTT)",
+     "Cấp có thẩm quyền",
+     "Lãnh đạo đơn vị"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "chuyen-mon-tpvh-41",
+    "no": 41,
+    "text": "Theo Quy định cơ cấu bồi thường cho khách hàng của khối SHE, trách nhiệm và quyền hạn của Bộ phận CSKH là gì?",
+    "options": [
+     "Chuyển tiếp, báo cáo cho Lãnh đạo\n để xin phương án xử lý",
+     "Tiếp nhận thông tin và đề xuất phương án bồi thường theo cơ cấu bồi thường. - Phối hợp với các bộ phận liên quan\nđể xác minh thông tin khách, giao dịch, chi phí",
+     "Tiếp nhận thông tin và lưu trữ hồ sơ",
+     "Phối hợp với các bộ phận liên quan \nđể thu thập thông tin"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "chuyen-mon-tpvh-42",
+    "no": 42,
+    "text": "Nội dung nào không thuộc quy định chung trong việc áp dụng cơ cấu bồi thường cho khách hàng mảng Giải trí - Khối\nSHE?",
+    "options": [
+     "Trường hợp phát sinh tranh chấp, việc xử lý sẽ tuân thủ theo quy định pháp luật hiện hành và/hoặc hợp đồng đã ký\nkết với khách hàng (nếu có)",
+     "Ưu tiên khắc phục ngay tại chỗ (đổi dịch vụ, đổi sản phẩm, miễn phí bổ sung)\n trước khi chi trả bằng tiền",
+     "Bồi thường dựa trên thiệt hại thực tế và mức độ ảnh hưởng đến trải nghiệm khách, không áp dụng nếu nguyên nhân\ndo sơ suất hoặc bệnh lý sẵn có của khách",
+     "Việc bồi thường có thể bao gồm một hoặc nhiều hình thức (hoàn vé, đổi dịch vụ, chi trả trực tiếp, chi trả phát sinh, hỗ\ntrợ bồi thường…) tùy theo mức độ sự cố. Có thể áp dụng các mức độ bồi thường khác nhau cho cùng một hạng mục\nbồi thường"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "chuyen-mon-tpvh-43",
+    "no": 43,
+    "text": "Theo Quy định về Quản lý thẻ và kiểm soát ra vào tại Sun World, \"giấy tờ tùy thân hợp lệ\" của khách hàng bao gồm các\ngiấy tờ nào?",
+    "options": [
+     "Chứng minh nhân dân/Căn cước công dân Việt Nam, \nBằng lái xe, Hộ chiếu, giấy tờ tùy thân khác",
+     "Chứng minh nhân dân/Căn cước công dân Việt Nam, \nBằng lái xe",
+     "Chứng minh nhân dân/Căn cước công dân Việt Nam, Bằng lái xe, Hộ chiếu, giấy tờ tùy thân khác do khách hàng cung\ncấp",
+     "Chứng minh nhân dân/Căn cước công dân Việt Nam, Bằng lái xe, Hộ chiếu, giấy tờ tùy thân khác do cơ quan chức\nnăng có thẩm quyền cấp"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "chuyen-mon-tpvh-44",
+    "no": 44,
+    "text": "Theo Quy định về Quản lý thẻ và kiểm soát ra vào tại Sun World, quy trình kiểm tra Thẻ ra vào Công viên cần tuân theo\nquy định nào?",
+    "options": [
+     "NV kiểm soát tại điểm ra vào Công viên sẽ để khách thoải mái quét thẻ từ,\nkhông cần kiểm soát thông tin hiển thị, chỉ cần có thể qua cổng kiểm soát càng nhanh càng tốt",
+     "NV kiểm soát tại điểm ra vào Công viên\n sẽ kiểm tra Thẻ ra vào Công viên của từng người để đảm bảo thông tin chính xác và ngày hiệu lực hợp lệ",
+     "Nếu thông tin hiển thị của thẻ từ không chính xác hoặc\n thẻ hết hiệu lực, chủ thẻ có thể ký cam kết tự chịu trách nhiệm và qua cổng kiểm soát bình thường",
+     "NV kiểm soát yêu cầu khách cung cấp thẻ từ để NV kiểm soát quét thẻ, hiển thị các thông tin của họ và tuân theo các\nquy trình ra vào bình thường"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "chuyen-mon-tpvh-45",
+    "no": 45,
+    "text": "Theo Quy định về Quản lý thẻ và kiểm soát ra vào\n tại Sun World, \"thẻ khách\" được áp dụng cho ai?",
+    "options": [
+     "Đối tác thực hiện khảo sát dịch vụ tại ĐVTV SWG",
+     "Nhà thầu thực hiện công việc/cung cấp dịch vụ \ncho Đối tác kinh doanh",
+     "Đối tác đang thực hiện hợp đồng hợp tác kinh doanh \ntại ĐVTV SWG (bao gồm NV của Đối tác kinh doanh)",
+     "NV chính thức tại ĐVTV SWG theo Hợp đồng lao động đã ký"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "chuyen-mon-tpvh-46",
+    "no": 46,
+    "text": "Để giảm nguy cơ hỏa hoạn thì cần lưu ý gì với các bình ga?",
+    "options": [
+     "Bình ga phải luôn được gia cố ở vị trí thẳng đứng",
+     "Bình ga phải luôn được gia cố chắc ở vị trí nằm ngang ",
+     "Bình ga là chất không dễ gây cháy nổ\n nên không cần lưu ý điều gì",
+     "Bình ga luôn phải được đặt hàng trước và lưu trữ trong kho ít nhất là 1 năm"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "chuyen-mon-tpvh-47",
+    "no": 47,
+    "text": "Khi có hoả hoạn xảy ra tại các Khu Vui chơi\n điều gì KHÔNG được phép làm?",
+    "options": [
+     "Tập kết Khách hàng tại nơi an toàn, xa nơi nguy hiểm",
+     "Cửa Thoát hiểm phải đóng kín để khói không lan ra nơi khác",
+     "Gọi cứu trợ",
+     "Sử dụng thang máy để có thể nhanh chóng thoát khỏi đám cháy"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "chuyen-mon-tpvh-48",
+    "no": 48,
+    "text": "Theo Quy định về hình ảnh, tác phong và hành vi ứng xử chuẩn mực tại Khối SHE, điều gì KHÔNG đúng với quy định về móng tay?",
+    "options": [
+     "Không dài quá khoảng 2mm ra ngoài đầu ngón tay",
+     "Được phép sơn, chỉ sử dụng tông màu da nhạt",
+     "Luôn sạch sẽ",
+     "Được cắt tỉa gọn gàng"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "chuyen-mon-tpvh-49",
+    "no": 49,
+    "text": "Theo Quy định về hình ảnh, tác phong và hành vi ứng xử chuẩn mực tại Khối SHE thì quy định về thẻ tên áp dụng đối với nhân viên đang mặc trang phục biểu diễn là gì?",
+    "options": [
+     "Phải được đeo mọi lúc",
+     "Đeo quanh cổ và phần bảng tên được đưa ra phía sau lưng để không ảnh hưởng tới tiết mục biểu diễn",
+     "Không đeo thẻ tên khi đang mặc \ntrang phục biểu diễn",
+     "Được đeo trên lớp quần áo ngoài cùng"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "chuyen-mon-tpvh-50",
+    "no": 50,
+    "text": "Theo GEN-HB-10_Sổ tay Dịch vụ Khách hàng, nguyên tắc quan trọng khi phân biệt giữa hành động 'xin lỗi' và 'nhận lỗi'\nkhi xử lý phàn nàn là gì?",
+    "options": [
+     "Không bao giờ được xin lỗi khách vì \nsẽ ảnh hưởng hình ảnh công ty",
+     "Cần điều tra rõ nguyên nhân trước khi nhận lỗi, trong khi lời xin lỗi vì khách gặp vấn đề có thể thực hiện ngay để thể\nhiện sự đồng cảm (bước Empathize)",
+     "Xin lỗi và nhận lỗi là một, luôn thực hiện đồng \nthời ngay khi khách phàn nàn mà không cần điều tra",
+     "Chỉ cần nhận lỗi mà không cần xin lỗi trong mọi tình huống"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "chuyen-mon-tpvh-51",
+    "no": 51,
+    "text": "Theo Anh/Chị đâu KHÔNG phải là rủi ro thường gặp \nkhi vận hành trò vui chơi giải trí?",
+    "options": [
+     "Thiết bị gặp trục trặc",
+     "Công viên có nhiều rác",
+     "Ngã từ tên cao",
+     "Trượt, vấp hoặc té ngã"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "chuyen-mon-tpvh-52",
+    "no": 52,
+    "text": "Khách hàng vừa phàn nàn về thời gian chờ lâu, đồng thời phía trước có một nhóm\nKhách hàng đang có dấu hiệu chen hàng. Nhân viên nên ưu tiên xử lý thế nào?",
+    "options": [
+     "Giải thích cho Khách hàng phàn nàn\n rằng giờ cao điểm nên phải chờ",
+     "Yêu cầu tất cả Khách hàng tự sắp xếp lại hàng",
+     "Ổn định tình hình xếp hàng, ngăn ngừa việc chen hàng và đồng thời chủ động cập nhật/giải thích tình trạng chờ cho\nKhách hàng",
+     "Tập trung xử lý nhóm chen hàng trước, không \ncần phản hồi Khách hàng đang phàn nàn"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "chuyen-mon-tpvh-53",
+    "no": 53,
+    "text": "Theo SHE-QĐ-RD03_Quy định thông báo vận hành công viên tại Khối SHE, \"Thông báo không thường xuyên\" được thực\nhiện trong trường hợp nào?",
+    "options": [
+     "Mỗi lượt chơi/đi trong điều kiện vận hành bình thường",
+     "Khi thiết bị/trò chơi/cáp treo hỏng hoặc dừng \nđột ngột, cần trấn an khách",
+     "Khi công viên tổ chức sự kiện khuyến mãi bán vé",
+     "Chỉ thực hiện vào giờ mở cửa và đóng cửa công viên"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "chuyen-mon-tpvh-54",
+    "no": 54,
+    "text": "Theo Hướng dẫn cung cấp thông tin sản phẩm, dịch vụ, vì sao nhân viên soát vé không được tự ý phỏng đoán để trả lời\nkhi khách hàng hỏi về một chính sách vé mà nhân viên chưa nắm rõ?",
+    "options": [
+     "Vì đây là yêu cầu riêng của Quy định về Chiều cao\n và điều kiện tham gia trò chơi",
+     "Vì thông tin cung cấp cho khách hàng phải chính xác, \ntránh gây hiểu nhầm hoặc cam kết sai với khách; nhân viên cần xác minh trước khi phản hồi",
+     "Vì nhân viên soát vé được toàn quyền tự quyết \nđịnh mọi chính sách vé mà không cần xác minh",
+     "Chỉ áp dụng với chính sách hoàn tiền, không áp \ndụng với thông tin về giờ mở cửa"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "chuyen-mon-tpvh-55",
+    "no": 55,
+    "text": "Theo Quy trình xử lý phàn nàn và sự cố của khách hàng, vì sao nhân viên chỉ nên cam kết trong đúng thẩm quyền (ví dụ\nnói \"Em sẽ kiểm tra và phản hồi anh/chị sớm nhất\") khi khiếu nại về vé chưa rõ nguyên nhân?",
+    "options": [
+     "Vì nhân viên soát vé có toàn quyền quyết \nđịnh mọi phương án xử lý và hoàn tiền vé",
+     "Vì đây là yêu cầu riêng của Quy định\n về Quản lý Thẻ và Kiểm soát ra vào",
+     "Để tránh hứa hẹn vượt thẩm quyền hoặc cam kết \nphương án xử lý khi chưa xác minh rõ vấn đề",
+     "Chỉ áp dụng đối với vé mua qua hệ thống MySGR"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "chuyen-mon-tpvh-56",
+    "no": 56,
+    "text": "Định nghĩa nào dưới đây hiểu đúng về câu \n\"Đối với khách hàng: Sạch là an toàn\"",
+    "options": [
+     "Khi Khách hàng thấy nhân viên sắp xếp quy củ, chu đáo, tác phong diện mạo chỉnh chu, họ thấy yên tâm rằng sự an\ntoàn của họ đang ở trong tầm kiểm soát của chúng ta.",
+     "Khi Khách hàng thấy sự sạch gọn, mọi chi tiết được chăm chút. Nhân viên chu đáo, họ thấy yên tâm rằng sự an toàn\ncủa họ đang ở trong tầm kiểm soát của chúng ta.",
+     "Khi Khách hàng thấy Nhân viên chu đáo, tác phong diện mạo chỉnh chu, họ thấy yên tâm rằng sự an toàn của họ đang ở trong tầm kiểm soát của chúng ta.",
+     "Khi Khách hàng thấy sự sạch gọn, mọi cái được bảo dưỡng cẩn thận, quy củ. Nhân viên chu đáo, tác phong diện mạo chỉnh chu, họ thấy yên tâm rằng sự an toàn của họ đang ở trong tầm kiểm soát của chúng ta."
+    ],
+    "answer": 3
+   },
+   {
+    "id": "chuyen-mon-tpvh-57",
+    "no": 57,
+    "text": "Trong ngành Vui chơi Giải trí, thuật ngữ\n \"Sân khấu\" được hiểu như thế nào?",
+    "options": [
+     "Các khu vực có biểu diễn nghệ thuật",
+     "Mọi khu vực mà khách hàng không thể thấy \nvà tiếp cận trong chuyến tham quan.",
+     "Mọi khu vực mà khách hàng có thể thấy\nvà tiếp cận trong chuyến tham quan.",
+     "Khu vực mà chúng ta có thể để khách hàng nhìn\n thấy nhưng không thể tiếp cận trong chuyến tham quan."
+    ],
+    "answer": 2
+   },
+   {
+    "id": "chuyen-mon-tpvh-58",
+    "no": 58,
+    "text": "Một CBNV đã đăng ký thành công vé ưu đãi nội bộ cho người thân nhưng sau đó phát hiện nhập sai ngày sử dụng dịch\nvụ. Theo tài liệu hướng dẫn, CBNV cần xử lý như thế nào?",
+    "options": [
+     "Hủy đăng ký ngay trên ứng dụng MySGR \nvà tiến hành đăng ký lại từ đầu",
+     "Vào lại mục \"Đăng ký dịch vụ\" trên App MySGR\n và chỉnh sửa lại ngày sử dụng như bình thường",
+     "Không thể tự sửa/hủy trên hệ thống vì đã xác nhận \"Đồng ý\"; cần liên hệ đầu mối hỗ trợ vì vé không hoàn, không hủy\nsau khi đã xuất",
+     "Yêu cầu người thân tự tạo một tài khoản MySGR \nriêng để tự sửa thông tin"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "chuyen-mon-tpvh-59",
+    "no": 59,
+    "text": "Hiện nay, cán bộ nhân viên đã ký hợp đồng chính thức với Sun Group sử dụng dịch vụ nội bộ tại các công viên giải trí\nthuộc Khối SHE thông qua công cụ nào?",
+    "options": [
+     "Phần mềm VGS",
+     "Phần mềm Front Office",
+     "Phần mềm SAP",
+     "CBNV có thể tự đăng ký, thao tác trên phần mềm ứng\n dụng MySGR, lựa chọn các công viên và dịch vụ tương ứng mà mình mong muốn. Sau đó hệ thống sẽ tự động xuất vé không cần thông qua Bộ phận CSKH"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "chuyen-mon-tpvh-60",
+    "no": 60,
+    "text": "rong vòng tối đa bao nhiêu tiếng sau khi mở cửa/vận hành các khu vực vận hành kinh doanh, CBQL của từng Phòng/Bộ\nphận có trách nhiệm đi từng địa điểm trong khu vực mình chịu trách nhiệm để kiểm tra và xác nhận?",
+    "options": [
+     "1 tiếng",
+     "2 tiếng",
+     "4 tiếng",
+     "3 tiếng"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "chuyen-mon-tpvh-61",
+    "no": 61,
+    "text": "Là khu phát triển mật độ thấp, ít tác động đến môi trường tự nhiên. Những Công Viên này tôn vinh môi trường, động vật\nhoang dã, văn hóa và con người địa phương. Định nghĩa trên thuộc phân loại công viên gì?",
+    "options": [
+     "Công viên Nước",
+     "Công viên Giải trí",
+     "Công viên Văn hóa",
+     "Công viên du lịch sinh thái xanh"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "chuyen-mon-tpvh-62",
+    "no": 62,
+    "text": "Hãy sắp xếp thứ tự của nguyên tắc 6C trong Dịch vụ khách hàng?",
+    "options": [
+     "Chào đón - Chủ động - Cười tươi - Chăm sóc -\nCảm ơn - Chân thành",
+     "Cười tươi - Chào đón - Chủ động - Chăm sóc \n- Cảm ơn - Chân thành",
+     "Cười tươi - Chào đón - Chủ động -Cảm ơn Chăm sóc  -Chân thành",
+     "Cười tươi - Chào đón - Chân thành -Cảm ơn- Chăm sóc  - Chủ động"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "chuyen-mon-tpvh-63",
+    "no": 63,
+    "text": "Chữ \"T\" trong công thức HEAT để giải quyết phàn nàn có ý nghĩa gì?",
+    "options": [
+     "Cảm ơn",
+     "Thấu cảm",
+     "Hành động",
+     "Lắng nghe"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "chuyen-mon-tpvh-64",
+    "no": 64,
+    "text": "Khi có hoả hoạn xảy ra tại các Khu Vui chơi điều gì KHÔNG được phép làm?",
+    "options": [
+     "Gọi cứu trợ",
+     "Cửa Thoát hiểm phải đóng kín để \nkhói không lan ra nơi khác",
+     "Sử dụng thang máy để có thể nhanh chóng\n thoát khỏi đám cháy",
+     "Tập kết Khách hàng tại nơi an toàn, xa nơi nguy hiểm"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "chuyen-mon-tpvh-65",
+    "no": 65,
+    "text": "Theo Quy định về hình ảnh, tác phong và hành vi ứng xử chuẩn mực tại Khối SHE, điều nào sau đây về trang phục là\nKHÔNG đúng quy định?",
+    "options": [
+     "Tất cả cúc áo đồng bộ và\n được cài (có thể mở một cúc trên cùng gần cổ)",
+     "Chiều dài của váy và chân váy từ mắt\n cá chân đến tối đa 8cm trên đầu gối.",
+     "Không mặc đồng phục/trang phục \nbạc màu hoặc bị hỏng rách",
+     "Thắt lưng màu đen trơn và bản to\n từ 2.5 - 3.5 cm, mặt đơn giản"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "chuyen-mon-tpvh-66",
+    "no": 66,
+    "text": "Khi Trò chơi đang trong quá trình hoạt động, Cổng \ncửa ra vào Trò chơi phải đảm bảo quy định nào?",
+    "options": [
+     "Phải mở để đón Khách",
+     "Phải đảm bảo đã được sơn màu",
+     "Phải đảm bảo đã được bán cho khách hàng",
+     "Phải đảm bảo đã được đóng và không bao giờ được mở ra"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "chuyen-mon-tpvh-67",
+    "no": 67,
+    "text": "Ai là người có trách nhiệm mang đến cho Khách những trải nghiệm\n tuyệt vời tại Công Viên?",
+    "options": [
+     "Tất cả Nhân Viên làm việc tại Công Viên",
+     "Tất cả Nhân Viên (Trừ vị trí Giám Sát trở lên)",
+     "Nhân Viên tiếp xúc với Khách",
+     "Nhân Viên Vận Hành"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "chuyen-mon-tpvh-68",
+    "no": 68,
+    "text": "Một khách hàng muốn trao thẻ Wow nhưng nhân viên từ chối vì “Em chỉ là nhân viên thời vụ, em không được phép nhận\nthẻ WoW”. Điều này là đúng hay sai ?",
+    "options": [
+     "Sai, vì mọi nhân viên đều được ghi\n nhận nếu thể hiện tinh thần Dịch vụ từ tâm.",
+     "Đúng, vì chỉ nhân viên chính thức được công nhận.",
+     "Sai, vì nhân viên không nên nói không với khách hàng",
+     "Đúng, vì thời vụ không thuộc chương trình."
+    ],
+    "answer": 0
+   },
+   {
+    "id": "chuyen-mon-tpvh-69",
+    "no": 69,
+    "text": "Trước giờ mở cửa, nhân viên trực ca kiểm tra khu vực soát vé và phát hiện một hạng mục không đạt trong Danh mục\nkiểm tra vận hành nhưng đã xử lý khắc phục ngay và đạt yêu cầu. Theo SWG-QĐ-OPT-22_Quy định về Danh mục kiểm tra\nvận hành các khu vực kinh doanh vận hành, khu vực này được xử lý như thế nào?",
+    "options": [
+     "Vẫn phải tạm dừng hoạt động chờ CBQL kiểm tra và ký xác nhận trước khi mở\n cửa trong mọi trường hợp",
+     "Không được đưa vào hoạt động dù đã khắc \nphục, vì đã từng phát hiện hạng mục không đạt",
+     "Phải báo cáo ngay cho Nhóm báo cáo sự\n cố trong vòng 2 giờ theo Quy trình Báo cáo sự cố",
+     "Được đưa vào hoạt động bình thường vì hạng mục không đạt đã được \ngiải quyết ngay và đạt yêu cầu"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "chuyen-mon-tpvh-70",
+    "no": 70,
+    "text": "Nhân viên đang vận hành thì xảy ra sự cố, nhân viên cần làm gì đầu tiên?",
+    "options": [
+     "Đứng yên chờ CBQL đến xử lý.",
+     "Ngay lập tức, ưu tiên đảm bảo an toàn cho tất cả mọi người và hỗ trợ tất cả những người đang bị thương trong điều\nkiện an toàn cho phép.",
+     "Bỏ chạy khỏi vị trí và tìm nơi ẩn nấp.",
+     "Làm báo cáo sự cố."
+    ],
+    "answer": 1
+   },
+   {
+    "id": "chuyen-mon-tpvh-71",
+    "no": 71,
+    "text": "Sứ mệnh của mỗi cán bộ nhân viên Khối SHE - những chuyên gia hàng đầu trong lĩnh vực vui chơi giải trí, chúng ta cần\ncung cấp tới khách hàng điều gì để mang đến cho khách hàng những trải nghiệm không thể nào quên?",
+    "options": [
+     "Những sản phẩm trò chơi hiện đại nhất thế giới",
+     "Những khu vực nghỉ ngơi mát mẻ",
+     "Dịch vụ cơ bản",
+     "Dịch vụ từ tâm cũng như sự quan tâm tới từng \nchi tiết nhỏ nhất"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "chuyen-mon-tpvh-73",
+    "no": 73,
+    "text": "Một khu vực ngoài trời rộng lớn với các trò chơi giải trí, gian hàng trò chơi có thưởng, chương trình biểu diễn, cửa hàng ăn\nuống và các hoạt động giải trí khác. Định nghĩa trên thuộc phân loại công viên gì?",
+    "options": [
+     "Trung tâm giải trí gia đình",
+     "Công viên Nước",
+     "Công viên Văn hóa",
+     "Công viên Giải trí"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "chuyen-mon-tpvh-74",
+    "no": 74,
+    "text": "Tại sao nhân viên được yêu cầu luôn giữ thái độ tôn \ntrọng và quan tâm đến cảm xúc của người khác?",
+    "options": [
+     "Để hoàn thành OKR cá nhân",
+     "Để xây dựng hình ảnh chuyên nghiệp và tạo\n ấn tượng tốt đẹp lâu dài",
+     "Để tránh bị khiếu nại",
+     "Để thuận lợi trong đánh giá cuối năm"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "chuyen-mon-tpvh-75",
+    "no": 75,
+    "text": "Trong trường hợp khách không đáp ứng được các quy định của trò chơi, nhưng khách vẫn khăng khăng muốn vào chơi và còn đòi gặp Quản lý cao hơn, Anh/Chị sẽ xử lý như thế nào?",
+    "options": [
+     "Xin lỗi khách vì khách cần tuân thủ \nquy tắc an toàn của trò chơi",
+     "Gọi cho An ninh để mời khách ra ngoài do\n lượng khách chờ đang rất đông",
+     "Tách riêng khách ra một vị trí khác ít người qua lại sau đó giải thích cho khách hiểu rằng quy định này để đảm bảo an\ntoàn cả về sức khỏe thể chất và tâm lý của khách. Hướng dẫn khách tham gia trò chơi phù hợp hơn",
+     "Thông báo cho Bộ phận CSKH nhờ hỗ trợ giải quyết\n vì đây là khách hàng khó tính"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "chuyen-mon-tpvh-76",
+    "no": 76,
+    "text": "Theo Quy trình xử lý phàn nàn và sự cố của khách hàng, vì sao nhân viên chỉ nên cam kết trong đúng thẩm quyền (ví dụ \nnói \"Em sẽ kiểm tra và phản hồi anh/chị sớm nhất\") khi khiếu nại về vé chưa rõ nguyên nhân?",
+    "options": [
+     "Vì đây là yêu cầu riêng của \nQuy định về Quản lý Thẻ và Kiểm soát ra vào",
+     "Để tránh hứa hẹn vượt thẩm quyền hoặc cam kết phương\n án xử lý khi chưa xác minh rõ vấn đề",
+     "Vì nhân viên soát vé có toàn quyền quyết định\n mọi phương án xử lý và hoàn tiền vé",
+     "Chỉ áp dụng đối với vé mua qua hệ thống MySGR"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "chuyen-mon-tpvh-77",
+    "no": 77,
+    "text": "Nội dung nào KHÔNG phải một trong những nguyên tắc của show diễn?",
+    "options": [
+     "Mỗi người \"trên sân khấu\" là một phần của Show diễn",
+     "Thiết bị hỏng hóc hoặc hư hại không\n được để \"trên sân khấu\"",
+     "Luôn luôn phải đáp ứng mọi yêu cầu của khách hàng",
+     "Thêm cảm giác thú vị và nghệ thuật sân \nkhấu vào mọi thứ bạn làm"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "chuyen-mon-tpvh-78",
+    "no": 78,
+    "text": "Theo SHE-QĐ-RD03_Quy định về thông báo vận hành công viên tại Khối SHE, trách nhiệm phê duyệt nội dung thông báo mới/điều chỉnh được quy định như thế nào?",
+    "options": [
+     "ĐVTV có thể tự phê duyệt và ban hành ngay mà \nkhông cần thẩm định từ PQLVH Khối",
+     "PQLVH Khối là đơn vị duy nhất có quyền phê duyệt, \nĐVTV không có vai trò gì",
+     "Nội dung mới/điều chỉnh phải được Phòng Quản lý Vận hành Khối (PQLVH Khối) thẩm định trước khi Đơn vị thành\nviên (ĐVTV) phê duyệt ban hành",
+     "Nội dung thông báo do nhân viên vận hành trực tiếp\n tự soạn và phát ngay không cần qua phê duyệt"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "chuyen-mon-tpvh-79",
+    "no": 79,
+    "text": "Phân biệt \"Biển báo\" và \"Biển bảng\" theo định nghĩa tại Quy định \nBiển báo, biển bảng an toàn tại Khối SHE?",
+    "options": [
+     "Biển báo đặt trong nhà, Biển bảng đặt ngoài trời",
+     "Biển báo và Biển bảng là hai tên gọi khác \nnhau của cùng một loại biển, không có sự khác biệt",
+     "Biển báo dùng cho khách nước ngoài,\n Biển bảng dùng cho khách Việt Nam",
+     "Biển báo chỉ gồm 1 biểu tượng hoặc chữ đơn giản, còn Biển bảng chứa nhiều thông tin hơn (kết hợp biểu tượng và\nchữ)"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "chuyen-mon-tpvh-80",
+    "no": 80,
+    "text": "Đối với các yêu cầu hoàn hủy vé từ khách hàng đang có mặt tại đơn vị thành viên thuộc Khối SHE thì trách nhiệm tiếp\nnhận, xử lý thuộc về Bộ phận nào?",
+    "options": [
+     "Trung tâm chuyển đổi số DEC tiếp nhận và xử lý",
+     "Ban Kinh doanh SHE tiếp nhận và xử lý",
+     "Phòng CSKH/Phòng Vé tại ĐVTV tiếp nhận, xử lý hoặc tập hợp và chuyển thông tin tới PKD ĐVTV/BKD xử lý (nếu là KH\nB2B/B2C online)",
+     "Ban tài chính SHE tiếp nhận và xử lý"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "chuyen-mon-tpvh-81",
+    "no": 81,
+    "text": "Quy trình kiểm tra Giấy đề nghị ra vào công viên cần tuân theo các nội dung nào?",
+    "options": [
+     "Kiểm tra Giấy đề nghị đảm bảo thông\n tin chính xác và ngày hợp lệ",
+     "Kiểm tra Giấy đề nghị và giấy tờ tùy thân của\n từng người trên danh sách, không cần quá chặt chẽ",
+     "Kiểm tra Giấy đề nghị để chắc chắn \ncó đủ tên của mỗi người trên danh sách",
+     "Kiểm tra Giấy đề nghị và giấy tờ tùy thân của từng\n người trên danh sách, đảm bảo thông tin chính xác và ngày hợp lệ"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "chuyen-mon-tpvh-82",
+    "no": 82,
+    "text": "Trước khi làm việc tại một vị trí cụ thể, hay vận hành bất kỳ thiết bị nào, Nhân viên cần được đào tạo bài bản nội dung\nnào?",
+    "options": [
+     "Các Quy trình Vận hành An toàn tại vị \ntrí đó hay của thiết bị đó",
+     "Sổ tay Sơ cứu.",
+     "Sổ tay vận hành quản lý kho Ẩm thực.",
+     "Sổ tay bảo trì an toàn công viên nước."
+    ],
+    "answer": 0
+   },
+   {
+    "id": "chuyen-mon-tpvh-83",
+    "no": 83,
+    "text": "Khi có cháy, Nhân viên cần lưu ý gì cần làm gì đầu tiên?",
+    "options": [
+     "Luôn hành động đúng để giữ an toàn cho bản thân.",
+     "Tập kết Khách hàng tại nơi an toàn, xa nơi nguy hiểm",
+     "Báo động cho mọi người - gọi cứu trợ",
+     "Không sử dụng thang máy"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "chuyen-mon-tpvh-84",
+    "no": 84,
+    "text": "Mục tiêu của Chương trình Dịch vụ Từ Tâm là gì?",
+    "options": [
+     "Nâng cao tinh thần và văn hóa phục vụ của CBNV thông qua ghi nhận, vinh danh các hành vi dịch vụ chuẩn mực.",
+     "Chuẩn hóa công tác khen thưởng định kỳ.",
+     "Tạo ra phong trào thi đua giữa các đơn vị.",
+     "Tăng năng suất lao động và doanh thu."
+    ],
+    "answer": 0
+   },
+   {
+    "id": "chuyen-mon-tpvh-85",
+    "no": 85,
+    "text": "Theo SHE-QĐ-VH07_Quy định về biển báo, biển bảng an toàn tại Khối SHE, nội dung tối thiểu của một biển báo/biển\nbảng an toàn phải gồm những gì?",
+    "options": [
+     "Chỉ cần biểu tượng, không cần chữ viết",
+     "Tiếng Việt + Tiếng Anh + phần biểu tượng",
+     "Chỉ cần Tiếng Việt",
+     "Tiếng Việt + Tiếng Trung + Tiếng Hàn"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "chuyen-mon-tpvh-86",
+    "no": 86,
+    "text": "Theo Anh/Chị đâu KHÔNG phải là rủi ro thường gặp khi vận hành trò vui chơi giải trí?",
+    "options": [
+     "Trượt, vấp hoặc té ngã",
+     "Công viên có nhiều rác",
+     "Ngã từ tên cao",
+     "Thiết bị gặp trục trặc"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "chuyen-mon-tpvh-87",
+    "no": 87,
+    "text": "Mục đích của Chương trình Dịch vụ Từ Tâm là gì?",
+    "options": [
+     "Tăng doanh thu bán vé tại đơn vị",
+     "Kiểm soát chi phí nhân sự",
+     "Đánh giá năng suất lao động hàng tháng",
+     "Phát triển, duy trì và khích lệ văn hóa dịch vụ tại Khối Giải trí \nNghỉ dưỡng thông qua ghi nhận và vinh danh CBNV"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "chuyen-mon-tpvh-88",
+    "no": 88,
+    "text": "Anh/Chị hãy chỉ ra việc làm KHÔNG đúng trong các khu vực\n cấm và phòng kỹ thuật để đảm bảo an toàn?",
+    "options": [
+     "Các cổng cửa phải đóng và khóa mọi lúc",
+     "Định kỳ 1 tuần 1 lần, nhân viên vệ sinh được \nphép vào để dọn dẹp vệ sinh khu vực.",
+     "Không ra vào các khu vực chưa được\n đào tạo hoặc không thuộc phận sự của mình",
+     "Luôn quan sát để đảm bảo không ai ra vào khu vực cấm"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "chuyen-mon-tpvh-89",
+    "no": 89,
+    "text": "Khi Trò Giải trí hay máy móc thiết bị đang hoạt động, nếu phát hiện có một người không có thẩm quyền đang ở trong\nKhu vực Cấm, Anh/Chị cần phải làm gì?",
+    "options": [
+     "Dừng ngay công việc của mình, dừng ngay máy móc thiết bị mình đang vận hành và báo cáo cho Giám sát về sự việc\nnày ngay lập tức.",
+     "Tiếp tục thực hiện công việc của mình. Tự giả định rằng người \nđó là người có thẩm quyền.",
+     "Tiếp tục công việc của mình nhưng luôn coi chừng,\n đảm bảo người đó không vào những nơi không an toàn.",
+     "Để máy móc thiết bị tiếp tục vận hành, lại gần \nvà yêu cầu người đó đi ra ngoài ngay lập tức."
+    ],
+    "answer": 0
+   },
+   {
+    "id": "chuyen-mon-tpvh-90",
+    "no": 90,
+    "text": "Mục đích của quy định tóc phải gọn gàng, không che mặt, không chạm mắt là gì?",
+    "options": [
+     "Thuận tiện cho việc đội mũ",
+     "Tạo kiểu tóc đồng nhất",
+     "Giảm thời gian chăm sóc tóc",
+     "Đảm bảo hình ảnh chuyên nghiệp và an toàn trong công việc"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "chuyen-mon-tpvh-91",
+    "no": 91,
+    "text": "Theo Quy định về hình ảnh, tác phong và hành vi ứng xử chuẩn mực tại Khối SHE, quy định nào sau đây là KHÔNG đúng\nđối với thẻ tên?",
+    "options": [
+     "Được đeo ở khu vực dưới vai, cùng bên có logo của Công ty",
+     "Không được đeo trên dây đeo, cà vạt, mũ, dây thắt lưng, cổ áo",
+     "Được đeo trên lớp quần áo ngoài cùng",
+     "Được đeo mọi lúc tại khu vực dành cho Khách hàng"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "chuyen-mon-tpvh-92",
+    "no": 92,
+    "text": "Đâu là điều quan trọng nhất để trở thành “Ngôi sao Dịch vụ Từ Tâm”?",
+    "options": [
+     "Thể hiện sự chuyên nghiệp: hình ảnh chỉnh chu, tác phong chuẩn mực và thái độ chân thành 6C. Làm việc lâu năm và\ncó nhiều kinh nghiệm.",
+     "Được khách hàng nước ngoài khen ngợi.Thể hiện tâm của \nngười Sun Group trong mọi hành động.",
+     "Cố gắng đạt thật nhiều thẻ Wow.Thể hiện tâm của người  Sun Group trong mọi hành động.",
+     "Thể hiện sự chuyên nghiệp: hình ảnh chỉnh chu, tác phong chuẩn mực và thái độ chân thành 6C, và tâm của người\nSun Group trong mọi hành động."
+    ],
+    "answer": 3
+   },
+   {
+    "id": "chuyen-mon-tpvh-93",
+    "no": 93,
+    "text": "Trung tâm giải trí gia đình (FEC) là gì?",
+    "options": [
+     "Công viên giải trí ngoài trời",
+     "Một nhà hàng tuyệt vời",
+     "Khu nghỉ ngơi dành cho gia đình",
+     "Về cơ bản là một phiên bản nhỏ hơn,\n trong nhà của Công viên giải trí"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "chuyen-mon-tpvh-94",
+    "no": 94,
+    "text": "Một sản phẩm mới đưa vào hoạt động trong Tháng 04/2025 của Khối SHE trong tại Ninh Bình (Hà Nam cũ) thuộc thể loại\nCông viên nào?",
+    "options": [
+     "Công viên Nước",
+     "Công viên Mạo hiểm",
+     "Công viên Chủ đề",
+     "Công viên Văn hóa"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "chuyen-mon-tpvh-95",
+    "no": 95,
+    "text": "Theo SHE-QĐ-RD03_Quy định về thông báo vận hành công viên Khối SHE, nội dung thông báo phải sử dụng tối thiểu\nbao nhiêu ngôn ngữ?",
+    "options": [
+     "Không quy định về ngôn ngữ, tùy đơn vị tự quyết định",
+     "Chỉ cần 01 ngôn ngữ là Tiếng Việt",
+     "Tối thiểu 04 ngôn ngữ",
+     "Tối thiểu 02 ngôn ngữ (Việt - Anh)"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "chuyen-mon-tpvh-96",
+    "no": 96,
+    "text": "Khi Trò chơi đang trong quá trình hoạt động, Cổng cửa ra \nvào Trò chơi phải đảm bảo quy định nào?",
+    "options": [
+     "Phải đảm bảo đã được bán cho khách hàng",
+     "Phải mở để đón Khách",
+     "Phải đảm bảo đã được sơn màu",
+     "Phải đảm bảo đã được đóng và không bao giờ được mở ra"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "chuyen-mon-tpvh-97",
+    "no": 97,
+    "text": "Trong ngành Vui chơi Giải trí, thuật ngữ \"Sân khấu\" được hiểu như thế nào?",
+    "options": [
+     "Mọi khu vực mà khách hàng có thể thấy và tiếp cận\n trong chuyến tham quan.",
+     "Khu vực mà chúng ta có thể để khách hàng nhìn thấy \nnhưng không thể tiếp cận trong chuyến tham quan.",
+     "Mọi khu vực mà khách hàng không thể thấy\n và tiếp cận trong chuyến tham quan.",
+     "Các khu vực có biểu diễn nghệ thuật"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "chuyen-mon-tpvh-98",
+    "no": 98,
+    "text": "Nhân viên hướng dẫn làm việc ngoài trời trong điều kiện nắng gắt, muốn đội mũ lưỡi trai cá nhân không có logo công ty.\nTheo quy định có được phép không?",
+    "options": [
+     "Được phép nếu đảm bảo che nắng hiệu quả.",
+     "Được phép nếu là mũ cùng màu đồng phục.",
+     "Được phép nếu không có khách trong khu vực.",
+     "Không được phép, chỉ sử dụng mũ là một phần \ncủa đồng phục hoặc có logo công ty."
+    ],
+    "answer": 3
+   },
+   {
+    "id": "chuyen-mon-tpvh-99",
+    "no": 99,
+    "text": "So sánh bình chữa cháy Bột và bình CO2 theo bảng phân\n loại của Sổ tay Định hướng về an toàn cho nhân viên mới?",
+    "options": [
+     "Cả hai loại bình đều chỉ dùng được cho đám cháy \nđiện, không có sự khác biệt",
+     "Bình CO2 dùng được cho mọi loại đám cháy bao\n gồm cả dầu ăn, còn bình Bột thì không",
+     "Bình Bột dùng được cho tất cả các loại đám cháy trừ dầu ăn, trong khi bình CO2 chỉ phù hợp cho đám cháy do điện\nvà dung dịch dễ bắt lửa",
+     "Bình Bột chỉ dùng cho đám cháy gỗ/giấy/vải, bình CO2 \nchỉ dùng cho dầu ăn"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "chuyen-mon-tpvh-100",
+    "no": 100,
+    "text": "Theo nguyên tắc chung tại Quy định Cơ cấu bồi thường cho khách hàng – mảng Giải trí tại Khối SHE, vì sao đơn vị cần ưu\ntiên khắc phục ngay tại chỗ (đổi dịch vụ, đổi sản phẩm, miễn phí bổ sung) trước khi chi trả bồi thường bằng tiền?",
+    "options": [
+     "Vì đây là nguyên tắc bồi thường được quy định, ưu tiên khắc phục trực tiếp trải nghiệm khách trước khi dùng đến\nhình thức chi trả tài chính",
+     "Vì chi trả bằng tiền mặt bị cấm áp dụng trong mọi trường hợp",
+     "Vì khách hàng luôn từ chối nhận bồi\n thường bằng sản phẩm/dịch vụ",
+     "Vì đây là yêu cầu của cơ quan thuế đối với các khoản chi phí phát sinh"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "chuyen-mon-tpvh-101",
+    "no": 101,
+    "text": "Theo Quy định cơ cấu bồi thường cho khách hàng, mức độ bồi thường cho khách hàng khi phải chờ đợi trong khoảng\nthời gian dưới 15 phút do sự cố vận hành là gì?",
+    "options": [
+     "Hoàn 50% giá trị vé",
+     "Cung cấp các gói Sản phẩm/Dịch vụ, Voucher của ĐVTV: Tối đa 100.000 VNĐ.\n hoặc thay đổi thời gian sử dụng dịch vụ",
+     "Hoàn hủy vé",
+     "Cung cấp các gói Sản phẩm/Dịch vụ, \nVoucher của ĐVTV: Tối đa 200.000 VNĐ"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "chuyen-mon-tpvh-102",
+    "no": 102,
+    "text": "Một khách hàng gọi điện hỏi thông tin về một chính sách nội bộ mà nhân viên chưa nắm rõ và không chắc có được phép\ncung cấp hay không. Theo Hướng dẫn cung cấp thông tin sản phẩm, dịch vụ, nhân viên nên xử lý ra sao?",
+    "options": [
+     "Trả lời theo suy đoán hợp lý nhất của bản thân\nđể khách hàng không phải chờ đợi",
+     "Từ chối cung cấp mọi thông tin và nói \nthẳng \"Không\" với khách hàng ngay",
+     "Không tự ý trả lời theo phỏng đoán, xin thông tin liên lạc của khách và xin phép liên hệ lại sau khi đã xác minh",
+     "Chuyển máy ngay cho Lãnh đạo Khối SHE xử lý mọi trường hợp chưa rõ"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "chuyen-mon-tpvh-103",
+    "no": 103,
+    "text": "Khách hàng thăm quan công viên nhìn thấy hàng rào của trò chơi bị han rỉ nặng. Điều này đã vi phạm nguyên tắc nào\ntrong nội dung mỗi công viên là một show diễn?",
+    "options": [
+     "Luôn quan tâm đến từng chi tiết",
+     "Thêm cảm giác thú vị và nghệ thuật sân khấu vào mọi thứ bạn làm",
+     "Thiết bị hỏng hóc hoặc hư hại không được để \"trên sân khấu\"",
+     "Khách hàng không bao giờ được thấy khu vực hậu đài"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "chuyen-mon-tpvh-104",
+    "no": 104,
+    "text": "Theo GEN-HB-10_Sổ tay Dịch vụ Khách hàng, nguyên tắc quan trọng nhất khi thực hiện \"những điều thú vị bất ngờ\" dành\ncho khách là gì?",
+    "options": [
+     "Phải được sự đồng ý của khách hàng bằng văn bản trước khi thực hiện",
+     "Phải thông báo trước cho toàn bộ công viên biết để cùng thực hiện",
+     "Không có sự ràng buộc - thể hiện sự quan tâm chân thành, \nkhông kỳ vọng đổi lại điều gì từ khách",
+     "Chỉ áp dụng cho khách VIP có mức chi tiêu cao"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "chuyen-mon-tpvh-105",
+    "no": 105,
+    "text": "Một khách hàng nữ 30 tuổi trong quá trình tham gia chơi trò chơi\nTàu lượn siêu tốc (cảm giác mạnh), khi tàu di chuyển được một nửa quãng đường thì khách hàng bất cẩn làm rơi điện thoại xuống khu vực cấm của trò chơi. Theo Anh/Chị ai là người được phép vào khu vực cấm của trò chơi để thu hồi đồ vật cho Khách hàng?",
+    "options": [
+     "Nhân viên kỹ thuật",
+     "Khách hàng",
+     "Nhân viên vận hành trò chơi",
+     "Cán bộ quản lý vận hành"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "chuyen-mon-tpvh-107",
+    "no": 107,
+    "text": "Khi sấm sét bắt đầu hoạt động quanh khu vui chơi trong phạm \nvi 10 km, trò chơi nào được mở cửa?",
+    "options": [
+     "Các trò chơi trong nhà",
+     "Trò giải trí ngoài trời \ncao trên 5 mét",
+     "Đường trượt nước, trò chơi trên nước và hồ bơi, Cáp treo",
+     "Trò chơi ngoài trời có độ cao dưới 5 mét và các hoạt động kinh doanh ngoài trời"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "chuyen-mon-tpvh-108",
+    "no": 108,
+    "text": "Ai là người đóng vai trò quan trọng trong việc đảm bảo an toàn cho Khách hàng và sự an ninh của khu vui chơi khi có\ncháy?",
+    "options": [
+     "Nhân viên vận hành trò chơi",
+     "Tất cả nhân viên",
+     "Cán bộ an toàn",
+     "Nhân viên kỹ thuật"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "chuyen-mon-tpvh-109",
+    "no": 109,
+    "text": "Quy định về cơ cấu bồi thường của Sun World không áp dụng trong trường hợp nào?",
+    "options": [
+     "Trường hợp thương tích hoặc tổn thất \nxảy ra do sơ suất của khu vui chơi",
+     "Trường hợp thương tích hoặc tổn thất xảy ra do nguyên nhân sơ suất hoặc bệnh lý sẵn có của khách",
+     "Không áp dụng trong mọi trường hợp sự cố",
+     "Phải áp dụng trong mọi trường hợp sự cố"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "chuyen-mon-tpvh-110",
+    "no": 110,
+    "text": "Bộ phận/Phòng nào chịu trách nhiệm tổng hợp các hồ sơ liên quan tới thủ tục bảo hiểm, kiểm soát chi phí sau sự cố?",
+    "options": [
+     "Bộ phận Chăm sóc khách hàng",
+     "Bộ phận Thu ngân",
+     "Phòng Kế toán",
+     "Phòng Hành chính nhân sự"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "chuyen-mon-tpvh-111",
+    "no": 111,
+    "text": "Theo Quy trình xử lý phàn nàn của Sun World, các mức độ phân loại phàn nàn được quy định như thế nào?",
+    "options": [
+     "Rất thấp - Thấp - Trung bình - Cao",
+     "Thấp - Trung bình - Cao - Rất cao",
+     "Thấp - Trung bình - Cao",
+     "Thấp - Trung bình - Cao - Thảm họa"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "chuyen-mon-tpvh-112",
+    "no": 112,
+    "text": "Theo Quy trình đề nghị và tiếp khách Ngoại giao sử dụng dịch vụ Sun Group, định nghĩa thành viên Sun Group cung cấp dịch vụ được hiểu như thế nào?",
+    "options": [
+     "Là các Đơn vị thành viên Sun Group chịu trách nhiệm quản lý và khai thác các Khu nghỉ dưỡng do Tập đoàn Sun\nGroup đầu tư",
+     "Là các Đơn vị thành viên Sun Group chịu trách nhiệm quản lý và khai thác các Khách sạn do Tập đoàn Sun Group đầu\ntư",
+     "Là các Đơn vị thành viên Sun Group chịu trách nhiệm quản lý và khai thác các Khách sạn/Khu nghỉ dưỡng/Khu du\nlịch/Công viên giải trí do Tập đoàn Sun Group đầu tư",
+     "Là các Đơn vị thành viên Sun Group chịu trách nhiệm quản lý và khai thác các Khu du lịch do Tập đoàn Sun Group\nđầu tư"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "chuyen-mon-tpvh-113",
+    "no": 113,
+    "text": "Theo Quy định về Quản lý thẻ và kiểm soát ra vào tại Sun World được ban hành ngày 20/06/2023, \"NV các ĐVTV SG được cử công tác/làm việc thường trực tại ĐVTV SWG\" cần được cấp phát loại thẻ nào?",
+    "options": [
+     "Thẻ khách",
+     "Thẻ nhà thầu",
+     "Thẻ đối tác",
+     "Thẻ nhân viên"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "chuyen-mon-tpvh-114",
+    "no": 114,
+    "text": "Theo Quy định về Quản lý thẻ và kiểm soát ra vào tại Sun World được ban hành ngày 20/06/2023, \"Khách ngoại giao theo\nchỉ đạo của Lãnh đạo Tập đoàn\" cần được cấp phát loại thẻ nào?",
+    "options": [
+     "Thẻ nhân viên",
+     "Thẻ đối tác",
+     "Thẻ khách",
+     "Thẻ nhà thầu"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "chuyen-mon-tpvh-115",
+    "no": 115,
+    "text": "Bản giấy Danh mục kiểm tra vận hành hằng ngày cần lưu tối thiểu bao nhiêu năm?",
+    "options": [
+     "3 năm",
+     "2 năm",
+     "5 năm",
+     "4 năm"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "chuyen-mon-tpvh-116",
+    "no": 116,
+    "text": "Bình chữa cháy dạng bột thì thích hợp dập đám cháy từ các vật liệu nào ?",
+    "options": [
+     "Gỗ, Giấy, Vải, Dầu ăn",
+     "Dầu nấu ăn, Điện",
+     "Khí ga, Điện",
+     "Gỗ, Giấy, Vải, Điện"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "chuyen-mon-tpvh-117",
+    "no": 117,
+    "text": "Theo Quy trình xử lý phàn nàn của SW, các vấn đề dẫn đến thiệt hại về tâm lý và thân thể khách hàng thuộc mức độ phàn nàn nào?",
+    "options": [
+     "Trung bình",
+     "Cao",
+     "Thấp",
+     "Thảm họa"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "chuyen-mon-tpvh-118",
+    "no": 118,
+    "text": "Theo Quy định về cơ cấu bồi thường cho khách hàng - Mảng giải trí, việc mất mát tài sản vật chất gây ra bởi sự cố vận\nhành với tài sản nhỏ giá trị thấp (dưới 1.000.000 VNĐ) sẽ được xử lý như thế nào?",
+    "options": [
+     "Hoàn tiền vé 50%",
+     "Bối thường bằng hình thức Voucher ăn uống và Wowpass.",
+     "Hỗ trợ Wowpass và hoàn tiền vé.",
+     "Bồi thường bằng tiền mặt hoặc gói sản phẩm/dịch vụ/voucher của ĐVTV - tối đa 1.000.000 VNĐ."
+    ],
+    "answer": 3
+   },
+   {
+    "id": "chuyen-mon-tpvh-119",
+    "no": 119,
+    "text": "Ai là người chịu trách nhiệm thực hiện danh mục kiểm tra vận hành hằng ngày của khu vực cổng soát vé?",
+    "options": [
+     "Nhân viên Soát vé trực ca và Cán bộ Quản lý của Bộ phận Soát vé",
+     "Nhân viên Soát vé trực ca, Cán bộ Quản lý của Bộ phận Soát vé và Ban Giám đốc",
+     "Nhân viên Soát vé trực ca, Cán bộ Quản lý của Bộ phận Soát vé và Bộ phận Kỹ thuật Hạ tầng phụ trách khu vực",
+     "Nhân viên Soát vé trực ca"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "chuyen-mon-tpvh-120",
+    "no": 120,
+    "text": "Theo Quy trình xử lý phàn nàn của khách hàng, các vấn đề dẫn đến thiệt hại về tâm lý và thân thể khách hàng thuộc mức\nđộ phàn nàn nào?",
+    "options": [
+     "Cao",
+     "Trung bình",
+     "Thảm họa",
+     "Thấp"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "chuyen-mon-tpvh-121",
+    "no": 121,
+    "text": "Theo nội dung Quy trình xử lý phàn nàn của SW, đối với các vụ việc khiếu nại đơn giản thì cần triển khai các phương án\nkhắc phục dịch vụ trong tối đa bao nhiêu thời gian kể từ khi nhận được thông tin ?",
+    "options": [
+     "12h",
+     "20h",
+     "24h",
+     "15h"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "chuyen-mon-tpvh-122",
+    "no": 122,
+    "text": "Khi có nhu cầu tiếp KNG sử dụng dịch vụ Sun Group, TVSG đề xuất chủ trương về việc tiếp KNG tới Lãnh đạo đơn vị soát\nxét và xin phê duyệt chủ trương trước khi thực hiện. Nội dung đề xuất bao gồm những yếu tố nào?",
+    "options": [
+     "Thông tin người sử dụng dịch vụ - Số lượng người sử dụng dịch vụ - Dịch vụ sử dụng - Chi phí ước tính - Thời gian sử\ndụng",
+     "Thông tin người sử dụng dịch vụ - Số lượng người sử dụng dịch vụ - Chi phí ước tính - Thời gian sử dụng",
+     "Số lượng người sử dụng dịch vụ - Dịch vụ sử dụng - Chi phí ươc tính - Thời gian sử dụng",
+     "Thông tin người sử dụng dịch vụ - Số lượng người sử dụng dịch vụ - Dịch vụ sử dụng - Chi phí ước tính"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "chuyen-mon-tpvh-123",
+    "no": 123,
+    "text": "Trong quá trình thực hiện danh mục kiểm tra hằng ngày trước giờ mở cửa, nhân viên phát hiện cổng tay quay soát vé có\ndấu hiệu rò rỉ điện nhẹ, khi chạm vào có cảm giác tê nhẹ bàn tay nhưng đã đến giờ mở cửa đón khách, nhân viên cần làm\ngì?",
+    "options": [
+     "Thông báo ngay đến Cán bộ Quản lý hoặc Bộ phận Kỹ thuật hạ tầng để kiểm tra, đánh giá mức độ ảnh hưởng của lỗi\nnày và xác định các cổng tay quay không bị rò rỉ để phân luồng đón khách",
+     "Thông báo ngay đến Cán bộ Quản lý hoặc Bộ phận Kỹ thuật để kiểm tra, đánh giá mức độ ảnh hưởng của lỗi này\nđồng thời vẫn mở cửa đón khách đúng giờ, không chờ kết quả kiểm tra của Bộ phận Kỹ thuật hạ tầng",
+     "Nếu cảm thấy vấn đề này không quan trọng thì bỏ qua, tiếp tục mở cửa đón khách đúng giờ",
+     "Lúc nào tiện thì báo Bộ phận Kỹ thuật sửa sau vì đã đến giờ mở cửa, khách đang đợi"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "chuyen-mon-tpvh-124",
+    "no": 124,
+    "text": "Khi khách trao thẻ Wow nhưng bạn đang bận phục vụ, hành động nào sau đây thể hiện đúng nhất tinh thần Dịch vụ Từ\nTâm.",
+    "options": [
+     "Nhận nhanh rồi để sang một bên.",
+     "Báo với khách là đang bận và bỏ qua để phục vụ tiếp",
+     "Nhờ đồng nghiệp hỗ trợ tiếp tục phục vụ khách . Sau đó nhận bằng hai tay thẻ Wow của khách, cúi nhẹ cảm ơn và\ngiữ thái độ chân thành, tôn trọng",
+     "Xin phép khách nhờ đồng nghiệp nhận và cám ơn khách giúp bản thân."
+    ],
+    "answer": 2
+   },
+   {
+    "id": "chuyen-mon-tpvh-125",
+    "no": 125,
+    "text": "Gia đình anh B đã phải chờ đợi 3 tiếng trên cabin do cáp treo bị ngừng hoạt động vì sự cố kỹ thuật. Trong trường hợp này\nmức bồi thường chi trả kéo dài liên quan đến chi phí phát sinh do sự cố mà Khu vui chơi Sun World có thể đề xuất với gia\nđình anh B theo quy định về cơ cấu bồi thường là gì?",
+    "options": [
+     "Tối đa 1.000.000 VND",
+     "Tối đa 5.000.000 VND",
+     "Tối đa 3.000.000 VND",
+     "Tối đa 2.000.000 VND"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "chuyen-mon-tpvh-126",
+    "no": 126,
+    "text": "Trong quá trình tham quan tại Công viên, một du khách bị dù che nắng tại Nhà hàng ngã xuống đụng trúng dẫn đến bị\nchấn thương ở 1 bên vai. Nhân viên Y tế sau khi sơ cứu đã tư vấn khách nên đi bệnh viện để kiểm tra, điều trị, tuy nhiên du\nkhách phản hồi với bộ phận CSKH rằng họ không có thời gian, buổi tối phải về nước theo lịch trình nên chỉ cần nhân viên\nCSKH hoặc nhân viên Nhà hàng ký vào giấy xác nhận khách có bị sự cố trên tại Công viên để khách về nước tự thăm\nkhám và làm bảo hiểm là được. Với tình huống trên thì nhân viên CSKH sẽ xử lý như thế nào?",
+    "options": [
+     "Khách không có đủ thời gian theo lịch trình nên nhanh chóng hỗ trợ lập biên bản sự việc có chữ ký xác nhận của các\nbên liên quan và chuyển cho khách mang về nước để làm thủ tục bảo hiểm sau khi thăm khám, điều trị tại bệnh viện\nnơi khách sinh sống.",
+     "Nhân viên tuyệt đối không tự ý ký xác nhận bất kỳ giấy tờ gì để chuyển cho khách hàng, từ chối một cách khéo léo và\nbáo cáo với cấp trên trực tiếp, đề xuất hỗ trợ khách đi bệnh viện kiểm tra nhằm đảm bảo sức khỏe của du khách luôn\nđược quan tâm và vết thương được xử lý nhanh chóng trước khi du khách về nước nhằm phòng tránh các rủi ro khiếu\nnại, khiếu kiện về sau",
+     "Hướng dẫn kỹ cho du khách các thủ tục khi về nước thăm khám, điều trị và chuyển tất cả các hóa đơn chứng từ đã\nchi trả tại bệnh viện và chi phí thuốc men qua cho bộ phận CSKH để trình xin phê duyệt hỗ trợ chi trả cho du khách\nthay vì phải làm thủ tục bảo hiểm.",
+     "Từ chối thẳng với khách là nhân viên không thể ký xác nhận bất kỳ giấy tờ gì và khuyên khách cứ về nước thăm khám\nvà gửi chứng từ cho đơn vị bảo hiểm của khách. Tất cả các chi phí sẽ do công ty chi trả"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "chuyen-mon-tpvh-127",
+    "no": 127,
+    "text": "Phát hiện đồng nghiệp có hành vi gian lận trong quá trình kiểm tra, kiểm soát vé cho du khách, công nhân nhà thầu,\n...qua cổng kiểm soát vé để lên cáp thì Anh/Chị xử lý như thế nào?",
+    "options": [
+     "Mạnh dạn và thẳng thắn nhắc nhở đồng nghiệp",
+     "Trao đổi riêng tư với đồng nghiệp để không tái phạm lần sau",
+     "Thu thập chứng cứ và báo cáo lên cấp trên để có biện pháp xử lý",
+     "Không liên quan đến mình nên im lặng coi như không biết"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "chuyen-mon-tpvh-128",
+    "no": 128,
+    "text": "Nhân viên Bán vé do có sự cố sức khỏe nên nhờ Nhân viên kiểm soát vé thực hiện giúp danh mục kiểm tra vận hành đầu\nca. Nhân viên kiểm soát vé cần làm gì?",
+    "options": [
+     "Gọi điện nhờ Cán bộ Quản lý của Bộ phận Soát vé đến giúp",
+     "Nhận danh mục và đọc kỹ, sau đó thực hiện theo từng việc được liệt kê tại danh mục",
+     "Nhận danh mục và đọc kỹ, sau đó thực hiện theo từng việc được liệt kê tại danh mục. Sau khi thực hiện xong, cần\ngiao lại cho Nhân viên Bán vé ký xác nhận để đúng quy định",
+     "Từ chối và đề nghị hoặc giúp Nhân viên Bán vé liên hệ Cán bộ Quản lý của Bộ phận Quản lý sắp xếp hỗ trợ"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "chuyen-mon-tpvh-129",
+    "no": 129,
+    "text": "Trong trường hợp HDV/TĐ đến cổng soát vé và trình bày về việc đã có vé nhưng muốn \nnhường cho khách khác đi, vì có việc riêng cần giải quyết ở ngoài. Bạn sẽ làm như thế nào?",
+    "options": [
+     "Thu lại vé của HDV/TĐ vì có hành vi gian lận, báo lại \nPhòng kinh doanh để kịp thời thông báo lại với đối tác",
+     "Báo với bộ phận CSKH, An Ninh đến vị trí làm chứng kiến hỗ trợ đổi vé của HDV cho khách khác để đảm bảo minh\nbạch",
+     "Vì đã có vé nên thực hiện soát vé cho khách bình thường",
+     "Giải thích về quy định của loại vé, chỉ sử dụng dành cho HDV/TĐ đúng tên trên vé. Sau đó hướng dẫn khách mua vé mới để tiếp tục sử dụng dịch vụ"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "chuyen-mon-tpvh-130",
+    "no": 130,
+    "text": "Khách hàng A đã không thể tham gia trải nghiệm công viên giải trí thuộc Khối SHE vào ngày 01/02/2025 do sự cố mất\nđiện lưới khiến các trò chơi không thể hoạt động. Khi lập biên bản đổi thời gian sử dụng dịch vụ cho khách hàng, nhân\nviên chăm sóc khách hàng đề xuất khách hàng đổi thời gian sử dụng dịch vụ tối đa đến ngày 30/10/2025. Trong trường\nhợp này nhận định nào sau đây là đúng?",
+    "options": [
+     "Nhân viên chăm sóc khách hàng thực hiện đúng do  không có quy định cụ thể về việc đổi thời gian sử dụng dịch vụ",
+     "Nhân viên chăm sóc khách hàng thực hiện sai do công ty \nkhông áp dụng quy định đổi thời gian sử dụng dịch vụ",
+     "Nhân viên chăm sóc khách hàng thực hiện sai do quy định khách chỉ được quyền đổi ngày sử dụng dịch vụ sang một\nngày khác trong vòng 6 tháng kể từ ngày vé gốc, không phát sinh chi phí, với điều kiện đổi đúng loại gói sản\nphẩm/dịch vụ tại thời điểm sử dụng",
+     "Nhân viên chăm sóc khách hàng thực hiện \nđúng do thời gian được gia hạn càng lâu thì khách hàng càng hài lòng"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "chuyen-mon-tpvh-131",
+    "no": 131,
+    "text": "Giấy đề nghị ra vào công viên hợp lệ là giấy như thế nào",
+    "options": [
+     "Được cấp qua email hoặc trực tiếp \nvà đã ký phê duyệt đầy đủ theo biểu mẫu",
+     "Giấy được viết tay các thông tin của khách \ncần qua cổng kiểm soát",
+     "Được cấp qua email hoặc trực tiếp",
+     "Có tên người đại diện và số lượng người\n đi cùng, không cần liệt kê danh sách"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "chuyen-mon-tpvh-132",
+    "no": 132,
+    "text": "Nhận định nào sau đây là đúng đối với yêu cầu lắp đặt thiết\n bị đo chiều cao tại các cổng kiểm soát vé của Sun World?",
+    "options": [
+     "Chấp nhận chênh lệch giữa thiết bị đo của \ncác cổng kiểm soát vé của công viên",
+     "Dùng thước dây cuộn để tiết kiệm chi \nphí lắp đặt, lúc nào cần nhân viên tự lấy ra đo cho khách",
+     "Chỉ cần lắp đặt ở điểm bán vé",
+     "Cần lắp đặt thiết bị đo rõ ràng,\n chuẩn xác, đồng nhất giữa các cổng kiểm soát vé trong công viên"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "chuyen-mon-tpvh-133",
+    "no": 133,
+    "text": "Theo Quy định về Quản lý thẻ và kiểm soát ra vào tại Sun World được ban hành ngày 20/06/2023, \"Thẻ ra vào Công viên –\nthẻ giấy\" được áp dụng như thế nào?",
+    "options": [
+     "Áp dụng với NV và và các trường hợp khác theo \nphê duyệt của các cấp có thẩm quyền tại ĐVTV SWG",
+     "Áp dụng với các yêu cầu ra vào hơn 7 ngày",
+     "Áp dụng với các yêu cầu ra vào từ 7 ngày trở xuống",
+     "Áp dụng với các yêu cầu ra vào hơn 10 ngày"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "chuyen-mon-tpvh-134",
+    "no": 134,
+    "text": "Theo Quy định về Quản lý thẻ và kiểm soát ra vào tại Sun World được ban hành ngày 20/06/2023, \"giấy tờ tùy thân hợp lệ\"\ncủa khách hàng bao gồm các giấy tờ nào?",
+    "options": [
+     "Chứng minh nhân dân/Căn cước công dân Việt Nam,\n Bằng lái xe, Hộ chiếu, giấy tờ tùy thân khác",
+     "Chứng minh nhân dân/Căn cước công dân Việt Nam, Bằng lái xe, Hộ chiếu, giấy tờ tùy thân khác do khách hàng cung\ncấp",
+     "Chứng minh nhân dân/Căn cước công dân Việt Nam, Bằng lái xe",
+     "Chứng minh nhân dân/Căn cước công dân Việt Nam, \nBằng lái xe, Hộ chiếu, giấy tờ tùy thân khác do cơ quan chức\nnăng có thẩm quyền cấp"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "chuyen-mon-tpvh-135",
+    "no": 135,
+    "text": "Bạn sẽ làm gì khi thấy Khách hàng trong tình huống này? - Khách đang nhìn vào bản đồ - Khách bối rối, tìm kiếm thứ gì\nđó - Nhóm khách bàn cãi, tay chỉ về các hướng",
+    "options": [
+     "Báo cáo Quản lý đến hỗ trợ Khách hàng \nvì bạn không thể dời khỏi vị trí",
+     "Khách hàng đang không biết đường đi nên sẽ hỗ trợ đi cùng Khách để chỉ đến tận nơi. Như vậy sẽ khiến Khách hàng\nthực sự cảm nhận được tinh thần Dịch vụ từ Tâm",
+     "Quan sát và không nên tiếp cận Khách hàng để tránh xâm phạm riêng tư của Khách hàng. Nếu Khách hàng tiến đến\nhỏi thì sẽ hỗ trợ ngay lập tức",
+     "Tiến đến chào Khách hàng và đề nghị được chỉ đường nếu Khách hàng đang tìm kiếm gì đó. Có thể đi cùng Khách\nhàng một quãng ngắn trong trường hợp bạn đang trực tại vị trí. Giới thiệu thêm cho Khách hàng về các dịch vụ trong\nCông viên"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "chuyen-mon-tpvh-136",
+    "no": 136,
+    "text": "Tình huống du khách đặt vé trên trang booking.sunworld.vn và chưa thấy hệ thống gửi vé về nên khách hàng tiếp tục đặt\nvé lần 2. Sau đó hệ thống gửi email thông báo cả 2 giao dịch đều thành công và gửi vé về nên dẫn đến số lượng vé mua bị\nnhân đôi. Trong trường hợp này du khách cần làm gì để được hoàn lại số vé bị dư?",
+    "options": [
+     "Tiếp nhận thông tin từ khách hàng, kiểm tra các thông tin giao dịch, tính hợp lệ của mã vé. Sau khi đã xác nhận đúng\nthông tin, nhân viên CSKH hướng dẫn khách gửi nội dung email khai báo đến Ban Kinh doanh để được tiếp nhận và\nhỗ trợ phản hồi xử lý hoàn tiền theo quy trình, đồng thời nhân viên CSKH chuyển tiếp thêm thông tin cho Ban Kinh\ndoanh để phối hợp hỗ trợ khách nhanh chóng hơn",
+     "Nhân viên CSKH tiếp nhận thông tin, lấy các dữ liệu giao dịch, mã vé online từ khách và chuyển Phòng vé hỗ trợ kiểm\ntra tính hợp lệ. Sau khi đã xác nhận đúng thông tin thì lập biên bản và chuyển Phòng vé hỗ trợ hoàn tiền cho khách\nvà void vé trên hệ thống",
+     "Thông báo với khách hàng chính sách vé đã mua không được hoàn, đổi, trả nên trường hợp này không hỗ trợ được\ncho du khách",
+     "Tiếp nhận thông tin và tiến hành kiểm tra các giao dịch và mã vé của du khách, lập biên bản ghi nhận sự việc, chuyển\ncác mã vé dư cho Phòng vé để hỗ trợ bán lại cho du khách."
+    ],
+    "answer": 0
+   },
+   {
+    "id": "chuyen-mon-tpvh-137",
+    "no": 137,
+    "text": "Trong trường hợp có một đoàn khách gây mất trật tự tại khu vực \nsoát vé thì nhân viên soát vé cần phải xử lý như thế nào?",
+    "options": [
+     "Kiên quyết và có thể dùng vũ lực mời khách ra khỏi khu\n vực soát vé để không ảnh hưởng đến các đoàn khách khác",
+     "Giải thích những thắc mắc và trấn an khách, tránh xảy ra xung đột. Phối hợp với Bộ phận Chăm sóc khách hàng và Bộ\nphận An ninh để khéo léo xử lý vấn đề, đồng thời báo cáo lên cấp trên",
+     "Không cần quan tâm vì đây không phải là \ntrách nhiệm của nhân viên soát vé",
+     "Đáp ứng mọi yêu cầu của khách để \nđảm bảo khách hàng không gây mất trật tự"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "chuyen-mon-tpvh-138",
+    "no": 138,
+    "text": "Vé của khách bị mờ mã vạch nên cổng soát vé báo vé lỗi, nhưng các nội dung còn lại trên vé đều đúng. Khách đề nghị hỗ\ntrợ qua cổng soát vé gấp vì đoàn đang đợi. Nhân viên soát vé cần phải xử lý như thế nào?",
+    "options": [
+     "Từ chối khách, mời khách liên hệ \nBộ phận Chăm sóc Khách hàng để được hỗ trợ",
+     "Xin lỗi khách vì sự bất tiện này, \nhướng dẫn khách di chuyển đến quầy vé để kiểm tra in lại vé nếu đúng",
+     "Sử dụng thẻ tổng FOC để đưa khách qua cổng cho kịp đoàn",
+     "Đề nghị khách mua vé mới và nhân viên Soát vé\n có thể thu tiền hộ ngay tại cổng soát vé để kịp di chuyển"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "chuyen-mon-tpvh-139",
+    "no": 139,
+    "text": "Mục đích thực hiện việc kiểm tra vận hành trước khi đưa vào hoạt động phục vụ khách hàng và trước khi đóng cửa tại các\nkhu vực là gì?",
+    "options": [
+     "Duy trì sự an toàn và tuổi thọ của hệ thống",
+     "Nhằm đảm bảo duy trì các tiêu chuẩn\n về mỹ quan, an toàn và vệ sinh hằng ngày",
+     "Nhằm đảm bảo duy trì mỹ quan và vệ sinh hằng ngày",
+     "Tránh lãng phí thời gian làm việc của nhân sự"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "chuyen-mon-tpvh-140",
+    "no": 140,
+    "text": "Theo Quy trình cung cấp thông tin sản phẩm, dịch vụ cho khách hàng, nội dung nào sau đây thuộc tiêu chuẩn xử lý cuộc\ngọi khẩn cấp?",
+    "options": [
+     "Khi nhận dược thông tin khẩn cấp nhân viên\n cần báo ngay cho hotline của Ban kiểm soát, chống rủi ro Tập đoàn",
+     "Khi nhận dược thông tin khẩn cấp nhân\n viên cần báo ngay cho Ban giám đốc để xin ý kiến xử lý",
+     "Khi nhận dược thông tin khẩn cấp nhân\n viên cần báo ngay cho Bộ phận an ninh",
+     "Nhân viên cần xác minh rõ thông tin khẩn cấp: Người gọi là ai, vấn đề là gì, vị trí xảy ra sự cố và xử lý theo quy trình\nứng phó khẩn cấp khi nhận cuộc gọi."
+    ],
+    "answer": 3
+   },
+   {
+    "id": "chuyen-mon-tpvh-141",
+    "no": 141,
+    "text": "Khách đến cổng kiểm soát ra vào công viên nhưng \nthẻ hết hạn, nhân viên kiểm soát thẻ cần làm gì?",
+    "options": [
+     "Ngay lập tức báo cáo Cán bộ Quản lý Bộ phận",
+     "Hướng dẫn khách mượn thẻ người khác để đi",
+     "Kiểm tra chắc chắn thẻ đã hết hạn, đề nghị khách liên\n hệ phòng Hành chính Nhân sự để được hỗ trợ gia hạn",
+     "Quẹt thẻ FOC cho khách đi kẻo trễ công việc"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "chuyen-mon-tpvh-142",
+    "no": 142,
+    "text": "Ai là người chịu trách nhiệm lập PR xin phê duyệt chi phí ưu đãi KNG?",
+    "options": [
+     "Văn phòng Tập đoàn",
+     "Ban Tài chính Tập đoàn",
+     "TVSG cung cấp dịch vụ",
+     "TVSG đặt dịch vụ"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "chuyen-mon-tpvh-143",
+    "no": 143,
+    "text": "Theo Quy định về Quản lý thẻ và kiểm soát ra vào tại Sun World được ban hành ngày 20/06/2023, \"Nhà thầu thực hiện công việc/cung cấp dịch vụ cho Đối tác kinh doanh\" cần được cấp phát loại thẻ nào?",
+    "options": [
+     "Thẻ nhà thầu",
+     "Thẻ đối tác",
+     "Thẻ nhân viên",
+     "Thẻ khách"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "chuyen-mon-tpvh-144",
+    "no": 144,
+    "text": "Cổng soát vé bị mất kết nối đột ngột, không thể thực hiện soát vé qua cổng cho khách được, nhân viên Soát vé cần xử lý\nnhư thế nào?",
+    "options": [
+     "Chuyển sang soát vé bằng máy soát vé cầm tay hoặc soát vé thông qua quan sát nhận diện các thông tin trên vé là\nđúng, tránh để khách chờ đợi",
+     "Tạm ngưng soát vé, chờ xem hệ \nthống có thể tự khôi phục hay không",
+     "Báo ngay cho Cán bộ Quản lý và Bộ phận Công nghệ thông tin để hỗ trợ. Trong thời gian chờ phản hồi từ Cán bộ\nQuản lý và Bộ phận Công nghệ thông tin, nhân viên cần xin lỗi và mong khách vui lòng chờ",
+     "Sơ tán khách ra khỏi khu vực cổng soát vé"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "chuyen-mon-tpvh-145",
+    "no": 145,
+    "text": "Cách thức để cán bộ nhân viên Sun Group đăng ký ưu đãi giảm giá 20% hóa đơn ẩm thực theo chính sách ưu đãi dịch vụ\nnội bộ?",
+    "options": [
+     "Chỉ cần xuất trình thông tin vé QRcode vé điện tử xuất từ hệ thống MySgr cho nhân viên Thu ngân tại nhà hàng sẽ\nđược giảm giá ẩm thực theo quy định ưu đãi nội bộ.",
+     "Trực tiếp đến quầy CSKH xuất trình thông tin đăng ký trên hệ thống MySungroup để nhận phiếu giảm giá ẩm thực\n20%",
+     "CBNV đăng nhập vào hệ thống MySgr, vào mục dịch vụ CBNV và vào thẻ mềm CBNV, sau đó nhấn vào chữ \"mã qr\ncủa tôi\" để xuất trình mã qr này cho nhân viên Thu ngân tại Nhà hàng hỗ trợ tích lượt giảm giá 20% dịch vụ ẩm thực",
+     "CBNV đăng ký thông tin email qua bộ phận CSKH để\n được cấp mã giảm giá dịch vụ ẩm thực 20%"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "chuyen-mon-tpvh-146",
+    "no": 146,
+    "text": "Đoàn khách 50 người lớn tuổi, trưởng đoàn giao cả 50 vé nhờ nhân viên Soát vé cầm để soát cho từng người qua cổng.\nNhân viên Soát vé cần xử lý như thế nào?",
+    "options": [
+     "Nhận 50 vé, nắm tất cả trên tay và thao tác\n soát vé qua cổng bình thường cho từng khách của đoàn",
+     "Từ chối và đề nghị trưởng đoàn có thể giữ vé, sau đó đứng bên cạnh nhân viên Soát vé để giao từng vé cho nhân viên\nkiểm soát tương ứng từng khách của đoàn qua cổng",
+     "Từ chối, yêu cầu trưởng đoàn phải phát vé cho từng khách tự giữ",
+     "Nhận 50 vé, cho vào túi áo/quần riêng để tránh nhầm\n lẫn các khách khác, nào khách đến thì dùng"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "chuyen-mon-tpvh-147",
+    "no": 147,
+    "text": "Trường hợp đoàn khách ngoại giao đến Khu du lịch và thông báo phát sinh số lượng nhiều hơn so với tờ trình được phê\nduyệt, nhân viên CSKH phải xử lý như thế nào?",
+    "options": [
+     "Thực hiện đón tiếp luôn do chắc chắn sẽ được phê duyệt",
+     "Thông báo chi phí phát sinh cho TVSG đặt dịch vụ kịp thời để TVSG đặt dịch vụ bổ sung chi phí phát sinh đó và trình\nphê duyệt chủ trương bổ sung",
+     "Thông báo với khách tự mua vé",
+     "Thông báo với KNG tự liên hệ với đầu mối"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "chuyen-mon-tpvh-148",
+    "no": 148,
+    "text": "Khi khách hàng phàn nàn nhưng nằm ngoài phạm \nvi trách nhiệm hoặc chưa phù hợp, nhân viên soát vé cần làm gì?",
+    "options": [
+     "Xác nhận đã tiếp nhận thông tin, đề nghị khách hàng chờ để báo cáo Cán bộ Quản lý và thông báo thời gian cụ thể sẽ\nphản hồi cho khách hàng",
+     "Cố gắng phân tích cho khách hàng \nhiểu điểm chưa hợp lý của phàn nàn này",
+     "Bản thân không thể xử lý nên đề nghị\n khách tìm nhân viên khác để phàn nàn",
+     "Đề nghị khách hàng chờ để báo cáo Cán bộ Quản lý\n và sau đó đi tránh để không gặp lại khách"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "chuyen-mon-tpvh-149",
+    "no": 149,
+    "text": "Giấy đề nghị ra vào công viên hợp lệ là giấy như thế nào?",
+    "options": [
+     "Giấy được viết tay các thông tin của\n khách cần qua cổng kiểm soát",
+     "Có tên người đại diện và số lượng\n người đi cùng, không cần liệt kê danh sách",
+     "Được cấp qua email hoặc trực tiếp",
+     "Được cấp qua email hoặc trực tiếp và đã ký\n phê duyệt đầy đủ theo biểu mẫu"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "chuyen-mon-tpvh-150",
+    "no": 150,
+    "text": "Tình huống nào sau đây không thuộc\n nhóm 'Tình huống nghiêm trọng' theo quy trình báo cáo sự cố?",
+    "options": [
+     "Khách hàng yêu cầu hoàn tiền vé",
+     "Người bị thương liên quan đến thiết bị",
+     "Một người bất tỉnh trong khu vui chơi",
+     "Khi có Người tử vong"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "chuyen-mon-tpvh-151",
+    "no": 151,
+    "text": "Theo Quy trình phối hợp xử lý Khách hàng gặp Tai nạn, Sự cố và Vấn đề với sức khỏe, trường hợp Khách hàng không có\nvấn đề nghiêm trọng với sức khỏe, nhân viên chăm sóc khách hàng có cần có mặt trực tiếp để xử lý không?",
+    "options": [
+     "Không cần có mặt",
+     "Có. Cần có mặt sau 5 phút để hỗ trợ khách hàng",
+     "Có. Sau khi có mặt cần báo cho các bộ phận liên quan nắm thông tin",
+     "Có. Cần có mặt sau 10 phút để hỗ trợ khách hàng"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "chuyen-mon-tpvh-152",
+    "no": 152,
+    "text": "Nội dung nào sau đây nằm trong tiêu chuẩn giao tiếp qua điện thoại nằm trong Quy trình cung cấp thông tin sản phẩm,\ndịch vụ cho khách hàng?",
+    "options": [
+     "Nhấc máy trong 4 hồi chuông, chuẩn bị sẵn giấy bút ghi nhận thông tin. Trường hợp có cuộc gọi nhỡ, phải gọi lại\nngay cho khách sau khi hoàn thành công việc.",
+     "Nhấc máy trong 2 hồi chuông, chuẩn bị sẵn giấy bút ghi nhận thông tin. Trường hợp có cuộc gọi nhỡ, phải gọi lại\nngay cho khách sau khi hoàn thành công việc",
+     "Nhấc máy trong 3 hồi chuông, chuẩn bị sẵn giấy bút ghi nhận thông tin. Trường hợp có cuộc gọi nhỡ, phải gọi lại\nngay cho khách sau khi hoàn thành công việc.",
+     "Nhấc máy trong 1 hồi chuông, chuẩn bị sẵn giấy bút ghi nhận thông tin. Trường hợp có cuộc gọi nhỡ, phải gọi lại ngay\ncho khách sau khi hoàn thành công việc."
+    ],
+    "answer": 2
+   },
+   {
+    "id": "chuyen-mon-tpvh-153",
+    "no": 153,
+    "text": "Chính sách ưu đãi cho đối tượng khách hàng có tật \nnguyền áp dụng tại các Công viên Giải trí của Khối SHE là gì?",
+    "options": [
+     "Giảm giá 50% dịch vụ Ẩm thực tại các Công viên",
+     "Giảm giá 50% giá vé vào cửa các Công viên",
+     "Miễn phí 100% giá vé vào cửa các Công viên",
+     "Chưa có chính sách ưu đãi riêng cho đối tượng khách hàng này. Đối với từng trường hợp cụ thể Bộ phận CSKH xin ý\nkiến của Ban Lãnh đạo để quyết định"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "chuyen-mon-tpvh-154",
+    "no": 154,
+    "text": "Trong quá trình tham gia trò chơi tại Sun World Ha Long, khách hàng B bị mắc kẹt tại trò chơi Phi Long Thần tốc do sự cố\nmất điện lưới trong khoảng thời gian 65 phút. Trong trường hợp này Sun World Ha Long có thể chi trả chi phí phát sinh\ntrong ngày xảy ra sự cố với khách hàng B tối đa là bao nhiêu?",
+    "options": [
+     "Tối đa 500.000 VND",
+     "Tối đa 200.000 VND",
+     "Tối đa 300.000 VND",
+     "Tối đa 1.000.000 VND"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "chuyen-mon-tpvh-155",
+    "no": 155,
+    "text": "Trong trường hợp khách hàng yêu cầu cung cấp thông tin về chính sách mới của Công ty mà chưa được phép chia sẻ,\ncách xử lý đúng nhất là gì?",
+    "options": [
+     "Gọi điện cho Trưởng Bộ phận và trả lời cho khách hàng",
+     "Trả lời chung chung cho khách yên tâm",
+     "Thông báo cho khách hàng về việc sẽ trả lời thông tin qua tin nhắn điện thoại",
+     "Chân thành xin lỗi khách hàng, giải thích và mong khách hàng thông cảm. Xin phép tư vấn thêm các thông tin liên\nquan cần thiết, ngoài thông tin khách hàng đã yêu cầu và gợi ý thêm các thông tin, phương án dự phòng mà khách\ncần biết"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "chuyen-mon-tpvh-156",
+    "no": 156,
+    "text": "Thành viên Sun Group đặt dịch vụ phải lập PO thành toán chi phí ưu đãi KNG trong vòng bao nhiêu lâu kể từ khi PR được\nphê duyệt?",
+    "options": [
+     "Không quy định về thời hạn",
+     "Không quá 1 ngày",
+     "Không quá 5 ngày",
+     "Không quá 3 ngày"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "chuyen-mon-tpvh-157",
+    "no": 157,
+    "text": "Theo nội dung Sổ tay giới thiệu ngành vui chơi giải trí khối SHE, có tất cả bao nhiêu\n nguyên tắc của một show diễn?",
+    "options": [
+     "7",
+     "8",
+     "9",
+     "6"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "chuyen-mon-tpvh-158",
+    "no": 158,
+    "text": "Theo Sổ tay Dịch vụ khách hàng, để giải quyết phàn nàn của khách hàng cần tuân thủ điều gì?",
+    "options": [
+     "Công thức H.E.A.T",
+     "Thấu hiểu và chân thành",
+     "Tiêu chuẩn Dịch vụ từ tâm",
+     "Nguyên tắc 6C"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "chuyen-mon-tpvh-159",
+    "no": 159,
+    "text": "Theo SWG-QĐ-OPT-30_Quy định Quản lý ca trực vận hành tại Công viên Sun World, \"Đội ngũ quản lý ca trực vận hành\"\ngồm những vị trí chủ chốt nào?",
+    "options": [
+     "Chỉ gồm nhân viên bảo vệ và nhân viên vệ sinh",
+     "CBLĐ trực phụ trách toàn Công viên (Park Duty Manager) và CBQL trực thuộc các Bộ phận (Department Duty\nSupervisor)",
+     "Gồm toàn bộ nhân viên của công viên không phân biệt vị trí",
+     "Chỉ gồm CBLĐ trực phụ trách toàn Công viên, không có CBQL các bộ phận"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "chuyen-mon-tpvh-160",
+    "no": 160,
+    "text": "Theo Quy định về Quản lý thẻ và kiểm soát ra vào tại Sun World, Thẻ ra vào Công viên (thẻ từ) khi quét tại điểm ra vào Công viên nội bộ phải hiển thị các nội dung nào?",
+    "options": [
+     "Tùy bên cấp phát thẻ cài đặt",
+     "Logo Công viên, Họ tên, bộ phận làm việc và ngày hiệu lực \n(ngày hết hiệu lực không lớn hơn thời hạn trên hợp đồng)",
+     "Ảnh, bộ phận làm việc và ngày hiệu lực\n (ngày hết hiệu lực không lớn hơn thời hạn trên hợp đồng)",
+     "Logo Công viên, Họ tên, CCCD, ảnh, bộ phận làm việc và ngày hiệu lực (ngày hết hiệu lực không lớn hơn thời hạn trên\nhợp đồng)"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "chuyen-mon-tpvh-161",
+    "no": 161,
+    "text": "Theo Quy định về Quản lý thẻ và kiểm soát ra vào tại Sun World, \"thẻ khách\" được áp dụng cho ai?",
+    "options": [
+     "Đối tác thực hiện khảo sát dịch vụ tại ĐVTV SWG",
+     "Nhà thầu thực hiện công việc/cung cấp dịch vụ cho Đối tác kinh doanh",
+     "NV chính thức tại ĐVTV SWG theo Hợp đồng lao động đã ký",
+     "Đối tác đang thực hiện hợp đồng hợp tác kinh doanh tại ĐVTV SWG\n (bao gồm NV của Đối tác kinh doanh)"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "chuyen-mon-tpvh-162",
+    "no": 162,
+    "text": "Phân biệt \"Biển báo\" và \"Biển bảng\" theo định nghĩa tại Quy định Biển báo, biển bảng an toàn tại Khối SHE?",
+    "options": [
+     "Biển báo chỉ gồm 1 biểu tượng hoặc chữ đơn giản, còn Biển bảng chứa nhiều thông tin hơn (kết hợp biểu tượng và\nchữ)",
+     "Biển báo dùng cho khách nước ngoài, Biển bảng dùng cho khách Việt Nam",
+     "Biển báo đặt trong nhà, Biển bảng đặt ngoài trời",
+     "Biển báo và Biển bảng là hai tên gọi khác nhau của cùng một loại biển, không có sự khác biệt"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "chuyen-mon-tpvh-163",
+    "no": 163,
+    "text": "Đây là xu hướng mới nổi trong ngành hoạt động giải trí. Là tập hợp của những trải nghiệm đa phương tiện, nhập vai đưa khán giả đến các lĩnh vực khác?",
+    "options": [
+     "Các điểm tham quan trải nghiệm",
+     "Thủy cung",
+     "Công viên du lịch sinh thái xanh",
+     "Công viên chủ đề"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "chuyen-mon-tpvh-164",
+    "no": 164,
+    "text": "Vì sao \"trượt/té ngã\" và \"ngộ độc thức ăn\" đều được Sổ tay Giới thiệu về Ngành Vui chơi Giải trí liệt kê là rủi ro thường gặp khi vận hành khu vui chơi?",
+    "options": [
+     "Vì đây là các sự cố có thể xảy ra do điều kiện vệ sinh/mặt sàn hoặc \nchất lượng thực phẩm không đảm bảo, thuộc nhóm rủi ro phổ biến ảnh hưởng trực tiếp an toàn khách hàng",
+     "Vì đây là hai rủi ro duy nhất công viên phải chịu trách nhiệm bồi thường",
+     "Vì đây là các chỉ tiêu đánh giá thi đua khen thưởng nhân viên hàng tháng",
+     "Vì đây là những rủi ro không thể phòng tránh nên không cần đưa vào quy định an toàn"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "chuyen-mon-tpvh-165",
+    "no": 165,
+    "text": "Tại sao khi phục vụ khách gặp vấn đề sức khỏe hoặc khuyết tật, nhân viên không nên hỗ trợ khi chưa được khách đồng ý?",
+    "options": [
+     "Vì quy định bảo hiểm",
+     "Vì tiết kiệm thời gian phục vụ",
+     "Vì chỉ bác sĩ mới được hỗ trợ",
+     "Vì thể hiện sự tôn trọng và tránh làm khách khó xử hoặc cảm thấy bị đối xử khác biệt"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "chuyen-mon-tpvh-166",
+    "no": 166,
+    "text": "Bộ phận Chăm sóc Khách hàng thông báo có đoàn khách ngoại giao đến sớm hơn kế hoạch và đã được Ban Giám đốc phê duyệt mở cửa công viên đón khách ngay. Tuy nhiên, Nhân viên Soát vé trực ca chưa hoàn thành Danh mục kiểm tra công việc đầu ca tại khu vực của mình, vậy nhân viên cần xử lý như thế nào",
+    "options": [
+     "Làm qua loa thật nhanh cho xong rồi mở cửa đón khách",
+     "Mở cửa đón khách, khi nào phục vụ khách xong thì kiểm tra tiếp",
+     "Báo đoàn khách vui lòng chờ, nào kiểm tra xong sẽ tiến hành đón khách",
+     "Báo cáo ngay cho Cán bộ Quản lý để Cán bộ Quản lý quyết định, nhân viên Soát vé thực hiện theo"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "chuyen-mon-tpvh-167",
+    "no": 167,
+    "text": "Tại cổng soát vé, một khách hàng phản ánh vé điện tử bị lỗi không quét được và phải chờ nhân viên xác minh trong khoảng 8 phút. Theo Quy trình xử lý phàn nàn và sự cố của khách hàng, nhân viên nên xử lý tình huống chờ đợi này như thế nào?",
+    "options": [
+     "Hướng dẫn khách hàng tự liên hệ Phòng Hành chính \nđể được cấp thẻ ra vào tạm thời",
+     "Yêu cầu khách hàng rời khỏi hàng chờ và quay lại vào cuối giờ",
+     "Im lặng chờ đến khi xác minh xong mới thông báo vì thời gian chờ chưa đến 15 phút",
+     "Chủ động cập nhật tình trạng xử lý cho khách vì thời gian chờ đã vượt quá 5 phút, không để khách chờ mà không có thông tin"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "chuyen-mon-tpvh-168",
+    "no": 168,
+    "text": "Vào một ngày đông khách, có một Khách hàng rơi điện thoại trong khu vực hoạt động của trò chơi tàu lượn. Khách không biết rõ vị trí rơi và muốn lấy ngay để ra về. Cách xử lý tình huống nào sau đây là hợp lý nhất?",
+    "options": [
+     "Giải thích cho Khách hàng rằng quy định của trò chơi là không được phép mang theo đồ rơi tuột. Sau đó hướng dẫn\nKhách hàng ra Phòng Chăm sóc khách hàng để kê khai thông tin tài sản thất lạc để tìm lại sau",
+     "Cần luôn đảm bảo tiêu chuẩn dịch vụ, Khách hàng lại đang muốn ra về ngay nên sẽ dừng trò chơi để tìm đồ cho\nKhách hàng. Xin lỗi các Khách hàng khác và mong nhận được sự thông cảm",
+     "Xin lỗi Khách hàng và thể hiện sự thấu cảm. Hướng dẫn Khách hàng kê khai thông tin và khẳng định sau khi đóng cửa trò chơi sẽ tìm lại và gửi ngay cho Khách hàng. Nếu dừng trò chơi thì sẽ ảnh hưởng rất nhiều Khách hàng và tìm\nchưa chắc đã thấy",
+     "Xin lỗi và giải thích cho Khách hàng rằng điện thoại bị rơi thì chắc chắn sẽ hỏng và không thể dùng được nữa, khuyên Khách hàng không nên mất thời gian chờ đợi và tìm kiếm. Cuối giờ, bạn sẽ tìm lại sau"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "chuyen-mon-tpvh-169",
+    "no": 169,
+    "text": "Theo Sổ tay Hình ảnh chuẩn mực và Hành vi ứng xử, khi đứng tại vị trí đón khách, nhân viên nữ cần thực hiện tư thế tay như thế nào?",
+    "options": [
+     "Hai bàn tay đặt nhẹ trước bụng, chân khép nhẹ",
+     "Khoanh tay trước ngực",
+     "Cho tay vào túi quần để thoải mái",
+     "Chắp tay sau lưng để thể hiện sự trang trọng"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "chuyen-mon-tpvh-170",
+    "no": 170,
+    "text": "Bạn sẽ làm gì khi thấy Khách hàng trong tình huống này? - Khách đang nhìn vào bản đồ - Khách bối rối, tìm\n kiếm thứ gì đó - Nhóm khách bàn cãi, tay chỉ về các hướng",
+    "options": [
+     "Khách hàng đang không biết đường đi nên sẽ hỗ trợ đi\n cùng Khách để chỉ đến tận nơi. Như vậy sẽ khiến Khách hàng thực sự cảm nhận được tinh thần Dịch vụ từ Tâm",
+     "Quan sát và không nên tiếp cận Khách hàng để tránh xâm phạm riêng tư của Khách hàng. Nếu Khách hàng tiến đến\nhỏi thì sẽ hỗ trợ ngay lập tức",
+     "Báo cáo Quản lý đến hỗ trợ Khách hàng vì bạn không thể dời khỏi vị trí",
+     "Tiến đến chào Khách hàng và đề nghị được chỉ đường nếu Khách hàng đang tìm kiếm gì đó. Có thể đi cùng Khách hàng một quãng ngắn trong trường hợp bạn đang trực tại vị trí. Giới thiệu thêm cho Khách hàng về các dịch vụ trong Công viên"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "chuyen-mon-tpvh-171",
+    "no": 171,
+    "text": "Tất cả các tình huống nghiêm trọng đều phải được báo cáo cho Nhóm báo cáo sự cố trong vòng bao lâu kể từ khi xảy ra sự vụ?",
+    "options": [
+     "3 tiếng",
+     "4 tiếng",
+     "2 tiếng",
+     "1 tiếng"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "chuyen-mon-tpvh-172",
+    "no": 172,
+    "text": "Trong vòng tối đa bao nhiêu tiếng sau khi mở cửa/vận hành các khu vực vận hành kinh doanh, CBQL của từng Phòng/Bộ\nphận có trách nhiệm đi từng địa điểm trong khu vực mình chịu trách nhiệm để kiểm tra và xác nhận?",
+    "options": [
+     "2 tiếng",
+     "3 tiếng",
+     "4 tiếng",
+     "1 tiếng"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "chuyen-mon-tpvh-173",
+    "no": 173,
+    "text": "Theo Sổ tay Giới thiệu ngành Vui chơi giải trí tại khối SHE, nguyên tắc thứ 3 của nội dung mỗi công viên là một show diễn thì khách hàng không bao giờ được nhìn thấy khu vực nào?",
+    "options": [
+     "Khu vực bán hàng",
+     "Khu vực sân khấu",
+     "Khu vực hậu đài",
+     "Khu vực các trò chơi"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "chuyen-mon-tpvh-174",
+    "no": 174,
+    "text": "Theo Sổ tay Dịch vụ khách hàng, để giải quyết phàn nàn của khách hàng cần tuân thủ điều gì? ",
+    "options": [
+     "Thấu hiểu và chân thành",
+     "Tiêu chuẩn Dịch vụ từ tâm",
+     "Nguyên tắc 6C",
+     "Công thức H.E.A.T"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "chuyen-mon-tpvh-175",
+    "no": 175,
+    "text": "Nếu khách hàng thông báo với Anh/Chị về việc bị mất đồ cá nhân. Anh/Chị sẽ giải quyết như thế nào?",
+    "options": [
+     "Đồng hành cùng khách hàng để đi tìm tài sản thất lạc trong công viên",
+     "Cung cấp thông tin của CBQL để xử lý cho khách hàng",
+     "Tuyệt đối tuân thủ Quy trình Tài sản thất lạc của Sun World: - Thông tin tới Bộ phận Chăm sóc khách hàng để kiểm tra thông tin tài sản thất lạc - Nếu tài sản được lưu giữ tại Bộ phận Chăm sóc khách hàng, hướng dẫn khách hàng để được nhận lại tài sản theo quy định - Nếu tài sản chưa được tiếp nhận, lưu giữ thông tin của khách hàng để liên hệ\nsau",
+     "Khéo léo từ chối do đây không phải là nhiệm vụ của mình"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "chuyen-mon-tpvh-176",
+    "no": 176,
+    "text": "Nhân viên cần làm gì để giảm thiểu nguy cơ hỏa hoạn ở công viên?",
+    "options": [
+     "Không hút thuốc và nhắc nhở khách hàng không hút thuốc\n trong công viên để đảm bảo an toàn.",
+     "Cất giữ đồ vật tại các cửa thoát hiểm",
+     "Thực hành sử dụng bình chữa cháy mỗi ngày 1 lần.",
+     "Chất lỏng dễ cháy cần luôn mang theo bên mình."
+    ],
+    "answer": 0
+   },
+   {
+    "id": "chuyen-mon-tpvh-177",
+    "no": 177,
+    "text": "Theo Quy định về Quản lý thẻ và kiểm soát ra vào tại Sun World được\n ban hành ngày 20/06/2023, \"giấy tờ tùy thân hợp lệ\" của khách hàng bao gồm các giấy tờ nào?",
+    "options": [
+     "Chứng minh nhân dân/Căn cước công dân Việt Nam, Bằng lái xe, \nHộ chiếu, giấy tờ tùy thân khác do cơ quan chức năng có thẩm quyền cấp",
+     "Chứng minh nhân dân/Căn cước công dân Việt Nam, Bằng lái xe",
+     "Chứng minh nhân dân/Căn cước công dân Việt Nam, Bằng lái xe, \nHộ chiếu, giấy tờ tùy thân khác do khách hàng cung cấp",
+     "Chuyển sang soát vé bằng máy soát vé cầm tay hoặc soát vé thông qua quan sát nhận diện các thông tin trên vé là đúng, tránh để khách chờ đợi"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "chuyen-mon-tpvh-178",
+    "no": 178,
+    "text": "Theo Quy định về Quản lý thẻ và kiểm soát ra vào tại Sun World được ban hành ngày 20/06/2023, \"thẻ đối tác\" được áp dụng cho ai?",
+    "options": [
+     "Đối tác đang thực hiện hợp đồng hợp tác kinh doanh tại ĐVTV SWG (bao gồm NV của Đối tác kinh doanh)",
+     "Khách ngoại giao theo chỉ đạo của Lãnh đạo Tập đoàn",
+     "Cơ quan nhà nước (Quản lý rừng, Viễn thông, Phòng cháy chữa cháy, An ninh trật tự,…)",
+     "NV chính thức tại ĐVTV SWG theo Hợp đồng lao động đã ký"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "chuyen-mon-tpvh-179",
+    "no": 179,
+    "text": "Theo Quy định về Quản lý thẻ và kiểm soát ra vào tại Sun World được ban hành ngày 20/06/2023, \"Khách ngoại giao theo chỉ đạo của Lãnh đạo Tập đoàn\" cần được cấp phát loại thẻ nào?",
+    "options": [
+     "Thẻ khách",
+     "Thẻ nhà thầu",
+     "Thẻ đối tác",
+     "Thẻ nhân viên"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "chuyen-mon-tpvh-180",
+    "no": 180,
+    "text": "Theo nội dung Quy trình cung cấp thông tin sản phẩm, dịch vụ cho khách hàng, cán bộ nhân viên cần làm gì để đảm bảo \"Tiêu chuẩn giao tiếp trực tiếp\"?",
+    "options": [
+     "Chờ khách đến gần và bắt đầu chào hỏi để khách nghe rõ",
+     "Sử dụng câu chào bằng Tiếng Anh để đảm bảo sự chuyên nghiệp",
+     "Chủ động quan sát và đón khách từ xa. Đứng tại vị trí để khách hàng có thể nghe và quan sát dễ dàng. Duy trì giao tiếp bằng mắt trong suốt quá trình trao đổi. Thái độ thân thiện, lịch sự, luôn sẵn sàng hỗ trợ khách hàng",
+     "Luôn để khách hàng kết thúc cuộc gọi"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "chuyen-mon-tpvh-181",
+    "no": 181,
+    "text": "Theo nội dung Quy trình xử lý phàn nàn của Sun World, kể từ khi tiếp nhận phàn nàn của khách hàng, trong vòng bao nhiêu phút cán bộ nhân viên phải thông tin nhanh chóng đến các Bộ phận quản lý và giải quyết vấn đề?",
+    "options": [
+     "3 phút",
+     "5 phút",
+     "10 phút",
+     "15 phút"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "chuyen-mon-tpvh-182",
+    "no": 182,
+    "text": "Yếu tố nào KHÔNG phải tiêu chuẩn chung trong quy định xử lý phàn nàn của khách hàng?",
+    "options": [
+     "Xử lý một cách lịch sự và chuyên nghiệp",
+     "Tất cả các phàn nàn đều phải được báo cho CBQL",
+     "Giải quyết cho đến khi đạt được hài lòng của khách hàng",
+     "Không cần ghi chép và lưu lại báo cáo do đã xử lý xong rồi"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "chuyen-mon-tpvh-183",
+    "no": 183,
+    "text": "Tại sao Phòng/Bộ phận An toàn khi tiếp nhận thông tin sự cố phải thực hiện điều tra sự cố?",
+    "options": [
+     "Biết lý do để báo cáo",
+     "Tổng hợp thông tin, xác nhận gốc rễ của sự việc",
+     "Xác nhận nguyên nhân gốc rễ của sự cố và đề xuất các hành động phòng ngừa giúp loại bỏ hoặc giảm thiểu việc tái diễn.",
+     "Lưu báo cáo làm chứng từ kiểm tra"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "chuyen-mon-tpvh-184",
+    "no": 184,
+    "text": "Khi thực hiện viết báo cáo về sự cố, Nhân viên đã trực tiếp chứng kiến sự cố cần phải làm gì?",
+    "options": [
+     "Yêu cầu người bị thương đi cùng mình trong khi làm báo cáo.",
+     "Nói chuyện với người khác và ghi thêm các thông tin, càng nhiều càng tốt, ngay cả khi không trực tiếp chứng kiến.",
+     "Không viết bất kỳ điều gì để tránh gây rắc rối cho người khác.",
+     "Chọn địa điểm viết báo cáo, sử dụng các biểu mẫu báo cáo, điền thông tin, bảo mật thông tin và nộp cho Phòng/Bộ phận An toàn trước khi kết ca trực."
+    ],
+    "answer": 3
+   },
+   {
+    "id": "chuyen-mon-tpvh-185",
+    "no": 185,
+    "text": "Quy định vào chơi trò giải trí của Sun World KHÔNG hạn chế đối tượng khách hàng sau đây?",
+    "options": [
+     "Có biểu hiện về tim mạch hoặc huyết áp bất thường",
+     "Gãy xương hoặc bó bột",
+     "Khách hàng là người Việt Nam",
+     "Mới phẫu thuật hoặc có biểu hiện đau yếu"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "chuyen-mon-tpvh-186",
+    "no": 186,
+    "text": "Theo Anh/Chị đâu KHÔNG phải là việc cần làm khi làm báo cáo sự cố?",
+    "options": [
+     "Sử dụng biểu mẫu báo cáo sự cố đã được công ty phê duyệt để đảm bảo \ntất cả các thông tin liên quan được ghi lại đầy đủ",
+     "Chỉ ghi lại những thông tin do chính bản thân chứng kiến hoặc biết là đúng",
+     "Làm ngay báo cáo sự cố tại hiện trường xảy ra sự cố",
+     "Không tiết lộ hoặc thảo luận chi tiết về sự cố với người khác, trừ Cán bộ quản lý trực tiếp\n hoặc người được Công ty ủy quyền làm điều tra sự cố"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "chuyen-mon-tpvh-187",
+    "no": 187,
+    "text": "Theo sổ tay định hướng về an toàn cho nhân viên mới, đối với đám cháy được\n gây ra do điện, loại bình chữa cháy nào được sử dụng để dập tắt đám cháy?",
+    "options": [
+     "Bình chữa cháy nước",
+     "Bình chữa cháy bọt",
+     "Bình chữa cháy bột",
+     "Bình chữa cháy hóa chất ướt"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "chuyen-mon-tpvh-188",
+    "no": 188,
+    "text": "Nếu khách hàng đáp ứng quy định về chiều cao và sức khỏe nhưng chỉ thiếu 2 kg \ncân nặng để tham gia trò giải trí thì trong trường hợp nào khách vẫn được phép tham gia trò giải trí?",
+    "options": [
+     "Khuyến khích khách hàng vào chơi ngay lập tức",
+     "Đề xuất các trò giải trí khác phù hợp, thay thế mà Khách hàng có thể trải nghiệm",
+     "Đề xuất Khách hàng vào chơi và rủ thêm những người bạn cùng chiều cao đến chơi cùng",
+     "Đề xuất Khách hàng cùng gia đình di chuyển sang một công viên khác có nhiều trò chơi hơn"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "chuyen-mon-tpvh-189",
+    "no": 189,
+    "text": "Chữ E trong công thức HEAT để giải quyết phàn nàn có ý nghĩa gì?",
+    "options": [
+     "Thấu cảm",
+     "Lắng nghe",
+     "Hành động",
+     "Cảm ơn"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "chuyen-mon-tpvh-190",
+    "no": 190,
+    "text": "Những lưu ý khi hỗ trợ xe lăn, xe nôi cho khách?",
+    "options": [
+     "Dò hỏi với người thân của họ một cách tinh tế; Cách hành xử không thể hiện sự khác biệt quá nhiều đối với người cần xe lăn.",
+     "Hạ giọng và nhỏ âm lượng khi nói, chỉ đủ cho 2 người nghe; Cách hành xử không thể hiện sự khác biệt quá nhiều đối với người cần xe lăn.",
+     "Hạ giọng và nhỏ âm lượng khi nói, chỉ đủ cho 2 người nghe; Dò hỏi với người thân của họ một cách tinh tế; Cách hành xử không thể hiện sự khác biệt quá nhiều đối với người cần xe lăn.",
+     "Hạ giọng và nhỏ âm lượng khi nói, chỉ đủ cho 2 người nghe; Dò hỏi với người thân của họ một cách tinh tế"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "chuyen-mon-tpvh-191",
+    "no": 191,
+    "text": "Theo nguyên tắc thứ 5 của nội dung mỗi công viên là một show diễn thì điều gì sẽ không để bị nhìn thấy?",
+    "options": [
+     "Nhân viên",
+     "Rác",
+     "Hàng hóa",
+     "Điều gì cũng cần để cho khách nhìn thấy"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "chuyen-mon-tpvh-192",
+    "no": 192,
+    "text": "Theo nguyên tắc thứ 8 của nội dung mỗi công viên là một show diễn thì điều gì trong khu vui chơi luôn là yêu tố chủ đạo?",
+    "options": [
+     "Chủ đề và câu chuyện",
+     "Nhân viên và chủ đề",
+     "Nhân viên và câu chuyện",
+     "Đồng phục và chủ đề"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "chuyen-mon-tpvh-193",
+    "no": 193,
+    "text": "Trong những điều sau đây, điều nào vi phạm nguyên tắc số 6 theo nội dung mỗi công viên là một show diễn?",
+    "options": [
+     "Nguyên tắc yêu cầu",
+     "Hàng hóa không được kiểm kê trong ngày",
+     "Hàng hóa đựng trong thùng carton trước mặt khách",
+     "Hàng hóa được đặt trên giá, kệ"
+    ],
+    "answer": 2
+   }
+  ],
+  "group": "SBD Soát vé"
  },
  {
   "id": "chuyen-mon-soat-ve",

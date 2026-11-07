@@ -124,6 +124,11 @@ def main():
     files = [p for p in SRC.rglob("*.xlsx") if not p.name.startswith("~$")]
     if not files:
         sys.exit(f"Không tìm thấy file .xlsx trong {SRC}")
+    # File ở thư mục gốc giống hệt file đã xếp vào nhóm thì không tính là bộ đề riêng
+    grouped = {p.read_bytes() for p in files if group_of(p) != "Khác"}
+    for p in [p for p in files if group_of(p) == "Khác" and p.read_bytes() in grouped]:
+        print(f"Bỏ qua {p.name}: giống hệt một file trong nhóm")
+        files.remove(p)
     files.sort(key=lambda p: (group_of(p) == "Khác", group_of(p), p.stem))
     # Giữ id = slug(tên bộ đề) để không mất dữ liệu đã lưu; chỉ thêm tên nhóm khi trùng
     counts = Counter(slug(unicodedata.normalize("NFC", f.stem)) for f in files)
