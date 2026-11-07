@@ -40,6 +40,14 @@ window.QUESTION_GROUPS = [
   ]
  },
  {
+  "name": "SBD Kỹ thuật",
+  "banks": [
+   "on-tap-ky-thuat-mep-2026-an-toan",
+   "on-tap-ky-thuat-mep-2026-mep",
+   "on-tap-ky-thuat-mep-2026-sap"
+  ]
+ },
+ {
   "name": "SBD PAT",
   "banks": [
    "bo-de-bt-gs-2025-bep",
@@ -20868,6 +20876,4155 @@ window.QUESTION_BANKS = [
    }
   ],
   "group": "Nội dung chung_Bản cũ"
+ },
+ {
+  "id": "on-tap-ky-thuat-mep-2026-an-toan",
+  "name": "Ôn tập Kỹ thuật MEP 2026 - An Toàn",
+  "questions": [
+   {
+    "id": "on-tap-ky-thuat-mep-2026-an-toan-1",
+    "no": 1,
+    "text": "Hiệu lệnh Bằng tay thực hiện như dưới đây truyền tải thông điệp gì?\n- Tay phải giơ cao trên đầu\n- Bàn tay hướng lên trên, lòng bàn tay hướng về phía trước, các ngón tay sát vào nhau.",
+    "options": [
+     "Tất cả sẵn sàng",
+     "Dừng",
+     "Dừng khẩn",
+     "Cần sự hỗ trợ"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "on-tap-ky-thuat-mep-2026-an-toan-2",
+    "no": 2,
+    "text": "Khi Trò chơi đang trong quá trình hoạt động, Cổng cửa ra vào Trò chơi phải như thế nào?",
+    "options": [
+     "Phải đảm bảo đã được đóng.",
+     "Không bao giờ được mở ra.",
+     "Phải mở để đón Khách.",
+     "Phải đảm bảo đã được đóng và không bao giờ được mở ra."
+    ],
+    "answer": 3
+   },
+   {
+    "id": "on-tap-ky-thuat-mep-2026-an-toan-3",
+    "no": 3,
+    "text": "Khi Trò Giải trí hay máy móc thiết bị đang hoạt động, nếu phát hiện có một người không có thẩm quyền đang ở trong Khu vực Cấm, Nhân viên Vận hành/Nhân viên Kỹ thuật phải làm gì?",
+    "options": [
+     "Tiếp tục thực hiện công việc của mình. Tự giả định rằng người đó là người có thẩm quyền.",
+     "Tiếp tục công việc của mình nhưng luôn coi chừng, đảm bảo người đó không vào những nơi không an toàn.",
+     "Để máy móc thiết bị tiếp tục vận hành, lại gần và yêu cầu người đó đi ra ngoài ngay lập tức.",
+     "Dừng ngay công việc của mình, dừng ngay máy móc thiết bị mình đang vận hành và báo cáo cho Giám sát về sự việc này ngay lập tức."
+    ],
+    "answer": 3
+   },
+   {
+    "id": "on-tap-ky-thuat-mep-2026-an-toan-4",
+    "no": 4,
+    "text": "Theo Quy định Vận hành trong điều kiện gió to, Nhân viên Vận hành phải làm gì khi thấy gió lớn?",
+    "options": [
+     "Ngay lập tức nhấn nút Dừng Khẩn cấp.",
+     "Chờ đến khi nhìn thấy có bất kỳ thứ gì bị gió làm đổ mới báo cáo cho Cán bộ Quản lý.",
+     "Tiếp tục vận hành và chờ Cán bộ Quản lý liên hệ với mình.",
+     "Ngay lập tức báo cáo cho Cán bộ Quản lý về tình hình gió."
+    ],
+    "answer": 3
+   },
+   {
+    "id": "on-tap-ky-thuat-mep-2026-an-toan-5",
+    "no": 5,
+    "text": "Sau khi ngừng hoạt động do điều kiện thời tiết gió to, khi nào Trò Giải trí có thể vận hành trở lại?",
+    "options": [
+     "Khi không còn thấy gió to nữa.",
+     "Khi có 5 khách hàng phàn nàn về việc Trò Giải trí bị ngưng hoạt động.",
+     "Tự tin rằng đã đảm bảo an toàn để vận hành trở lại.",
+     "Tổng Quản lý/Người được ủy quyền cho phép vận hành trở lại."
+    ],
+    "answer": 3
+   },
+   {
+    "id": "on-tap-ky-thuat-mep-2026-an-toan-6",
+    "no": 6,
+    "text": "Bộ phận An toàn của Công viên phải tổng hợp và gửi báo cáo tổng quát gồm các sự cố nào xảy ra trong tháng cho Ban Kỹ thuật & Vận hành SHE?",
+    "options": [
+     "Báo cáo tất cả sự cố “suýt gây ra” tai nạn và các tình huống nghiêm trọng.",
+     "Báo cáo tất cả sự cố gây ra thương tích ở mọi mức độ hoặc thiệt hại cho thiết bị, cơ sở vật chất và các tình huống nghiêm trọng.",
+     "Chỉ báo cáo sự cố gây ra thương tích ở mọi mức độ hoặc thiệt hại cho thiết bị và cơ sở vật chất.",
+     "Báo cáo tất cả sự cố gây ra thương tích ở mọi mức độ hoặc thiệt hại cho thiết bị, cơ sở vật chất và cả sự cố “suýt gây ra” tai nạn."
+    ],
+    "answer": 3
+   },
+   {
+    "id": "on-tap-ky-thuat-mep-2026-an-toan-7",
+    "no": 7,
+    "text": "Người chứng kiến sự cố khi viết báo cáo sự cố KHÔNG được làm gì?",
+    "options": [
+     "Di chuyển đến địa điểm yên tĩnh, tránh xa hiện trường vụ việc để làm báo cáo.",
+     "Nộp cho Giám sát/CBQL trước khi kết ca.",
+     "Sử dụng Biểu mẫu Báo cáo Sự cố theo mẫu đã được Công ty phê duyệt để đảm bảo mọi thông tin liên quan được ghi lại đầy đủ.",
+     "Ghi các thông tin mà mình suy đoán hoặc báo cáo dựa vào tin đồn hoặc thông tin từ người khác về sự cố"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "on-tap-ky-thuat-mep-2026-an-toan-8",
+    "no": 8,
+    "text": "Khi nào một nhân viên được phép làm việc tại một vị trí cụ thể hoặc được phép vận hành một thiết bị cụ thể?",
+    "options": [
+     "Bất kỳ lúc nào, miễn là thực hiện một cách an toàn.",
+     "Khi đã được ai đó hướng dẫn cách làm.",
+     "Bất kỳ khi nào nhận được yêu cầu thực hiện từ Trưởng Bộ phận.",
+     "Khi đã được đào tạo bài bản các Quy trình Vận hành An toàn cho vị trí làm việc đó hay của máy móc thiết bị đó."
+    ],
+    "answer": 3
+   },
+   {
+    "id": "on-tap-ky-thuat-mep-2026-an-toan-9",
+    "no": 9,
+    "text": "Nhân viên phải ứng xử như thế nào khi có một trẻ nhỏ cảm thấy buồn bã vì không đủ chiều cao để tham gia trò giải trí?",
+    "options": [
+     "Nói với trẻ quay trở lại chơi vào năm sau.",
+     "Cho trẻ cây kem.",
+     "Cho phép trẻ vào chơi trò chơi nếu chỉ thấp hơn một vài cm so mới chiều cao giới hạn.",
+     "Thể hiện sự thấu hiểu, xin lỗi và đề xuất cho trẻ các trò giải trí khác mà trẻ có thể chơi."
+    ],
+    "answer": 3
+   },
+   {
+    "id": "on-tap-ky-thuat-mep-2026-an-toan-10",
+    "no": 10,
+    "text": "Tại khu vực Nhân viên Vận hành có thể bao quát, tất cả các sàn, cầu thang, bục… có độ cao trên 2m, hàng rào phải đảm bảo các yêu cầu nào?",
+    "options": [
+     "Cao tối thiểu 110 cm, nếu có chi tiết ngang phải cách nhau tối thiểu 100 cm, khoảng trống hàng rào không vượt quá 15 cm",
+     "Cao tối thiểu 120 cm, nếu có chi tiết ngang phải cách nhau tối thiểu  90 cm, khoảng trống hàng rào không vượt quá 12 cm",
+     "Cao tối thiểu 130 cm, nếu có chi tiết ngang phải cách nhau tối thiểu  90 cm, khoảng trống hàng rào không vượt quá 10 cm",
+     "Cao tối thiểu 150 cm, nếu có chi tiết ngang phải cách nhau tối thiểu 90 cm, khoảng trống hàng rào không vượt quá 12 cm"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "on-tap-ky-thuat-mep-2026-an-toan-11",
+    "no": 11,
+    "text": "Hàng rào tại khu vực Nhân viên Vận hành không thể bao quát phải đảm bảo các yêu cầu nào sau đây?",
+    "options": [
+     "Cao tối thiểu 200 cm, các chi tiết ngang tối thiểu 200 cm, khoảng trống không vượt quá 10 cm",
+     "Cao tối thiểu 200 cm, các chi tiết ngang tối thiểu 180 cm, khoảng trống không vượt quá 10 cm",
+     "Cao tối thiểu 180 cm, các chi tiết ngang tối thiểu 200 cm, khoảng trống không vượt quá 12cm",
+     "Cao tối thiểu 200 cm, các chi tiết ngang tối thiểu 180 cm, khoảng trống không vượt quá 12 cm"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "on-tap-ky-thuat-mep-2026-an-toan-12",
+    "no": 12,
+    "text": "Theo Quy định Vận hành trong thời tiết có sét – mảng Giải trí tại Khối SHE (SHE-QĐ-VH08), khi sấm sét bắt đầu hoạt động trong bán kính 20km quanh ĐVTV, các trò giải trí, máy móc thiết bị nào sau đây phải đóng cửa?",
+    "options": [
+     "Trò Giải trí ngoài trời có độ cao dưới 5 mét và các hoạt động kinh doanh ngoài trời.",
+     "Cáp treo; Trò Giải trí ngoài trời cao dưới 5 mét; Đường trượt nước, Trò chơi trên nước và Hồ bơi.",
+     "Trò Giải trí ngoài trời cao trên 5 mét và các hoạt động kinh doanh ngoài trời.",
+     "Cáp treo; Trò Giải trí ngoài trời cao trên 5 mét; Đường trượt nước, Trò chơi trên nước và Hồ bơi."
+    ],
+    "answer": 3
+   },
+   {
+    "id": "on-tap-ky-thuat-mep-2026-an-toan-13",
+    "no": 13,
+    "text": "Theo Quy định Vận hành trong thời tiết có sét – mảng Giải trí tại Khối SHE (SHE-QĐ-VH08), khi sấm sét bắt đầu hoạt động quanh ĐVTV trong phạm vi 20km, các trò giải trí, máy móc thiết bị nào được phép mở cửa?",
+    "options": [
+     "Trò Giải trí ngoài trời cao trên 5 mét và các hoạt động kinh doanh ngoài trời.",
+     "Cáp treo, Trò Giải trí ngoài trời có độ cao dưới 5 mét.",
+     "Cáp treo, Đường trượt nước, Trò chơi trên nước và Hồ bơi.",
+     "Trò chơi ngoài trời có độ cao dưới 5m và các hoạt động kinh doanh ngoài trời"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "on-tap-ky-thuat-mep-2026-an-toan-14",
+    "no": 14,
+    "text": "Theo Quy định Vận hành trong thời tiết có sét – mảng Giải trí tại Khối SHE (SHE-QĐ-VH08), khi sấm sét bắt đầu hoạt động quanh ĐVTV trong phạm vi 10km, các trò giải trí, máy móc thiết bị nào được phép vận hành?",
+    "options": [
+     "Trò Giải trí ngoài trời có độ cao dưới 5 mét và các hoạt động kinh doanh ngoài trời",
+     "Trò Giải trí ngoài trời cao trên 5 mét.",
+     "Cáp treo, Đường trượt nước, Trò chơi trên nước và Hồ bơi.",
+     "Tất cả các Trò Giải trí không được phép vận hành"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "on-tap-ky-thuat-mep-2026-an-toan-15",
+    "no": 15,
+    "text": "Theo Quy định Vận hành trong thời tiết có sét – mảng Giải trí tại Khối SHE (SHE-QĐ-VH08), khi sấm sét bắt đầu hoạt động quanh ĐVTV trong phạm vi 20km, Nhân viên Vận hành, Nhân viên Hướng dẫn cần phải làm gì?",
+    "options": [
+     "Sơ tán Khách hàng ra khỏi tất cả hồ bơi, máng trượt nước, các trò chơi ngoài trời cao trên 5m, tiếp tục đón khách vào cabin cáp treo.",
+     "Sơ tán Khách hàng ra khỏi tất cả hồ bơi, máng trượt nước, các trò chơi ngoài trời cao trên 5m. Dừng đón khách vào cabin cáp treo và di dời toàn bộ Khách hàng đã ngồi trong cabin cáp treo.",
+     "Sơ tán Khách hàng ra khỏi tất cả hồ bơi, máng trượt nước, các trò chơi ngoài trời trên cao 5m và dưới 5m, tiếp tục đón khách vào cabin cáp treo.",
+     "Sơ tán Khách hàng ra khỏi tất cả hồ bơi, máng trượt nước, các trò chơi ngoài trời dưới 5m, tiếp tục đón khách vào cabin cáp treo."
+    ],
+    "answer": 1
+   },
+   {
+    "id": "on-tap-ky-thuat-mep-2026-an-toan-16",
+    "no": 16,
+    "text": "Phương pháp nào dưới đây KHÔNG phải là phương pháp Kiểm tra không phá huỷ (NDT)?",
+    "options": [
+     "Bằng bột từ MT",
+     "Bằng dòng điện xoáy ECT",
+     "Bằng siêu âm UT",
+     "Bằng phân tích hoá học"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "on-tap-ky-thuat-mep-2026-an-toan-17",
+    "no": 17,
+    "text": "Nhật ký hệ thống phức hợp là gì?",
+    "options": [
+     "Danh mục các loại máy móc,  thiết bị, xe cộ là tài sản của công ty",
+     "Nhật ký của một hệ thống, và hệ thống đó có nhiều hơn một phương tiện chở người giống nhau",
+     "Là danh mục gồm nhiều loại nhật ký khác nhau cho một phương tiện chở người",
+     "Là nhật ký bảo trì của một phương tiện chở người"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "on-tap-ky-thuat-mep-2026-an-toan-18",
+    "no": 18,
+    "text": "Nếu Khách hàng không đáp ứng quy định về chiều cao, cân nặng hoặc sức khỏe để tham gia Trò Giải trí, trong trường hợp nào Khách vẫn được phép tham gia Trò Giải trí?",
+    "options": [
+     "Khi Khách nói rằng Khách sẽ đồng ý chịu mọi trách nhiệm thương tổn, thậm chí cả tính mạng, nếu có.",
+     "Khi Khách ký xác nhận rằng Khu Vui chơi sẽ không phải chịu trách nhiệm về bất kỳ thương tích hoặc thiệt hại nào, thậm chí cả tính mạng, nếu có.",
+     "Nếu Trò Giải trí được vận hành với tốc độ thấp.",
+     "Không bao giờ."
+    ],
+    "answer": 3
+   },
+   {
+    "id": "on-tap-ky-thuat-mep-2026-an-toan-19",
+    "no": 19,
+    "text": "Khi thực hiện báo cáo về sự cố, Nhân viên đã trực tiếp chứng kiến sự cố cần phải làm gì?",
+    "options": [
+     "Nói chuyện với người khác và ghi thêm các thông tin, càng nhiều càng tốt, ngay cả khi không trực tiếp chứng kiến.",
+     "Yêu cầu người bị thương đi cùng mình trong khi làm báo cáo.",
+     "Không viết bất kỳ điều gì để tránh gây rắc rối cho người khác.",
+     "Chỉ ghi lại các thông tin do chính bản thân chứng kiến và biết chính xác là đúng sự thật."
+    ],
+    "answer": 3
+   },
+   {
+    "id": "on-tap-ky-thuat-mep-2026-an-toan-20",
+    "no": 20,
+    "text": "Khi có hoả hoạn xảy ra tại các Khu Vui chơi, điều gì KHÔNG được phép làm?",
+    "options": [
+     "Báo động cho mọi người biết. Gọi cứu trợ.",
+     "Tập kết Khách hàng tại nơi an toàn, xa nơi nguy hiểm.",
+     "Cửa Thoát hiểm phải đóng kín để khói không lan ra nơi khác.",
+     "Sử dụng thang máy để có thể nhanh chóng thoát khỏi đám cháy."
+    ],
+    "answer": 3
+   },
+   {
+    "id": "on-tap-ky-thuat-mep-2026-an-toan-21",
+    "no": 21,
+    "text": "Khi có người bị thương, trình tự cần thực hiện để hỗ trợ người bị thương, như thế nào là đúng?",
+    "options": [
+     "Gọi cứu trợ. Kiểm tra phản ứng của người bị thương. Hỏi xem điều gì đã xảy ra.",
+     "Hỏi xem điều gì đã xảy ra. Đưa người bị thương ra chỗ khác. Kiểm tra phản ứng. Gọi cứu trợ.",
+     "Đảm bảo nơi xảy ra sự cố đã an toàn để vào cứu trợ người bị thương. Đưa người bị thương ra khỏi chỗ xảy ra sự cố trước khi Nhân viên Y tế hoặc Nhân viên Cứu hộ đến. Gọi cứu trợ.",
+     "Đảm bảo nơi xảy ra sự cố đã an toàn để vào cứu trợ người bị thương. Kiểm tra phản ứng, tình trạng của người bị thương. Gọi cứu trợ."
+    ],
+    "answer": 3
+   },
+   {
+    "id": "on-tap-ky-thuat-mep-2026-an-toan-22",
+    "no": 22,
+    "text": "Theo quy định cách ly Bảng Điều khiển, ai là người có thể kích hoạt lại Bảng Điều khiển?",
+    "options": [
+     "Nhân viên các bộ phận làm việc tại khu vực có Bảng Điều khiển",
+     "Nhân viên Vận hành đã cách ly Bảng Điều khiển bằng chìa khóa hoặc hình thức khác",
+     "Lãnh đạo bộ phận quản lý khu vực đặt Bảng Điều khiển",
+     "Bất cứ nhân viên, quản lý nào ở gần Bảng Điều khiển"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "on-tap-ky-thuat-mep-2026-an-toan-23",
+    "no": 23,
+    "text": "Khu vực Cấm là gì?",
+    "options": [
+     "Là khu vực được kiểm soát thường xuyên",
+     "Là khu vực CBNV có thể ra vào",
+     "Là khu vực được kiểm soát chặt chẽ và chỉ những người có thẩm quyền ở khu vực đó mới có thể ra vào",
+     "Là khu vực có thể xảy ra tai nạn"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "on-tap-ky-thuat-mep-2026-an-toan-24",
+    "no": 24,
+    "text": "Những rủi ro thường gặp khi vận hành Khu Vui chơi là gì?",
+    "options": [
+     "Va chạm với thiết bị đang dừng.\nNgộ độc thực phẩm. \nSử dụng thiết bị không đúng cách.",
+     "Va chạm với thiết bị đang chuyển động. \nNgộ độc thực phẩm. \nSử dụng thiết bị đúng cách.",
+     "Va chạm với thiết bị đang dừng.\nNgộ độc thực phẩm. \nSử dụng thiết bị đúng cách.",
+     "Va chạm với thiết bị đang chuyển động. \nNgộ độc thực phẩm. \nSử dụng thiết bị không đúng cách."
+    ],
+    "answer": 3
+   },
+   {
+    "id": "on-tap-ky-thuat-mep-2026-an-toan-25",
+    "no": 25,
+    "text": "Rủi ro thường gặp khi vận hành các Trò Giải trí là gì?",
+    "options": [
+     "Khách hàng rời khỏi thiết bị đã dừng hẳn; Khách hàng trèo qua lan can để đi vào khu vực đang hoạt động; Khách hàng bị trượt và té ngã.",
+     "Khách hàng rời khỏi thiết bị đang chuyển động; Khách hàng trèo qua lan can để đi vào khu vực đang hoạt động; Khách hàng có biểu hiện mệt mỏi hoặc ốm yếu.",
+     "Khách hàng rời khỏi thiết bị đã dừng hẳn; Khách hàng trèo qua lan can để đi vào khu vực đang hoạt động; Khách hàng có biểu hiện mệt mỏi hoặc ốm yếu.",
+     "Khách hàng rời khỏi thiết bị đang chuyển động; Khách hàng trèo qua lan can để đi vào khu vực đang hoạt động; Khách hàng bị trượt và té ngã."
+    ],
+    "answer": 3
+   },
+   {
+    "id": "on-tap-ky-thuat-mep-2026-an-toan-26",
+    "no": 26,
+    "text": "Khi Trò Giải trí đang hoạt động, Nhân viên Vận hành Trò Giải trí phải thực hiện dừng thiết bị ngay lập tức trong trường hợp nào?",
+    "options": [
+     "Có người ở bên trong Khu vực chung",
+     "Có người ở bên trong Vùng An toàn",
+     "Có người ở bên ngoài Khu vực Kiểm soát",
+     "Có người ở bên trong Khu vực Kiểm soát nhưng đứng ngoài Vùng An toàn."
+    ],
+    "answer": 3
+   },
+   {
+    "id": "on-tap-ky-thuat-mep-2026-an-toan-27",
+    "no": 27,
+    "text": "Khi Trò Giải trí đang hoạt động, Nhân viên Vận hành Trò Giải trí tuyệt đối KHÔNG được thực hiện việc làm nào?",
+    "options": [
+     "Đi lại bên trong Vùng An toàn khi trò giải trí đã dừng.",
+     "Rời khỏi Vùng An toàn khi trò giải trí đã dừng.",
+     "Đi lại bên trong Vùng An toàn khi trò giải trí đang chuyển động.",
+     "Rời khỏi Vùng An toàn khi trò giải trí đang chuyển động."
+    ],
+    "answer": 3
+   },
+   {
+    "id": "on-tap-ky-thuat-mep-2026-an-toan-28",
+    "no": 28,
+    "text": "Theo Hướng dẫn thực hiện Đánh giá rủi ro tại Khối Sun World, điều nào sau đây là SAI khi nói về cách thức xác định mối nguy hại?",
+    "options": [
+     "Kiểm tra, tuần tra xung quanh các khu vực làm việc, quan sát và ghi chép lại bất kỳ các tác nhân có thể gây hại.",
+     "Tra cứu thông tin tại tài liệu, hướng dẫn sử dụng của Nhà sản xuất về các mối nguy hại liên quan đến thiết bị/máy móc.",
+     "Tra cứu thông tin tại các Báo cáo sự cố, Cảnh báo an toàn về các sự cố, mối nguy hại,...",
+     "Suy đoán các rủi ro về máy móc theo tưởng tượng của bản thân, không cần đi kiểm tra thực tế."
+    ],
+    "answer": 3
+   },
+   {
+    "id": "on-tap-ky-thuat-mep-2026-an-toan-29",
+    "no": 29,
+    "text": "Trong số các loại thông báo dưới đây, đâu KHÔNG PHẢI là loại Thông báo không thường xuyên cho Khách hàng tại các trò giải trí?",
+    "options": [
+     "Thông báo khi trò giải trí dừng đột ngột",
+     "Thông báo khi cần Khách di tản khỏi trò giải trí",
+     "Thông báo khi mất điện",
+     "Thông báo khi trước khi trò giải trí bắt đầu khởi động"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "on-tap-ky-thuat-mep-2026-an-toan-30",
+    "no": 30,
+    "text": "Trong số các loại thông báo dưới đây, đâu KHÔNG PHẢI là Thông báo thường xuyên?",
+    "options": [
+     "Thông báo khi Khách hàng bắt đầu lên trò giải trí",
+     "Thông báo khi kết thúc mỗi lượt chơi",
+     "Thông báo khi trước khi trò giải trí bắt đầu khởi động",
+     "Thông báo khi cần di tản Khách hàng ở ngoài điểm trả khách thông thường"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "on-tap-ky-thuat-mep-2026-an-toan-31",
+    "no": 31,
+    "text": "Theo Hướng dẫn thực hiện Đánh giá rủi ro tại Khối Sun World, \"té ngã, cháy nổ, tác động cơ học đến từ máy móc và thiết bị…\" thuộc nhóm mối nguy hại nào sau đây?",
+    "options": [
+     "Mối nguy hại tự nhiên",
+     "Mối nguy sinh học và hóa học",
+     "Mối nguy hại kỹ thuật",
+     "Mối nguy hại vật lý"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "on-tap-ky-thuat-mep-2026-an-toan-32",
+    "no": 32,
+    "text": "Hàng ngày, Nhân viên Vận hành chỉ được phép đưa vào vận hành các trò giải trí nào?",
+    "options": [
+     "Các trò giải trí đã được kiểm tra và đã hoàn thành việc kiểm tra theo \"Danh mục Kiểm tra Vận hành trước giờ mở cửa\"",
+     "Các trò giải trí đã được kiểm định an toàn bởi đơn vị có chức năng",
+     "Các trò giải trí đã được bảo trì, bảo dưỡng đúng cách",
+     "Các trò giải trí đã được hoàn thành việc kiểm tra theo \"Danh mục Kiểm tra Bảo trì trước giờ mở cửa\" để đảm bảo vận hành an toàn theo yêu cầu của Nhà sản xuất, đã được bàn giao cho Bộ phận Vận hành"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "on-tap-ky-thuat-mep-2026-an-toan-33",
+    "no": 33,
+    "text": "Vùng An toàn của trò giải trí là gì?",
+    "options": [
+     "Khu vực treo biển báo an toàn",
+     "Nơi trú ẩn trong điều kiện thời tiết bất lợi",
+     "Nơi tập kết khi có sự cố",
+     "Các vùng được chỉ định, nơi các nhân viên phải đứng bên trong khi thiết bị đang vận hành"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "on-tap-ky-thuat-mep-2026-an-toan-34",
+    "no": 34,
+    "text": "Khách hàng đánh giá sự an toàn dựa vào đâu?",
+    "options": [
+     "Giá thành cao là an toàn",
+     "Công nghệ mới là an toàn",
+     "Nhân viên cười tươi là an toàn",
+     "Sạch sẽ là an toàn"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "on-tap-ky-thuat-mep-2026-an-toan-35",
+    "no": 35,
+    "text": "Những ý sau, đâu là nội dung đúng nhất khi nói về các nhóm yếu tố chính có thể dẫn đến sự cố?",
+    "options": [
+     "Hệ thống công việc - Thiết bị - Môi trường - Nhân lực",
+     "Hệ thống công việc - Thiết bị - Thời tiết - Con người",
+     "Đào tạo - Thiết bị - Môi trường - Con người",
+     "Hệ thống công việc - Thiết bị - Môi trường - Con người"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "on-tap-ky-thuat-mep-2026-an-toan-36",
+    "no": 36,
+    "text": "Theo Ma trận Rủi ro trong Hướng dẫn thực hiện Đánh giá rủi ro tại Khối Sun World, thứ tự các mức độ ưu tiên của mối nguy hại từ cao đến thấp là?",
+    "options": [
+     "Khẩn cấp - Ưu tiên 3 -Ưu tiên 2 - Ưu tiên 1 - Ít ưu tiên - Có thể chấp nhận",
+     "Ưu tiên 1 - Ưu tiên 2 - Ưu tiên 3 - Ít ưu tiên - Có thể chấp nhận",
+     "Khẩn cấp - Ưu tiên 1 - Ưu tiên 2 - Ưu tiên 3 - Có thể chấp nhận",
+     "Khẩn cấp - Ưu tiên 1 - Ưu tiên 2 - Ưu tiên 3 - Ít ưu tiên - Có thể chấp nhận"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "on-tap-ky-thuat-mep-2026-an-toan-37",
+    "no": 37,
+    "text": "Những yếu tố nào sau đây KHÔNG phải là tiêu chí đánh giá và phê duyệt tính chính xác của nội dung điều tra sự cố?",
+    "options": [
+     "Xác định đúng tất cả các nguyên nhân.",
+     "Mô tả rõ ràng và đầy đủ về chuỗi các sự kiện dẫn đến tai nạn/sự cố.",
+     "Các đề xuất về các hành động khắc phục nhằm giảm hoặc loại bỏ khả năng tái diễn các sự cố   tương tự.",
+     "Nêu đầy đủ thông tin cá nhân của người gặp sự cố (tên, tuổi, giới tính, số điện thoại,...)."
+    ],
+    "answer": 3
+   },
+   {
+    "id": "on-tap-ky-thuat-mep-2026-an-toan-38",
+    "no": 38,
+    "text": "Tất cả các tình huống nghiêm trọng đều phải được báo cáo cho Nhóm Báo cáo Sự cố trong vòng bao lâu kể từ khi xảy ra sự vụ?",
+    "options": [
+     "5 ngày",
+     "24 tiếng",
+     "5 tiếng",
+     "2 tiếng"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "on-tap-ky-thuat-mep-2026-an-toan-39",
+    "no": 39,
+    "text": "Báo cáo Sự cố phải được lưu trữ và theo dõi bởi Phòng/Bộ phận An toàn trong vòng bao lâu kể từ ngày xảy ra sự cố?",
+    "options": [
+     "Không cần lưu trữ",
+     "5 năm",
+     "3 năm",
+     "2 năm"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "on-tap-ky-thuat-mep-2026-an-toan-40",
+    "no": 40,
+    "text": "Người chứng kiến sự cố phải làm Báo cáo Sự cố trong vòng bao lâu kể từ khi xảy ra sự cố?",
+    "options": [
+     "2 tiếng",
+     "24 tiếng",
+     "48 tiếng",
+     "5 ngày"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "on-tap-ky-thuat-mep-2026-an-toan-41",
+    "no": 41,
+    "text": "Phải thực hiện điều tra và hoàn thành báo cáo sơ bộ trong vòng bao lâu sau khi biết được sự cố xảy ra?",
+    "options": [
+     "12 tiếng",
+     "24 tiếng",
+     "48 tiếng",
+     "5 ngày"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "on-tap-ky-thuat-mep-2026-an-toan-42",
+    "no": 42,
+    "text": "Điều gì là mối quan tâm hàng đầu ngay sau khi sự cố xảy ra?",
+    "options": [
+     "Điều tra để tìm ra nguyên nhân sự cố",
+     "Làm báo cáo sự cố",
+     "Sự an toàn và sức khỏe của nhân viên, khách và nhà thầu ngay lúc xảy ra sự cố",
+     "Ngăn chặn các bài viết với thông tin về sự cố có ảnh hưởng tiêu cực đến công ty."
+    ],
+    "answer": 2
+   },
+   {
+    "id": "on-tap-ky-thuat-mep-2026-an-toan-43",
+    "no": 43,
+    "text": "Trước khi thi công tại Công viên, Đối tác, nhà thầu đảm bảo các hồ sơ nào sau đây được phê duyệt bởi Công viên và luôn giữ một bản gốc (hoặc bản sao) tại khu vực thi công, khu vực làm việc để phục vụ mục đích kiểm tra của Công viên?",
+    "options": [
+     "Giấy phép lao động kèm Danh sách công nhân, Đăng ký ra vào công viên",
+     "Đăng ký ra vào công viên, Giấy phép thực hiện công việc phát sinh nhiệt",
+     "Quy tắc an toàn chung, Thỏa thuận làm việc",
+     "Giấy phép lao động kèm Danh sách công nhân; Quy tắc an toàn chung; Thỏa thuận an toàn của nhà thầu, Giấy phép thực hiện công việc phát sinh nhiệt"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "on-tap-ky-thuat-mep-2026-an-toan-44",
+    "no": 44,
+    "text": "Các nhóm thẻ đang sử dụng tại công viên cho các đối tác, nhà thầu bao gồm những loại nào?",
+    "options": [
+     "Thẻ ra vào cổng",
+     "Thẻ đi cáp",
+     "Thẻ nhà thầu, Thẻ đối tác",
+     "Thẻ đăng kí sử dụng dịch vụ, Thẻ giảm giá"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "on-tap-ky-thuat-mep-2026-an-toan-45",
+    "no": 45,
+    "text": "Nhật ký Vận hành của Nhân viên Vận hành cần ghi đầy đủ và chính xác các thông tin nào dưới đây?",
+    "options": [
+     "Nhật ký Nhân viên Vận hành phải được kiểm tra chéo bởi Nhân viên Vận hành cùng ca làm việc",
+     "Nhật ký Nhân viên Vận hành phải thể hiện chính xác thông tin về trò chơi, thiết bị đang vận hành",
+     "Nhật ký Nhân viên Vận hành phải thể hiện chính xác thông tin các Khách hàng tham gia trò chơi",
+     "Nhật ký Nhân viên Vận hành phải thể hiện chính xác thông tin về thời gian có mặt của nhân viên cụ thể nào đó, tại từng trò giải trí, bắt đầu từ khi đến và kết thúc khi ra về"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "on-tap-ky-thuat-mep-2026-an-toan-46",
+    "no": 46,
+    "text": "Khi Khách hàng tham gia trò chơi và làm rơi đồ vào Khu vực Cấm thì nhân viên nào sẽ hỗ trợ khách hàng lấy lại đồ vật rơi?",
+    "options": [
+     "Nhân viên Vận hành",
+     "Nhân viên Bán vé",
+     "Nhân viên Kỹ thuật",
+     "Bất kỳ nhân viên nào có mặt khu vực đó"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "on-tap-ky-thuat-mep-2026-an-toan-47",
+    "no": 47,
+    "text": "Đâu KHÔNG PHẢI là yêu cầu đúng khi thực hiện báo cáo sự cố?",
+    "options": [
+     "Di chuyển đến nơi yên tĩnh, tránh xa hiện trường sự cố.",
+     "Chỉ ghi lại các thông tin do chính bản thân chứng kiến hoặc biết là đúng. Không suy đoán hay báo cáo dựa vào tin đồn hoặc thông tin của người khác về sự cố.",
+     "Không tiết lộ hoặc thảo luận chi tiết về sự cố với người khác, trừ cán bộ quản lý của mình hoặc người được công ty ủy quyền để thực hiện điều tra sự cố.",
+     "Thực hiện báo cáo sự cố ngay thời điểm sự cố xảy ra, Thực hiện báo cáo sự cố ngay tại hiện trường để đảm bảo tính chính xác nhất."
+    ],
+    "answer": 3
+   },
+   {
+    "id": "on-tap-ky-thuat-mep-2026-an-toan-48",
+    "no": 48,
+    "text": "Theo Quy định Quản lý Thiết bị bảo hộ cá nhân tại Khối SHE (SHE-QĐ-VH19), loại nào không phải là Thiết bảo hộ cá nhân đặt biệt?",
+    "options": [
+     "Ủng chống hóa chất",
+     "Mặt nạ phòng độc",
+     "Kính bảo hộ",
+     "Mũ hàn"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "on-tap-ky-thuat-mep-2026-an-toan-49",
+    "no": 49,
+    "text": "Theo Hướng dẫn thực hiện Đánh giá rủi ro tại Khối Sun World, với các rủi ro được đánh giá là Khẩn cấp, thời hạn xử lý là bao lâu?",
+    "options": [
+     "Trong vòng 20 ngày",
+     "Xử lý ngay lập tức khi phát hiện và trước khi thiết bị hoặc khu vực được phép đưa vào hoạt động trở lại",
+     "Trong vòng 15 ngày",
+     "Xử lý ngay lập tức khi phát hiện trong vòng 5 ngày"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "on-tap-ky-thuat-mep-2026-an-toan-50",
+    "no": 50,
+    "text": "Theo Sổ tay hướng dẫn Ứng phó khẩn cấp, mã màu chấn thương để chỉ mức độ ưu tiên và khẩn cấp trong việc chăm sóc cũng như mức độ nghiêm trọng của chấn thương và bệnh tật bao gồm những màu nào?",
+    "options": [
+     "Đỏ - Ưu tiên cao; Vàng - Ưu tiên trung bình; Xanh lá - Ưu tiên thấp; Đen",
+     "Đỏ - Ưu tiên trung bình; Vàng - Ưu tiên cao; Xanh lá - Ưu tiên thấp",
+     "Đỏ - Ưu tiên thấp; Vàng - Ưu tiên trung bình; Da cam - Ưu tiên cao; Đen",
+     "Đỏ - Ưu tiên cao; Da cam - Ưu tiên cực kỳ cao; Vàng - Ưu tiên trung bình"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "on-tap-ky-thuat-mep-2026-an-toan-51",
+    "no": 51,
+    "text": "Theo Sổ tay hướng dẫn Ứng phó khẩn cấp, trong khi diễn ra tình huống khẩn cấp, cần làm điều gì đầu tiên?",
+    "options": [
+     "Gọi cảnh sát và cấp cứu.",
+     "Tìm thang máy gần nhất để chạy thoát khỏi vị trí nguy hiểm ngay lập tức.",
+     "Bình tĩnh, luôn hành động đúng để giữ an toàn cho bản thân.",
+     "Bảo vệ, che chắn các tài sản có giá trị rồi mới được rời đi và báo cáo cho quản lý."
+    ],
+    "answer": 2
+   },
+   {
+    "id": "on-tap-ky-thuat-mep-2026-an-toan-52",
+    "no": 52,
+    "text": "Theo Sổ tay hướng dẫn Ứng phó khẩn cấp, có bao nhiêu cấp độ khẩn cấp và sự cố theo phân loại của Sun World?",
+    "options": [
+     "Cấp 1 - Khủng hoảng; Cấp 2 - Sự cố lớn; Cấp 3 - Sự cố; Cấp 4 - Sự cố nhỏ",
+     "Cấp 1 - Sự cố nhỏ; Cấp 2 - Sự cố lớn; Cấp 3 - Sự cố; Cấp 4 - Khủng hoảng",
+     "Cấp 1 - Sự cố; Cấp 2 - Sự cố nhỏ; Cấp 3 - Sự cố lớn; Cấp 4 - Khủng hoảng",
+     "Cấp 1 - Khủng hoảng; Cấp 2 - Sự cố; Cấp 3 - Sự cố nhỏ; Cấp 4 - Sự cố lớn"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "on-tap-ky-thuat-mep-2026-an-toan-53",
+    "no": 53,
+    "text": "Nội dung nào sau đây là SAI về quy định cổng cửa ra vào?",
+    "options": [
+     "Kiểm tra cổng cửa trước khi khởi động mỗi lượt chơi, đảm bảo các cổng cửa đã đóng và khóa.",
+     "Không bao giờ mở cổng cửa khi đang vận hành trò giải trí trừ khi được sự cho phép của Quản lý.",
+     "Đảm bảo các cổng cửa luôn đóng trong suốt lượt chơi.",
+     "Không bao giờ mở cổng cửa khi đang vận hành trò giải trí."
+    ],
+    "answer": 1
+   },
+   {
+    "id": "on-tap-ky-thuat-mep-2026-an-toan-54",
+    "no": 54,
+    "text": "Nhân viên Kỹ thuật (NVKT) mới vào nhận việc được yêu cầu hỗ trợ tại Ga cáp treo cùng NVKT chính đã được đào tạo. Khi hệ thống cáp treo gặp sự cố, NVKT mới này cầm chìa khóa và mở cửa vào khu vực phòng điện để kiểm tra và xử lý một mình. NVKT mới này đã?",
+    "options": [
+     "Vi phạm quy đinh: Ra vào Khu vực Cấm và Phòng Điều khiển khi chưa được đào tạo hoặc không thuộc phận sự của mình",
+     "Vi phạm quy đinh: Tự ý mở cửa phòng điện khi không được sự đồng ý của Nhân viên Kỹ thuật chính",
+     "Vi phạm quy đinh: Rời khỏi ga cáp treo khi chưa được sự cho phép",
+     "Không vi phạm quy định nào cả"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "on-tap-ky-thuat-mep-2026-an-toan-55",
+    "no": 55,
+    "text": "Công tác phòng cháy chữa cháy cần được đào tạo tối thiểu theo định kỳ bao lâu?",
+    "options": [
+     "6 tháng/lần",
+     "1 năm/lần",
+     "2 năm/lần",
+     "3 tháng/lần"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "on-tap-ky-thuat-mep-2026-an-toan-56",
+    "no": 56,
+    "text": "Quy định vào chơi trò giải trí của Sun World KHÔNG hạn chế đối tượng khách hàng sau đây?",
+    "options": [
+     "Có biểu hiện về tim mạch hoặc huyết áp bất thường",
+     "Gãy xương hoặc bó bột",
+     "Khách hàng là người Việt Nam",
+     "Mới phẫu thuật hoặc có biểu hiện đau yếu"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "on-tap-ky-thuat-mep-2026-an-toan-57",
+    "no": 57,
+    "text": "Khi thấy gió lớn, Nhân viên phải làm gì?",
+    "options": [
+     "Ngay lập tức nhấn nút Dừng Khẩn cấp",
+     "Chờ đến khi nhìn thấy có bất kỳ thứ gì bị gió làm đổ mới báo cáo cho Cán bộ Quản lý",
+     "Tiếp tục vận hành và chờ Cán bộ Quản lý liên hệ với mình",
+     "Ngay lập tức báo cáo cho Cán bộ Quản lý về tình hình gió. Thường xuyên quan sát khu vực xung quanh như bảng biển, ô dù và các đồ vật có thể di rời, tránh gây nguy hiểm. Những đồ vật này phải được cất giữ cẩn thận để không bị gió cuốn đi."
+    ],
+    "answer": 3
+   },
+   {
+    "id": "on-tap-ky-thuat-mep-2026-an-toan-58",
+    "no": 58,
+    "text": "Khách hàng 4 tuổi rất thích tham gia trò chơi X, tuy nhiên theo quy định khách hàng không đủ chiều cao để tham gia trò chơi. Là nhân viên, Anh/Chị có đề xuất gì với khách hàng này?",
+    "options": [
+     "Khuyến khích khách hàng vào chơi ngay lập tức.",
+     "Đề xuất các trò giải trí khác phù hợp, thay thế mà Khách hàng có thể trải nghiệm.",
+     "Đề xuất Khách hàng vào chơi và rủ thêm những người bạn cùng chiều cao đến chơi cùng.",
+     "Đề xuất Khách hàng cùng gia đình di chuyển sang một công viên khác có nhiều trò chơi hơn."
+    ],
+    "answer": 1
+   },
+   {
+    "id": "on-tap-ky-thuat-mep-2026-an-toan-59",
+    "no": 59,
+    "text": "Một khách hàng nữ 30 tuổi trong quá trình tham gia chơi trò chơi Tàu lượn siêu tốc (cảm giác mạnh), đã bất cẩn làm rơi điện thoại xuống Khu vực Cấm của trò chơi khi tàu di chuyển được một nửa quãng đường. Theo Anh/Chị, ai là người được phép vào Khu vực Cấm của trò chơi để thu hồi đồ vật cho Khách hàng?",
+    "options": [
+     "Nhân viên Vận hành trò chơi",
+     "Nhân viên Kỹ thuật",
+     "Khách hàng",
+     "Cán bộ Quản lý Vận hành"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "on-tap-ky-thuat-mep-2026-an-toan-60",
+    "no": 60,
+    "text": "Nếu đồ vật bị rơi trong khu vực cấm, nhân viên cần phải làm gì?",
+    "options": [
+     "Vào thu hồi đồ vật ra ngoài",
+     "Liên hệ với CBQL để được hỗ trợ bố trí lịch với Nhân viên Kỹ thuật để thu hồi lại đồ vật",
+     "Mở cửa cho khách vào thu hồi đồ vật ra ngoài",
+     "Thông báo cho CBQL vào thu hồi đồ vật ra ngoài"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "on-tap-ky-thuat-mep-2026-an-toan-61",
+    "no": 61,
+    "text": "Theo Sổ tay định hướng về An toàn cho Nhân viên mới, đối với Khách hàng thì sạch sẽ là gì?",
+    "options": [
+     "Sạch sẽ là nhiều tiền",
+     "Sạch sẽ là không cần thiết",
+     "Sạch sẽ là thiếu an toàn",
+     "Sạch sẽ là an toàn"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "on-tap-ky-thuat-mep-2026-an-toan-62",
+    "no": 62,
+    "text": "Mục đích của Sổ tay định hướng về An toàn cho Nhân viên mới là gì?",
+    "options": [
+     "Sổ tay này đưa ra các quy định về ẩm thực và không được áp dụng tại Sun World.",
+     "Sổ tay này đưa ra các quy định về bảo trì bảo dưỡng công viên nước để đảm bảo công tác vận hành.",
+     "Sổ tay đưa ra các quy định về an toàn vệ sinh công cộng nhằm đảm bảo công tác vệ sinh được thực hiện một cách nhanh chóng và hiệu quả nhất.",
+     "Sổ tay này đưa ra các quy định về an toàn được áp dụng tại Sun World để đảm bảo công tác vận hành được thực hiện một cách an toàn nhất."
+    ],
+    "answer": 3
+   },
+   {
+    "id": "on-tap-ky-thuat-mep-2026-an-toan-63",
+    "no": 63,
+    "text": "Khi tra dầu mỡ phải quan sát điều gì?",
+    "options": [
+     "Kiểm tra xem dầu mỡ có vào được bên trong hay không",
+     "Kiểm tra xem dầu mỡ có bị trào ra ngoài không",
+     "Kiểm tra nếu áp suất tăng lên thì phải ngừng, không tra thêm",
+     "Kiểm tra xem dầu mỡ có vào được bên trong hay không;\nKiểm tra xem dầu mỡ có bị trào ra ngoài không;\nKiểm tra nếu áp suất tăng lên thì phải ngừng, không tra thêm"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "on-tap-ky-thuat-mep-2026-an-toan-64",
+    "no": 64,
+    "text": "Để đảm bảo an toàn vận hành cho các trò giải trí, cần phải có một kế hoạch bảo trì như thế nào cho phù hợp?",
+    "options": [
+     "Kiểm tra định kỳ theo ngày, tháng, quý, năm",
+     "Kiểm tra không phá huỷ (NDT)",
+     "Bảo trì phòng ngừa",
+     "Kiểm tra định kì theo ngày, tháng, quý, năm;\nKiểm tra không phá hủy (NDT);\nBảo trì phòng ngừa"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "on-tap-ky-thuat-mep-2026-an-toan-65",
+    "no": 65,
+    "text": "Tại khu vực Nhân viên Vận hành có thể bao quát được toàn bộ phạm vi trò chơi, tất cả các sàn, thềm, bục, cầu thang… có độ cao từ 60cm đến 2m phải, hàng rào phải đảm bảo các yêu cầu nào?",
+    "options": [
+     "Cao tối thiểu 110 cm, nếu có chi tiết ngang phải cách nhau tối thiểu 100 cm, khoảng trống hàng rào không vượt quá 15 cm",
+     "Cao tối thiểu 100 cm, nếu có chi tiết ngang phải cách nhau tối thiểu 90 cm, khoảng trống hàng rào không vượt quá 12 cm",
+     "Cao tối thiểu 110 cm, nếu có chi tiết ngang phải cách nhau tối thiểu 90 cm, khoảng trống hàng rào không vượt quá 10 cm",
+     "Cao tối thiểu 100 cm, nếu có chi tiết ngang phải cách nhau tối thiểu 100 cm, khoảng trống hàng rào không vượt quá 12 cm"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "on-tap-ky-thuat-mep-2026-an-toan-66",
+    "no": 66,
+    "text": "Theo Quy định Lưu trữ và Xử lý Hóa chất (SWG-QĐ-OTP-23), đối với hóa chất lưu trữ bên trong chai nước hoặc hộp đựng thực phẩm thì phải đảm bảo yêu cầu gì để mọi người không nhầm lẫn về thành phần bên trong?",
+    "options": [
+     "Cần phải xé nhãn của các chai hoặc hộp đựng thực phẩm đó. Dán nhãn hóa chất, thành phần bên ngoài để mọi người nhận biết.",
+     "Xử lý sạch sẽ chai nước hoặc hộp đựng thực phẩm trước khi chiết rót hóa chất vào.",
+     "Không được phép lưu trữ hóa chất bên trong chai nước, hộp đựng thực phẩm hoặc đồ chứa khác khiến mọi người nhầm lẫn vê thành phần hóa chất bên trong.",
+     "Tránh đặt để ở những nơi người khác có thể tiếp xúc được."
+    ],
+    "answer": 2
+   },
+   {
+    "id": "on-tap-ky-thuat-mep-2026-an-toan-67",
+    "no": 67,
+    "text": "Theo Quy trình Điều tra sự cố (SWG-QT-OPT-06), hậu quả của sự cố làm ảnh hưởng đến hoạt động kinh doanh gây tổn thất trong khoảng nào thì mức độ nghiêm trọng của sự cố xếp ở mức \"CAO\"?",
+    "options": [
+     "250 triệu đồng đến dưới 2,5 tỷ đồng",
+     "Từ 100 triệu đồng đến dưới 250 triệu đồng",
+     "Trên 2,5 tỷ đồng",
+     "Từ 10 triệu đồng đến dưới 100 triệu đồng"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "on-tap-ky-thuat-mep-2026-an-toan-68",
+    "no": 68,
+    "text": "Theo Quy trình điều tra sự cố (SWG-QT-OPT-06), để đảm bảo rằng tất cả các kế hoạch hành động nêu ra đã được giải quyết thì cần rà soát hồ sơ sự cố thường xuyên theo chu kỳ ít nhất là bao lâu?",
+    "options": [
+     "Hàng tháng",
+     "3 tháng",
+     "6 tháng",
+     "1 năm"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "on-tap-ky-thuat-mep-2026-an-toan-69",
+    "no": 69,
+    "text": "Theo Quy trình Kiểm tra An toàn nội bộ Cấp Đơn vị Khối Sun World (SWG-QT-SFTY-02), tất cả các ĐVTV phải thực hiện kiểm tra an toàn nội bộ tại Công viên với tần suất như thế nào?",
+    "options": [
+     "Tối thiểu 6 tháng/lần",
+     "Tối thiểu 1 tháng/ lần",
+     "Tối thiểu 3 tháng/ lần",
+     "Tối thiểu 1 năm/ lần"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "on-tap-ky-thuat-mep-2026-an-toan-70",
+    "no": 70,
+    "text": "Theo Hướng dẫn thực hiện Đánh giá rủi ro tại Khối Sun World, khi thực hiện đánh giá rủi ro cần phải cân nhắc những yếu tố nào?",
+    "options": [
+     "Mức độ nghiêm trọng khi rủi ro xảy ra",
+     "Khả năng xảy ra của rủi ro",
+     "Mức độ nghiêm trọng khi rủi ro xảy ra và Khả năng xảy ra của rủi ro",
+     "Thiết bị và con người"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "on-tap-ky-thuat-mep-2026-an-toan-71",
+    "no": 71,
+    "text": "Theo Ma trận Rủi ro trong Hướng dẫn thực hiện Đánh giá rủi ro tại Khối Sun World, khi Khả năng xảy ra của rủi ro là \"Khá chắc chắn\" và Mức độ nghiêm trọng khi rủi ro xảy ra là \"Trung bình\" thì xếp loại ưu tiên xử lý là gì?",
+    "options": [
+     "Ưu tiên 1",
+     "Ưu tiên 2",
+     "Ưu tiên 3",
+     "Ít ưu tiên"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "on-tap-ky-thuat-mep-2026-an-toan-72",
+    "no": 72,
+    "text": "Theo Quy định Làm việc trên cao (GEN-MT-04), điểm neo để kết nối với dây đai an toàn phải giữ được lực tối thiểu là bao nhiêu?",
+    "options": [
+     "2243 Kg",
+     "2000 Kg",
+     "1243 Kg",
+     "1000 Kg"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "on-tap-ky-thuat-mep-2026-an-toan-73",
+    "no": 73,
+    "text": "Các mức độ thường xuyên của các mối nguy hại bao gồm?",
+    "options": [
+     "Chắc chắn - Có khả năng - Ít khả năng - Hiếm khi",
+     "Chắc chắn - Khá chắc chắn - Có khả năng - Hiếm khi",
+     "Chắc chắn - Khá chắc chắn - Có khả năng - Ít khả năng - Không khả năng",
+     "Chắc chắn - Khá chắc chắn - Có khả năng - Ít khả năng - Hiếm khi"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "on-tap-ky-thuat-mep-2026-an-toan-74",
+    "no": 74,
+    "text": "Hậu quả sự cố nào sau đây thuộc mức độ nghiêm trọng của sự cố - Trung bình?",
+    "options": [
+     "Tai nạn dẫn đến chấn thương ở mức độ phải nhập viện dưới 48 tiếng.",
+     "Thương tật vĩnh viễn một bộ phận cơ thể.",
+     "Tử vong hoặc thương tật toàn bộ vĩnh viễn.",
+     "Chấn thương cần được điều trị nhưng không cần phải nhập viện."
+    ],
+    "answer": 0
+   },
+   {
+    "id": "on-tap-ky-thuat-mep-2026-an-toan-75",
+    "no": 75,
+    "text": "Đâu là loại Thiết bị Bảo hộ Lao động Cá nhân đặc biệt?",
+    "options": [
+     "Kính bảo vệ.",
+     "Giầy bảo hộ.",
+     "Găng tay.",
+     "Thiết bị hô hấp."
+    ],
+    "answer": 3
+   },
+   {
+    "id": "on-tap-ky-thuat-mep-2026-an-toan-76",
+    "no": 76,
+    "text": "Bước đầu tiên trong quy trình đánh giá rủi ro là gì?",
+    "options": [
+     "Xác định các Mối nguy hại",
+     "Đánh giá rủi ro",
+     "Ghi chép thông tin Mối nguy hại",
+     "Lập kế hoạch hành động"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "on-tap-ky-thuat-mep-2026-an-toan-77",
+    "no": 77,
+    "text": "Khi nói đến Thiết bị Bảo hộ Lao động Cá nhân, câu nào sau đây là không đúng?",
+    "options": [
+     "Luôn phải kiểm tra tình trạng hoạt động của Thiết bị Bảo hộ Lao động Cá nhân trước khi sử dụng.",
+     "Luôn sử dụng đúng loại Thiết bị Bảo hộ Lao động Cá nhân phù hợp với công việc.",
+     "Luôn cất giữ Thiết bị Bảo hộ Lao động Cá nhân đúng cách.",
+     "Thiết bị Bảo hộ Lao động Cá nhân có thể sử dụng cho các mục đích khác nếu cần."
+    ],
+    "answer": 3
+   },
+   {
+    "id": "on-tap-ky-thuat-mep-2026-an-toan-78",
+    "no": 78,
+    "text": "Đối với một nhân viên mới, phải đào tạo theo trình tự như thế nào mới là đúng cách?",
+    "options": [
+     "Đào tạo tại chỗ; Đào tạo định hướng; Đào tạo an toàn; Đào tạo cách xử lý tình huống khẩn",
+     "Đào tạo định hướng; Đào tạo tại chỗ; Đào tạo an toàn; Đào tạo cách xử lý tình huống khẩn",
+     "Đào tạo tại chỗ; Đào tạo cách xử lý tình huống khẩn; Đào tạo an toàn; Đào tạo định hướng",
+     "Đào tạo định hướng; Đào tạo cách xử lý tình huống khẩn; Đào tạo an toàn; Đào tạo tại chỗ"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "on-tap-ky-thuat-mep-2026-an-toan-79",
+    "no": 79,
+    "text": "Kỹ thuật viên mới được giao bảo trì một thiết bị có nguy cơ kẹp nghiền. Trước khi làm việc, người lao động phải được bảo đảm quyền nào sau đây?",
+    "options": [
+     "Được cung cấp thông tin đầy đủ về yếu tố nguy hiểm, yếu tố có hại và biện pháp bảo đảm an toàn tại nơi làm việc.",
+     "Chỉ được biết tên thiết bị.",
+     "Chỉ được hướng dẫn khi xảy ra sự cố.",
+     "Chỉ cần hỏi người làm trước."
+    ],
+    "answer": 0
+   },
+   {
+    "id": "on-tap-ky-thuat-mep-2026-an-toan-80",
+    "no": 80,
+    "text": "Người sử dụng lao động đưa nhân viên kỹ thuật vào công việc có yếu tố nguy hiểm. Trách nhiệm nào sau đây phù hợp quy định?",
+    "options": [
+     "Tổ chức huấn luyện, hướng dẫn quy định, nội quy, quy trình và biện pháp bảo đảm an toàn cho người lao động.",
+     "Chỉ cấp đồng phục.",
+     "Chỉ yêu cầu ký cam kết.",
+     "Cho người lao động tự học."
+    ],
+    "answer": 0
+   },
+   {
+    "id": "on-tap-ky-thuat-mep-2026-an-toan-81",
+    "no": 81,
+    "text": "Khi nơi làm việc có nguy cơ xảy ra tai nạn nghiêm trọng đe dọa tính mạng người lao động, người sử dụng lao động phải:",
+    "options": [
+     "Buộc người lao động tiếp tục làm để hoàn thành tiến độ.",
+     "Không được buộc người lao động tiếp tục làm việc hoặc trở lại nơi làm việc khi nguy cơ chưa được khắc phục.",
+     "Chỉ cấp thêm găng tay.",
+     "Chỉ bố trí thêm một người giám sát."
+    ],
+    "answer": 1
+   },
+   {
+    "id": "on-tap-ky-thuat-mep-2026-an-toan-82",
+    "no": 82,
+    "text": "Trước khi đưa một thiết bị mới vào khu vực kỹ thuật, hoạt động nào là nền tảng để kiểm soát rủi ro ATVSLĐ?",
+    "options": [
+     "Đánh giá và kiểm soát yếu tố nguy hiểm, yếu tố có hại tại nơi làm việc.",
+     "Chỉ dán biển cảnh báo.",
+     "Chỉ cấp PPE.",
+     "Chỉ lập danh sách người vận hành."
+    ],
+    "answer": 0
+   },
+   {
+    "id": "on-tap-ky-thuat-mep-2026-an-toan-83",
+    "no": 83,
+    "text": "Khi được trang cấp phương tiện bảo vệ cá nhân phù hợp với công việc, người lao động phải:",
+    "options": [
+     "Sử dụng trong quá trình làm việc.",
+     "Chỉ sử dụng khi có đoàn kiểm tra.",
+     "Tự lựa chọn có sử dụng hay không.",
+     "Chỉ dùng trong ca đêm."
+    ],
+    "answer": 0
+   },
+   {
+    "id": "on-tap-ky-thuat-mep-2026-an-toan-84",
+    "no": 84,
+    "text": "PPE cấp cho nhân viên kỹ thuật phải bảo đảm nguyên tắc nào?",
+    "options": [
+     "Đúng chủng loại, đúng đối tượng, đủ số lượng và bảo đảm chất lượng theo tiêu chuẩn, quy chuẩn.",
+     "Chỉ cần đủ số lượng.",
+     "Có thể dùng loại bất kỳ còn trong kho.",
+     "Chỉ cần có nhãn nhà sản xuất."
+    ],
+    "answer": 0
+   },
+   {
+    "id": "on-tap-ky-thuat-mep-2026-an-toan-85",
+    "no": 85,
+    "text": "Người lao động thông thường phải được khám sức khỏe định kỳ ít nhất:",
+    "options": [
+     "01 lần/năm.",
+     "01 lần/03 năm.",
+     "Chỉ khi có tai nạn.",
+     "Chỉ khi người lao động đề nghị."
+    ],
+    "answer": 0
+   },
+   {
+    "id": "on-tap-ky-thuat-mep-2026-an-toan-86",
+    "no": 86,
+    "text": "Khi nhận việc tại một khu vực kỹ thuật, người lao động cần được thông tin về:",
+    "options": [
+     "Yếu tố nguy hiểm, yếu tố có hại và biện pháp bảo đảm ATVSLĐ tại nơi làm việc.",
+     "Chỉ lịch làm việc.",
+     "Chỉ vị trí kho dụng cụ.",
+     "Chỉ tên người phụ trách."
+    ],
+    "answer": 0
+   },
+   {
+    "id": "on-tap-ky-thuat-mep-2026-an-toan-87",
+    "no": 87,
+    "text": "Mục tiêu trực tiếp của việc đánh giá yếu tố nguy hiểm, yếu tố có hại là:",
+    "options": [
+     "Đề ra biện pháp kỹ thuật an toàn, vệ sinh lao động và loại trừ/hạn chế nguy cơ.",
+     "Chỉ để hoàn thiện hồ sơ.",
+     "Chỉ để phục vụ đoàn kiểm tra.",
+     "Chỉ để tính KPI."
+    ],
+    "answer": 0
+   },
+   {
+    "id": "on-tap-ky-thuat-mep-2026-an-toan-88",
+    "no": 88,
+    "text": "Trách nhiệm về phòng cháy, chữa cháy và cứu nạn, cứu hộ thuộc về:",
+    "options": [
+     "Chỉ lực lượng Cảnh sát PCCC.",
+     "Cơ quan, tổ chức, hộ gia đình, cá nhân trong phạm vi trách nhiệm theo quy định pháp luật.",
+     "Chỉ đội PCCC cơ sở.",
+     "Chỉ người đứng đầu cơ sở."
+    ],
+    "answer": 1
+   },
+   {
+    "id": "on-tap-ky-thuat-mep-2026-an-toan-89",
+    "no": 89,
+    "text": "Người đứng đầu cơ sở có trách nhiệm tổ chức nội dung nào?",
+    "options": [
+     "Tuyên truyền, phổ biến pháp luật, kiến thức PCCC, CNCH và tổ chức huấn luyện, bồi dưỡng nghiệp vụ theo quy định.",
+     "Chỉ mua bình chữa cháy.",
+     "Chỉ tổ chức diễn tập khi có yêu cầu.",
+     "Chỉ lập danh sách đội PCCC."
+    ],
+    "answer": 0
+   },
+   {
+    "id": "on-tap-ky-thuat-mep-2026-an-toan-90",
+    "no": 90,
+    "text": "Đối với hệ thống điện trong cơ sở, yêu cầu nào phù hợp về PCCC?",
+    "options": [
+     "Thiết bị, dụng cụ điện phải bảo đảm yêu cầu an toàn về phòng cháy, chữa cháy theo quy định.",
+     "Chỉ cần thiết bị có công suất lớn.",
+     "Chỉ cần đặt bình chữa cháy cạnh tủ.",
+     "Chỉ kiểm tra khi có sự cố."
+    ],
+    "answer": 0
+   },
+   {
+    "id": "on-tap-ky-thuat-mep-2026-an-toan-91",
+    "no": 91,
+    "text": "Khi phát hiện cháy, người phát hiện phải xử lý như thế nào trong phạm vi khả năng và điều kiện an toàn?",
+    "options": [
+     "Báo cháy ngay; đồng thời tham gia chữa cháy, cứu người theo khả năng và điều kiện an toàn.",
+     "Đứng quan sát.",
+     "Chỉ quay video.",
+     "Chờ lực lượng chuyên nghiệp rồi mới báo."
+    ],
+    "answer": 0
+   },
+   {
+    "id": "on-tap-ky-thuat-mep-2026-an-toan-92",
+    "no": 92,
+    "text": "Nội quy PCCC, CNCH của cơ sở cần quy định nội dung nào liên quan trực tiếp đến kỹ thuật?",
+    "options": [
+     "Quản lý, sử dụng điện; nguồn lửa, nguồn nhiệt; thiết bị sinh lửa, sinh nhiệt và chất dễ cháy, nổ.",
+     "Chỉ quy định đồng phục.",
+     "Chỉ quy định giờ làm việc.",
+     "Chỉ quy định chế độ báo cáo."
+    ],
+    "answer": 0
+   },
+   {
+    "id": "on-tap-ky-thuat-mep-2026-an-toan-93",
+    "no": 93,
+    "text": "Đường, lối thoát nạn tại khu vực kỹ thuật phải được duy trì như thế nào?",
+    "options": [
+     "Bảo đảm điều kiện thoát nạn, không để vật tư, thiết bị cản trở.",
+     "Có thể để vật tư nếu còn một lối khác.",
+     "Chỉ cần có biển chỉ dẫn.",
+     "Chỉ cần dọn khi có kiểm tra."
+    ],
+    "answer": 0
+   },
+   {
+    "id": "on-tap-ky-thuat-mep-2026-an-toan-94",
+    "no": 94,
+    "text": "Khi làm việc với thiết bị điện, người lao động phải sử dụng trang bị bảo vệ cá nhân phù hợp với:",
+    "options": [
+     "Tính chất công việc và nguy cơ điện tại vị trí làm việc.",
+     "Chỉ màu đồng phục.",
+     "Chỉ cấp bậc người lao động.",
+     "Chỉ thời gian làm việc."
+    ],
+    "answer": 0
+   },
+   {
+    "id": "on-tap-ky-thuat-mep-2026-an-toan-95",
+    "no": 95,
+    "text": "Khi phát hiện dây dẫn điện có dấu hiệu quá nhiệt, mùi khét hoặc cháy xém tại đầu nối, hành động phù hợp là:",
+    "options": [
+     "Ngừng sử dụng/cô lập nguồn điện theo thẩm quyền và điều kiện an toàn; báo cáo, xác định nguyên nhân và khắc phục trước khi đưa vào vận hành.",
+     "Quấn thêm băng keo rồi tiếp tục.",
+     "Tăng tải để thử.",
+     "Dùng nước làm mát."
+    ],
+    "answer": 0
+   },
+   {
+    "id": "on-tap-ky-thuat-mep-2026-an-toan-96",
+    "no": 96,
+    "text": "Khi làm việc tại vị trí có phần mang điện, biển báo và tín hiệu cảnh báo phải được bố trí:",
+    "options": [
+     "Ở vị trí dễ thấy, dễ nhận biết và tại các khu vực cần cảnh báo trong quá trình thực hiện công việc.",
+     "Chỉ tại phòng kỹ thuật.",
+     "Chỉ ở cổng cơ sở.",
+     "Chỉ trong tủ điện."
+    ],
+    "answer": 0
+   },
+   {
+    "id": "on-tap-ky-thuat-mep-2026-an-toan-97",
+    "no": 97,
+    "text": "Một máy có nguy cơ cuốn kẹp đã được xác định. Đơn vị chỉ cấp găng tay nhưng không lắp biện pháp kỹ thuật dù có thể thực hiện. Cách tiếp cận phù hợp hơn là:",
+    "options": [
+     "Ưu tiên giải pháp công nghệ, kỹ thuật, thiết bị để loại trừ hoặc hạn chế nguy hiểm; PPE là biện pháp bổ sung phù hợp.",
+     "Chỉ cần tăng số lượng PPE.",
+     "Chỉ cần treo biển cảnh báo.",
+     "Không cần kiểm soát nếu người vận hành có kinh nghiệm."
+    ],
+    "answer": 0
+   },
+   {
+    "id": "on-tap-ky-thuat-mep-2026-an-toan-98",
+    "no": 98,
+    "text": "Kỹ thuật viên phát hiện một bộ phận máy có nguy cơ gây tai nạn nghiêm trọng nhưng quản lý yêu cầu tiếp tục làm để kịp vận hành. Xử lý nào phù hợp?",
+    "options": [
+     "Tiếp tục vì đã có lệnh.",
+     "Dừng công việc, báo cáo nguy cơ và chỉ tiếp tục khi nguy cơ được kiểm soát.",
+     "Làm chậm lại.",
+     "Chỉ đổi PPE."
+    ],
+    "answer": 1
+   },
+   {
+    "id": "on-tap-ky-thuat-mep-2026-an-toan-99",
+    "no": 99,
+    "text": "Trước khi bảo trì thiết bị có nhiều nguồn năng lượng, việc nhận diện nguy hiểm phải được thực hiện như thế nào?",
+    "options": [
+     "Chỉ kiểm tra nguồn điện.",
+     "Nhận diện đầy đủ các yếu tố nguy hiểm liên quan đến công việc và xác định biện pháp kiểm soát tương ứng.",
+     "Chỉ xem hướng dẫn vận hành.",
+     "Chỉ hỏi người vận hành."
+    ],
+    "answer": 1
+   },
+   {
+    "id": "on-tap-ky-thuat-mep-2026-an-toan-100",
+    "no": 100,
+    "text": "Trong thời gian bảo trì, hệ thống báo cháy của một khu vực bị suy giảm hoặc tạm thời mất một phần chức năng. Biện pháp phù hợp là:",
+    "options": [
+     "Không cần thông báo vì chỉ bảo trì.",
+     "Quản lý tình trạng suy giảm, áp dụng biện pháp bảo vệ phù hợp trong thời gian hệ thống không đầy đủ và khôi phục sớm.",
+     "Tắt toàn bộ hệ thống.",
+     "Chỉ ghi nhận cuối tháng."
+    ],
+    "answer": 1
+   },
+   {
+    "id": "on-tap-ky-thuat-mep-2026-an-toan-101",
+    "no": 101,
+    "text": "Vật tư kỹ thuật được xếp chắn phía trước bình chữa cháy nhưng vẫn còn khe nhỏ để lấy bình. Nhận định nào phù hợp?",
+    "options": [
+     "Vẫn đạt vì vẫn có thể lấy.",
+     "Phải duy trì phương tiện PCCC ở trạng thái dễ thấy, dễ tiếp cận và sử dụng được khi cần.",
+     "Chỉ cần dán biển.",
+     "Chỉ cần dọn khi có cháy."
+    ],
+    "answer": 1
+   },
+   {
+    "id": "on-tap-ky-thuat-mep-2026-an-toan-102",
+    "no": 102,
+    "text": "Một lối thoát nạn bị chiếm dụng bởi vật tư phục vụ sửa chữa. Kỹ thuật viên nên:",
+    "options": [
+     "Để nguyên nếu thời gian sửa dưới 2 giờ.",
+     "Khôi phục lối thoát nạn thông thoáng và kiểm soát việc bố trí vật tư không cản trở thoát nạn.",
+     "Chỉ đặt biển cảnh báo.",
+     "Chỉ báo sau khi hoàn thành."
+    ],
+    "answer": 1
+   },
+   {
+    "id": "on-tap-ky-thuat-mep-2026-an-toan-103",
+    "no": 103,
+    "text": "Sàn khu vực thao tác tủ điện đang có nước đọng. Phương án phù hợp nhất là:",
+    "options": [
+     "Đeo găng tay rồi làm.",
+     "Loại bỏ/kiểm soát điều kiện mất an toàn và bảo đảm môi trường làm việc phù hợp trước khi thao tác.",
+     "Đứng trên ghế gỗ.",
+     "Dùng một tay thao tác."
+    ],
+    "answer": 1
+   },
+   {
+    "id": "on-tap-ky-thuat-mep-2026-an-toan-104",
+    "no": 104,
+    "text": "Một CB bảo vệ liên tục tác động. Vận hành đề nghị đóng lại nhiều lần để thiết bị chạy. Cách xử lý phù hợp:",
+    "options": [
+     "Đóng lại liên tục.",
+     "Tìm nguyên nhân bảo vệ tác động, kiểm tra thiết bị và chỉ khôi phục khi đủ điều kiện an toàn.",
+     "Thay CB lớn hơn ngay.",
+     "Nối tắt CB."
+    ],
+    "answer": 1
+   },
+   {
+    "id": "on-tap-ky-thuat-mep-2026-an-toan-105",
+    "no": 105,
+    "text": "Trong lúc bảo trì, phương án ban đầu không còn phù hợp vì phát sinh điểm kẹp nghiền mới. Quản lý yêu cầu 'cứ làm theo phương án cũ'. Kỹ thuật viên nên:",
+    "options": [
+     "Tiếp tục vì phương án đã được duyệt.",
+     "Dừng, đánh giá lại nguy cơ và biện pháp kiểm soát trước khi tiếp tục; không tiếp tục khi nguy cơ nghiêm trọng chưa được kiểm soát.",
+     "Chỉ tăng tốc độ thao tác.",
+     "Chỉ bổ sung găng tay."
+    ],
+    "answer": 1
+   },
+   {
+    "id": "on-tap-ky-thuat-mep-2026-an-toan-106",
+    "no": 106,
+    "text": "Một nguồn nguy hiểm có thể được loại trừ bằng che chắn liên động nhưng đội kỹ thuật chỉ yêu cầu người vận hành mang PPE. Đánh giá nào phù hợp hơn?",
+    "options": [
+     "PPE luôn là biện pháp ưu tiên.",
+     "Ưu tiên biện pháp kỹ thuật để loại trừ/hạn chế nguy hiểm; PPE phải được sử dụng khi vẫn còn rủi ro cần bảo vệ.",
+     "Chỉ cần đào tạo.",
+     "Không cần biện pháp nếu máy chạy chậm."
+    ],
+    "answer": 1
+   },
+   {
+    "id": "on-tap-ky-thuat-mep-2026-an-toan-107",
+    "no": 107,
+    "text": "Một khu vực đang bảo trì khiến một phần hệ thống báo cháy/chữa cháy hoặc kiểm soát khói tạm thời không hoạt động. Cách quản lý phù hợp là:",
+    "options": [
+     "Chỉ ghi nhận vào biên bản bảo trì.",
+     "Xác định phạm vi suy giảm, áp dụng biện pháp kiểm soát/bảo vệ phù hợp, thông báo các bên liên quan và khôi phục hệ thống sớm.",
+     "Tắt toàn bộ hệ thống.",
+     "Tiếp tục vận hành như bình thường không cần kiểm soát."
+    ],
+    "answer": 1
+   },
+   {
+    "id": "on-tap-ky-thuat-mep-2026-an-toan-108",
+    "no": 108,
+    "text": "Kho kỹ thuật xếp vật tư che một phần lối tiếp cận phương tiện chữa cháy và lối thoát nạn nhưng chưa hoàn toàn bịt kín. Cách đánh giá:",
+    "options": [
+     "Không có vấn đề vì vẫn còn khoảng trống.",
+     "Đây là tình trạng cần khắc phục vì phải duy trì khả năng tiếp cận phương tiện PCCC và điều kiện thoát nạn.",
+     "Chỉ cần đánh dấu trên sơ đồ.",
+     "Chỉ khắc phục trước khi đoàn kiểm tra."
+    ],
+    "answer": 1
+   },
+   {
+    "id": "on-tap-ky-thuat-mep-2026-an-toan-109",
+    "no": 109,
+    "text": "Phương án thi công đã được phê duyệt nhưng tại hiện trường phát sinh nguy cơ mới làm thay đổi biện pháp an toàn. Đội thi công muốn tự sửa biện pháp rồi làm ngay. Cách xử lý phù hợp:",
+    "options": [
+     "Tự sửa và tiếp tục.",
+     "Dừng để xem xét, thống nhất/điều chỉnh biện pháp theo quy định và thông báo các bên liên quan trước khi áp dụng.",
+     "Chỉ báo sau khi hoàn thành.",
+     "Không cần thay đổi."
+    ],
+    "answer": 1
+   },
+   {
+    "id": "on-tap-ky-thuat-mep-2026-an-toan-110",
+    "no": 110,
+    "text": "Khi làm việc gần phần mang điện, PPE đã đầy đủ nhưng phần mang điện bên cạnh chưa được che phủ/kiểm soát tiếp xúc. Nhận định phù hợp:",
+    "options": [
+     "PPE đã đủ nên có thể làm.",
+     "Phải áp dụng thêm biện pháp kiểm soát phần mang điện xung quanh theo yêu cầu công việc; không chỉ dựa vào PPE.",
+     "Chỉ cần làm nhanh.",
+     "Chỉ cần một người đứng quan sát."
+    ],
+    "answer": 1
+   },
+   {
+    "id": "on-tap-ky-thuat-mep-2026-an-toan-111",
+    "no": 111,
+    "text": "Đội kỹ thuật đang làm việc ngoài trời gần thiết bị điện thì xuất hiện mưa to, gió mạnh và sấm chớp. Cách xử lý phù hợp nhất là:",
+    "options": [
+     "Cố hoàn thành nhanh.",
+     "Đánh giá lại điều kiện và dừng/điều chỉnh công việc khi điều kiện thời tiết không bảo đảm an toàn theo quy định.",
+     "Chỉ thay giày bảo hộ.",
+     "Tăng thêm người."
+    ],
+    "answer": 1
+   }
+  ],
+  "group": "SBD Kỹ thuật"
+ },
+ {
+  "id": "on-tap-ky-thuat-mep-2026-mep",
+  "name": "Ôn tập Kỹ thuật MEP 2026 - MEP",
+  "questions": [
+   {
+    "id": "on-tap-ky-thuat-mep-2026-mep-1",
+    "no": 1,
+    "text": "Muốn đảo chiều quay động cơ một pha có cuộn phụ, phải thay đổi đấu nối như thế nào?",
+    "options": [
+     "Đảo đồng thời cả cuộn chính và cuộn phụ",
+     "Đảo hai đầu của một trong hai cuộn: cuộn chính hoặc cuộn phụ",
+     "Đảo hai đầu tụ điện nhưng giữ nguyên các cuộn",
+     "Tăng điện áp cấp cho động cơ"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "on-tap-ky-thuat-mep-2026-mep-2",
+    "no": 2,
+    "text": "Tốc độ đồng bộ của từ trường quay trong động cơ điện xoay chiều phụ thuộc vào những yếu tố nào?",
+    "options": [
+     "Điện áp và công suất",
+     "Dòng điện và mô-men",
+     "Điện trở cách điện",
+     "Tần số nguồn và số đôi cực"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "on-tap-ky-thuat-mep-2026-mep-3",
+    "no": 3,
+    "text": "Dụng cụ hay thiết bị điện nào sau đây biến đổi hoàn toàn điện năng thành nhiệt năng?",
+    "options": [
+     "Quạt điện",
+     "Ấm điện",
+     "Acquy đang nạp điện",
+     "Bình điện phân"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "on-tap-ky-thuat-mep-2026-mep-4",
+    "no": 4,
+    "text": "Máy điện tĩnh làm việc theo nguyên lý cảm ứng điện từ giữa những cuộn dây không có chuyển động tương đối với nhau. Loại máy điện tĩnh thông dụng là loại nào?",
+    "options": [
+     "Máy biến áp",
+     "Máy phát điện",
+     "Động cơ điện",
+     "Máy điện 1 chiều"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "on-tap-ky-thuat-mep-2026-mep-5",
+    "no": 5,
+    "text": "Nguyên tắc cơ bản của mọi máy điện đều dựa trên cơ sở của hai định luật gì?",
+    "options": [
+     "Định luật cảm ứng điện từ và định luật về lực từ",
+     "Định luật cảm ứng điện từ và định luật tương tác điện",
+     "Định luật cảm ứng điện từ và định lý dòng toàn phần",
+     "Định luật coulomb và định luật Ampere"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "on-tap-ky-thuat-mep-2026-mep-6",
+    "no": 6,
+    "text": "Một máy biến áp (hiệu suất làm việc xấp xỉ 100%) có số vòng dây sơ cấp lớn hơn 10 lần số vòng dây cuộn thứ cấp. Máy này là máy gì?",
+    "options": [
+     "Tăng áp",
+     "Hạ áp",
+     "Làm giảm tần số dòng điện ở cuộn sơ cấp 10 lần",
+     "Làm tăng tần số dòng điện ở cuộn sơ cấp 10 lần"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "on-tap-ky-thuat-mep-2026-mep-7",
+    "no": 7,
+    "text": "Tỉ số 100/5 của biến dòng (TI) có ý nghĩa là gì?",
+    "options": [
+     "Khi điện áp của nguồn đo là 100V thì điện áp ra của biến dòng là 5V",
+     "Khi công suất của nguồn đo là 100W thì công suất ra của biến dòng là 5W",
+     "Khi dòng điện của nguồn đo là 100A thì dòng ra của biến dòng là 5A",
+     "Khi dòng điện của nguồn đo là 100A thì dòng ra của biến dòng là 3A"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "on-tap-ky-thuat-mep-2026-mep-8",
+    "no": 8,
+    "text": "Máy biến áp thường quy ước như thế nào?",
+    "options": [
+     "Cuộn sơ cấp là cuộn có điện áp cao, cuộn thứ cấp là cuộn có điện áp thấp",
+     "Cuộn sơ cấp là cuộn bên trái, cuộn thứ cấp là cuộn bên phải",
+     "Cuộn sơ cấp là cuộn có điện áp thấp, cuộn thứ cấp là cuộn có điện áp cao",
+     "Cuộn sơ cấp là cuộn nối với nguồn, cuộn thứ cấp là cuộn nối với tải"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "on-tap-ky-thuat-mep-2026-mep-9",
+    "no": 9,
+    "text": "Chọn phát biểu sai. Công suất tiêu thụ trong mạch điện xoay chiều RLC mắc nối tiếp là",
+    "options": [
+     "Công suất trung bình",
+     "P = UICosØ",
+     "Công suất tức thời",
+     "P= I2R"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "on-tap-ky-thuat-mep-2026-mep-10",
+    "no": 10,
+    "text": "Đường dây dẫn của hệ thống điện nhẹ trong công trình được lắp đặt theo phương án nào dưới đây?",
+    "options": [
+     "Đi chung với đường dây điện",
+     "Đi theo đường dây riêng biệt",
+     "Đi chung đường báo cháy tự động",
+     "Đi chung với đường dây điện và báo cháy tự động"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "on-tap-ky-thuat-mep-2026-mep-11",
+    "no": 11,
+    "text": "Nguyên tắc đảo chiều quay của động cơ điện là gì?",
+    "options": [
+     "Thay đổi chiều của từ trường quay bằng cách thay đổi thứ tự pha hoặc đảo chiều dòng điện trong một cuộn dây, tùy theo loại động cơ.",
+     "Tăng điện áp nguồn",
+     "Tăng số vòng dây tùy ý",
+     "Giảm cấp bảo vệ IP"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "on-tap-ky-thuat-mep-2026-mep-12",
+    "no": 12,
+    "text": "Ý nghĩa thông số C25 trên một MCB là gì?",
+    "options": [
+     "Dòng điện định mức 25A",
+     "Điện áp định mức 25V",
+     "Công suất định mức 25W",
+     "Điện trở định mức 25Ohm"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "on-tap-ky-thuat-mep-2026-mep-13",
+    "no": 13,
+    "text": "Lợi ích chính của việc nâng hệ số công suất tại phụ tải là gì?",
+    "options": [
+     "Giảm dòng phản kháng và tổn thất, giải phóng khả năng mang tải của nguồn/dây dẫn",
+     "Tăng tần số lưới",
+     "Tạo thêm công suất tác dụng miễn phí",
+     "Loại bỏ mọi sóng hài"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "on-tap-ky-thuat-mep-2026-mep-14",
+    "no": 14,
+    "text": "Trong động cơ điện có dây quấn phụ (động cơ chạy tụ), tụ điện được mắc như thế nào?",
+    "options": [
+     "Nối tiếp với cuộn khởi động (dây quấn phụ)",
+     "Song song với cuộn khởi động (dây quấn phụ)",
+     "Nối tiếp với cuộn làm việc (dây quấn chính)",
+     "Vừa nối tiếp vừa song song với cuộn làm việc (dây quấn chính)"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "on-tap-ky-thuat-mep-2026-mep-15",
+    "no": 15,
+    "text": "Thiết bị bảo vệ chống điện giật bằng dòng điện dư, có dòng tác động không quá 30 mA, thường được sử dụng với vai trò nào trong hệ thống bảo vệ điện?",
+    "options": [
+     "Bảo vệ bổ sung chống điện giật, không thay thế toàn bộ các biện pháp bảo vệ cơ bản và bảo vệ sự cố",
+     "Bảo vệ duy nhất cho mọi loại ngắn mạch",
+     "Thiết bị tăng điện áp",
+     "Thiết bị đo điện năng"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "on-tap-ky-thuat-mep-2026-mep-16",
+    "no": 16,
+    "text": "Chức năng chính của bộ bảo vệ rò rỉ điện là gì?",
+    "options": [
+     "Giảm tải mạch",
+     "Tăng cường điện áp",
+     "Ngắt điện khi phát hiện dòng rò",
+     "Chuyển đổi dòng điện"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "on-tap-ky-thuat-mep-2026-mep-17",
+    "no": 17,
+    "text": "Đồng hồ đo đếm điện năng tiêu thụ được thực hiện theo công thức nào sau đây:",
+    "options": [
+     "A= P x t",
+     "A= S x t",
+     "A= Q x t",
+     "A= P+Q"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "on-tap-ky-thuat-mep-2026-mep-18",
+    "no": 18,
+    "text": "Chức năng của một ELCB (Earth leakage circuit breaker, hay còn gọi là Rơ le bảo vệ chạm đất, aptomat chống giật, cầu dao chống rò điện) là gì?",
+    "options": [
+     "Đo lường dòng vào.",
+     "Nó đo tần số của dòng điện.",
+     "Phát hiện cầu chì hỏng.",
+     "Phát hiện rò điện nối đất và chống sốc."
+    ],
+    "answer": 3
+   },
+   {
+    "id": "on-tap-ky-thuat-mep-2026-mep-19",
+    "no": 19,
+    "text": "Công tơ điện một pha dùng để đo đại lượng nào?",
+    "options": [
+     "Điện áp tức thời",
+     "Công suất phản kháng duy nhất",
+     "Điện năng tiêu thụ của mạch xoay chiều một pha",
+     "Điện trở cách điện"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "on-tap-ky-thuat-mep-2026-mep-20",
+    "no": 20,
+    "text": "Cầu dao một pha có chức năng chính nào?",
+    "options": [
+     "Đóng cắt/cô lập mạch bằng thao tác cơ khí trong phạm vi định mức; bảo vệ phải do thiết bị phù hợp đảm nhiệm",
+     "Luôn tự động cắt mọi quá tải",
+     "Đo điện năng tiêu thụ",
+     "Điều chỉnh tần số nguồn"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "on-tap-ky-thuat-mep-2026-mep-21",
+    "no": 21,
+    "text": "Anh/chị hãy phân tích ý nghĩa của ký hiệu dây dẫn điện có ký hiệu như sau: \"PVC/PVC/CU 1x2Cx16mm2 + 6mm2 ( E )\"?",
+    "options": [
+     "Cáp đồng bọc 2 lớp PVC, loại cáp 1 lõi - mỗi lõi có tiết diện 16mm2 và sợi cáp nối đất an toàn là cáp 6mm2",
+     "Cáp đồng bọc 2 lớp PVC, loại cáp 2 lõi - mỗi lõi có tiết diện 16mm2 và sợi cáp nối đất an toàn là cáp 6mm2",
+     "Cáp đồng bọc 2 lớp PVC, loại cáp 3 lõi - mỗi lõi có tiết diện 16mm2 và sợi cáp nối đất an toàn là cáp 6mm2",
+     "Cáp đồng bọc 3 lớp PVC, loại cáp 1 lõi - mỗi lõi có tiết diện 16mm2 và sợi cáp nối đất an toàn là cáp 6mm2"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "on-tap-ky-thuat-mep-2026-mep-22",
+    "no": 22,
+    "text": "Lợi ích kỹ thuật điển hình của máy biến áp ba pha so với tổ hợp máy biến áp một pha có công suất tương đương là gì?",
+    "options": [
+     "Kết cấu và vật liệu có thể gọn/kinh tế hơn cho cùng công suất ba pha",
+     "Luôn không có tổn hao",
+     "Không cần bảo vệ điện",
+     "Có thể thay đổi tần số"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "on-tap-ky-thuat-mep-2026-mep-23",
+    "no": 23,
+    "text": "Điều kiện áp dụng khởi động sao–tam giác cho động cơ là gì?",
+    "options": [
+     "Động cơ có đủ đầu dây, làm việc định mức ở nối tam giác với điện áp lưới và tải cho phép mô-men khởi động giảm",
+     "Mọi động cơ một pha đều áp dụng được",
+     "Động cơ làm việc định mức ở nối sao và không có đầu dây đưa ra",
+     "Chỉ cần thay rơ-le nhiệt bằng cầu chì"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "on-tap-ky-thuat-mep-2026-mep-24",
+    "no": 24,
+    "text": "Muốn tăng khả năng cấp dòng của bộ nguồn một chiều cùng điện áp, cách ghép phù hợp là gì?",
+    "options": [
+     "Ghép song song các nguồn tương thích và có biện pháp chia dòng phù hợp",
+     "Ghép nối tiếp các nguồn để giữ nguyên điện áp",
+     "Nối tắt hai cực của từng nguồn",
+     "Đấu nguồn vào mạch đo nhiệt độ"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "on-tap-ky-thuat-mep-2026-mep-25",
+    "no": 25,
+    "text": "Mục tiêu của hệ thống nối đất bảo vệ là gì?",
+    "options": [
+     "Làm tăng điện áp bước quanh thiết bị",
+     "Giới hạn điện áp chạm/điện áp bước và tạo đường dẫn sự cố để bảo vệ tác động trong điều kiện thiết kế",
+     "Thay thế hoàn toàn bảo vệ quá dòng",
+     "Tăng hệ số công suất của phụ tải"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "on-tap-ky-thuat-mep-2026-mep-26",
+    "no": 26,
+    "text": "Trong tủ điều khiển động cơ MCC, khóa liên động cơ khí giữa hai contactor có chức năng gì?",
+    "options": [
+     "Ngắt nguồn khi quá tải",
+     "Ngăn không cho hai contactor đóng đồng thời bằng cơ cấu khóa liên động cơ khí.",
+     "Giữ contactor ở vị trí đóng",
+     "Giảm dòng khởi động"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "on-tap-ky-thuat-mep-2026-mep-27",
+    "no": 27,
+    "text": "Nhiều mạch điện đi chung một ống hoặc hộp kỹ thuật. Yêu cầu nào phải được kiểm tra?",
+    "options": [
+     "Tất cả dây phải cùng màu",
+     "Có thể bỏ qua hệ số hiệu chỉnh",
+     "Cách điện, khả năng mang tải sau hiệu chỉnh, phân cách và mức điện áp phải phù hợp quy định thiết kế",
+     "Ống phải chứa đầy để tiết kiệm không gian"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "on-tap-ky-thuat-mep-2026-mep-28",
+    "no": 28,
+    "text": "Để giảm thiểu tác động của sóng hài, biện pháp nào thường được áp dụng?",
+    "options": [
+     "Tăng điện áp hệ thống",
+     "Sử dụng bộ lọc sóng hài",
+     "Giảm kích thước dây dẫn",
+     "Chỉ sử dụng một pha"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "on-tap-ky-thuat-mep-2026-mep-29",
+    "no": 29,
+    "text": "Chu kỳ bảo trì máy phát điện dự phòng nên được thiết lập theo nguyên tắc nào?",
+    "options": [
+     "Giống nhau cho mọi loại máy phát",
+     "Theo hướng dẫn nhà sản xuất, mức độ quan trọng, giờ chạy, điều kiện môi trường và quy trình nội bộ hiện hành",
+     "Chỉ bảo trì khi máy không khởi động",
+     "Theo lịch vệ sinh hồ bơi"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "on-tap-ky-thuat-mep-2026-mep-30",
+    "no": 30,
+    "text": "Kế hoạch bảo trì hệ thống điện trung thế phải ưu tiên nội dung nào?",
+    "options": [
+     "Chỉ lau bụi bên ngoài tủ",
+     "Chỉ kiểm tra hóa đơn điện",
+     "Chỉ thay nhãn thiết bị",
+     "Kiểm tra theo rủi ro và hướng dẫn thiết bị: bảo vệ, liên động, cách điện, tiếp địa, nhiệt và cơ cấu đóng cắt"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "on-tap-ky-thuat-mep-2026-mep-31",
+    "no": 31,
+    "text": "Một động cơ một pha điện áp 220V mắc ở mạng 380/220V thì phải nối như thế nào?",
+    "options": [
+     "Nối hai trong ba pha lại với nhau, pha còn lại nối với dây trung tính",
+     "Phải nối giữa dây pha và dây trung tính",
+     "Phải nối kiểu Sao",
+     "Phải nối kiểu Tam giác"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "on-tap-ky-thuat-mep-2026-mep-32",
+    "no": 32,
+    "text": "Trong động cơ một pha có cuộn chính và cuộn phụ, nhận định nào thường đúng?",
+    "options": [
+     "Hai cuộn luôn có điện trở bằng nhau",
+     "Cuộn chính luôn có tiết diện dây nhỏ hơn",
+     "Điện trở các cuộn khác nhau theo thiết kế; cuộn phụ thường có điện trở lớn hơn cuộn chính",
+     "Không thể đo điện trở cuộn dây"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "on-tap-ky-thuat-mep-2026-mep-33",
+    "no": 33,
+    "text": "Trong phương pháp mở máy động cơ sao/Tam giác dòng điện mở máy giảm bao nhiêu lần.",
+    "options": [
+     "3 lần",
+     "2 lần",
+     "4 lần",
+     "5 lần"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "on-tap-ky-thuat-mep-2026-mep-34",
+    "no": 34,
+    "text": "Trên một bóng đèn có ghi: 3V-3W, điện trở của bóng đèn là:",
+    "options": [
+     "9Ω",
+     "3Ω",
+     "6Ω",
+     "12Ω"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "on-tap-ky-thuat-mep-2026-mep-35",
+    "no": 35,
+    "text": "Theo nhận định của anh/chị, để tăng áp 5 lần người ta sử dụng máy biến áp có số vòng dây như thế nào?",
+    "options": [
+     "Số vòng dây ở cuộn sơ cấp gấp 5 lần số vòng dây cuộn thứ cấp",
+     "Số vòng dây ở cuộn thứ cấp gấp 5 lần số vòng dây cuộn sơ cấp",
+     "Số vòng dây ở cuộn sơ cấp gấp √5 lần số vòng dây cuộn thứ cấp",
+     "Số vòng dây ở cuộn thứ cấp gấp √5 lần số vòng dây cuộn sơ cấp"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "on-tap-ky-thuat-mep-2026-mep-36",
+    "no": 36,
+    "text": "Đảo chiều quay của động cơ một pha có dây quấn phụ được thực hiện theo phương án nào sau đây:",
+    "options": [
+     "Đảo đầu nối dây của 2 dây quấn chính và dây quấn phụ",
+     "Đổi điện áp đặt vào dây quấn stato (điều chỉnh giảm điện áp)",
+     "Đổi điện áp đặt vào dây quấn stato (điều chỉnh tăng điện áp)",
+     "Đảo đầu nối dây của một trong hai dây quấn chính hoặc dây quấn phụ"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "on-tap-ky-thuat-mep-2026-mep-37",
+    "no": 37,
+    "text": "Dòng điện định mức của động cơ là 20A và hệ số khởi động là 3 vậy dòng điện khởi động của động cơ là?",
+    "options": [
+     "60A",
+     "20A",
+     "45A",
+     "10A"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "on-tap-ky-thuat-mep-2026-mep-38",
+    "no": 38,
+    "text": "Vùng phân bố điện áp bước được xác định từ điểm chạm đất ra xung quanh bao nhiêu mét?",
+    "options": [
+     "10 m",
+     "20 m",
+     "30 m",
+     "50 m"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "on-tap-ky-thuat-mep-2026-mep-39",
+    "no": 39,
+    "text": "Đường đi của dòng điện qua cơ thể nào cần đặc biệt tránh vì có thể đi qua vùng ngực?",
+    "options": [
+     "Từ một ngón tay sang ngón kế bên cùng bàn tay",
+     "Từ tay sang tay hoặc từ tay xuống chân",
+     "Chỉ từ gót chân sang mũi chân cùng bên",
+     "Dòng điện không phụ thuộc đường đi"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "on-tap-ky-thuat-mep-2026-mep-40",
+    "no": 40,
+    "text": "Giới hạn điện áp chạm cho phép phải được xác định theo yếu tố nào?",
+    "options": [
+     "Chỉ công suất máy biến áp",
+     "Chỉ màu dây PE",
+     "Một giá trị 50 V cho mọi môi trường và thời gian",
+     "Điều kiện môi trường, thời gian sự cố và quy chuẩn/tiêu chuẩn áp dụng"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "on-tap-ky-thuat-mep-2026-mep-41",
+    "no": 41,
+    "text": "Hệ thống điện một chiều được sử dụng phổ biến ở đâu?",
+    "options": [
+     "Trong các ứng dụng điện tử",
+     "Trong truyền tải điện xa",
+     "Ở các trạm biến áp lớn",
+     "Trong điện lưới quốc gia"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "on-tap-ky-thuat-mep-2026-mep-42",
+    "no": 42,
+    "text": "Để kiểm tra điện trở cách điện, thiết bị nào thường được sử dụng?",
+    "options": [
+     "Đồng hồ vạn năng",
+     "Đo volt kế",
+     "Ampe kế",
+     "Máy đo Megohm"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "on-tap-ky-thuat-mep-2026-mep-43",
+    "no": 43,
+    "text": "Tại sao cần kiểm tra dầu biến áp?",
+    "options": [
+     "Để phát hiện nước và tạp chất",
+     "Để tăng cường điện áp",
+     "Để giảm điện trở",
+     "Để thay dầu mới"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "on-tap-ky-thuat-mep-2026-mep-44",
+    "no": 44,
+    "text": "Tại sao cần phải bảo trì định kỳ hệ thống làm mát trong trạm biến áp?",
+    "options": [
+     "Để ngăn ngừa quá nhiệt",
+     "Để tăng áp suất dầu",
+     "Để giảm tiếng ồn",
+     "Để tăng tuổi thọ thiết bị"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "on-tap-ky-thuat-mep-2026-mep-45",
+    "no": 45,
+    "text": "Môi trường cách điện của tủ trung thế phải được xác định như thế nào?",
+    "options": [
+     "Luôn là dầu",
+     "Luôn là SF6",
+     "Theo thiết kế/chủng loại tủ được phê duyệt; có thể là không khí, khí hoặc cách điện rắn",
+     "Theo màu sơn tủ"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "on-tap-ky-thuat-mep-2026-mep-46",
+    "no": 46,
+    "text": "Cầu chì bảo vệ mạch điện theo nguyên lý nào?",
+    "options": [
+     "Khi dòng điện vượt quá giới hạn trong một khoảng thời gian nhất định, phần tử chảy của cầu chì nóng lên, nóng chảy và làm ngắt mạch điện.",
+     "Tự tăng điện áp khi quá tải",
+     "Đóng lại mạch bằng động cơ",
+     "Đo hệ số công suất"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "on-tap-ky-thuat-mep-2026-mep-47",
+    "no": 47,
+    "text": "Dòng điện trên dây trung tính của hệ ba pha bốn dây tăng bất thường. Nguyên nhân nào cần kiểm tra trước?",
+    "options": [
+     "Tải ba pha hoàn toàn cân bằng và không có sóng hài",
+     "Điện áp dây bằng điện áp pha",
+     "Tải mất cân bằng hoặc có nhiều tải phi tuyến sinh sóng hài bậc ba",
+     "Nhiệt độ phòng máy giảm"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "on-tap-ky-thuat-mep-2026-mep-48",
+    "no": 48,
+    "text": "Sau khi cắt nguồn chính để bảo trì tủ điện, hành động nào xử lý đúng nguy cơ nguồn cấp ngược?",
+    "options": [
+     "Nhận diện mọi nguồn cấp ngược, cô lập–khóa thẻ và kiểm tra hết điện tại điểm làm việc",
+     "Chỉ treo biển tại cửa phòng điện",
+     "Chạm nhanh vào thanh cái để kiểm tra",
+     "Đóng tụ bù trước khi mở tủ"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "on-tap-ky-thuat-mep-2026-mep-49",
+    "no": 49,
+    "text": "Khi phân loại khu vực hoặc thiết bị điện theo cấp điện áp, căn cứ nào phải được sử dụng?",
+    "options": [
+     "Màu vỏ tủ điện",
+     "Kinh nghiệm của ca trực",
+     "Quy chuẩn, tiêu chuẩn và quy trình an toàn điện hiện hành áp dụng cho hệ thống",
+     "Công suất chiếu sáng của phòng"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "on-tap-ky-thuat-mep-2026-mep-50",
+    "no": 50,
+    "text": "Khi dùng dây nối dài cấp điện cho dụng cụ cầm tay ngoài hiện trường, biện pháp bảo vệ nào phải ưu tiên?",
+    "options": [
+     "Chỉ chọn dây có màu dễ nhìn",
+     "Cuộn kín dây để gọn dù đang mang tải lớn",
+     "Bỏ dây bảo vệ để giảm khối lượng",
+     "Dùng dây đúng tải, có nối đất khi yêu cầu và thiết bị chống rò điện/chống giật.; kiểm tra trước khi sử dụng"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "on-tap-ky-thuat-mep-2026-mep-51",
+    "no": 51,
+    "text": "Bảo vệ phù hợp cho động cơ ba pha quan trọng phải được lựa chọn dựa trên yếu tố nào?",
+    "options": [
+     "Chỉ bảo vệ quá tải",
+     "Chỉ chống bụi và nước",
+     "Nguy cơ quá dòng/quá tải, mất hoặc lệch pha, môi trường và yêu cầu phối hợp bảo vệ",
+     "Chỉ nhiệt độ phòng"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "on-tap-ky-thuat-mep-2026-mep-52",
+    "no": 52,
+    "text": "Vì sao dây đồng dẫn điện tốt hơn dây nhôm khi hai dây dẫn có cùng chiều dài và tiết diện; theo công thức ( R = ρ.(l/S ) chọn phương án đúng:",
+    "options": [
+     "Điện trở suất dây đồng lớn hơn dây nhôm",
+     "Điện trở suất dây đồng nhỏ hơn dây nhôm",
+     "Khối lượng riêng dây đồng lớn hơn dây nhôm",
+     "Khối lượng riêng và điện trở suất dây đồng lớn hơn dây nhôm"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "on-tap-ky-thuat-mep-2026-mep-53",
+    "no": 53,
+    "text": "Kết quả đo điện trở nối đất cao hơn giới hạn của thiết kế. Việc nào phù hợp nhất?",
+    "options": [
+     "Kiểm tra mối nối, tình trạng điện cực và điều kiện đo; khắc phục rồi đo xác nhận",
+     "Tăng định mức cầu chì để bỏ qua lỗi",
+     "Tháo dây PE khỏi thiết bị",
+     "Chỉ sơn lại cọc tiếp địa"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "on-tap-ky-thuat-mep-2026-mep-54",
+    "no": 54,
+    "text": "Khi lựa chọn cáp cho một mạch MEP, tiêu chí nào phải được xem xét đồng thời?",
+    "options": [
+     "Chỉ giá mua cáp",
+     "Chỉ màu vỏ cáp",
+     "Chỉ chiều dài tuyến",
+     "Dòng tải, sụt áp, khả năng chịu ngắn mạch, phương pháp lắp đặt và điều kiện môi trường"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "on-tap-ky-thuat-mep-2026-mep-55",
+    "no": 55,
+    "text": "Khi lập biện pháp làm việc gần đường dây điện trên không, khoảng cách tiếp cận an toàn phải xác định theo đâu?",
+    "options": [
+     "Chiều cao của người lao động",
+     "Màu dây dẫn",
+     "Khoảng cách thuận tiện cho thi công",
+     "Cấp điện áp, tình trạng dây dẫn và quy định an toàn điện hiện hành"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "on-tap-ky-thuat-mep-2026-mep-56",
+    "no": 56,
+    "text": "Phát hiện dây dẫn điện trên không có độ võng bất thường gần đường giao thông. Việc đầu tiên là gì?",
+    "options": [
+     "Khoanh vùng, cảnh báo, báo đơn vị quản lý và không tự ý tiếp cận",
+     "Dùng thang kim loại đẩy dây lên",
+     "Cho phương tiện cao đi qua thử",
+     "Tưới nước để làm mát dây"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "on-tap-ky-thuat-mep-2026-mep-57",
+    "no": 57,
+    "text": "Máy biến áp khô bị quá tải và nhiệt độ cuộn dây tiếp tục tăng. Cách xử lý phù hợp là gì?",
+    "options": [
+     "Bỏ qua vì mọi máy đều cho phép quá tải như nhau",
+     "Che cảm biến nhiệt để tránh báo động",
+     "Giảm tải/điều chuyển tải và xử lý theo đặc tính quá tải, bảo vệ và hướng dẫn nhà sản xuất",
+     "Tăng ngưỡng bảo vệ ngay lập tức"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "on-tap-ky-thuat-mep-2026-mep-58",
+    "no": 58,
+    "text": "Trước khi thi công trong hành lang bảo vệ lưới điện, đơn vị thực hiện phải làm gì?",
+    "options": [
+     "Tự ước lượng khoảng cách bằng mắt",
+     "Xác định cấp điện áp, ranh giới hành lang và thống nhất biện pháp an toàn với đơn vị quản lý vận hành",
+     "Chỉ cần mặc áo phản quang",
+     "Dùng máy hàn làm mốc khoảng cách"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "on-tap-ky-thuat-mep-2026-mep-59",
+    "no": 59,
+    "text": "Khi bảo trì máy biến áp, cần kiểm tra yếu tố nào là quan trọng nhất?",
+    "options": [
+     "Kích thước",
+     "Trọng lượng",
+     "Màu sắc",
+     "Độ cách điện"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "on-tap-ky-thuat-mep-2026-mep-60",
+    "no": 60,
+    "text": "Để duy trì tính ổn định của hệ thống điện, cần kiểm tra yếu tố nào thường xuyên?",
+    "options": [
+     "Cân bằng tải ba pha",
+     "Chỉ số tiêu thụ điện",
+     "Số lượng thiết bị",
+     "Nhiệt độ môi trường"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "on-tap-ky-thuat-mep-2026-mep-61",
+    "no": 61,
+    "text": "Một động cơ ba pha có thông số như sau: Tam giác /Sao-220/380V, điện áp quy định cho mỗi dây quấn là 220V. Khi nối vào làm việc ở mạng 380V thì động cơ được nối như thế nào?",
+    "options": [
+     "Được nối Sao - Sao",
+     "Chỉ được nối Tam giác",
+     "Chỉ được nối Sao",
+     "Nối hai trong ba pha lại với nhau, pha còn lại nối với dây trung tính"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "on-tap-ky-thuat-mep-2026-mep-62",
+    "no": 62,
+    "text": "Trước khi hòa đồng bộ máy phát vào thanh cái đang có điện, phải xác nhận điều kiện nào?",
+    "options": [
+     "Chỉ điện áp bằng nhau",
+     "Chỉ tần số bằng nhau",
+     "Chỉ thứ tự pha giống nhau",
+     "Điện áp, tần số, thứ tự pha và góc pha nằm trong giới hạn cho phép"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "on-tap-ky-thuat-mep-2026-mep-63",
+    "no": 63,
+    "text": "Tại sao khi bù hệ số công suất bằng tụ điện thì các tụ điện thường nối tam giác:",
+    "options": [
+     "Tạo ra công suất phản kháng lớn nhất",
+     "Tạo ra công suất tác dụng lớn nhất",
+     "Tạo ra công suất toàn phần lớn nhất",
+     "Tạo ra công suất phản kháng và công suất toàn phần lớn nhất"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "on-tap-ky-thuat-mep-2026-mep-64",
+    "no": 64,
+    "text": "Biện pháp nào sai khi mong muốn giảm dòng ngắn mạch",
+    "options": [
+     "Lắp thêm kháng điện",
+     "Giảm vận hành mạch vòng trên lưới",
+     "Giảm điện áp vận hành",
+     "Mở máy cắt nối trong trạm"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "on-tap-ky-thuat-mep-2026-mep-65",
+    "no": 65,
+    "text": "Sau thời gian dài không vận hành, điều kiện nào quyết định việc thí nghiệm/kiểm tra máy biến áp trước khi đóng điện?",
+    "options": [
+     "Chỉ số ngày ngừng máy cố định cho mọi máy",
+     "Quy trình quản lý tài sản, tình trạng bảo quản, lịch sử thiết bị, khuyến cáo nhà sản xuất và yêu cầu pháp lý",
+     "Màu dầu nhìn qua kính",
+     "Số lượng người trong ca"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "on-tap-ky-thuat-mep-2026-mep-66",
+    "no": 66,
+    "text": "Khi 2 chân người đứng trên cùng một đường đẳng áp trong vùng có phân bố điện áp, thì điện áp bước đặt vào người (Ub) bằng:",
+    "options": [
+     "0",
+     "Up",
+     "Ud",
+     "Utx"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "on-tap-ky-thuat-mep-2026-mep-67",
+    "no": 67,
+    "text": "Muốn đảo chiều quay động cơ xoay chiều ba pha, thao tác nguyên lý nào đúng?",
+    "options": [
+     "Đảo vị trí bất kỳ hai trong ba pha cấp cho động cơ",
+     "Đảo duy nhất dây trung tính",
+     "Nối chung ba pha",
+     "Tăng tần số nguồn nhưng giữ nguyên thứ tự pha"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "on-tap-ky-thuat-mep-2026-mep-68",
+    "no": 68,
+    "text": "Giá trị đặt rơ-le nhiệt cho động cơ phải dựa trên căn cứ nào?",
+    "options": [
+     "Một bội số cố định 1,5 lần cho mọi động cơ",
+     "Dòng định mức, hệ số phục vụ, kiểu khởi động và hướng dẫn của nhà sản xuất/phối hợp bảo vệ",
+     "Công suất chiếu sáng gần nhất",
+     "Màu nhãn động cơ"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "on-tap-ky-thuat-mep-2026-mep-69",
+    "no": 69,
+    "text": "Tính hiệu suất và tổn hao của máy biến áp 1 pha. Biết rằng công suất đưa vào P1 = 50kW, công suất lấy ra P2 = 45kW.",
+    "options": [
+     "η=90%, ΔP = 10%",
+     "η=10%, ΔP = 90%",
+     "η=111%, ΔP = 5 %",
+     "η=90%, ΔP = 5%"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "on-tap-ky-thuat-mep-2026-mep-70",
+    "no": 70,
+    "text": "Công suất biểu kiến của hệ ba pha cân bằng được tính thế nào?",
+    "options": [
+     "S = U dây × I dây",
+     "S = √3 × U dây × I dây",
+     "S = P + Q",
+     "S = I²R"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "on-tap-ky-thuat-mep-2026-mep-71",
+    "no": 71,
+    "text": "Hệ số quá điện áp khi ngắn mạch chạm đất trong mạng điện 3 pha là gì",
+    "options": [
+     "Là tỷ số giữa các điện áp của pha không bị sự cố khi có ngắn mạch chạm đất và điện áp định mức của lưới điện",
+     "Là giá trị lớn nhất trong 3 trường hợp trên.",
+     "Là tỷ số giữa điện áp của pha không bị sự cố khi có ngắn mạch chạm đất và điện áp pha đó trước khi có ngắn mạch chạm đất.",
+     "Là tỷ số giữa các điện áp của pha không bị sự cố và pha có sự cố khi có ngắn mạch chạm đất"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "on-tap-ky-thuat-mep-2026-mep-72",
+    "no": 72,
+    "text": "Thiết bị bảo vệ chạm đất sử dụng trong hệ thống điện là loại nào trong các loại sau đây",
+    "options": [
+     "Earth fault relay",
+     "Under voltage relay",
+     "Over voltage relay",
+     "timer"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "on-tap-ky-thuat-mep-2026-mep-73",
+    "no": 73,
+    "text": "Cửa giữa 2 buồng thiết bị phân phối (TBPP) có điện áp khác nhau, trong đó có một buồng điện áp thấp dưới 1kV thì được mở về phía nào?",
+    "options": [
+     "Phía có điện áp cao",
+     "Phía có điện áp thấp",
+     "Không được mở cửa. Phải ngăn hoàn toàn bằng tường chống cháy.",
+     "Không quy định"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "on-tap-ky-thuat-mep-2026-mep-74",
+    "no": 74,
+    "text": "Trong tủ điện dạng phân cách Form 3b, đặc điểm nào đúng?",
+    "options": [
+     "Thanh cái tách khỏi các khối chức năng; các khối tách nhau; đầu nối ngoài tách khỏi thanh cái nhưng có thể chung giữa các khối",
+     "Không có vách phân cách nào",
+     "Mọi đầu nối ngoài của từng khối đều tách riêng hoàn toàn",
+     "Chỉ vỏ tủ được chia màu"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "on-tap-ky-thuat-mep-2026-mep-75",
+    "no": 75,
+    "text": "Trong tủ điện dạng phân cách Form 4b, đặc điểm nào đúng?",
+    "options": [
+     "Các đầu nối ngoài của mọi khối được dùng chung một khoang",
+     "Thanh cái, từng khối chức năng và đầu nối ngoài của từng khối được phân cách theo yêu cầu Form 4b",
+     "Chỉ thanh cái chính có che chắn",
+     "Không cần phân cách đầu nối ngoài"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "on-tap-ky-thuat-mep-2026-mep-76",
+    "no": 76,
+    "text": "Trong quá trình làm việc, máy biến áp có các loại tổn hao nào?",
+    "options": [
+     "Tổn hao từ và tổn hao điện",
+     "Chỉ có tổn hao điện",
+     "Chỉ có tổn hao từ",
+     "Không bị tổn hao nào"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "on-tap-ky-thuat-mep-2026-mep-77",
+    "no": 77,
+    "text": "Một tủ điện xuất hiện điểm nóng tại đầu cáp nhưng dòng tải chưa vượt định mức. Bước xử lý phù hợp nhất là gì?",
+    "options": [
+     "Cô lập an toàn, kiểm tra lực siết–tiếp xúc–oxy hóa và đánh giá lại bằng đo nhiệt sau khắc phục",
+     "Tăng định mức máy cắt",
+     "Phun nước làm mát đầu cáp",
+     "Bỏ qua vì dòng chưa quá tải"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "on-tap-ky-thuat-mep-2026-mep-78",
+    "no": 78,
+    "text": "Dòng ba pha của động cơ lần lượt là 48 A, 49 A và 62 A. Nhận định vận hành phù hợp là gì?",
+    "options": [
+     "Tải hoàn toàn cân bằng",
+     "Có mất cân bằng dòng đáng kể; cần kiểm tra nguồn, đầu nối và tình trạng động cơ",
+     "Chắc chắn cảm biến nhiệt bị hỏng",
+     "Chỉ cần tăng điện áp pha có dòng cao"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "on-tap-ky-thuat-mep-2026-mep-79",
+    "no": 79,
+    "text": "Máy phát dự phòng khởi động nhưng ATS không chuyển nguồn dù điện lưới đã mất. Nhóm tín hiệu nào cần kiểm tra trước?",
+    "options": [
+     "Mức nhiên liệu và màu vỏ máy",
+     "Chỉ nhiệt độ phòng máy",
+     "Trạng thái nguồn lưới, điện áp/tần số máy phát, chế độ ATS và các liên động cho phép chuyển",
+     "Áp lực nước sinh hoạt"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "on-tap-ky-thuat-mep-2026-mep-80",
+    "no": 80,
+    "text": "Khi thử mất điện lưới định kỳ, tiêu chí nào xác nhận hệ máy phát–ATS đạt yêu cầu?",
+    "options": [
+     "Máy phát có tiếng nổ lớn",
+     "Đèn phòng máy vẫn sáng",
+     "Chỉ có điện áp tại đầu cực máy phát",
+     "Khởi động, ổn định điện áp/tần số, chuyển tải và hoàn trả nguồn đúng trình tự/thời gian thiết kế"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "on-tap-ky-thuat-mep-2026-mep-81",
+    "no": 81,
+    "text": "Ắc quy UPS suy giảm dung lượng nhưng điện áp không tải vẫn bình thường. Cách đánh giá phù hợp là gì?",
+    "options": [
+     "Thử dung lượng/nội trở theo hướng dẫn và đánh giá xu hướng từng khối ắc quy",
+     "Chỉ đo điện áp không tải rồi kết luận tốt",
+     "Đấu tắt khối ắc quy yếu",
+     "Tăng nhiệt độ phòng ắc quy"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "on-tap-ky-thuat-mep-2026-mep-82",
+    "no": 82,
+    "text": "Khi bảo trì bộ tụ bù, nguy cơ năng lượng tồn dư phải được kiểm soát thế nào?",
+    "options": [
+     "Đóng lại contactor để xả nhanh",
+     "Cô lập, chờ thời gian xả theo nhà sản xuất và đo xác nhận điện áp trước khi chạm",
+     "Chạm hai cực bằng dụng cụ bất kỳ",
+     "Chỉ tháo dây trung tính"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "on-tap-ky-thuat-mep-2026-mep-83",
+    "no": 83,
+    "text": "Bảo vệ quá dòng của một nhánh thường tác động khi khởi động động cơ dù dòng vận hành bình thường. Hướng đánh giá nào phù hợp?",
+    "options": [
+     "Tăng định mức bảo vệ ngay",
+     "Tháo bỏ bảo vệ",
+     "Đối chiếu dòng/thời gian khởi động với đặc tuyến bảo vệ, tải cơ khí và phối hợp chọn lọc",
+     "Giảm tiết diện cáp"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "on-tap-ky-thuat-mep-2026-mep-84",
+    "no": 84,
+    "text": "Khi đo điện trở cách điện cáp, yêu cầu an toàn sau phép đo là gì?",
+    "options": [
+     "Đóng điện lại ngay khi đồng hồ vừa dừng",
+     "Cầm trực tiếp vào đầu cáp để kiểm tra",
+     "Nối đầu cáp với mạch điều khiển",
+     "Xả điện tích, kiểm tra hết điện và khôi phục đấu nối/che chắn theo quy trình"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "on-tap-ky-thuat-mep-2026-mep-85",
+    "no": 85,
+    "text": "Một bộ biến tần điều khiển tốc độ động cơ báo lỗi quá điện áp trên mạch điện một chiều trung gian khi động cơ giảm tốc. Nguyên nhân nào cần được xem xét?",
+    "options": [
+     "Thời gian giảm tốc quá ngắn làm năng lượng tái sinh nâng điện áp DC bus",
+     "Tải không có quán tính",
+     "Tần số nguồn bằng 0 Hz",
+     "Bộ lọc gió quá sạch"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "on-tap-ky-thuat-mep-2026-mep-86",
+    "no": 86,
+    "text": "Khi thay động cơ mới cho bơm, bước nào xác nhận chiều quay an toàn?",
+    "options": [
+     "Mở hoàn toàn van xả rồi chạy lâu",
+     "Nhấp thử trong điều kiện cho phép, quan sát chiều quay và xác nhận với mũi tên thiết bị",
+     "Đảo cả ba pha trước khi thử",
+     "Tháo khớp nối khi bơm đang chạy"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "on-tap-ky-thuat-mep-2026-mep-87",
+    "no": 87,
+    "text": "Hai bơm ly tâm giống nhau vận hành song song, nhưng một bơm bị quá dòng. Nội dung nào cần kiểm tra trước?",
+    "options": [
+     "Kiểm tra chiều quay, độ mở van, lưu lượng, áp lực và tình trạng cơ khí của bơm bị quá dòng",
+     "Tăng dòng đặt rơ-le nhiệt",
+     "Đóng kín van hút cả hai bơm",
+     "Tháo cảm biến áp suất"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "on-tap-ky-thuat-mep-2026-mep-88",
+    "no": 88,
+    "text": "Thiết bị bếp điện bị thiết bị bảo vệ chống điện giật tác động ngắt điện sau khi vệ sinh bằng nước. Việc đầu tiên cần làm là gì?",
+    "options": [
+     "Đóng lại RCD nhiều lần",
+     "Dùng cầu nối bỏ qua RCD",
+     "Cô lập thiết bị, kiểm tra xâm nhập ẩm và điện trở cách điện trước khi cho vận hành lại",
+     "Tăng công suất gia nhiệt"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "on-tap-ky-thuat-mep-2026-mep-89",
+    "no": 89,
+    "text": "Trong hệ thống điều hòa không khí, môi chất lạnh (gas lạnh) thường được sử dụng để làm gì?",
+    "options": [
+     "Hút bụi trong không khí",
+     "Trao đổi nhiệt để làm lạnh hoặc làm nóng không khí",
+     "Cấp nguồn điện cho hệ thống",
+     "Tạo độ ẩm cho không khí"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "on-tap-ky-thuat-mep-2026-mep-90",
+    "no": 90,
+    "text": "Vì sao phải xả nước ngưng và kiểm tra bộ tách nước của hệ thống khí nén?",
+    "options": [
+     "Để tăng nhiệt độ khí nén",
+     "Để hạn chế ăn mòn, hư hỏng thiết bị và nước đi vào mạng khí nén",
+     "Để tăng độ ẩm khí cấp",
+     "Để thay thế việc bôi trơn máy nén"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "on-tap-ky-thuat-mep-2026-mep-91",
+    "no": 91,
+    "text": "Vai trò chính của máy nén trong hệ thống điều hòa không khí là gì?",
+    "options": [
+     "Giảm nhiệt độ của môi chất lạnh",
+     "Tăng áp suất và nhiệt độ của môi chất lạnh",
+     "Điều chỉnh tốc độ của môi chất lạnh",
+     "Tăng độ ẩm cho không khí"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "on-tap-ky-thuat-mep-2026-mep-92",
+    "no": 92,
+    "text": "Hệ số COP (Coefficient of Performance) của một hệ thống điều hòa được hiểu là gì?",
+    "options": [
+     "Lượng điện năng tiêu thụ trên mỗi đơn vị nhiệt độ giảm được",
+     "Tỷ lệ giữa công suất làm lạnh với công suất tiêu thụ điện",
+     "Công suất tiêu thụ điện của máy nén",
+     "Số vòng quay của quạt điều hòa"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "on-tap-ky-thuat-mep-2026-mep-93",
+    "no": 93,
+    "text": "Khi lắp đặt dàn nóng của hệ thống điều hòa, vị trí lý tưởng nhất là?",
+    "options": [
+     "Ở nơi có ánh nắng trực tiếp",
+     "Ở nơi thoáng mát và có không gian rộng",
+     "Ở nơi kín gió và không có ánh sáng",
+     "Ở góc tối của căn nhà"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "on-tap-ky-thuat-mep-2026-mep-94",
+    "no": 94,
+    "text": "Thiết bị nào giúp duy trì nhiệt độ ổn định trong phòng khi sử dụng điều hòa?",
+    "options": [
+     "Cảm biến nhiệt độ",
+     "Dàn nóng",
+     "Van tiết lưu",
+     "Quạt thông gió"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "on-tap-ky-thuat-mep-2026-mep-95",
+    "no": 95,
+    "text": "Khi vệ sinh định kỳ điều hòa, bộ phận nào cần được làm sạch để tăng hiệu suất làm mát?",
+    "options": [
+     "Lớp vỏ ngoài của điều hòa",
+     "Dàn lạnh và dàn nóng",
+     "Van tiết lưu",
+     "Bảng điều khiển từ xa"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "on-tap-ky-thuat-mep-2026-mep-96",
+    "no": 96,
+    "text": "Trước khi chạy thử liên động hệ thống HVAC, điều kiện nào phải được xác nhận?",
+    "options": [
+     "Chỉ cần quạt quay đúng chiều",
+     "Thiết bị, nguồn, van/damper, cảm biến, bảo vệ và logic điều khiển đã kiểm tra theo hồ sơ được duyệt",
+     "Chỉ cần phòng đạt nhiệt độ đặt",
+     "Đã sơn hoàn thiện phòng máy"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "on-tap-ky-thuat-mep-2026-mep-97",
+    "no": 97,
+    "text": "Trước khi đưa hệ thống lạnh thuộc danh mục kiểm định vào sử dụng, cần làm gì?",
+    "options": [
+     "Chỉ kiểm tra màu sơn đường ống",
+     "Chỉ chạy thử một phút",
+     "Xác định đối tượng, thời hạn và thực hiện kiểm định theo quy định hiện hành; lưu hồ sơ hợp lệ",
+     "Thay môi chất lạnh bất kể tình trạng"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "on-tap-ky-thuat-mep-2026-mep-98",
+    "no": 98,
+    "text": "Dàn lạnh VRV làm lạnh kém trong khi bộ lọc rất bẩn. Tác động trực tiếp dễ xảy ra là gì?",
+    "options": [
+     "Lưu lượng gió tăng mạnh",
+     "Áp suất nước ngưng tăng do bơm cấp nước",
+     "Lưu lượng gió giảm, trao đổi nhiệt kém và có thể đóng băng dàn",
+     "Điện áp lưới tăng"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "on-tap-ky-thuat-mep-2026-mep-99",
+    "no": 99,
+    "text": "Nước ngưng điều hòa tràn khỏi máng dù đường ống không tắc hoàn toàn. Yếu tố nào cần kiểm tra?",
+    "options": [
+     "Màu sơn dàn lạnh",
+     "Công suất máy phát",
+     "Nồng độ clo",
+     "Độ dốc ống, bẫy nước, thông hơi, lưu lượng và hoạt động bơm nước ngưng"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "on-tap-ky-thuat-mep-2026-mep-100",
+    "no": 100,
+    "text": "Áp suất hút hệ thống lạnh thấp bất thường kèm dàn bay hơi đóng tuyết. Hướng kiểm tra phù hợp là gì?",
+    "options": [
+     "Lưu lượng gió/tải nhiệt, độ sạch lọc–dàn, van tiết lưu và lượng môi chất theo quy trình",
+     "Chỉ tăng môi chất ngay",
+     "Tắt bảo vệ áp suất thấp",
+     "Tăng nhiệt độ ngưng tụ"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "on-tap-ky-thuat-mep-2026-mep-101",
+    "no": 101,
+    "text": "Sau khi sửa đường ống môi chất lạnh, vì sao phải hút chân không đúng quy trình?",
+    "options": [
+     "Để tăng độ ẩm trong hệ thống",
+     "Loại không khí và hơi ẩm trước khi nạp/vận hành",
+     "Để thay thế thử kín",
+     "Để làm sạch lọc gió"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "on-tap-ky-thuat-mep-2026-mep-102",
+    "no": 102,
+    "text": "Chiller có chênh nhiệt nước lạnh thấp hơn bình thường trong khi tải tòa nhà không giảm. Cần kiểm tra nhóm yếu tố nào?",
+    "options": [
+     "Chỉ màu bảo ôn",
+     "Chỉ áp lực nước cấp sinh hoạt",
+     "Lưu lượng nước, bypass, tải thực, cảm biến nhiệt độ và tình trạng trao đổi nhiệt",
+     "Định mức bình chữa cháy"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "on-tap-ky-thuat-mep-2026-mep-103",
+    "no": 103,
+    "text": "Lõi thép của máy biến áp đóng vai trò mạch từ, do đó chỉ có thể được làm từ các vật liệu:",
+    "options": [
+     "Sắt từ",
+     "Kim loại",
+     "Đồng, Nhôm",
+     "Bán dẫn"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "on-tap-ky-thuat-mep-2026-mep-104",
+    "no": 104,
+    "text": "Một động cơ bơm nước chạy êm nhưng không có nước đầu ra nguyên nhân là do:",
+    "options": [
+     "Mất điện; hở mạch; động cơ cháy",
+     "Mất nước mồi dây quấn động cơ bị chập",
+     "Mất nguồn điện đầu ống hút bị tắc",
+     "Đầu ống hút bị tắc, nguồn nước đầu hút bị cạn"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "on-tap-ky-thuat-mep-2026-mep-105",
+    "no": 105,
+    "text": "Yêu cầu thủy lực quan trọng đối với mạng đường ống cấp nước là gì?",
+    "options": [
+     "Tăng tổn thất ma sát tối đa",
+     "Chọn ống lớn nhất không cần tính toán",
+     "Giảm độ bền để dễ sửa",
+     "Đủ lưu lượng/áp lực, hạn chế tổn thất, bền và phù hợp chất lượng nước"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "on-tap-ky-thuat-mep-2026-mep-106",
+    "no": 106,
+    "text": "Thế nào là làm mềm nước?",
+    "options": [
+     "Chuyển nước từ thể rắn sang thể lỏng",
+     "Tăng hàm lượng các muối của Ca2+ và Mg2+ có trong nước",
+     "Loại bỏ Fe2+ và Mn2+ có trong nước",
+     "Loại bỏ hàm lượng các muối của Ca2+ và Mg2+ có trong nước"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "on-tap-ky-thuat-mep-2026-mep-107",
+    "no": 107,
+    "text": "Ô nhiễm nguồn nước là gì?",
+    "options": [
+     "Là sự biến đổi tính chất vật lý, tính chất hóa học và thành phần sinh học của nước không phù hợp với tiêu chuẩn, quy chuẩn kỹ thuật cho phép, gây ảnh hưởng xấu đến con người và sinh vật",
+     "Là nguồn nước có nhiều rác thải, bị nhiễm bẩn gây biến đổi tính chất vật lý, tính chất hóa học và thành phần sinh học của nước nhưng vẫn phù hợp với tiêu chuẩn, quy chuẩn kỹ thuật cho phép.",
+     "Là nguồn nước có sự ổn định về tính chất vật lý của nước phù hợp với tiêu chuẩn, quy chuẩn kỹ thuật cho phép và không gây ảnh hưởng đến con người và sinh vật",
+     "Là sự biến đổi tính chất vật lý của nước phù hợp với tiêu chuẩn, quy chuẩn kỹ thuật cho phép và không gây ảnh hưởng đến con người và sinh vật"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "on-tap-ky-thuat-mep-2026-mep-108",
+    "no": 108,
+    "text": "Nhu cầu oxy hóa sinh hóa (BOD) trong nước thải là gì?",
+    "options": [
+     "Là lượng oxy cần thiết để khử các chất hữu cơ trong nước thải theo phản ứng hóa học",
+     "Là lượng oxy cần thiết để oxy hóa các chất hữu cơ trong thành phần nước thải bằng phương pháp hóa học",
+     "Là lượng oxy cần thiết để oxy hóa các chất hữu cơ trong thành phần nước thải bằng phương pháp sinh học",
+     "Là lượng hóa chất cần cung cấp để xử lý các chất hữu cơ trong nước thải"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "on-tap-ky-thuat-mep-2026-mep-109",
+    "no": 109,
+    "text": "Các chỉ tiêu vật lý của nước bao gồm",
+    "options": [
+     "Nhiệt độ, độ đục, mùi vị, độ nhớt, độ dẫn điện, tính phóng xạ",
+     "Nhiệt độ, độ màu, độ đục,độ nhớt, độ dẫn điện, tính phóng xạ",
+     "Nhiệt độ, độ màu, độ đục, mùi vị, độ nhớt, độ dẫn điện.",
+     "Nhiệt độ, độ màu, độ đục, mùi vị, dộ nhớt, độ dẫn điện, tính phóng xạ"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "on-tap-ky-thuat-mep-2026-mep-110",
+    "no": 110,
+    "text": "Vị trí châm clo trong dây chuyền nước cấp được quyết định theo nguyên tắc nào?",
+    "options": [
+     "Theo mục tiêu tiền oxy hóa/khử trùng và tính toán quá trình, không mặc định một vị trí cho mọi hệ thống",
+     "Luôn chỉ châm trước bể lắng",
+     "Luôn chỉ châm sau bơm cấp I",
+     "Theo màu ống hóa chất"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "on-tap-ky-thuat-mep-2026-mep-111",
+    "no": 111,
+    "text": "Nguyên lý phổ biến để khử sắt trong nước ngầm là gì?",
+    "options": [
+     "Chỉ tăng độ cứng",
+     "Oxy hóa sắt hòa tan rồi tách cặn bằng lắng/lọc phù hợp",
+     "Chỉ bổ sung muối ăn",
+     "Giảm toàn bộ oxy hòa tan"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "on-tap-ky-thuat-mep-2026-mep-112",
+    "no": 112,
+    "text": "Độ cứng của nước do hàm lượng cation hòa tan nào trong nước tạo ra?",
+    "options": [
+     "Ca2+, Mg2+",
+     "Ca2+, Al3+",
+     "Al3+, Mg2+",
+     "Na+, Ca2+"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "on-tap-ky-thuat-mep-2026-mep-113",
+    "no": 113,
+    "text": "Nồng độ Clo dư còn lại trong nước sau thời gian tiếp xúc 40 – 60 phút tại bể chứa nước sạch nằm trong khoảng nào?",
+    "options": [
+     "0,3-0,5mg/l",
+     "0,5-0,7 mg/l",
+     "0,1 – 0,3 mg/l",
+     "0,7 – 0,9 mg/l"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "on-tap-ky-thuat-mep-2026-mep-114",
+    "no": 114,
+    "text": "Nguyên nhân gây nên độ đục của nước?",
+    "options": [
+     "Do các vi sinh vật",
+     "Do các ion hoà tan trong nước",
+     "Do các hạt lơ hửng trong nước",
+     "Do hoá chất hoà tan"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "on-tap-ky-thuat-mep-2026-mep-115",
+    "no": 115,
+    "text": "Khi khử trùng nước bằng clo, liều châm và thời gian tiếp xúc phải được điều chỉnh dựa trên yếu tố nào?",
+    "options": [
+     "Chỉ dựa vào màu của bồn chứa",
+     "Chất lượng nước đầu vào, nhu cầu clo, lưu lượng và clo dư mục tiêu theo quy định/quy trình",
+     "Chỉ dựa vào công suất bơm",
+     "Theo nhiệt độ phòng điện"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "on-tap-ky-thuat-mep-2026-mep-116",
+    "no": 116,
+    "text": "Khi sử dụng một giới hạn chất lượng nước trong đề thi, yêu cầu nào là đúng?",
+    "options": [
+     "Dùng trị số của bất kỳ văn bản cũ nào",
+     "Đối chiếu đúng chỉ tiêu, đối tượng nước và phiên bản quy chuẩn còn hiệu lực",
+     "Lấy giá trị trung bình của các quy chuẩn",
+     "Dùng thông số của thiết bị điện"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "on-tap-ky-thuat-mep-2026-mep-117",
+    "no": 117,
+    "text": "Khoảng pH vận hành hồ bơi phải được kiểm soát dựa trên đâu?",
+    "options": [
+     "Một giá trị cố định cho mọi hồ",
+     "Cảm nhận của người vận hành",
+     "Quy chuẩn/yêu cầu y tế, loại hóa chất và quy trình vận hành được phê duyệt",
+     "Công suất máy phát"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "on-tap-ky-thuat-mep-2026-mep-118",
+    "no": 118,
+    "text": "Khi đánh giá chất lượng nước sạch, giới hạn pH phải lấy từ đâu?",
+    "options": [
+     "Một bảng hướng dẫn đã hết hiệu lực",
+     "Giá trị do người vận hành tự chọn",
+     "Quy chuẩn hiện hành và quy trình kiểm soát chất lượng nước được phê duyệt",
+     "Tài liệu hướng dẫn máy phát điện"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "on-tap-ky-thuat-mep-2026-mep-119",
+    "no": 119,
+    "text": "Hàm lượng sắt sau xử lý tăng vượt giới hạn kiểm soát. Bước xử lý vận hành phù hợp là gì?",
+    "options": [
+     "Kiểm tra quá trình làm thoáng/oxy hóa, pH, tải lọc và chu kỳ rửa lọc trước khi điều chỉnh",
+     "Tăng polymer vô hạn",
+     "Dừng đo chất lượng nước",
+     "Tăng điện áp bơm định lượng"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "on-tap-ky-thuat-mep-2026-mep-120",
+    "no": 120,
+    "text": "Khi vận hành bể lọc cần chú ý đến các chỉ tiêu nào?",
+    "options": [
+     "Độ đục của nước sau lọc và trước lọc",
+     "Thời gian sục rửa bể lọc, lượng nước chứa trong bể tinh sau lọc",
+     "Độ đục của nước, chu kỳ rửa lọc, Lượng nước sau lọc so với trước lọc",
+     "Độ đục của nước, hàm lượng cặn hoà tan của nước, lượng hoá chất cần xử lý"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "on-tap-ky-thuat-mep-2026-mep-121",
+    "no": 121,
+    "text": "Trong quá trình vận hành hệ thống Xử lý nước cấp sinh hoạt xử lý bằng hoá chất, nếu phát hiện nước có nhiều bọt trắng, dính bết thì cần điều chỉnh Giảm chất nào?",
+    "options": [
+     "Giảm pH",
+     "Giảm PAC",
+     "Giảm NaOH",
+     "Giảm Polymer"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "on-tap-ky-thuat-mep-2026-mep-122",
+    "no": 122,
+    "text": "Trong hệ thống xử lý nước thải, bùn hoạt tính được phát sinh từ đâu?",
+    "options": [
+     "Bể Aerotank",
+     "Bể điều hoà",
+     "Song chắn rác",
+     "Bể khử trùng"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "on-tap-ky-thuat-mep-2026-mep-123",
+    "no": 123,
+    "text": "Chỉ tiêu sắt trong nước sạch phải được đánh giá theo căn cứ nào?",
+    "options": [
+     "Giới hạn của quy chuẩn đã hết hiệu lực",
+     "Màu của đường ống",
+     "Thông số máy bơm",
+     "Quy chuẩn hiện hành, kế hoạch kiểm soát chất lượng và kết quả thử nghiệm bằng phương pháp phù hợp"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "on-tap-ky-thuat-mep-2026-mep-124",
+    "no": 124,
+    "text": "Vai trò chính của bể thiếu khí (Anoxic) trong xử lý nước thải sinh học là gì?",
+    "options": [
+     "Tạo điều kiện khử nitrat thành khí nitơ khi có nguồn carbon thích hợp",
+     "Oxy hóa amoni trong điều kiện DO cao",
+     "Khử trùng bằng clo",
+     "Tách dầu bằng trọng lực"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "on-tap-ky-thuat-mep-2026-mep-125",
+    "no": 125,
+    "text": "Thí nghiệm Jartest khi vận hành hệ thống Xử lý nước cấp nhằm mục đích gì?",
+    "options": [
+     "Xác định nồng độ chất keo tụ và pH tối ưu",
+     "Xác định độ đục của nước, pH và thời gian keo tụ tối ưu.",
+     "Xác đinh lưu lượng nước, thời gian keo tụ và nồng độ keo tụ tối ưu",
+     "Xác định nồng độ chất keo tụ, pH và thời gian keo tụ tối ưu"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "on-tap-ky-thuat-mep-2026-mep-126",
+    "no": 126,
+    "text": "Áp lực mạng cấp nước giảm vào giờ cao điểm nhưng bể chứa còn đủ nước. Nội dung nào cần kiểm tra trước?",
+    "options": [
+     "Màu nước trong bể",
+     "Trạng thái bơm, biến tần, van, rò rỉ và nhu cầu lưu lượng thực tế",
+     "Nhiệt độ máy biến áp",
+     "Độ sáng phòng bơm"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "on-tap-ky-thuat-mep-2026-mep-127",
+    "no": 127,
+    "text": "Độ đục nước sau lọc tăng nhanh trước thời điểm rửa lọc dự kiến. Hướng xử lý phù hợp là gì?",
+    "options": [
+     "Tăng lưu lượng qua lọc để bù",
+     "Bỏ qua cho đến cuối tháng",
+     "Kiểm tra tải cặn, tổn thất áp, chất lượng keo tụ và thực hiện rửa lọc khi đạt điều kiện",
+     "Giảm tần số máy phát"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "on-tap-ky-thuat-mep-2026-mep-128",
+    "no": 128,
+    "text": "Sau rửa lọc, nước đầu ra còn đục trong thời gian ngắn. Cách vận hành phù hợp là gì?",
+    "options": [
+     "Đưa ngay toàn bộ nước vào bể sạch",
+     "Tắt thiết bị đo độ đục",
+     "Tăng clo để che độ đục",
+     "Xả lọc đầu/tuần hoàn theo quy trình đến khi chất lượng đạt tiêu chí rồi mới đưa vào hệ thống"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "on-tap-ky-thuat-mep-2026-mep-129",
+    "no": 129,
+    "text": "DO bể hiếu khí giảm trong khi tải hữu cơ tăng. Hành động vận hành phù hợp là gì?",
+    "options": [
+     "Kiểm tra máy thổi khí, phân phối khí, tải bùn và điều chỉnh cấp khí theo mục tiêu vận hành",
+     "Dừng toàn bộ sục khí",
+     "Tăng nước mưa vào bể",
+     "Chỉ tăng clo tại bể hiếu khí"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "on-tap-ky-thuat-mep-2026-mep-130",
+    "no": 130,
+    "text": "Bùn hoạt tính lắng kém và nổi bùn tại bể lắng thứ cấp. Dữ liệu nào cần xem xét cùng nhau?",
+    "options": [
+     "Chỉ màu sơn thành bể",
+     "SVI/khả năng lắng, DO, F/M, tuổi bùn, tải thủy lực và hiện tượng khử nitrat",
+     "Chỉ công suất bơm nước sạch",
+     "Chỉ nhiệt độ tủ điện"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "on-tap-ky-thuat-mep-2026-mep-131",
+    "no": 131,
+    "text": "Đầu báo khói thường xuyên báo giả tại khu vực có hơi nước. Giải pháp phù hợp nhất là gì?",
+    "options": [
+     "Che kín đầu báo bằng túi nilon",
+     "Đánh giá môi trường, vị trí/loại đầu báo và điều chỉnh theo thiết kế được phê duyệt",
+     "Tháo đầu báo khỏi hệ thống",
+     "Tăng độ nhạy tối đa"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "on-tap-ky-thuat-mep-2026-mep-132",
+    "no": 132,
+    "text": "Chức năng cốt lõi của hệ thống báo cháy tự động là gì?",
+    "options": [
+     "Chỉ mở cửa thoát nạn",
+     "Chỉ cấp nước chữa cháy",
+     "Thay thế lực lượng ứng cứu",
+     "Phát hiện/tếp nhận tín hiệu cháy, cảnh báo và điều khiển liên động theo thiết kế"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "on-tap-ky-thuat-mep-2026-mep-133",
+    "no": 133,
+    "text": "Tín hiệu công tắc giám sát trạng thái van chữa cháy thường được phân loại là gì?",
+    "options": [
+     "Tín hiệu báo cháy từ đầu báo khói",
+     "Tín hiệu giám sát/supervisory về trạng thái van",
+     "Tín hiệu đo điện năng",
+     "Tín hiệu điều khiển máy nén lạnh"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "on-tap-ky-thuat-mep-2026-mep-134",
+    "no": 134,
+    "text": "Những hoạt động giảm thiểu rủi ro đối với kho chất thải trong sổ tay an toàn PCCC Sunworld Ban hành",
+    "options": [
+     "Giữ nhiệt độ môi trường ở điều kiện phù hợp, luôn giữ ẩm để tránh phát nhiệt",
+     "Đặt biệt quan tâm đến hệ thống giám sát và cứu hỏa trong kho chất thải vì đây là khu vực có nguy cơ cao, Không để chất bẩn tích tụ",
+     "Thu dọn thường xuyên rác thải, kiểm tra hàng ngày",
+     "Luôn mở cửa để thuận tiện việc vận chuyển và kiểm tra"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "on-tap-ky-thuat-mep-2026-mep-135",
+    "no": 135,
+    "text": "Những hoạt động giảm thiểu rủi ro đối với Phòng điện trong sổ tay an toàn PCCC Sunworld Ban hành",
+    "options": [
+     "Kiểm tra và ghi nhận lại tình trạng của phòng điện và thực hiện Danh mục Kiểm tra mỗi tháng, Không lưu trữ bất kỳ đồ vật, hàng hóa bên trong phòng điện, Đảm bảo luôn đóng và khóa, duy trì sự sạch sẽ gọn gàng",
+     "Kiềm tra thường xuyên và vệ sinh mỗi 3 tháng, có thể để lưu trữ một số đồ dự phòng phù hợp",
+     "Có thể lưu trữ một số đồ phục vụ thay thế, sửa chữa tại phòng điện.",
+     "Cửa duy trì đóng và không khóa, thuận tiện cho việc kiểm tra và sửa chữa thường xuyên"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "on-tap-ky-thuat-mep-2026-mep-136",
+    "no": 136,
+    "text": "Đang thao tác thiết bị trung thế ngoài trời thì xuất hiện giông sét gần khu vực. Cách xử lý phù hợp là gì?",
+    "options": [
+     "Tiếp tục thao tác nhanh hơn",
+     "Che ô kim loại và tiếp tục",
+     "Dừng thao tác, đưa người về vị trí an toàn và thực hiện theo quy trình ứng phó giông sét",
+     "Phun nước làm mát thiết bị"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "on-tap-ky-thuat-mep-2026-mep-137",
+    "no": 137,
+    "text": "Nhân viên không nên làm gì khi có cháy?",
+    "options": [
+     "Tập kết khách hàng tại nơi an toàn, xa nơi nguy hiểm",
+     "Sử dụng thang máy",
+     "Báo động cho mọi người - gọi cứu trợ",
+     "Luôn hành động đúng để giữ an toàn cho bản thân"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "on-tap-ky-thuat-mep-2026-mep-138",
+    "no": 138,
+    "text": "Khi thử hệ thống báo cháy định kỳ, nội dung nào xác nhận đầy đủ nhất?",
+    "options": [
+     "Thiết bị đầu vào, truyền tín hiệu, cảnh báo, liên động đầu ra, nguồn dự phòng và ghi nhận sự kiện đều hoạt động theo ma trận nguyên nhân–kết quả",
+     "Chỉ kiểm tra đèn nguồn của tủ",
+     "Chỉ lau đầu báo",
+     "Chỉ đo nhiệt độ phòng bơm"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "on-tap-ky-thuat-mep-2026-mep-139",
+    "no": 139,
+    "text": "Khi chọn hệ chữa cháy cho phòng máy chủ hoặc phòng thiết bị điện, tiêu chí nào quan trọng nhất?",
+    "options": [
+     "Chỉ chọn theo giá thấp nhất",
+     "Luôn dùng nước bất kể rủi ro",
+     "Phân tích nguy cơ, yêu cầu bảo vệ người–tài sản, tính tương thích thiết bị và thiết kế được phê duyệt",
+     "Chỉ dựa vào diện tích phòng"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "on-tap-ky-thuat-mep-2026-mep-140",
+    "no": 140,
+    "text": "Khi có cảnh báo giông sét trong ngưỡng quy định của cơ sở, hành động nào phù hợp?",
+    "options": [
+     "Tiếp tục hoạt động ngoài trời đến khi mưa lớn",
+     "Thực hiện phương án dừng/sơ tán, ngừng đón khách và đưa người đến nơi an toàn theo quy trình hiện hành",
+     "Đứng dưới cây cao để quan sát",
+     "Tắt hệ thống báo sét để tránh báo động"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "on-tap-ky-thuat-mep-2026-mep-141",
+    "no": 141,
+    "text": "Bình chữa cháy phải được lựa chọn dựa trên yếu tố nào?",
+    "options": [
+     "Chỉ màu bình",
+     "Loại đám cháy, môi trường sử dụng, nguy cơ đối với người và hướng dẫn/tiêu chuẩn áp dụng",
+     "Chỉ khối lượng bình",
+     "Mức tiêu thụ điện của tòa nhà"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "on-tap-ky-thuat-mep-2026-mep-142",
+    "no": 142,
+    "text": "Khi thiết kế chữa cháy cho phòng điều khiển có thiết bị điện tử, phương án phải được chọn thế nào?",
+    "options": [
+     "Mặc định dùng nước trực tiếp cho mọi thiết bị",
+     "Chỉ dùng CO₂ mà không đánh giá nguy cơ người",
+     "Chọn theo tên thương mại quen thuộc",
+     "Theo đánh giá nguy cơ, yêu cầu an toàn người, tính tương thích thiết bị và hồ sơ thiết kế PCCC được duyệt"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "on-tap-ky-thuat-mep-2026-mep-143",
+    "no": 143,
+    "text": "Khi lựa chọn hệ chữa cháy cho phòng máy biến áp và tủ trung thế, yếu tố nào quyết định?",
+    "options": [
+     "Loại máy biến áp, tải cháy, bố trí phòng, an toàn người và giải pháp thiết kế được phê duyệt",
+     "Luôn dùng một loại khí cho mọi phòng",
+     "Chỉ chọn theo chi phí thấp nhất",
+     "Chỉ dựa vào điện áp định mức"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "on-tap-ky-thuat-mep-2026-mep-144",
+    "no": 144,
+    "text": "Phòng bơm chữa cháy phải được bố trí theo nguyên tắc nào?",
+    "options": [
+     "Ở bất kỳ vị trí nào thuận tiện cho kho",
+     "Chung với phòng ở để dễ trông coi",
+     "Tiếp cận an toàn, bảo vệ khỏi cháy/ngập và phù hợp quy chuẩn cùng thiết kế được phê duyệt",
+     "Không cần thông gió hoặc thoát nước"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "on-tap-ky-thuat-mep-2026-mep-145",
+    "no": 145,
+    "text": "Khi mực nước hút thấp hơn tâm bơm, loại bơm chữa cháy phải được chọn dựa trên yếu tố nào?",
+    "options": [
+     "Màu sơn bơm",
+     "Chỉ đường kính ống đẩy",
+     "Tên nhà cung cấp",
+     "Điều kiện hút, NPSH, khả năng tự mồi/ngập hút và yêu cầu của tiêu chuẩn–thiết kế"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "on-tap-ky-thuat-mep-2026-mep-146",
+    "no": 146,
+    "text": "Một van giám sát PCCC bị đóng một phần nhưng trung tâm chỉ hiển thị supervisory. Cách xử lý đúng là gì?",
+    "options": [
+     "Xóa tín hiệu và tiếp tục vận hành",
+     "Coi đây là báo cháy và phun nước toàn bộ",
+     "Kiểm tra hiện trường, khôi phục van đúng vị trí có kiểm soát và xử lý tín hiệu theo quy trình",
+     "Cắt nguồn tủ báo cháy"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "on-tap-ky-thuat-mep-2026-mep-147",
+    "no": 147,
+    "text": "Bơm chữa cháy tự khởi động do áp lực tụt nhưng không đạt áp thiết kế. Nhóm nguyên nhân nào cần kiểm tra?",
+    "options": [
+     "Chỉ ánh sáng phòng bơm",
+     "Chỉ nhiệt độ môi trường",
+     "Mức dầu máy phát",
+     "Nguồn nước, vị trí van, chiều quay, mồi bơm/điều kiện hút, rò rỉ và tình trạng bơm"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "on-tap-ky-thuat-mep-2026-mep-148",
+    "no": 148,
+    "text": "Khi thử ma trận nguyên nhân–kết quả báo cháy, vì sao phải cô lập có kiểm soát một số đầu ra?",
+    "options": [
+     "Ngăn tác động ngoài ý muốn nhưng vẫn phải ghi nhận, giám sát và khôi phục đầy đủ sau thử",
+     "Để bỏ qua việc thử liên động",
+     "Để tắt vĩnh viễn hệ thống",
+     "Để thay thế biên bản thử"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "on-tap-ky-thuat-mep-2026-mep-149",
+    "no": 149,
+    "text": "Trình tự nghiệm thu phù hợp đối với một hạng mục MEP là gì?",
+    "options": [
+     "Nghiệm thu hoàn thành rồi mới nghiệm thu công việc",
+     "Nghiệm thu công việc/phần khuất theo quá trình, nghiệm thu giai đoạn khi cần, sau đó nghiệm thu hoàn thành theo hồ sơ",
+     "Chỉ nghiệm thu khối lượng thanh toán",
+     "Bàn giao vận hành trước khi thử nghiệm"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "on-tap-ky-thuat-mep-2026-mep-150",
+    "no": 150,
+    "text": "Bảo trì phòng ngừa là gì?",
+    "options": [
+     "Công việc bảo trì không thể lập kế hoạch và thời gian dùng cho công việc đó ít hơn 8 giờ",
+     "Chiến lược vận hành cho đến khi hư hỏng",
+     "Những hoạt động bảo trì được lập kế hoạch trước và được thực hiện theo một kế hoạch nhất định để ngăn ngừa các hư hỏng có thể xảy ra",
+     "Chiến lược vận hành được thực hiện để hiệu chỉnh môi trường và các thông số vận hành của máy"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "on-tap-ky-thuat-mep-2026-mep-151",
+    "no": 151,
+    "text": "Phụ tùng bị loại bỏ phải được quản lý thế nào?",
+    "options": [
+     "Nhận diện, cách ly và xử lý để ngăn tái sử dụng ngoài kiểm soát",
+     "Để chung với phụ tùng đạt yêu cầu",
+     "Lắp lại khi thiếu vật tư mà không đánh giá",
+     "Xóa thông tin tình trạng để dễ cấp phát"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "on-tap-ky-thuat-mep-2026-mep-152",
+    "no": 152,
+    "text": "Tại mối nối kiểm tra của hệ thống chống sét, yêu cầu bảo vệ chống ăn mòn phải thực hiện thế nào?",
+    "options": [
+     "Phủ kín bằng vật liệu cách điện làm mất khả năng đo kiểm",
+     "Cắt bỏ mối nối sau nghiệm thu",
+     "Chỉ đánh dấu bằng sơn trang trí",
+     "Dùng giải pháp chống ăn mòn tương thích nhưng vẫn bảo đảm liên tục điện và khả năng kiểm tra"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "on-tap-ky-thuat-mep-2026-mep-153",
+    "no": 153,
+    "text": "Quá trình: “Phá vỡ sự ổn định của hệ keo và tạo điều kiện để các hạt keo nhỏ tiến lại gần nhau” là đặc điểm của giai đoạn gì?",
+    "options": [
+     "Keo tụ",
+     "Kết bông",
+     "Lắng",
+     "Kết dính"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "on-tap-ky-thuat-mep-2026-mep-154",
+    "no": 154,
+    "text": "Kiểm toán năng lượng là gì",
+    "options": [
+     "Kiểm toán năng lượng là hoạt động đo lường, phân tích, tính toán, đánh giá để xác định mức tiêu thụ năng lượng, tiềm năng tiết kiệm năng lượng và đề xuất giải pháp sử dụng năng lượng tiết kiệm và hiệu quả đối với cơ sở sử dụng năng lượng",
+     "Kiểm toán năng lượng là hoạt động rà soát việc sử dụng năng lượng có đúng với đăng kí mua bán điện, mục đích sử dụng.",
+     "Kiểm toán năng lượng là việc thanh tra sử dụng năng lượng theo mục đích mua bán đã đăng kí với cơ quan bán",
+     "Kiểm toán năng lượng là việc sử dụng năng lượng tiết kiệm, rà soát quá trìnhsử dụng, là hoạt động điều tra việc sử dụng năng lượng thông qua phỏng vấn CBNV vận hành"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "on-tap-ky-thuat-mep-2026-mep-155",
+    "no": 155,
+    "text": "Hệ số yêu cầu của phụ tải là gì?",
+    "options": [
+     "Tỷ số giữa công suất tính toán của nhóm thiết bị điện với công suất đặt của nhóm thị bị đó",
+     "Tỷ số giữa tổng công suất lớn nhất của từng phụ tải trong nhóm và công suất lớn nhất của nhóm phụ tải;",
+     "Tỷ số giữa công suất lớn nhất của nhóm phụ tải và tổng công suất định mức của nhóm phụ tải;",
+     "Tỷ số giữa công suất trung bình của nhóm phụ tải và tổng công suất trung bình của từng phụ tải trong nhóm;"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "on-tap-ky-thuat-mep-2026-mep-156",
+    "no": 156,
+    "text": "Tiết diện dây tiếp đất di động tối thiểu là bao nhiêu?",
+    "options": [
+     "16mm2",
+     "10mm2",
+     "20mm2",
+     "25mm2"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "on-tap-ky-thuat-mep-2026-mep-157",
+    "no": 157,
+    "text": "Cơ sở thuộc danh sách sử dụng năng lượng trọng điểm phải ưu tiên thực hiện nội dung nào?",
+    "options": [
+     "Chỉ thay toàn bộ đèn mỗi năm",
+     "Tuân thủ nghĩa vụ quản lý năng lượng, báo cáo và kiểm toán theo pháp luật hiện hành",
+     "Ngừng đo đếm điện năng",
+     "Chỉ theo dõi hóa đơn nước"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "on-tap-ky-thuat-mep-2026-mep-158",
+    "no": 158,
+    "text": "Loại nào Không phải là thiết bị bảo hộ cá nhân đặt biệt?",
+    "options": [
+     "Ủng chống hóa chất",
+     "Mặt nạ phòng độc",
+     "Kính bảo hộ",
+     "Mũ hàn"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "on-tap-ky-thuat-mep-2026-mep-159",
+    "no": 159,
+    "text": "Hiệu lệnh Bằng tay thực hiện như dưới đây truyền tải thông điệp gì? - Tay phải giơ cao trên đầu - Bàn tay nắm chặt - Mở ngón tay cái và chỉ lên",
+    "options": [
+     "Tất cả sẵn sàng",
+     "Dừng",
+     "Cần sự hỗ trợ.",
+     "Xin đi qua đường ray"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "on-tap-ky-thuat-mep-2026-mep-160",
+    "no": 160,
+    "text": "Chu kỳ kiểm toán năng lượng đối với đơn vị sử dụng năng lượng trọng điểm?",
+    "options": [
+     "1 năm",
+     "2 năm",
+     "3 năm",
+     "4 năm"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "on-tap-ky-thuat-mep-2026-mep-161",
+    "no": 161,
+    "text": "Thời điểm thay dầu hộp số phải được quyết định dựa trên căn cứ nào?",
+    "options": [
+     "Một số giờ cố định cho mọi thiết bị",
+     "Chỉ theo màu dầu",
+     "Hướng dẫn nhà sản xuất, kết quả phân tích dầu, điều kiện vận hành và kế hoạch bảo trì được duyệt",
+     "Lịch sơn lại thiết bị"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "on-tap-ky-thuat-mep-2026-mep-162",
+    "no": 162,
+    "text": "Cấp công trình được xác định chủ yếu dựa trên nhóm tiêu chí nào?",
+    "options": [
+     "Quy mô/công suất, tầm quan trọng và loại–quy mô kết cấu theo quy định hiện hành",
+     "Chỉ tổng mức đầu tư",
+     "Chỉ số lượng nhà thầu",
+     "Màu sắc kiến trúc"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "on-tap-ky-thuat-mep-2026-mep-163",
+    "no": 163,
+    "text": "Nguyên nhân chính xác nhất dẫn đến ngắn mạch là",
+    "options": [
+     "Là hậu quả của việc hư hỏng cách điện",
+     "Là hậu quả của việc vận hành quá tải thiết bị điện, đường dây tải điện",
+     "Là hậu quả của việc không chu đáo trong việc giữ gìn vệ sinh công nghiệp",
+     "Là hậu quả của việc phóng thủng cách điện do quá điện áp"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "on-tap-ky-thuat-mep-2026-mep-164",
+    "no": 164,
+    "text": "Theo quan điểm của anh chị, Bảo trì khắc phục và bảo trì dự phòng khác nhau như thế nào?",
+    "options": [
+     "Bảo trì khắc phục là sửa sau khi hỏng. Bảo trì dự phòng là bảo trì đề phòng hỏng hóc",
+     "Bảo trì sửa chữa là sửa sau khi hỏng. Bảo trì phòng ngừa là bảo dưỡng hàng ngày",
+     "Bảo trì sửa chữa là bảo trì khi có sự cố. Bảo trì phòng ngừa là bảo trì định kỳ",
+     "Bảo trì sửa chữa là bảo trì theo yêu cầu. Bảo trì phòng ngừa là bảo trì đề phòng hỏng hóc"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "on-tap-ky-thuat-mep-2026-mep-165",
+    "no": 165,
+    "text": "Thứ tự các mức độ ưu tiên của mối nguy hại từ cao đến thấp là?",
+    "options": [
+     "Khẩn cấp- Ưu tiên 3-Ưu tiên 2- Ưu tiên 1-Ít ưu tiên- Có thể chấp nhận",
+     "Ưu tiên 1-Ưu tiên 2-Ưu tiên 3-Ít ưu tiên- Có thể chấp nhận",
+     "Khẩn cấp- Ưu tiên 1-Ưu tiên 2- Ưu tiên 3- Có thể chấp nhận",
+     "Khẩn cấp- Ưu tiên 1-Ưu tiên 2-Ưu tiên 3-Ít ưu tiên- Có thể chấp nhận"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "on-tap-ky-thuat-mep-2026-mep-166",
+    "no": 166,
+    "text": "Các mức độ nghiêm trọng của mối nguy hại bao gồm",
+    "options": [
+     "Cao-Trung bình-Thấp-Rất thấp",
+     "Rất cao-Cao-Trung bình -Thấp-Rất thấp",
+     "Rất cao-Cao-Trung bình -Thấp",
+     "Rất cao-Trung bình -Thấp-Rất thấp"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "on-tap-ky-thuat-mep-2026-mep-167",
+    "no": 167,
+    "text": "Theo quy định cách lý bảng điều khiển, ai là người có thể kích hoạt lại bảng điều khiển",
+    "options": [
+     "Nhân viên các bộ phận làm việc tại khu vực có bảng điều khiển",
+     "Nhân viên vận hành đã cách ly bảng điều khiển bằng chìa khóa hoặc hình thức khác",
+     "Lãnh đạo bộ phận quản lý khu vực đặt bảng điều khiển",
+     "Bất cứ nhân viên, quản lý nào ở gần bảng điều khiển"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "on-tap-ky-thuat-mep-2026-mep-168",
+    "no": 168,
+    "text": "Sự cố ngắn mạch xảy ra thường gây ra hậu quả gì?",
+    "options": [
+     "Tăng điện trở cách điện",
+     "Giảm điện áp hệ thống",
+     "Tăng dòng điện đột ngột",
+     "Giảm độ ổn định"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "on-tap-ky-thuat-mep-2026-mep-169",
+    "no": 169,
+    "text": "Trước khi bảo trì thiết bị có nhiều nguồn năng lượng, bước nào xác nhận trạng thái cô lập an toàn?",
+    "options": [
+     "Khóa/gắn thẻ từng nguồn, giải phóng năng lượng tích trữ và thử xác nhận thiết bị không thể khởi động",
+     "Chỉ nhấn nút dừng tại bảng điều khiển",
+     "Giữ thiết bị chạy không tải trong khi sửa",
+     "Kiểm tra màu sơn của thiết bị"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "on-tap-ky-thuat-mep-2026-mep-170",
+    "no": 170,
+    "text": "Nhận xét nào sau đây không đúng khi nói về máy biến thế?",
+    "options": [
+     "Máy biến thế có tác dụng biến đổi cường độ dòng điện",
+     "Máy biến thế có tác dụng thay đổi tần số dòng điện xoay chiều",
+     "Máy biến thế có thể làm giảm hiệu điện thế",
+     "Máy biến thế có thể làm tăng hiệu điện thế"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "on-tap-ky-thuat-mep-2026-mep-171",
+    "no": 171,
+    "text": "Khi làm sạch loại ống dẫn nào sau đây cần thổi khí trơ vào trong ống?",
+    "options": [
+     "Ống dẫn không khí",
+     "Ống dẫn nước lạnh",
+     "Ống dẫn môi chất lạnh",
+     "Ống dẫn nước ngưng"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "on-tap-ky-thuat-mep-2026-mep-172",
+    "no": 172,
+    "text": "Khi xảy ra chạm hai pha trực tiếp, vì sao mức nguy hiểm thường rất cao?",
+    "options": [
+     "Vì dòng qua người luôn bằng không",
+     "Vì cơ thể có thể chịu điện áp dây và dòng điện lớn",
+     "Vì dây trung tính luôn bảo vệ người",
+     "Vì tần số giảm về 0 Hz"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "on-tap-ky-thuat-mep-2026-mep-173",
+    "no": 173,
+    "text": "Khi cấp nguồn cho thang máy, phương án nào bảo đảm khả năng cô lập và phối hợp bảo vệ tốt nhất?",
+    "options": [
+     "Lấy nguồn chung từ ổ cắm gần nhất",
+     "Cấp bằng mạch chuyên dụng từ tủ phù hợp, có bảo vệ và thiết bị cô lập theo thiết kế được duyệt",
+     "Đấu chung với mạch chiếu sáng sự cố",
+     "Dùng dây tạm trong suốt thời gian khai thác"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "on-tap-ky-thuat-mep-2026-mep-174",
+    "no": 174,
+    "text": "Theo anh chị sự nguy hiểm của thói quen trong công tác vận hành, bảo trì bảo dưỡng thiết bị là gì?",
+    "options": [
+     "Làm chúng ta để ý đến các chi tiết.",
+     "Làm chúng ta luôn tìm tòi có sự thay đổi.",
+     "Làm chúng ta chỉ để ý đến thời hạn.",
+     "Làm chúng ta mất tập trung, không phát hiện được các thay đổi hay hư hỏng bất thường của thiết bị"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "on-tap-ky-thuat-mep-2026-mep-175",
+    "no": 175,
+    "text": "Khi thực hiện đánh giá rủi ro phải cân nhắc yếu tố nào để đưa ra mức độ ưu tiên?",
+    "options": [
+     "Khả năng xảy ra rủi ro và mức độ nghiêm trọng khi rủi ro xảy ra",
+     "Chỉ đánh giá theo khả năng xảy ra rủi ro",
+     "Chỉ đánh giá theo mức độ nghiêm trọng xảy ra rủi ra",
+     "Khả năng xảy ra rủi ro và mức độ thương tật"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "on-tap-ky-thuat-mep-2026-mep-176",
+    "no": 176,
+    "text": "Người lao động phải làm gì khi điều kiện thực tế không đúng biện pháp an toàn đã phê duyệt?",
+    "options": [
+     "Dừng/từ chối công việc không an toàn, báo người phụ trách và chỉ làm lại khi điều kiện đã được khắc phục",
+     "Tiếp tục làm để kịp tiến độ",
+     "Tự ý bỏ mọi khóa an toàn",
+     "Chỉ ghi nhận sau khi hoàn thành"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "on-tap-ky-thuat-mep-2026-mep-177",
+    "no": 177,
+    "text": "Trường hợp nào sau đây KHÔNG phải là Tình huống nghiêm trọng?",
+    "options": [
+     "Khi có người tử vong",
+     "Khi có thiết bị bị hỏng hóc hoặc ngừng hoạt động dẫn đến việc Khách hàng bị mắc kẹt lại một chỗ trên thiết bị trong khoảng thời gian dưới 15 phút",
+     "Khi có thiết bị ngừng hoạt động dẫn đến việc Khách hàng bị mắc kẹt lại một chỗ trên thiết bị trong khoảng thời gian trên 15 phút",
+     "Khi có bất kỳ hỏng hóc đối với bất kỳ cấu trúc được lắp đặt cố định hoặc thiết bị (tòa nhà/công trình kiến trúc sụp đổ, các bộ phận bị rơi ra)."
+    ],
+    "answer": 1
+   },
+   {
+    "id": "on-tap-ky-thuat-mep-2026-mep-178",
+    "no": 178,
+    "text": "Khi có hiện tượng chạm đất dây trung thế và cao thế, Anh chị nhận định tình huống nào con người gặp nguy hiểm nhất?",
+    "options": [
+     "Đứng lò cò trong vùng chạm đất",
+     "Đứng trong vùng chạm đất mà khoảng cách giữa 2 chân rất nhỏ",
+     "Đứng trong vùng chạm đất mà khoảng cách giữa 2 chân rất lớn",
+     "Đứng cách vùng chạm đất 20m"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "on-tap-ky-thuat-mep-2026-mep-179",
+    "no": 179,
+    "text": "Trước khi chạy thử liên động dây chuyền MEP, yêu cầu nào quan trọng nhất?",
+    "options": [
+     "Chỉ kiểm tra nhãn thiết bị",
+     "Chỉ đo điện áp nguồn",
+     "Chỉ thu thập biên bản lắp đặt",
+     "Hoàn tất kiểm tra lắp đặt, nguồn–tiện ích, bảo vệ, I/O và kịch bản thử theo hồ sơ được duyệt"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "on-tap-ky-thuat-mep-2026-mep-180",
+    "no": 180,
+    "text": "Với các rủi ro được đánh giá là Khẩn cấp, thời hạn xử lý là bao lâu?",
+    "options": [
+     "Trong vòng 20 ngày",
+     "Xử lý ngay lập tức khi phát hiện và trước khi thiết bị hoặc khu vực được phép đưa vào hoạt động trở lại",
+     "Trong vòng 15 ngày",
+     "Xử lý ngay lập tức khi phát hiện trong vòng 5 ngày"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "on-tap-ky-thuat-mep-2026-mep-181",
+    "no": 181,
+    "text": "Các mức độ kiểm soát để ngăn chặn sự cố xảy ra được sắp xếp theo trình tự từ cao xuống thấp như thế nào?",
+    "options": [
+     "Thiết bị bảo hộ lao động - Loại trừ - Kiểm soát kỹ thuật - Thay thế - Hành chính",
+     "Loại trừ - Thay thế - Kiểm soát kỹ thuật - Hành chính - Thiết bị bảo hộ lao động",
+     "Loại trừ - Kiểm soát kỹ thuật - Thay thế - Hành chính - Thiết bị bảo hộ lao động",
+     "Thay thế - Loại trừ - Kiểm soát kỹ thuật - Hành chính - Thiết bị bảo hộ lao động"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "on-tap-ky-thuat-mep-2026-mep-182",
+    "no": 182,
+    "text": "Múc độ thường xuyên của các mối nguy hại",
+    "options": [
+     "Chắc chắn - Khá chắc chắn- hiếm khi - có khả năng - ít khả năng",
+     "Ít khả năng - có khả năng - khá chắc chắn- chắc chắn- hiếm khi",
+     "Chắc chắn- khá chắc chắn - có khả năng - ít khả năng- hiếm khi",
+     "Khá chắc chắn - chắc chắn - có khả năng- ít khả năng - hiếm khi"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "on-tap-ky-thuat-mep-2026-mep-183",
+    "no": 183,
+    "text": "Các bước thực hiện đánh giá rủi ro",
+    "options": [
+     "Xác định các mối nguy hại- Đánh giá rủi ro - Xác định các đối tượng bị ảnh hưởng và mức độ ảnh hưởng- lập kế hoạch hành động- ghi chép thông tin mối nguy hại",
+     "Xác định các mối nguy hại- Xác định các đối tượng bị ảnh hưởng và mức độ ảnh hưởng- Đánh giá rủi ro - lập kế hoạch hành động- ghi chép thông tin mối nguy hại",
+     "Đánh giá rủi ro -Xác định các mối nguy hại-Xác định các đối tượng bị ảnh hưởng và mức độ ảnh hưởng- lập kế hoạch hành động- ghi chép thông tin mối nguy hại",
+     "Ghi chép thông tin mối nguy hại- Xác định các mối nguy hại- Đánh giá rủi ro - Xác định các đối tượng bị ảnh hưởng và mức độ ảnh hưởng- lập kế hoạch hành động"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "on-tap-ky-thuat-mep-2026-mep-184",
+    "no": 184,
+    "text": "Nguồn cấp cho thang máy phải đáp ứng yêu cầu nào?",
+    "options": [
+     "Lấy từ ổ cắm gần nhất",
+     "Mạch cấp chuyên dụng, bảo vệ/cô lập và nguồn dự phòng khi thiết kế yêu cầu",
+     "Dùng chung với biển quảng cáo",
+     "Không cần phối hợp với hệ thống PCCC"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "on-tap-ky-thuat-mep-2026-mep-185",
+    "no": 185,
+    "text": "Bơm ly tâm phát tiếng lạo xạo, rung tăng và áp lực dao động. Hiện tượng nào cần nghi ngờ?",
+    "options": [
+     "Hệ số công suất cao",
+     "Quá trình keo tụ tốt",
+     "Tín hiệu báo cháy giả",
+     "Xâm thực do điều kiện hút/NPSH không bảo đảm"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "on-tap-ky-thuat-mep-2026-mep-186",
+    "no": 186,
+    "text": "Hệ thống hút khói bếp giảm lưu lượng và nhiệt độ chụp hút tăng. Nội dung cần kiểm tra là gì?",
+    "options": [
+     "Mức clo dư",
+     "Dòng sạc UPS",
+     "Độ đục nước lọc",
+     "Lưới lọc mỡ, ống gió, quạt, damper, dây đai và cân bằng gió"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "on-tap-ky-thuat-mep-2026-mep-187",
+    "no": 187,
+    "text": "Khi hệ thống phát hiện rò rỉ khí gas tại khu vực bếp, hệ thống an toàn phải thực hiện chức năng nào?",
+    "options": [
+     "Cảnh báo, đóng van gas an toàn và thực hiện thông gió/ứng phó theo thiết kế–quy trình",
+     "Tăng lưu lượng gas để ổn định áp",
+     "Tắt đầu dò nhưng giữ gas",
+     "Dùng công tắc đèn để kiểm tra tia lửa"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "on-tap-ky-thuat-mep-2026-mep-188",
+    "no": 188,
+    "text": "Một thiết bị quan trọng lặp lại cùng lỗi ba lần trong tháng. Bước quản lý bảo trì phù hợp là gì?",
+    "options": [
+     "Tiếp tục sửa triệu chứng từng lần",
+     "Phân tích nguyên nhân gốc, lịch sử WO và điều kiện vận hành; lập hành động loại bỏ nguyên nhân",
+     "Xóa lịch sử sự cố",
+     "Tăng tồn kho mọi phụ tùng"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "on-tap-ky-thuat-mep-2026-mep-189",
+    "no": 189,
+    "text": "Khi xây dựng danh mục phụ tùng critical cho MEP, tiêu chí nào nên được kết hợp?",
+    "options": [
+     "Chỉ giá mua cao",
+     "Chỉ kích thước phụ tùng",
+     "Mức độ ảnh hưởng, xác suất hỏng, thời gian mua, khả năng thay thế và tồn kho hiện có",
+     "Màu bao bì"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "on-tap-ky-thuat-mep-2026-mep-190",
+    "no": 190,
+    "text": "Một cảm biến BMS có giá trị lệch dần so với thiết bị chuẩn. Hành động phù hợp là gì?",
+    "options": [
+     "Thay đổi toàn bộ điểm đặt hệ thống theo cảm biến lệch",
+     "Bỏ qua vì vẫn có tín hiệu",
+     "Tắt lịch sử dữ liệu",
+     "Xác minh bằng chuẩn, hiệu chuẩn/thay cảm biến và ghi nhận trước–sau"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "on-tap-ky-thuat-mep-2026-mep-191",
+    "no": 191,
+    "text": "Khi nghiệm thu một liên động MEP, bằng chứng nào có giá trị nhất?",
+    "options": [
+     "Kịch bản thử được duyệt, kết quả thực tế, trạng thái I/O, thời gian đáp ứng và xác nhận của các bên",
+     "Ảnh chụp vỏ tủ",
+     "Danh sách nhân sự ca trực",
+     "Hóa đơn mua vật tư"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "on-tap-ky-thuat-mep-2026-mep-192",
+    "no": 192,
+    "text": "Trong ca trực, cảnh báo BMS xuất hiện chập chờn rồi tự mất. Cách xử lý phù hợp là gì?",
+    "options": [
+     "Xóa toàn bộ lịch sử cảnh báo",
+     "Ghi nhận thời điểm/điều kiện, kiểm tra trend–sự kiện và xác minh thiết bị tại hiện trường",
+     "Chờ thiết bị hỏng hoàn toàn",
+     "Tắt BMS"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "on-tap-ky-thuat-mep-2026-mep-193",
+    "no": 193,
+    "text": "Sau bảo trì, trước khi trả thiết bị về vận hành, bước nào bảo đảm kiểm soát thay đổi trạng thái?",
+    "options": [
+     "Chỉ báo miệng cho một người",
+     "Tháo mọi nhãn mà không kiểm tra",
+     "Kiểm tra hoàn công, tháo dụng cụ, khôi phục che chắn/liên động, bàn giao và đóng WO theo thẩm quyền",
+     "Khởi động từ xa khi còn người trong vùng nguy hiểm"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "on-tap-ky-thuat-mep-2026-mep-194",
+    "no": 194,
+    "text": "Theo Quy định cơ sở hạ tầng Phòng Kỹ thuật & Nhà xưởng (SHE-QĐ-MT10), trách nhiệm chính của CBQL/TBP là gì?",
+    "options": [
+     "Giám sát hàng ngày và khóa cửa khi không sử dụng",
+     "Đảm bảo tuân thủ quy định, chuẩn bị CCDC, bố trí biển báo an toàn và phân công người phụ trách giám sát",
+     "Chỉ kiểm tra độ ẩm, nhiệt độ và báo cáo khi có bất thường",
+     "Phân công Tổ trưởng và chỉ chịu trách nhiệm khi có sự cố xảy ra"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "on-tap-ky-thuat-mep-2026-mep-195",
+    "no": 195,
+    "text": "Theo Sổ tay An toàn PCCC Số: 76/2025/QĐ-SHE/SG, bốn nền tảng chính để thành công trong công tác PCCC là gì?",
+    "options": [
+     "Cơ sở hạ tầng PCCC, Bảo trì bảo dưỡng, Vận hành với tư duy PCCC, Đào tạo",
+     "Cơ sở hạ tầng PCCC, Hệ thống sprinkler, Đào tạo, Kiểm tra định kỳ",
+     "Bảo trì bảo dưỡng, Vận hành, Đào tạo, Kiểm soát rủi ro",
+     "Cơ sở hạ tầng, Bảo trì, Kiểm tra PCCC, Xử lý sự cố"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "on-tap-ky-thuat-mep-2026-mep-196",
+    "no": 196,
+    "text": "Theo Quy định quản lý Camera (SG-QĐ-M04), mọi thay đổi liên quan đến hệ thống camera phải được thực hiện theo quy trình nào?",
+    "options": [
+     "Phòng An ninh cơ sở đề xuất → Bộ phận Kỹ thuật thẩm định → GĐ BQL phê duyệt",
+     "Phòng An ninh cơ sở đề xuất → Phòng DV CNTT thẩm định → Trưởng Phòng ANBV phê duyệt",
+     "Phòng An ninh cơ sở đề xuất → Phòng ANBV thẩm định → GĐ BQL phê duyệt",
+     "Bộ phận Kỹ thuật đề xuất → Phòng ANBV thẩm định → GĐ BQL phê duyệ"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "on-tap-ky-thuat-mep-2026-mep-197",
+    "no": 197,
+    "text": "Theo quy trình UPS/Ắc quy (SHE-QT-MT35), tần suất kiểm tra trực quan và điện áp ắc quy định kỳ là bao lâu?",
+    "options": [
+     "Hàng tháng",
+     "3 tháng/lần",
+     "6 tháng/lần",
+     "1 năm/lần"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "on-tap-ky-thuat-mep-2026-mep-198",
+    "no": 198,
+    "text": "Theo SOP SHE-QT-MT32 QUY TRÌNH VẬN HÀNH - XỬ LÝ SỰ CỐ - BẢO TRÌ BẢO DƯỠNG \nMÁY PHÁT ĐIỆN DỰ PHÒNG, khi nào được phép đề xuất thuê đơn vị ngoài xử lý sự cố?",
+    "options": [
+     "Mọi lỗi nhiên liệu/làm mát",
+     "Lỗi phức tạp (ECU, turbo, trục khuỷu, ATS lập trình…) hoặc nội bộ chưa đủ chuyên môn",
+     "Khi hết phụ tùng",
+     "Khi mất nguồn dự phòng > 4 giờ"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "on-tap-ky-thuat-mep-2026-mep-199",
+    "no": 199,
+    "text": "Theo quy trình UPS/Ắc quy (SHE-QT-MT35) Nguồn DC từ hệ thống ắc quy có vai trò quan trọng để làm gì?",
+    "options": [
+     "Khởi động máy phát điện dự phòng, bơm chữa cháy diesel và đóng/cắt máy cắt VCB/SF6-CB/ACB",
+     "Chỉ cấp điện cho máy tính",
+     "Chỉ cấp cho hệ thống chiếu sáng",
+     "Không liên quan đến thiết bị đóng cắt"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "on-tap-ky-thuat-mep-2026-mep-200",
+    "no": 200,
+    "text": "Theo Hướng dẫn kéo căng & siết lại bu-lông, sau khi siết bu-lông phải làm gì?",
+    "options": [
+     "Không cần đánh dấu",
+     "Chỉ ghi sổ",
+     "Tháo ra kiểm tra lại",
+     "Đánh dấu bằng bút sơn (Torqueseal) để dễ kiểm tra"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "on-tap-ky-thuat-mep-2026-mep-201",
+    "no": 201,
+    "text": "Theo Quy định về cơ sở hạ tầng và vận hành Phòng Kỹ thuật và Nhà xưởng Số: 72/2025/QĐ-SHE/SGNhiệt độ và độ ẩm yêu cầu đối với Phòng máy chủ (rất trọng yếu) là:",
+    "options": [
+     "20–25°C, độ ẩm 40–55%",
+     "Đến 30°C, độ ẩm <90%",
+     "5–40°C, độ ẩm ≤95%",
+     "Không quy định"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "on-tap-ky-thuat-mep-2026-mep-202",
+    "no": 202,
+    "text": "Theo Hướng dẫn khử khuẩn hệ thống cấp nước sinh hoạt (SHE-HD-VH37) Nồng độ Clo dư khuyến nghị khi khử khuẩn bề mặt bể và đường ống là",
+    "options": [
+     "0,2 – 0,5 ppm",
+     "1 – 2 ppm",
+     "3 – 5 ppm",
+     "10 – 15 ppm"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "on-tap-ky-thuat-mep-2026-mep-203",
+    "no": 203,
+    "text": "Theo Hướng dẫn khử khuẩn hệ thống cấp nước sinh hoạt (SHE-HD-VH37), thời gian tiếp xúc Clo tối thiểu là bao lâu?",
+    "options": [
+     "15 phút",
+     "30 phút",
+     "60 phút",
+     "90 phút"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "on-tap-ky-thuat-mep-2026-mep-204",
+    "no": 204,
+    "text": "Theo Quy định cơ sở hạ tầng Phòng Kỹ thuật (SHE-QĐ-MT10), Phòng Kỹ thuật phải được bố trí tối thiểu bao nhiêu ổ điện 220V?",
+    "options": [
+     "2 ổ điện 220V",
+     "4 ổ điện 220V (trong đó tối thiểu 2 ổ dành cho thiết bị dân dụng)",
+     "3 ổ điện 220V có cực tiếp đất và 1 ổ 3 pha 16A",
+     "2 ổ điện 220V + 2 ổ 380V có cầu dao khối (MCCB)"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "on-tap-ky-thuat-mep-2026-mep-205",
+    "no": 205,
+    "text": "Theo Quy định quản lý Camera (SG-QĐ-M04), Bộ phận Kỹ thuật có trách nhiệm khắc phục sự cố liên quan đến tín hiệu, hình ảnh camera, đầu ghi, hệ thống cáp truyền dẫn trong thời gian bao lâu (trường hợp có thể tự khắc phục)?",
+    "options": [
+     "Trong vòng 4–8 giờ làm việc và phải có báo cáo ngay cho TTCMR",
+     "8–24 giờ làm việc",
+     "Không quá 48 giờ làm việc, trường hợp phức tạp được kéo dài đến 05 ngày",
+     "Trong ngày làm việc tiếp theo và phải có biên bản bàn giao"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "on-tap-ky-thuat-mep-2026-mep-206",
+    "no": 206,
+    "text": "Một MCCB cấp nguồn cho động cơ thường xuyên tác động sau khoảng 10–15 phút vận hành, nhưng khi chạy không tải thì không tác động. Cách kiểm tra phù hợp nhất là:",
+    "options": [
+     "Khóa cơ cấu Trip của MCCB",
+     "Tăng tiết diện dây tiếp địa",
+     "Kiểm tra dòng tải thực tế, tình trạng động cơ và đặc tính bảo vệ của MCCB",
+     "Thay ngay MCCB có dòng định mức lớn hơn."
+    ],
+    "answer": 2
+   }
+  ],
+  "group": "SBD Kỹ thuật"
+ },
+ {
+  "id": "on-tap-ky-thuat-mep-2026-sap",
+  "name": "Ôn tập Kỹ thuật MEP 2026 - SAP",
+  "questions": [
+   {
+    "id": "on-tap-ky-thuat-mep-2026-sap-1",
+    "no": 1,
+    "text": "Khi xác nhận kết quả công việc, nếu 1 công việc con có kết quả \"F - Không đạt\" thì công việc cha sẽ được mặc định kết quả gì?",
+    "options": [
+     "S/M - Đạt nhưng cần giám sát",
+     "F - Không đạt",
+     "N/A - Không kiểm tra",
+     "Không mặc định kết quả"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "on-tap-ky-thuat-mep-2026-sap-2",
+    "no": 2,
+    "text": "KTV được phép xác nhận thời gian bắt đầu công việc trên App/Web ở quá khứ không quá bao nhiêu giờ so với thời điểm hiện tại?",
+    "options": [
+     "24 giờ",
+     "14 giờ",
+     "4 giờ",
+     "8 giờ"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "on-tap-ky-thuat-mep-2026-sap-3",
+    "no": 3,
+    "text": "Trường hợp nào KTV bắt buộc đính kèm hình ảnh thiết bị/ bộ phận hư hỏng khi xác nhận kết quả công việc trên App?",
+    "options": [
+     "Công việc có kết quả \"S/M - Đạt nhưng cần giám sát\"",
+     "Công việc có kết quả \"N/A - Không kiểm tra\"",
+     "Công việc có kết quả \"F - Không đạt\"",
+     "Công việc có kết quả \"F - Không đạt\" và \"S/M - Đạt nhưng cần giám sát\""
+    ],
+    "answer": 3
+   },
+   {
+    "id": "on-tap-ky-thuat-mep-2026-sap-4",
+    "no": 4,
+    "text": "Khi xác nhận vật tư xuất dùng trên App, KTV cần làm gì khi hệ thống báo lỗi không đủ số lượng vật tư trong kho?",
+    "options": [
+     "Kho còn số lượng bao nhiêu thì xác nhận bấy nhiêu",
+     "Báo GS/Thủ kho thực hiện điều chuyển thêm vật tư về kho để xuất dùng",
+     "Bấm \"Tạm dừng công việc\" và làm công việc khác",
+     "Bỏ qua lỗi và không cần xác nhận vật tư dù thực tế có sử dụng"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "on-tap-ky-thuat-mep-2026-sap-5",
+    "no": 5,
+    "text": "KTV dễ dàng tìm thấy công việc \"Đang thực hiện\" (đã bấm \"Dừng\" công việc trước đó) ở đâu?",
+    "options": [
+     "Trong mục \"Lệnh bảo trì\"",
+     "Trong mục \"Quản lý tài sản\"",
+     "Trong mục \"Công việc\"",
+     "Không có đáp án đúng"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "on-tap-ky-thuat-mep-2026-sap-6",
+    "no": 6,
+    "text": "Hủy kết quả đo thông số kỹ thuật ở Tcode nào?",
+    "options": [
+     "IK07",
+     "IK03",
+     "IK11",
+     "IK12"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "on-tap-ky-thuat-mep-2026-sap-7",
+    "no": 7,
+    "text": "Lock hàng loạt WO có kèm lí do lock ở Tcode nào?",
+    "options": [
+     "ZSPM003",
+     "ZSPM007",
+     "IW37N",
+     "IW47"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "on-tap-ky-thuat-mep-2026-sap-8",
+    "no": 8,
+    "text": "Mã Order Type nào là hoạt động bảo trì bảo dưỡng định kỳ, phòng ngừa?",
+    "options": [
+     "ZPM3",
+     "ZPM8",
+     "ZPM1",
+     "ZPM6"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "on-tap-ky-thuat-mep-2026-sap-9",
+    "no": 9,
+    "text": "GS/Tổ trưởng kỹ thuật có thể hủy kết quả công việc hàng loạt ở Tcode nào?",
+    "options": [
+     "IW47",
+     "IW45",
+     "IW37N",
+     "IW32"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "on-tap-ky-thuat-mep-2026-sap-10",
+    "no": 10,
+    "text": "Tên diễn giải ngắn (short text) của 1 WO tối đa bao nhiêu kí tự?",
+    "options": [
+     "24",
+     "30",
+     "40",
+     "48"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "on-tap-ky-thuat-mep-2026-sap-11",
+    "no": 11,
+    "text": "User có thể tạo WO phát sinh ở các ứng dụng nào?",
+    "options": [
+     "SAP",
+     "App Mysgr (mobile)",
+     "Web Mysgr",
+     "SAP, App Mysgr (mobile) và Web Mysgr"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "on-tap-ky-thuat-mep-2026-sap-12",
+    "no": 12,
+    "text": "Tcode xem báo cáo kết quả bảo trì theo tháng của các bộ phận kỹ thuật trên SAP là gì?",
+    "options": [
+     "ZSPM007",
+     "ZSPM505",
+     "ZSPM504",
+     "ZSPM501"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "on-tap-ky-thuat-mep-2026-sap-13",
+    "no": 13,
+    "text": "Tcode xem báo cáo lịch sử bảo trì của thiết bị/khu vực chức năng là gì?",
+    "options": [
+     "ZSPM007",
+     "ZSPM505",
+     "ZSPM504",
+     "ZSPM501"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "on-tap-ky-thuat-mep-2026-sap-14",
+    "no": 14,
+    "text": "Có thể xem kết quả công việc bảo trì có kèm hình ảnh mà KTV đã upload trên hệ thống ở đâu?",
+    "options": [
+     "Trên Mục QLTS ở cả App và Web Mysg",
+     "Trên App Mysgr - Mục QLTS",
+     "Trên Web Mysgr - Mục QLTS",
+     "Các Tcodes báo cáo trên SAP"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "on-tap-ky-thuat-mep-2026-sap-15",
+    "no": 15,
+    "text": "Có thể xem thông tin 1 WO cụ thể ở Tcode nào?",
+    "options": [
+     "IW32",
+     "IW33",
+     "IW37N",
+     "IW31"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "on-tap-ky-thuat-mep-2026-sap-16",
+    "no": 16,
+    "text": "Tcode nào xem và thao tác BĐKVT?",
+    "options": [
+     "ZPMU001",
+     "ZSPM003",
+     "ZSMM001",
+     "ZSPM504"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "on-tap-ky-thuat-mep-2026-sap-17",
+    "no": 17,
+    "text": "Chức năng Tạo Thông báo (Notification) trên hệ thống khi phát hiện sự cố/hư hỏng thiết bị dành cho đối tượng user nào?",
+    "options": [
+     "Giám sát",
+     "Tất cả các đối tượng",
+     "KTV",
+     "Trưởng BP/Trưởng phòng"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "on-tap-ky-thuat-mep-2026-sap-18",
+    "no": 18,
+    "text": "Chức năng nào Phần mềm bảo trì phân hệ App/Web không thực hiện được?",
+    "options": [
+     "Tạo Thông báo",
+     "Tạo Lệnh bảo trì",
+     "Sửa Lệnh bảo trì",
+     "Gọi Lệnh bảo trì từ Kế hoạch bảo trì"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "on-tap-ky-thuat-mep-2026-sap-19",
+    "no": 19,
+    "text": "Để được sử dụng và ghi nhận công việc trên Phần mềm BTBD, người dùng cần đáp ứng điều kiện gì?",
+    "options": [
+     "Có địa chỉ email, mã nhân viên do Sungroup cấp và được phân quyền chức năng đủ trên hệ thống SAP PM & MySGR",
+     "Có địa chỉ email và mã nhân viên do Sungroup cấp",
+     "Có ký hợp đồng lao động với Sungroup",
+     "Có user SAP PM"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "on-tap-ky-thuat-mep-2026-sap-20",
+    "no": 20,
+    "text": "KTV có thể \"Bắt đầu công việc\" trên phần mềm khi và chỉ khi nào?",
+    "options": [
+     "GS \"Ban hành WO/ Lệnh bảo trì\"",
+     "GS \"Tạo mới WO/ Lệnh bảo trì\"",
+     "GS \"Tạo mới WO/ Lệnh bảo trì\" và Thông báo tới KTV",
+     "GS/ Tổ trưởng Kỹ thuật \"Tạo mới WO, gán mã nhân viên của KTV và Ban hành WO\""
+    ],
+    "answer": 3
+   },
+   {
+    "id": "on-tap-ky-thuat-mep-2026-sap-21",
+    "no": 21,
+    "text": "Đối với công việc được thực hiện trong nhiều ngày, khi kết thúc mỗi ca làm việc, KTV làm gì trên phần mềm?",
+    "options": [
+     "Bấm \"Hoàn tất công việc\" và Ghi nhận thời gian",
+     "Bấm \"Dừng\" công việc và Ghi nhận thời gian",
+     "Bấm \"Bắt đầu công việc\" và Ghi nhận thời gian",
+     "Không cần làm gì cho đến khi làm xong công việc"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "on-tap-ky-thuat-mep-2026-sap-22",
+    "no": 22,
+    "text": "Khi KTV xác nhận sai thời gian thực hiện công việc trên app QLTS, cần làm gì để xử lý vấn đề này trên hệ thống?",
+    "options": [
+     "GS khóa/ lock WO, sau đó tạo lại WO khác và giao KTV xác nhận",
+     "GS xóa thời gian KTV đã xác nhận và tự thực hiện ghi nhận lại trên SAP",
+     "GS hủy Confirmation của KTV trên SAP, sau đó KTV vào app QLTS để xác nhận lại Thời gian thực hiện & Kết quả công việc theo đúng thực tế",
+     "Người dùng không cần làm gì"
+    ],
+    "answer": 2
+   },
+   {
+    "id": "on-tap-ky-thuat-mep-2026-sap-23",
+    "no": 23,
+    "text": "Các Lệnh bảo trì có xuất dùng vật tư sẽ gửi yêu cầu Phê duyệt WO đến những chức danh nào?",
+    "options": [
+     "Giám sát, Trưởng BP",
+     "Giám sát, Thủ kho BP",
+     "Giám sát",
+     "Thủ kho BP, Giám sát, Trưởng BP"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "on-tap-ky-thuat-mep-2026-sap-24",
+    "no": 24,
+    "text": "Cần điều kiện gì để KTV xác nhận số lượng vật tư xuất dùng theo WO trên app mobile?",
+    "options": [
+     "GS thêm vật tư vào WO và tạo BĐKVT, Thủ kho BP xác nhận xuất kho VT (issue BĐKVT)",
+     "GS thêm vật tư vào WO và tạo BĐKVT",
+     "GS thêm vật tư vào WO",
+     "GS thêm vật tư vào WO, Thủ kho BP tạo BĐKVT và xác nhận xuất kho VT (issue BĐKVT)"
+    ],
+    "answer": 0
+   },
+   {
+    "id": "on-tap-ky-thuat-mep-2026-sap-25",
+    "no": 25,
+    "text": "Lỗi \"Enter Batch\" hiển thị trên App/Web khi KTV xác nhận số lượng vật tư xuất dùng nghĩa là gì?",
+    "options": [
+     "Sai mã BĐKVT",
+     "Thiếu mã Batch (Lô hàng) được điền trong WO",
+     "Thiếu mã vật tu",
+     "Sai mã vật tư"
+    ],
+    "answer": 1
+   },
+   {
+    "id": "on-tap-ky-thuat-mep-2026-sap-26",
+    "no": 26,
+    "text": "Điều kiện để Tạo mới được BĐKVT cho WO thành công là gì?",
+    "options": [
+     "WO được Tạo mới có gán vật tư",
+     "WO đã Hoàn thành xác nhận tất cả các công việc con",
+     "WO được Tạo mới có gán vật tư và gán KTV",
+     "WO ở trạng thái Ban hành/Released có gán vật tư và gán KTV"
+    ],
+    "answer": 3
+   },
+   {
+    "id": "on-tap-ky-thuat-mep-2026-sap-27",
+    "no": 27,
+    "text": "Cột \"Q'ty return\" trong BĐKVT là gì?",
+    "options": [
+     "Số lượng xuất kho của Thủ kho BP",
+     "Số lượng trả lại",
+     "Số lượng xác nhận của KTV",
+     "Số lượng yêu cầu"
+    ],
+    "answer": 1
+   }
+  ],
+  "group": "SBD Kỹ thuật"
  },
  {
   "id": "bo-de-bt-gs-2025-bep",
