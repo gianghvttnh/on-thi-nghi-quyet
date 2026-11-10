@@ -137,10 +137,14 @@ def main():
     for f in files:
         group = group_of(f)
         sid = slug(unicodedata.normalize("NFC", f.stem))
+        gid = slug(f"{group}-{f.stem}")
         bank, warnings = build_bank(f, sid)
-        # Trùng tên: bộ đã phát hành trước đó (cùng nội dung) giữ id cũ, bộ còn lại thêm tên nhóm
-        if counts[sid] > 1 and prev.get(sid) != [q["text"] for q in bank["questions"]]:
-            bank, warnings = build_bank(f, slug(f"{group}-{f.stem}"))
+        texts = [q["text"] for q in bank["questions"]]
+        # Bộ đã phát hành (cùng nội dung) giữ nguyên id cũ; còn lại: thêm tên nhóm khi trùng tên
+        if prev.get(gid) == texts and prev.get(sid) != texts:
+            bank, warnings = build_bank(f, gid)
+        elif counts[sid] > 1 and prev.get(sid) != texts:
+            bank, warnings = build_bank(f, gid)
         bank["group"] = group
         if not groups or groups[-1]["name"] != group:
             groups.append({"name": group, "banks": []})
